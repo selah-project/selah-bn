@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "এবং তাঁর ⟨হল⟩ সাতজন পুত্র ও তিনজন কন্যা।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং হল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁর"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "সাতজন"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ও তিনজন"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "কন্যা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:16:15.257724264Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "সেগুলিকে তোমার আঙুলে বাঁধো, সেগুলিকে তোমার হৃদয়ের ফলকে লিখো।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "সেগুলিকে বাঁধো"
+    },
+    {
+      "surface": "על",
+      "gloss": "তোমার আঙুলে"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "⟨-⟩"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "সেগুলিকে লিখো"
+    },
+    {
+      "surface": "על",
+      "gloss": "তোমার হৃদয়ের"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "ফলকে"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "⟨-⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:20.915044535Z",
+  "model": "glm-5.2"
+}

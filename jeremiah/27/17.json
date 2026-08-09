@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "তাদের কথা শোনো না; বাবেলের রাজাকে ⟨את⟩ সেবা করো এবং বাঁচো। কেন এই নগর ধ্বংসস্তূপ হবে?”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "তাদের কাছে"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "সেবা করো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বাবেলের রাজাকে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজাকে"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবেলের"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "এবং বাঁচো"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "ধ্বংসস্তূপ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:21:52.988888281Z",
+  "model": "glm-5.2"
+}

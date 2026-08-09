@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "পাথর সরায় তাতে ক্ষত পায়; কাঠ চেরায় তাতে বিপদে পড়ে।",
+  "tokens": [
+    {
+      "surface": "מַסִּיעַ",
+      "gloss": "সরায়"
+    },
+    {
+      "surface": "אֲבָנִים",
+      "gloss": "পাথর"
+    },
+    {
+      "surface": "יֵעָצֵב",
+      "gloss": "ক্ষত পায়"
+    },
+    {
+      "surface": "בָּהֶם",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "בּוֹקֵעַ",
+      "gloss": "চেরায়"
+    },
+    {
+      "surface": "עֵצִים",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "יִסָּכֶן",
+      "gloss": "বিপদে পড়ে"
+    },
+    {
+      "surface": "בָּם",
+      "gloss": "তাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:04.429889164Z",
+  "model": "glm-5.2"
+}

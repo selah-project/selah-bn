@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "মরারির পুত্রেরা — মহলি; তাঁহার পুত্র লবনি, তাঁহার পুত্র শিমি, তাঁহার পুত্র উজ্জা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মরারির"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "মহলি"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "লবনি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁহার পুত্র"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁহার পুত্র"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "উজ্জা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁহার পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:19.250915718Z",
+  "model": "glm-5.2"
+}

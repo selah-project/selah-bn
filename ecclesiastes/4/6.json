@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এক হাতলোনা ভরা শান্তি দুই মুঠো ভরা পরিশ্রম ও বায়ু-রূপ হেওয়া অপেক্ষা উত্তম।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ভরা"
+    },
+    {
+      "surface": "כף",
+      "gloss": "হাতলোনা"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "অপেক্ষা"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "দুই মুঠো ভরা"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "পরিশ্রম"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "এবং বায়ু-রূপ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "হেওয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:52.033886274Z",
+  "model": "glm-5.2"
+}

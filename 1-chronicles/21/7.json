@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর এই বিষয়ে এলোহিমের চোখে তা মন্দ লাগল, আর তিনি ইস্রায়েলকে আঘাত করলেন।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "আর মন্দ লাগল"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চোখে"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিঞ্জের"
+    },
+    {
+      "surface": "על",
+      "gloss": "এই বিষয়ে"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "আর আঘাত করলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইস্রায়েলকে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:43:49.621097818Z",
+  "model": "glm-5.2"
+}

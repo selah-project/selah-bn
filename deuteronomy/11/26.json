@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "দেখো, আমি আজ তোমাদের সামনে রাখছি আশীর্বাদ ও অভিশাপ —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "রাখছি"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "তোমাদের সামনে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "আশীর্বাদ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ও অভিশাপ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:25:49.440846163Z",
+  "model": "glm-5.2"
+}

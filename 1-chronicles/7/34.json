@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং শোমেরের পুত্রেরা: আখি, উরোহগা, য়েখুব্বা এবং আরাম।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং …-এর পুত্রেরা"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "শোমের"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আখি"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "উরোহগা"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "য়েখুব্বা"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "এবং আরাম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:58.125458935Z",
+  "model": "glm-5.2"
+}

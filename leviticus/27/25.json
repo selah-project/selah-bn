@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর তোমার সমস্ত ⟨মূল্যায়ন⟩ ⟨হবে⟩ পবিত্র-শেকেলে; বিশ গেরা ⟨হবে⟩ সেই শেকেল।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আর তোমার সমস্ত"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "⟨মূল্যায়ন⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨হবে⟩"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "শেকেলে"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "গেরা"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨হবে⟩"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "সেই শেকেল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:34.237669148Z",
+  "model": "glm-5.2"
+}

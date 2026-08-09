@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "সব সময় তোমার পোশাক সাদা হোক, এবং তোমার মাথায় তৈল যেন অভাব না হয়।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হোক"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "তোমার পোশাক"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "সাদা"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "এবং তৈল"
+    },
+    {
+      "surface": "על",
+      "gloss": "মাথায়"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "তোমার মাথা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "অভাব হোক"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:54.250448705Z",
+  "model": "glm-5.2"
+}

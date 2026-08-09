@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তিনি বললেন, “অভিশপ্ত কনান; তার ভাইদের দাসদের দাস ⟨সে⟩ হবে।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তিনি বললেন"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "দাসদের"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "সে হবে"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "তার ভাইদের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:17.784091145Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "⟨অন্য⟩ এলামের বংশধরেরা, এক হাজার দুই শ চুয়ান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধরেরা"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এলামের"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "⟨অন্য⟩"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুই শ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চান্ন"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "চৌদ্দ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:23.553679249Z",
+  "model": "glm-5.2"
+}

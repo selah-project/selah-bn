@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "তখন বিলদদ হশূহীয় উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন উত্তর দিল"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "বিলদদ"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "হশূহীয়"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:07:10.570642534Z",
+  "model": "glm-5.2"
+}

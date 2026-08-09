@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "“ওহ আদোনাই, ইস্রায়েল তার শত্রুদের সামনে পিঠ ফিরিয়েছে — এরপর আমি কী বলব?”",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ওহ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলব"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "এরপর"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨যে⟩"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ফিরিয়েছে"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "পিঠ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "তার শত্রুদের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:08:07.700909237Z",
+  "model": "glm-5.2"
+}

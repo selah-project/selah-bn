@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আরখ-এর ⟨সন্তানেরা⟩, সাতশ পঁচাত্তর।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "⟨সন্তানেরা⟩"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "আরখ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "এবং সত্তর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:10.351670788Z",
+  "model": "glm-5.2"
+}

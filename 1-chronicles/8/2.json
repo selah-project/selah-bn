@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "নোহা ⟨চতুর্থ⟩, আর রাফা ⟨পঞ্চম⟩।",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "নোহা"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "চতুর্থ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "আর রাফা"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "পঞ্চম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:19.733598546Z",
+  "model": "glm-5.2"
+}

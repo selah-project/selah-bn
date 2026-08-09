@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং নোগহ, এবং নেফেগ, এবং য়াফিয়া।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "এবং নোগহ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "এবং নেফেগ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "এবং য়াফিয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:09.051240219Z",
+  "model": "glm-5.2"
+}

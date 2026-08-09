@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "কেন ⟨এটি⟩ — নির্বোধের হাতে মূল্য, জ্ঞান কিনবার জন্য, অথচ ⟨তার⟩ বুদ্ধি ⟨নেই⟩?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨এটি⟩"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "মূল্য"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "নির্বোধের"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "কিনবার জন্য"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "বুদ্ধি"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨নেই⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:02.569345316Z",
+  "model": "glm-5.2"
+}

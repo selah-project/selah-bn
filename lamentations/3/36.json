@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "একজন মানুষকে ⟨তার⟩ মামলায় বঞ্চিত করা — আদোনাই ⟨কি⟩ দেখেন না?",
+  "tokens": [
+    {
+      "surface": "לְעַוֵּ֥ת",
+      "gloss": "বঞ্চিত করা"
+    },
+    {
+      "surface": "אָדָֽם֙",
+      "gloss": "একজন মানুষকে"
+    },
+    {
+      "surface": "בְּרִיב֔וֹ",
+      "gloss": "তার মামলায়"
+    },
+    {
+      "surface": "אֲדֹנָ֖י",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "לֹ֥א",
+      "gloss": "না"
+    },
+    {
+      "surface": "רָאָֽה",
+      "gloss": "দেখেন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:12.345293375Z",
+  "model": "glm-5.2"
+}

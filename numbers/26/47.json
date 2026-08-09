@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 26:47",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এই ⟨গুলি⟩ আশের পুত্রদের গোত্র, তাদের গণনা-অনুসারে: তিপ্পান্ন হাজার ও চারশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশের"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "তাদের গণনা-অনুসারে"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ও পঞ্চাশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ও চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:06.015792844Z",
+  "model": "glm-5.2"
+}

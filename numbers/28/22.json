@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং একটি পাপরূপ ছাগল — তোমাদের জন্য ⟨কাফফারা⟩ করার জন্য।",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "এবং ছাগল"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপরূপ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨কাফফারা⟩ করার জন্য"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "তোমাদের উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:11.793647605Z",
+  "model": "glm-5.2"
+}

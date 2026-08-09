@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আর ইয়াহওয়েহ মোশেকে উদ্দেশ্য করে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উদ্দেশ্যে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:37.357590156Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "ইয়াহওয়েহর হেসেদ, কি কারণে আমরা শেষ হয়ে যাইনি, কি কারণে তাঁর করুণাসমূহ ফুরায়নি।",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "হেসেদ-সমূহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কি কারণে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "আমরা শেষ হয়ে যাইনি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কি কারণে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ফুরায়নি"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "তাঁর করুণাসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:56.112523433Z",
+  "model": "glm-5.2"
+}

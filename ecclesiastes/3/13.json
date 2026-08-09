@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং আরও যে প্রত্যেক মানুষ খায় ও পান করে এবং তার সমস্ত শ্রমে ভাল ⟨দেখে⟩—এটি এলোহিমের দান, সে ⟨হয়⟩।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "এবং আরও"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রত্যেক"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "যে খায়"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "এবং পান করে"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "এবং দেখে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "তার শ্রমে"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "দান"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সে ⟨হয়⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:34.245456228Z",
+  "model": "glm-5.2"
+}

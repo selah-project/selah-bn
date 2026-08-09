@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং রেসেন ⟨את⟩, নিনবে ও কলখের মাঝে — সেটিই ⟨ছিল⟩ মহান নগর।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "রেসেন"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "রেসেন"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাঝে"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "নিনবে"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ও"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "কলখের"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেটিই"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "মহান"
+    }
+  ],
+  "timestamp": "2026-08-09T07:41:57.502315750Z",
+  "model": "glm-5.2"
+}

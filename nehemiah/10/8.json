@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মেশুল্লাম, অবিয়া, মিয়ামিন",
+  "tokens": [
+    {
+      "surface": "מְשֻׁלָּ֥ם",
+      "gloss": "মেশুল্লাম"
+    },
+    {
+      "surface": "אֲבִיָּ֖ה",
+      "gloss": "অবিয়া"
+    },
+    {
+      "surface": "מִיָּמִֽן",
+      "gloss": "মিয়ামিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:45.226707586Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এৎসেরের পুত্রেরা: বিলহান, য়েতসাভান, য়াকান। দিশোনের পুত্রেরা: উৎস ও আরান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "এৎসেরের"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "বিলহান"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ও য়েতসাভান"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "য়াকান"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "দিশোনের"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ও আরান"
+    }
+  ],
+  "timestamp": "2026-08-09T17:13:33.016785573Z",
+  "model": "glm-5.2"
+}

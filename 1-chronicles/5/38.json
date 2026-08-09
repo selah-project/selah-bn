@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং আহিতূব ⟨את⟩ সদোককে জন্ম দিলেন, এবং সদোক ⟨את⟩ শল্লূমকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "এবং আহিতূব"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সদোককে"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "সদোক"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "এবং সদোক"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শল্লূমকে"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শল্লূম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:38:55.801359079Z",
+  "model": "glm-5.2"
+}

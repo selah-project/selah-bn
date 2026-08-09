@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "মাওন, কারমেল, ও সিফ, এবং যুত্তাহ —",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "মাওন"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "কারমেল"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "ও সিফ"
+    },
+    {
+      "surface": "ונזנח",
+      "gloss": "এবং যুত্তাহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:13.165852228Z",
+  "model": "glm-5.2"
+}

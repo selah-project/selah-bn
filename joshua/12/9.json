@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "য়েরিখোর রাজা — একজন; হায়ের রাজা, যিনি বেইত-এলের পাশে, একজন;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "য়েরিখো"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "העי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিনি"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "পাশে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-এল"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.985827248Z",
+  "model": "glm-5.2"
+}

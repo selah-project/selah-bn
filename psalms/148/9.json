@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 148,
+  "translation": "পর্বতমালা ও সমস্ত পাহাড়, ফলবহু বৃক্ষ ও সমস্ত দেবদারু",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "পর্বতমালা"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ও সমস্ত"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "পাহাড়"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "বৃক্ষ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফলবহু"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ও সমস্ত"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "দেবদারু"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:08.506282884Z",
+  "model": "glm-5.2"
+}

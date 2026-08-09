@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এলিশামা, এলিয়াদা ও এলিফেলেত।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "এলিশামা"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "এলিয়াদা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ও এলিফেলেত"
+    }
+  ],
+  "timestamp": "2026-08-09T04:01:09.964708578Z",
+  "model": "glm-5.2"
+}

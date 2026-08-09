@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর এই ⟨হল⟩ সেই লেখা যা লেখা হয়েছিল: মনে, মনে, তেকেল, উফরসিন।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "লেখা"
+    },
+    {
+      "surface": "די",
+      "gloss": "যা"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "লেখা হয়েছিল"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "মনে"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "মনে"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "তেকেল"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "উফরসিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:26:16.042420200Z",
+  "model": "glm-5.2"
+}

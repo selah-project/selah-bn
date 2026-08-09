@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "তিনি আমাকে বললেন, “আবার ফিরে দেখবে, ⟨তুমি⟩ মহান ঘৃণ্য বিষয়গুলি যা তারা করছে।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তিনি বললেন"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আবার"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ফিরবে"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "দেখবে"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ঘৃণ্য বিষয়গুলি"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "করছে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:05:25.727686574Z",
+  "model": "glm-5.2"
+}

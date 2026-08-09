@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "এবং ষষ্ঠ দিনে আটটি ষাঁড়, দুইটি মেষপাল, চৌদ্দটি বছরবয়সী মেষশাবক — নিখুঁত।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ষাঁড়"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "মেষপাল"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "মেষশাবক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বছরবয়সী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চৌদ্দ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "চৌদ্দ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "নিখুঁত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:57.408598795Z",
+  "model": "glm-5.2"
+}

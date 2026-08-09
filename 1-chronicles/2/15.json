@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ওৎসেম ষষ্ঠ, দাভিদ সপ্তম,",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ওৎসেম"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:35.369480904Z",
+  "model": "glm-5.2"
+}

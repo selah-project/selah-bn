@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 78,
+  "translation": "তিনি স্মরণ করলেন যে তারা মাংস, রুহ — যে চলে যায় এবং ফিরে আসে না।",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "এবং তিনি স্মরণ করলেন"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "রুহ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "যে চলে যায়"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং নয়"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ফিরে আসে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:59.911366817Z",
+  "model": "glm-5.2"
+}

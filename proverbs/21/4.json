@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "উঁচু চোখ ও প্রশস্ত হৃদয় — দুষ্টদের নিবিড় কৃষিকার্য ⟨হল⟩ পাপ।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "উঁচু"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ও প্রশস্ত"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "נר",
+      "gloss": "নিবিড় কৃষিকার্য"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:21:21.363241624Z",
+  "model": "glm-5.2"
+}

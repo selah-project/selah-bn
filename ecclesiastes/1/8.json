@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "সব ⟨হ⟩ কথাই ক্লান্তিকর; কোনো মানুষ ⟨এগুলো⟩ বলতে সক্ষম নয়; চোখ দেখে তৃপ্ত হয় না, আর কান শুনে ভরে ওঠে না।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨হ⟩ কথাই"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ক্লান্তিকর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "সক্ষম"
+    },
+    {
+      "surface": "איש",
+      "gloss": "কোনো মানুষ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "বলতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "তৃপ্ত হয়"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "দেখে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ভরে ওঠে"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "কান"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "শুনে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:25:33.145105117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "সব হাত শিথিল হবে, এবং সব হাঁটু জলের মতো ⟨হবে⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "শিথিল হবে"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং সব"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "হাঁটু"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "যাবে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:03:59.593657861Z",
+  "model": "glm-5.2"
+}

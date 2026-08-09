@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং হশুবা, ওহেল, বরকিয়া, হসদিয়া, যূশব হেসেদ — পাঁচ।",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "এবং হশুবা"
+    },
+    {
+      "surface": "ואהল",
+      "gloss": "ওহেল"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "বরকিয়া"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "হসদিয়া"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "যূশব"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "হেসেদ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:34.460090410Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে উদ্দেশ্য করে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উদ্দেশ্য করে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:09.376663267Z",
+  "model": "glm-5.2"
+}

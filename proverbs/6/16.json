@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এই ছ’টি বস্তু ইয়াহওয়েহ ঘৃণা করেন, আর সাতটি তাঁর প্রাণের কাছে ঘৃণার্থ।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ছ'টি"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ঘৃণা করেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আর সাত"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ঘৃণার্থ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "তাঁর প্রাণের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:14.659283661Z",
+  "model": "glm-5.2"
+}

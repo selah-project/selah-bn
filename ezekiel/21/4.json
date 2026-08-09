@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং সমস্ত মাংস দেখবে যে আমি ইয়াহওয়েহ ⟨এটি⟩ জ্বালিয়েছি; এটি নিভবে না।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "এবং দেখবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "আমি জ্বালিয়েছি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নিভবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:08:30.546076032Z",
+  "model": "glm-5.2"
+}

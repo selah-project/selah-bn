@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর সমস্ত য়াবেশ গিলআদ ⟨তারা⟩ শুনল ⟨את⟩ সব ⟨যা⟩ পলিশ্তীয়রা শাউলের সাথে করেছিল।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "আর শুনল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "য়াবেশ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিলআদ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "করেছিল"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশ্তীয়রা"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "শাউলের সাথে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:20.788187791Z",
+  "model": "glm-5.2"
+}

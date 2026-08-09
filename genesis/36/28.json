@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এই ⟨হল⟩ দিশনের পুত্ররা: উৎস ও অরান।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "দিশনের"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ও অরান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:30.116000766Z",
+  "model": "glm-5.2"
+}

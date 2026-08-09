@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "আর মোশে কোরহকে বললেন, শোনো একি, লেবির পুত্রেরা।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(প্রতি)"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহকে"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "একি"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেবির"
+    }
+  ],
+  "timestamp": "2026-08-09T09:04:36.983614281Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "শিমিয়োনের পুত্রগণ: নমুয়েল এবং যামিন, যারিব, জেরহ, শৌল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "শিমিয়োন"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "নমুয়েল"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "এবং যামিন"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "যারিব"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেরহ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শৌল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:09.210841041Z",
+  "model": "glm-5.2"
+}

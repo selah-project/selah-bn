@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "কেন দীর্ঘ দিন ও জীবনের বৎসর ও শালোম তোমার ⟨জন্য⟩ যোগ করবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দীর্ঘ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "ও বৎসর"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীবনের"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ও শালোম"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "যোগ করবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার ⟨জন্য⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:20.806216016Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "আর যদি তুমি বের হতে অস্বীকার করো, এই ⟨হল⟩ বাক্য যা ইয়াহওয়েহ আমাকে দেখিয়েছেন —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "অস্বীকার করো"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "বের হতে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "আমাকে দেখিয়েছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T04:57:36.138047065Z",
+  "model": "glm-5.2"
+}

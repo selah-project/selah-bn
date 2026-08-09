@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "য়িরমিয়াহু ⟨⟨দশম⟩⟩, মাখবান্নাই একাদশ।",
+  "tokens": [
+    {
+      "surface": "יִרְמְיָ֨הוּ֙",
+      "gloss": "য়িরমিয়াহু"
+    },
+    {
+      "surface": "הָעֲשִׂירִ֔י",
+      "gloss": "⟨the⟩দশম"
+    },
+    {
+      "surface": "מַכְבַּנַּ֖י",
+      "gloss": "মাখবান্নাই"
+    },
+    {
+      "surface": "עַשְׁתֵּ֥י",
+      "gloss": "একাদশ-"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T18:00:02.863798665Z",
+  "model": "glm-5.2"
+}

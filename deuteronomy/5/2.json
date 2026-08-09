@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "ইয়াহওয়েহ আমাদের এলোহিম আমাদের সাথে একটি নিয়ম কাটলেন হোরেবে।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "আমাদের এলোহিম"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "কাটলেন"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "আমাদের সাথে"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "একটি নিয়ম"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "হোরেবে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:58:30.990352948Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "শিকারি পাখি সেই পথ জানে না, আর বাজপাখির চোখ তাকে দেখেনি।",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "শিকারি পাখি"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "দেখেনি"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "বাজপাখির"
+    }
+  ],
+  "timestamp": "2026-08-09T06:11:34.446774199Z",
+  "model": "glm-5.2"
+}

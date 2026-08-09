@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "শোন, হে য়িস্রায়েল — ইয়াহওয়েহ আমাদের এলোহিম, ইয়াহওয়েহ ⟨হলেন⟩ এক।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "শোন"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "হে য়িস্রায়েল"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "আমাদের এলোহিম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T03:24:38.503570231Z",
+  "model": "glm-5.2"
+}

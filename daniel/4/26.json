@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "বারো মাসের শেষে তিনি বাবিলের রাজ্যের প্রাসাদে বেড়াতে ছিলেন।",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "শেষে"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "মাসের"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨উপর দিয়ে⟩"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "প্রাসাদ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "রাজ্যের"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨যে⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিলের"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "বেড়াতে"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ছিলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:26.618133923Z",
+  "model": "glm-5.2"
+}

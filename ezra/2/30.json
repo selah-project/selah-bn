@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "মাগবিশের পুত্ররা, এক শত ছাপ্পান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "মাগবিশের"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এক শত"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ও ছয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.959632300Z",
+  "model": "glm-5.2"
+}

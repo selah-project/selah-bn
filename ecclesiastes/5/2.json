@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "কারণ স্বপ্ন আসে ব্যস্ততার আধিক্যে, আর নির্বোধের কণ্ঠ ⟨নির্বোধের⟩ কথার আধিক্যে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আসে"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "স্বপ্ন"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "আধিক্যে"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ব্যস্ততার"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "এবং কণ্ঠ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "নির্বোধের"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "আধিক্যে"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:34.128070448Z",
+  "model": "glm-5.2"
+}

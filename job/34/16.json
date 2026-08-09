@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "আর যদি ⟨তোমার⟩ বোধ আছে, এটি শোনো, আমার কথার ধ্বনিতে কান পাতো।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "কান পাতো"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ধ্বনিতে"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "আমার কথার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:46:52.573664826Z",
+  "model": "glm-5.2"
+}

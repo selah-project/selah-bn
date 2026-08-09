@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এই ⟨হল⟩ এসাভের বংশবৃক্তি — এদোমের পিতা, সেয়ির পর্বতে।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "বংশবৃক্তি"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাভের"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমের"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পর্বতে"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "সেয়ির"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:07.995082539Z",
+  "model": "glm-5.2"
+}

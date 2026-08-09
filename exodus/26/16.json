@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "একটি তক্তার দৈর্ঘ্য দশ হাত এবং একটি তক্তার প্রস্থ এক হাত ও অর্ধেক হাত।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈর্ঘ্য"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "তক্তার"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "এবং এক হাত"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "এবং অর্ধেক"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "প্রস্থ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "তক্তার"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "একটি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:46.376573387Z",
+  "model": "glm-5.2"
+}

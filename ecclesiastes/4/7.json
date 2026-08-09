@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং আমি ফিরে এলাম, আমি, এবং দেখলাম সূর্যের অধীনে হেবেল ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "এবং আমি ফিরে এলাম"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "এবং দেখলাম"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "অধীনে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:52.034010918Z",
+  "model": "glm-5.2"
+}

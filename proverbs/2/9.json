@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তখন তুমি বুঝবে ধার্মিকতা ও বিচার ও ন্যায়পরায়ণতা — প্রতিটি উত্তম পথ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "তুমি বুঝবে"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ধার্মিকতা"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ও বিচার"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ও ন্যায়পরায়ণতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:07.383413042Z",
+  "model": "glm-5.2"
+}

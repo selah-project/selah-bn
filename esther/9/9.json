@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨את⟩ পরমশ্‌তা এবং ⟨את⟩ অরিসয় এবং ⟨את⟩ অরিদয় এবং ⟨את⟩ ভয়জাতা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পরমশ্‌তা"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "পরমশ্‌তা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "অরিসয়"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "অরিসয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "অরিদয়"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "অরিদয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ভয়জাতা"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "ভয়জাতা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:49:19.825121064Z",
+  "model": "glm-5.2"
+}

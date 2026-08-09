@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর ইয়াহওয়েহ মোশেকে বললেন, বলে যেও—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যেও"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:33.509330846Z",
+  "model": "glm-5.2"
+}

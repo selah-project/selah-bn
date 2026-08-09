@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "⟨את⟩ এক সমুদ্র, এবং ⟨את⟩ বলদগুলো — তার নিচে বারো।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এক সমুদ্র"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সমুদ্র"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "বলদগুলো"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "বলদগুলো"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "তার নিচে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:48:03.926583478Z",
+  "model": "glm-5.2"
+}

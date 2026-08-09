@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং মিখায়েল, য়িশপা, এবং য়োহা — বরিয়ার পুত্র।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "এবং মিখায়েল"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "য়িশপা"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "এবং য়োহা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "বরিয়ার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:24.260423807Z",
+  "model": "glm-5.2"
+}

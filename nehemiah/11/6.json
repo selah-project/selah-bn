@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 11:6",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "য়েরুশালায়িমে বাস করা পেরেৎ-এর সমস্ত পুত্ররা ⟨ছিল⟩ চারশত ষাট আট বীর পুরুষ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেরেৎ"
+    },
+    {
+      "surface": "הישבים",
+      "gloss": "বাস করা"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "য়েরুশালায়িমে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাট"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "এবং আট"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "পুরুষ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "বীর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:24.501040764Z",
+  "model": "glm-5.2"
+}

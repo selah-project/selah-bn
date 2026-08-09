@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর শেমেরও — তাঁরও জন্ম হলো — এবরের সব বংশধরদের পিতা, য়েফেতের বড় ভাই।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "আর শেমেরও"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম হলো"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তাঁরও"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধরদের"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এবরের"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়েফেতের"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "বড়"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:17.270149841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 40:7",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "তুমি ⟨את⟩ বেসিন রাখবে ওহেল-মোয়েদ ও ⟨את⟩ বেদির মাঝে, এবং সেখানে তুমি জল রাখবে।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "এবং তুমি রাখবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বেসিন"
+    },
+    {
+      "surface": "הכיר",
+      "gloss": "⟨the⟩ বেসিন"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাঝে"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তাঁবু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মোয়েদ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ও মাঝে"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨the⟩ বেদি"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "এবং তুমি রাখবে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    }
+  ],
+  "timestamp": "2026-08-09T09:36:37.566997418Z",
+  "model": "glm-5.2"
+}

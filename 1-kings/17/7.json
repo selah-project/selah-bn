@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আর কিছু দিন পরে ⟨এমন⟩ হল এবং ⟨সেই⟩ নদী শুকিয়ে গেল, কারণ দেশে বৃষ্টি ছিল না।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর হল"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "শেষে"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "এবং শুকিয়ে গেল"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "বৃষ্টি"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:14:59.624369325Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "“যাতে কোনো ত্রুটি আছে এমন কিছু তোমরা উৎসর্গ করবে না, কারণ তা তোমাদের জন্য গ্রহণীয় হবে না।”",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "কিছু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ত্রুটি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "তোমরা উৎসর্গ করবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "গ্রহণীয় হিসেবে"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T07:50:53.794322742Z",
+  "model": "glm-5.2"
+}

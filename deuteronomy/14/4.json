@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এই ⟨হল⟩ ⟨ইহারা⟩ পশুরা যাদের তোমরা খেতে পারবে: গরু, ভেড়ার মেষ ও ছাগলের মেষ।",
+  "tokens": [
+    {
+      "surface": "זֹאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הַבְּהֵמָה",
+      "gloss": "পশুরা"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "যাদের"
+    },
+    {
+      "surface": "תֹּאכֵלוּ",
+      "gloss": "তোমরা খেতে পারবে"
+    },
+    {
+      "surface": "שׁוֹר",
+      "gloss": "গরু"
+    },
+    {
+      "surface": "שֶׂה",
+      "gloss": "মেষ"
+    },
+    {
+      "surface": "כְּשָׂבִים",
+      "gloss": "ভেড়ার"
+    },
+    {
+      "surface": "וְשֶׂה",
+      "gloss": "ও মেষ"
+    },
+    {
+      "surface": "עִזִּים",
+      "gloss": "ছাগলের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:05:33.419451581Z",
+  "model": "glm-5.2"
+}

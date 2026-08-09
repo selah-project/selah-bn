@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর আশেরের কন্যার নাম ⟨ছিল⟩ সারাখ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যার"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশেরের"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "সারাখ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:06.015630757Z",
+  "model": "glm-5.2"
+}

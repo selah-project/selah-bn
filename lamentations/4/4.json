@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "শিশুর জিভ তৃষ্ণায় তার তালুর সঙ্গে লেগে রইল; ছোট ছেলেমেয়েরা রুটি চাইল, কিন্তু ⟨রুটি⟩ ভাঙে ⟨এমন⟩ কেউ তাদের নেই।",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "লেগে রইল"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভ"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "শিশুর"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "তার তালুর"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "তৃষ্ণায়"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "ছোট ছেলেমেয়েরা"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "চাইল"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ভাঙে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:55.523143243Z",
+  "model": "glm-5.2"
+}

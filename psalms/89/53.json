@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 89,
+  "translation": "ধন্য ইয়াহওয়েহ ⟨নিত্যকালের⟩ জন্য। আমেন ও আমেন।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "নিত্যকালের জন্য"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ও আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:27.931045680Z",
+  "model": "glm-5.2"
+}

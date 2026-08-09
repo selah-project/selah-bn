@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "ও য়িহূদ, ও বনে-বারাক, ও গাত-রিম্মোন।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ও য়িহূদ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ও বনে-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "বারাক"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ও গাত-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "রিম্মোন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:39:17.181226038Z",
+  "model": "glm-5.2"
+}

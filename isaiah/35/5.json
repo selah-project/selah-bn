@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "তখন অন্ধদের চোখ খোলা হবে এবং বধিরদের কান খোলা হবে।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "খোলা হবে"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "অন্ধদের"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "এবং কান"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "বধিরদের"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "খোলা হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:18:44.779112775Z",
+  "model": "glm-5.2"
+}

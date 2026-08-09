@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 89,
+  "translation": "শিক্ষামূলক রচনা, এইতান এজরাহীয়ের।",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "শিক্ষামূলক রচনা"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "এইতানের"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "এজরাহীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:45:49.922294451Z",
+  "model": "glm-5.2"
+}

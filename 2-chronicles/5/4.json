@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তখন ইস্রায়েলের সমস্ত প্রবীণ উপস্থিত হল, আর লেবীয়রা ⟨את⟩ সিন্দুক তুলে নিল।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "উপস্থিত হল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "প্রবীণ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "তুলে নিল"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেবীয়রা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সিন্দুক"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "সিন্দুক"
+    }
+  ],
+  "timestamp": "2026-08-09T09:27:11.139593685Z",
+  "model": "glm-5.2"
+}

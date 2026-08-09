@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "তুমি ⟨তাকে⟩ খাবে না; মাটির উপর তুমি ⟨তাকে⟩ জলের মতো ঢেলে দেবে।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "তুমি ⟨তাকে⟩ খাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "মাটির"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "তুমি ⟨তাকে⟩ ঢেলে দেবে"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "জলের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T07:56:17.760621674Z",
+  "model": "glm-5.2"
+}

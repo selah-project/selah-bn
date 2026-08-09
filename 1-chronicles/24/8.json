@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "হরীমকে ⟨এললো⟩ ⟨এই⟩ তৃতীয়, সিওরীমকে ⟨এললো⟩ ⟨এই⟩ চতুর্থ।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "হরীমকে"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "⟨এই⟩ তৃতীয়"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "সিওরীমকে"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "⟨এই⟩ চতুর্থ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:57.006094388Z",
+  "model": "glm-5.2"
+}

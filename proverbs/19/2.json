@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আবার জ্ঞানহীন ⟨হলে ঠিক⟩ নফশ ⟨লাগে না⟩, আর পায়ে ত্বরা করে ⟨চললে যে⟩ সে পাপী হয়।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আবার"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "হীন"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "নফশ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ঠিক"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "আর ত্বরা করে"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "পায়ে"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "পাপী হয়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:50.339802660Z",
+  "model": "glm-5.2"
+}

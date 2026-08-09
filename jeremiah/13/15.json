@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "শোনো এবং কান পাতো, অহংকার কোরো না, কারণ ইয়াহওয়েহ ⟨কথা⟩ বলেছেন।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "এবং কান পাতো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "অহংকার কোরো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨কথা⟩ বলেছেন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:21:13.352768672Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "ezra 2:58",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "সমস্ত হনিম এবং শ্লোমোর দাসদের পুত্রেরা — তিনশো বিরানব্বই।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "হনিম"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্রেরা"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "দাসদের"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শ্লোমোর"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনশো"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নব্বই"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:53.497654493Z",
+  "model": "glm-5.2"
+}

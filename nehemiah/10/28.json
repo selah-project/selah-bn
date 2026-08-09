@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মল্লূখ, হরিম, বাঅনা।",
+  "tokens": [
+    {
+      "surface": "מַלּ֥וּךְ",
+      "gloss": "মল্লূখ"
+    },
+    {
+      "surface": "חָרִ֖ם",
+      "gloss": "হরিম"
+    },
+    {
+      "surface": "בַּעֲנָֽה",
+      "gloss": "বাঅনা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:15.907177738Z",
+  "model": "glm-5.2"
+}

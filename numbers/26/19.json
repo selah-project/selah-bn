@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "যিহূদার পুত্র ⟨হল⟩ এর ও ওনন; আর এর ও ওনন কনান দেশে মারা গেল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদার"
+    },
+    {
+      "surface": "ער",
+      "gloss": "এর"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ও ওনন"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "আর মারা গেল"
+    },
+    {
+      "surface": "ער",
+      "gloss": "এর"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "ও ওনন"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:36.652266447Z",
+  "model": "glm-5.2"
+}

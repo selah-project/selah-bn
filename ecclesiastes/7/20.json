@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কেননা পৃথিবীতে ⟨এমন⟩ একজনও ধার্মিক মানুষ নেই যে ভালো করে এবং পাপ করে না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কেননা"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিক"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিবীতে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "করে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "পাপ করে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:11.484020694Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "“সাতটি উত্তম গাভী সাতটি বছর ⟨এগুলি⟩; আর সাতটি উত্তম শীষ সাতটি বছর ⟨এগুলি⟩; একটি স্বপ্ন ⟨—⟩।”",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "সাতটি"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "গাভী"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাতটি"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "আর সাতটি"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "শীষ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাতটি"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "স্বপ্ন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨—⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:47.646217979Z",
+  "model": "glm-5.2"
+}

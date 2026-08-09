@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং মনশে বংশের গোত্রের সৈন্যদলের উপর ⟨ছিল⟩ গমলিয়েল বেন পদহৎসূর।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "এবং উপর"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সৈন্যদলের"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "গোত্রের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশের"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশে"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "গমলিয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "পদহৎসূর"
+    },
+    {
+      "surface": "צור",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:03.323189730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আর বালাক বিলআমকে বলল, “তুমি একে অভিশাপও দিও না, আশীর্বাদও দিও না।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "বালাক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−কে"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিলআম"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "קב",
+      "gloss": "অভিশাপ দেওয়া"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "তুমি একে অভিশাপ দিও"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "আশীর্বাদ করা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "তুমি একে আশীর্বাদ দিও"
+    }
+  ],
+  "timestamp": "2026-08-09T03:16:45.171382462Z",
+  "model": "glm-5.2"
+}

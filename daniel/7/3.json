@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং চারি বিশাল জন্তু সমুদ্র হইতে উঠিল; একটি অপরটি হইতে ভিন্ন ছিল।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "এবং চারি"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "জন্তু"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "বিশাল"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "উঠিল"
+    },
+    {
+      "surface": "מן",
+      "gloss": "হইতে"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "সমুদ্র"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ভিন্ন ছিল"
+    },
+    {
+      "surface": "דא",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "מן",
+      "gloss": "হইতে"
+    },
+    {
+      "surface": "דא",
+      "gloss": "অপরটি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:25:08.856611418Z",
+  "model": "glm-5.2"
+}

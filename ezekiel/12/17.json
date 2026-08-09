@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 12:17",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:39:45.916124024Z",
+  "model": "glm-5.2"
+}

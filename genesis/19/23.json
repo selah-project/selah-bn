@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "সূর্য পৃথিবীর উপর উদিত হয়েছিল এবং লোত ত্সোয়ারে প্রবেশ করল।",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "উদিত হয়েছিল"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "এবং লোত"
+    },
+    {
+      "surface": "בא",
+      "gloss": "প্রবেশ করল"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ত্সোয়ারে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:32:06.032533959Z",
+  "model": "glm-5.2"
+}

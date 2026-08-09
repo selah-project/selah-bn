@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "এবং ইয়াহওয়েহ-র দূত আভ্রাহামকে স্বর্গ থেকে দ্বিতীয়বার ডাকলেন।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ডাকলেন"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-র"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "দ্বিতীয়বার"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "স্বর্গ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:19.224117814Z",
+  "model": "glm-5.2"
+}

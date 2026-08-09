@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "অনুগ্রহের নারী সম্মান ⟨লাভ⟩ করেন, আর নিষ্ঠুরেরা ধন ধরে রাখে।",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "নারী"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্রহের"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "ধরে রাখেন"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "সম্মান"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "আর নিষ্ঠুরেরা"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ধরে রাখে"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ধন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:39.599304615Z",
+  "model": "glm-5.2"
+}

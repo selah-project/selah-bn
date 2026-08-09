@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "এই কারণে সব ⟨হাত⟩ শিথিল হবে, এবং প্রত্যেক মানুষের হৃদয় গলে যাবে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "⟨হাত⟩"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "শিথিল হবে"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং প্রত্যেক"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "গলে যাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:30:37.738579540Z",
+  "model": "glm-5.2"
+}

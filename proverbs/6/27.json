@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "⟨কি⟩ কেউ আগুন নেয় ⟨את⟩ তার কোলে, আর তার পোশাক পোড়ে না?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "⟨কি⟩ নেয়"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এক মানুষ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "তার কোলে"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "আর তার পোশাক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "পোড়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:25.567451397Z",
+  "model": "glm-5.2"
+}

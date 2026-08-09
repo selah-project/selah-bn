@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "হৃদয়হীন মানুষ তালি দেয়, নিজের সঙ্গীর সামনে ⟨কে⟩ জামিন ⟨হয়ে⟩ দাঁড়ায়।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "হীন"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "তালি দেয়"
+    },
+    {
+      "surface": "כף",
+      "gloss": "হাততালি"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "জামিন হয়ে দাঁড়ায়"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "জামিন"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "নিজের সঙ্গীর"
+    }
+  ],
+  "timestamp": "2026-08-09T18:00:27.270532156Z",
+  "model": "glm-5.2"
+}

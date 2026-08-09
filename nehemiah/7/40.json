@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ইম্মেরের পুত্র — এক হাজার বায়ান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ইম্মের"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "বায়ান্ন"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:34.838659773Z",
+  "model": "glm-5.2"
+}

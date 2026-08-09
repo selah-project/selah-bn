@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর হিজকিয়াহু রাজার দাসেরা য়েশায়াহুর কাছে গেল।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "আর গেল"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "দাসেরা"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "হিজকিয়াহু"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "য়েশায়াহুর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:24:29.980185962Z",
+  "model": "glm-5.2"
+}

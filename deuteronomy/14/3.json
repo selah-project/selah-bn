@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "ঘৃণ্য কোনো বস্তু তুমি খাবে না।",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תֹאכַל",
+      "gloss": "তুমি খাবে"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "תוֹעֵבָה",
+      "gloss": "ঘৃণ্য বস্তু"
+    }
+  ],
+  "timestamp": "2026-08-09T09:05:33.419194165Z",
+  "model": "glm-5.2"
+}

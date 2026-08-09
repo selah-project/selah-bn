@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 106,
+  "translation": "আর জল ⟨তাদের⟩ শত্রুদের ঢেকে দিল, তাদের একজনও অবশিষ্ট রইল না।",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "আর ঢেকে দিল"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "তাদের শত্রুদের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজনও"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "তাদের মধ্যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "অবশিষ্ট রইল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:49:17.666651556Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ইয়াহওয়েহের আশীর্বাদ — সেই ধনশালী করে, আর তিনি ⟨এর⟩ সঙ্গে কষ্ট যোগ করেন না।",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "আশীর্বাদ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ধনশালী করে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোগ করেন"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "কষ্ট"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "সঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:59:02.616442612Z",
+  "model": "glm-5.2"
+}

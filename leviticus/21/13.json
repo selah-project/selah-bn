@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "“আর তিনি ⟨একজন⟩ নারী ⟨গ্রহণ⟩ করবেন তার কুমারী অবস্থায়।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "“আর তিনি"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নারী"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "তার কুমারী অবস্থায়"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "⟨গ্রহণ⟩ করবেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:05:34.736448922Z",
+  "model": "glm-5.2"
+}

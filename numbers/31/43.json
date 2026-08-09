@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 31:43",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর ⟨সেই⟩ সমাজের অর্ধেক, ⟨সেই⟩ ভেড়া থেকে, তিনশ হাজার আর তিরিশ হাজার, সাত হাজার আর পাঁচশ —",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "আর ⟨ছিল⟩"
+    },
+    {
+      "surface": "מחצת",
+      "gloss": "অর্ধেক"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨সেই⟩ সমাজের"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "⟨সেই⟩ ভেড়া"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আর তিরিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "আর পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:19:40.643938425Z",
+  "model": "glm-5.2"
+}

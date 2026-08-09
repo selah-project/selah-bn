@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 51,
+  "translation": "“আর বাবিল স্তূপে পরিণত হবে, তানিনদের বাসস্থান, বিস্ময় ও শিস — বাসবান নেই।”",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "আর … হবে"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিল"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "স্তূপে"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "বাসস্থান"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "তানিনদের"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "বিস্ময়"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "ও শিস"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "বাসবান"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:36.192522617Z",
+  "model": "glm-5.2"
+}

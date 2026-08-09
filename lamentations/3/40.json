@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আমরা আমাদের পথ বিচার করি ও অনুসন্ধান করি, এবং ইয়াহওয়েহর কাছে ফিরে যাই।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "আমরা বিচার করি"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "আমাদের পথ"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "ও অনুসন্ধান করি"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "এবং ফিরে যাই"
+    },
+    {
+      "surface": "עד",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:29.464519691Z",
+  "model": "glm-5.2"
+}

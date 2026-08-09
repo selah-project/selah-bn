@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর ঐ দেশের সোনা উত্তম; সেখানে ⟨আছে⟩ বস্ত্যলোহ এবং শোহম পাথর।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "আর সোনা"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশের"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ঐ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "বস্ত্যলোহ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "এবং পাথর"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "শোহম"
+    }
+  ],
+  "timestamp": "2026-08-09T07:42:16.418355121Z",
+  "model": "glm-5.2"
+}

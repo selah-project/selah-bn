@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "“ইয়াহওয়েহ ⟨হলেন⟩ আমার অংশ,” আমার প্রাণ বলে, সেইজন্য ⟨আমি⟩ তাঁহার জন্য আশা করি।",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "আমার অংশ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "আমার প্রাণ"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইজন্য"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "আমি আশা করি"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁহার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:56.112761699Z",
+  "model": "glm-5.2"
+}

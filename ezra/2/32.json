@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "খারিমের পুত্ররা, তিন শত বিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "খারিমের"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.959853593Z",
+  "model": "glm-5.2"
+}

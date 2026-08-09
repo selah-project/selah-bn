@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আকাশমণ্ডলে ঈগলের পথ, শিলার উপর সাপের পথ, সমুদ্রের বুকে জাহাজের পথ, এবং যুবকের যুবতীর সঙ্গে ⟨পথ⟩।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ঈগলের"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশমণ্ডলে"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপের"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "צור",
+      "gloss": "শিলার"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "জাহাজের"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "বুকে"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সমুদ্রের"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "এবং পথ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "যুবকের"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "যুবতীর সঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:39.091712483Z",
+  "model": "glm-5.2"
+}

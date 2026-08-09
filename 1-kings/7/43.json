@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং ⟨את⟩ পীঠ দশটি, এবং ⟨את⟩ বেসিন দশটি পীঠগুলির উপর।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "পীঠ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "পীঠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "বেসিন"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "বেসিন"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশটি"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "পীঠগুলির"
+    }
+  ],
+  "timestamp": "2026-08-09T16:41:41.493940232Z",
+  "model": "glm-5.2"
+}

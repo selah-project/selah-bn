@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আদিন-এর পুত্রেরা — ছয়শত পঞ্চান্ন জন।",
+  "tokens": [
+    {
+      "surface": "בְּנֵ֣י",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "עָדִ֔ין",
+      "gloss": "আদিন"
+    },
+    {
+      "surface": "שֵׁ֥שׁ",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מֵא֖וֹת",
+      "gloss": "শত"
+    },
+    {
+      "surface": "חֲמִשִּׁ֥ים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וַחֲמִשָּֽׁה",
+      "gloss": "এবং পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:53.882330658Z",
+  "model": "glm-5.2"
+}

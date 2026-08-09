@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨সে⟩ যে গের, য়েতোম ও আলমনার বিচার বক্র করে। আর সমস্ত জাতি বলবে, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "বক্র করে"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচার"
+    },
+    {
+      "surface": "גר",
+      "gloss": "গের"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "য়েতোম"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ও আলমনার"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আর বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:50.708504615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ও গাদ গোত্র; আর গাদ-সন্তানদের নাই হল ⟨তিনি⟩ এলিয়াসাফ, রেউয়েল-এর পুত্র।",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ও গোত্র"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "আর নাই"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "-সন্তানদের"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "এলিয়াসাফ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "রেউয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T13:57:42.615068884Z",
+  "model": "glm-5.2"
+}

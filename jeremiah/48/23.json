@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "এবং কিরয়াতায়িম-এর উপর, এবং বেত-গামুল-এর উপর, এবং বেত-মেয়োন-এর উপর।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "কিরয়াতায়িম-এর"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেত-"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "গামুল-এর"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেত-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "মেয়োন-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:59:27.391012786Z",
+  "model": "glm-5.2"
+}

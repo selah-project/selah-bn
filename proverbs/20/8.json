@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "বিচারের সিংহাসনে উপবিষ্ট এক রাজা ⟨নিজের⟩ চোখে সব মন্দকে ছড়িয়ে দেন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "এক রাজা"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "উপবিষ্ট"
+    },
+    {
+      "surface": "על",
+      "gloss": "...এ উপরে"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "সিংহাসন"
+    },
+    {
+      "surface": "דין",
+      "gloss": "বিচারের"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ছড়িয়ে দেন"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "নিজের চোখে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:36.445060046Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "ধন্য ⟨তুমি⟩ নগরে, এবং ধন্য ⟨তুमি⟩ ক্ষেত্রে।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨তুমি⟩"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "নগরে"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "এবং ধন্য"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨তুমি⟩"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ক্ষেত্রে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:31:24.781060344Z",
+  "model": "glm-5.2"
+}

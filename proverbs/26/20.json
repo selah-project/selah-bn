@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "কাঠের অভাবে আগুন ⟨নেভে⟩ যায়, এবং পিঠুনির অভাবে বচনবিবাদ থামে।",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "অভাবে"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "কাঠের"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নেভে যায়"
+    },
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "এবং অভাবে"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "পিঠুনির"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "থামে"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "বচনবিবাদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:11.263085516Z",
+  "model": "glm-5.2"
+}

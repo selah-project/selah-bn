@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এলিফ়ষের পুত্রেরা হল তেমন, ওমর, সেফো, গ়াতাম ও কেনাজ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আর হল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফ়ষের"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমন"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ওমর"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "সেফো"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "গ়াতাম ও"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "কেনাজ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:07.995689258Z",
+  "model": "glm-5.2"
+}

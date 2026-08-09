@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "সারায় ⟨ছিলেন⟩ বন্ধ্যা — তাঁর ⟨ছিল⟩ কোনো সন্তান নেই।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "⟨ছিলেন⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "সারায়"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "বন্ধ্যা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাঁর"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "সন্তান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:47.162753268Z",
+  "model": "glm-5.2"
+}

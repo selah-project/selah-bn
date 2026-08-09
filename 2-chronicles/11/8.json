@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ গৎ ও ⟨את⟩ মারেশা ও ⟨את⟩ যিফ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "গৎ"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গৎ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "মারেশা"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "মারেশা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "যিফ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "যিফ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:16.346154677Z",
+  "model": "glm-5.2"
+}

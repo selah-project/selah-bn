@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 1:16",
+  "book": "zephaniah",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "শঙ্খশিঙার ও যুদ্ধনাদের দিন — দুর্গম নগরী ও উঁচু কোণার উপরে।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "শঙ্খশিঙার"
+    },
+    {
+      "surface": "ותרועה",
+      "gloss": "ও যুদ্ধনাদের"
+    },
+    {
+      "surface": "על",
+      "gloss": "— উপরে"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "নগরী"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "দুর্গম"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ও উপরে"
+    },
+    {
+      "surface": "הפנות",
+      "gloss": "কোণার"
+    },
+    {
+      "surface": "הגבהות",
+      "gloss": "উঁচু"
+    }
+  ],
+  "timestamp": "2026-08-09T09:18:33.454420156Z",
+  "model": "glm-5.2"
+}

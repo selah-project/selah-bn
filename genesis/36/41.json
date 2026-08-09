@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "অধিপতি আহোলিবামা, অধিপতি এলা, অধিপতি পিনোন।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "আহোলিবামা"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এলা"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "পিনোন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:29.727844599Z",
+  "model": "glm-5.2"
+}

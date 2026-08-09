@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 25:7",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর এই ⟨হল⟩ আভ্রাহামের জীবনের বছরসমূহের দিনসমূহ যা সে বাঁচল — একশ বছর ও সত্তর বছর ও পাঁচ বছর।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছরসমূহের"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "জীবনের"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহামের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "חי",
+      "gloss": "সে বাঁচল"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ও সত্তর"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ও পাঁচ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:58:28.405658293Z",
+  "model": "glm-5.2"
+}

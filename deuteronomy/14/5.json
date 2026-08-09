@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "হরিণ, ও তরুণ, ও ইয়াহমুর, ও আকো, ও দিশোন, ও তেও, ও যামর।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "হরিণ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ও তরুণ"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ও ইয়াহমুর"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ও আকো"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ও দিশোন"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ও তেও"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ও যামর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:27:09.625843831Z",
+  "model": "glm-5.2"
+}

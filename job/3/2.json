@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং ইয়োব উত্তর দিলেন এবং বললেন:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "এবং উত্তর দিলেন"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ইয়োব"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:05:36.975330062Z",
+  "model": "glm-5.2"
+}

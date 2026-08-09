@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "এবং মোশে ⟨את⟩ গিলআদ দিলেন মাখিরকে, মনশের পুত্রকে, এবং সে তাতে বাস করল।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "এবং … দিলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গিলআদ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলআদ"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "মাখিরকে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্রকে"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশের"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "এবং সে বাস করল"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:25.200560709Z",
+  "model": "glm-5.2"
+}

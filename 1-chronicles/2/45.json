@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং শাম্মায়ের পুত্র ⟨ছিল⟩ মাওন, এবং মাওন বাইত-সুরের পিতা।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "এবং পুত্র"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "শাম্মায়ের"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "মাওন"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "এবং মাওন"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাইত"
+    },
+    {
+      "surface": "צור",
+      "gloss": "সুরের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:54.162782817Z",
+  "model": "glm-5.2"
+}

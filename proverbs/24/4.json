@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "এবং জ্ঞানে কক্ষগুলি ভরে ওঠে — সব মূল্যবান ও মনোরম সম্পদে।",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "এবং জ্ঞানে"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "কক্ষগুলি"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "ভরে ওঠে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הון",
+      "gloss": "সম্পদ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "মূল্যবান"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "এবং মনোরম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:57.260702415Z",
+  "model": "glm-5.2"
+}

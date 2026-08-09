@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 6:16",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর ⟨পাঁচ⟩ পলিশ্তী সরদার ⟨দেখল⟩, এবং সেই দিন একরোনে ফিরে গেল।",
+  "tokens": [
+    {
+      "surface": "וחמשה",
+      "gloss": "আর পাঁচ"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "সরদার"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশ্তী"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "দেখল"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "এবং ফিরে গেল"
+    },
+    {
+      "surface": "עקרון",
+      "gloss": "একরোনে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:50:28.310972880Z",
+  "model": "glm-5.2"
+}

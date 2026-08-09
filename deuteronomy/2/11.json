@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "রফায়ীমও গণ্য হত তারা, এনাকীয়দের মতো; এবং মোয়াবীয়রা তাদের এমীয় বলে ডাকত।)",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "রফায়ীম"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "গণ্য হত"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "הם",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "এনাকীয়দের মতো"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "এবং মোয়াবীয়রা"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ডাকত"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "এমীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:43.317285910Z",
+  "model": "glm-5.2"
+}

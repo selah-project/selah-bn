@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "“এলোহিম ⟨তা⟩ বোঝেন, এবং তিনি ⟨את⟩ তার স্থান জানেন।”",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "বোঝেন"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "তার পথ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "এবং তিনি"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার স্থান"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "তার স্থান"
+    }
+  ],
+  "timestamp": "2026-08-09T06:11:29.664485174Z",
+  "model": "glm-5.2"
+}

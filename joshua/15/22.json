@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "কিনা, দীমোনা এবং আদআদা —",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "এবং কিনা"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "এবং দীমোনা"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "এবং আদআদা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:47.652815737Z",
+  "model": "glm-5.2"
+}

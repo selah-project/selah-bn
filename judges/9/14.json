@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তখন সব গাছ কাঁটাগাছকে বলল, “তুমি এসো, আমাদের উপর রাজা হও।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "তখন বলল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "গাছ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "কাঁটাগাছকে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তুমি এসো"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা হও"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "আমাদের উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:44:38.167532196Z",
+  "model": "glm-5.2"
+}

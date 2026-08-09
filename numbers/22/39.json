@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "বিলয়াম বলকের সঙ্গে চলল, এবং তারা কিরয়্যাত-হুৎসোতে এল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "এবং চলল"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "বিলয়াম"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "বলকের"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "এবং তারা এল"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিরয়্যাত-"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "হুৎসোতে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:29.145268303Z",
+  "model": "glm-5.2"
+}

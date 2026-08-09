@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর মহাপ্লাবনের পর নোয়হ তিনশো বছর ও পঞ্চাশ বছর বেঁচে ছিলেন।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "আর ... বেঁচে ছিলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোয়হ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "পর"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "মহাপ্লাবনের"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ও পঞ্চাশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:17.784636811Z",
+  "model": "glm-5.2"
+}

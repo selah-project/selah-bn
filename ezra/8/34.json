@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "সংখ্যায় ও ওজনে সব ⟨জিনিসের⟩; আর লেখা হলো সমস্ত ওজন সেই সময়ে।",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "সংখ্যায়"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ওজনে"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "আর লেখা হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "ওজন"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:32:55.374566686Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 10:24",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং বিনইয়ামিন বংশের গোত্রের সৈন্যদলের উপর ⟨ছিল⟩ অবিদান বেন গিদোনি।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "এবং উপর"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সৈন্যদলের"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "গোত্রের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশের"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিনইয়ামিন"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "অবিদান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "גדעוני",
+      "gloss": "গিদোনি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:03.323416273Z",
+  "model": "glm-5.2"
+}

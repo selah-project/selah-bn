@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "সেই রাতে এলোহিম শলোমোহকে দেখা দিলেন, এবং ⟨তিনি⟩ তাকে বললেন, আকাঙ্ক্ষা করো — কী দিই তোমাকে?",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "রাতে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "দেখা দিলেন"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শলোমোহকে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "আকাঙ্ক্ষা করো"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "দিই"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:46:33.305591873Z",
+  "model": "glm-5.2"
+}

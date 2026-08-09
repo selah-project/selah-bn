@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর আমরা তাঁকে বললাম, ‘সৎ ⟨আমরা⟩; আমরা গুপ্তচর নই।’",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "আর বললাম"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "সৎ"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমরা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নই"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "⟨ছিলাম⟩"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "গুপ্তচর"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:37.672697964Z",
+  "model": "glm-5.2"
+}

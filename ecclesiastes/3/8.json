@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "প্রেম করার সময়, এবং ঘৃণা করার সময়; যুদ্ধের সময়, এবং শান্তির সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "প্রেম করার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ঘৃণা করার"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধের"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তির"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:47.636631072Z",
+  "model": "glm-5.2"
+}

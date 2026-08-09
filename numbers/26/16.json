@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "ওজ্নীর — ওজ্নীয় বংশ; এরীর — এরীয় বংশ।",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ওজ্নীর"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ওজ্নীয়"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "এরীর"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "এরীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:31.555998999Z",
+  "model": "glm-5.2"
+}

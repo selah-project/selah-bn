@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আমাদের হৃদয়ের আনন্দ শেষ হল, আমাদের নৃত্য শোকে পরিণত হল।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "শেষ হল"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "আমাদের হৃদয়ের"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "পরিণত হল"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "শোকে"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "আমাদের নৃত্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:02.287176928Z",
+  "model": "glm-5.2"
+}

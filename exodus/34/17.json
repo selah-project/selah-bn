@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "গলিত এলোহিঝ তোমরা নিজের জন্য বানাবে না।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিঝ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "গলিত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "বানাবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমরা নিজের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T02:56:22.879111529Z",
+  "model": "glm-5.2"
+}

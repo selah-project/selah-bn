@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "রাশার আগমনে অবজ্ঞাও আসে, এবং কালোনের সঙ্গে হারপা ⟨আসে⟩।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "আগমনে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "রাশার"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আসে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "অবজ্ঞা"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "এবং ... সঙ্গে"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "কালোনের"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "হারপা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:32.593902810Z",
+  "model": "glm-5.2"
+}

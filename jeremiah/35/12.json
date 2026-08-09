@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "এবং ইয়াহওয়েহের বাক্য এল য়িরমিয়াহুর কাছে, বলতে যে —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨এমন হলো⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িরমিয়াহুর কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:55:21.305172036Z",
+  "model": "glm-5.2"
+}

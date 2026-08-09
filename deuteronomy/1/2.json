@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এগারো দিন ⟨হল⟩ হোরেব থেকে শেয়ির পর্বতের পথে কাদেশ-বার্নেয় পর্যন্ত।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "এ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "গারো"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "হোরেব থেকে"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পর্বতের"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "শেয়ির"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "কাদেশ"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "বার্নেয়"
+    }
+  ],
+  "timestamp": "2026-08-09T14:00:26.051233882Z",
+  "model": "glm-5.2"
+}

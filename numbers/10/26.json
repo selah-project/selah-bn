@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং আশের-পুত্রদের গোত্রের সেনাদলের উপর ⟨ছিল⟩ পাগিয়েল, ওকরান-এর পুত্র।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "এবং উপর"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সেনাদলের"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "গোত্রের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশের"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "পাগিয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ওকরান"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:17.111098904Z",
+  "model": "glm-5.2"
+}

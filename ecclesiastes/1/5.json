@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "ও সূর্য ওদয় হয়, ও সূর্য অস্ত যায়, ও ⟨তার⟩ স্থানের দিকে হাঁপায় — ওঠে সে সেখানে।",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "ও ওদয় হয়"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ও অস্ত যায়"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও … দিকে"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "তার স্থানের"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "হাঁপায়"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "ওঠে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:12:37.158871121Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 50,
+  "translation": "আর ⟨তাঁর⟩ সঙ্গে রথও, অশ্বারোহীও উঠল; আর ⟨সেই⟩ শিবির ⟨ছিল⟩ অত্যন্ত ভারী।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "আর উঠল"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তাঁর সঙ্গে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "রথ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "অশ্বারোহী"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨ছিল⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "সেই শিবির"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভারী"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অত্যন্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T07:46:37.264072115Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তাঁর পুত্র অমৎিয়াহু, তাঁর পুত্র ঢারিয়া, তাঁর পুত্র যোতাম।",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "অমৎিয়াহু"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ঢারিয়া"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "যোতাম"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:19.626333450Z",
+  "model": "glm-5.2"
+}

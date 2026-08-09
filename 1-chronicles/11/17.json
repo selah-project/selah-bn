@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর দাভিদ তৃষ্ণা করলেন ও বললেন, “কে আমাকে জল পান করাবে ফটকের ⟨এই⟩ বাইত লেহেমের কূপ থেকে?”",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "আর তৃষ্ণা করলেন"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বললেন"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "আমাকে পান করাবে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "কূপ থেকে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেমের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨এই⟩"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ফটকের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:05.073727933Z",
+  "model": "glm-5.2"
+}

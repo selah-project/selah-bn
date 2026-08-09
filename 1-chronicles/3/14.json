@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আমোন তাঁর পুত্র, যোশিয়াহূ তাঁর পুত্র।",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "আমোন"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "যোশিয়াহূ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:38:55.075473329Z",
+  "model": "glm-5.2"
+}

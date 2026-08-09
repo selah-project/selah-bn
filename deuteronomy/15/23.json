@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "কেবল ⟨את⟩ তার রক্ত তুমি খাবে না; মাটির উপর তুমি তা জলের মতো ঢেলে দেবে।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার রক্ত"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "তার রক্ত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "তুমি খাবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "মাটির"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "তুমি তা ঢেলে দেবে"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "জলের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:34.396230793Z",
+  "model": "glm-5.2"
+}

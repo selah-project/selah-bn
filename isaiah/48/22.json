@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "“শালোম নেই,” ইয়াহওয়েহ বলেন, “দুষ্টদের জন্য।”",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শালোম"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "দুষ্টদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:17:35.001126855Z",
+  "model": "glm-5.2"
+}

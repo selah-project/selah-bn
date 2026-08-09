@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এবং আটখানি তক্তা ⟨ছিল⟩ এবং তাদের রৌপ্য খিলান ষোলোটি খিলান — এক তক্তার নীচে দুটি খিলান, দুটি খিলান।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "এবং ছিল"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "তক্তা"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "এবং তাদের খিলান"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রৌপ্য"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "খিলান"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুটি"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "খিলান"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুটি"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "খিলান"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "নীচে"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "⟨the⟩ তক্তার"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T02:57:08.526640312Z",
+  "model": "glm-5.2"
+}

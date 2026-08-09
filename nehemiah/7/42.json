@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "হরিমের পুত্ররা — এক হাজার সতেরো।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "হরিমের"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:35.729252633Z",
+  "model": "glm-5.2"
+}

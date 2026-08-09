@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "হাদাদ, আর তেমা, যেতুর, নাফিশ, আর কেদমা।",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "হাদাদ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "আর তেমা"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "যেতুর"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "নাফিশ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "আর কেদমা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:21.953917327Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং দেখো, একটি সীসার গোল চাকতি তোলা হলো, এবং এই ⟨গিনি⟩ একজন নারী এফার মধ্যে বসে আছে।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "এবং দেখো"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "গোল চাকতি"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "সীসার"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "তোলা হলো"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "এবং এই"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨গিনি⟩ নারী"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "বসে আছে"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "এফার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:52.784292814Z",
+  "model": "glm-5.2"
+}

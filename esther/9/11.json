@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "সেই দিনে শূশন দুর্গে নিহতদের সংখ্যা রাজার সামনে উপস্থিত হলো।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בא",
+      "gloss": "উপস্থিত হলো"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যা"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "নিহতদের"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "শূশন"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "দুর্গে"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:49:19.825607556Z",
+  "model": "glm-5.2"
+}

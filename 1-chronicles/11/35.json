@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "সাখার হাহারারীর পুত্র আখিয়াম, ঊরের পুত্র এলিফল।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "আখিয়াম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "সাখার"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হাহারারী"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "এলিফল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ঊর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:33.471202765Z",
+  "model": "glm-5.2"
+}

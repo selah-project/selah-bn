@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "কারণ ⟨তাদের⟩ হৃদয় বিনাশ স্থির করে, এবং তাদের ওষ্ঠ কষ্ট কথা বলে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "বিনাশ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "স্থির করে"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "এবং কষ্ট"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "তাদের ওষ্ঠ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "কথা বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:57.260462713Z",
+  "model": "glm-5.2"
+}

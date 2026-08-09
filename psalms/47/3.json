@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "কারণ ইয়াহওয়েহ, এল এলিয়োন, ভয়ঙ্কর, সমস্ত পৃথিবীর উপরে ⟨এক⟩ মহান রাজা।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "এল এলיׯ়োন"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ভয়ঙ্কর"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:53.304953739Z",
+  "model": "glm-5.2"
+}

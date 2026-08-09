@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "বলেছেন, “তোমাকে আমি দেব ⟨את⟩ কনান দেশ, তোমাদের অধিকারের দড়ি-জমি —”",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমাকে"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "আমি দেব"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "⟨את⟩",
+      "marks": "দেশ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "দড়ি-জমি"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "তোমাদের অধিকার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:29.508536580Z",
+  "model": "glm-5.2"
+}

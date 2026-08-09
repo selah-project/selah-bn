@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 11:20",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং তোমরা সেগুলো তোমার গৃহের দ্বার-চৌকাঠে ও তোমার ফটকে লিখবে।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "এবং তোমরা লিখবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "מזוזות",
+      "gloss": "দ্বার-চৌকাঠে"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "তোমার গৃহের"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "এবং তোমার ফটকে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:40.199260288Z",
+  "model": "glm-5.2"
+}

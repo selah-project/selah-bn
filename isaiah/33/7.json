@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "দেখো — বীররা বাইরে চিৎকার করছে, শালোমের দূতেরা তিক্তভাবে কাঁদছেন।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "বীররা"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "চিৎকার করছে"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "দূতেরা"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শালোমের"
+    },
+    {
+      "surface": "מר",
+      "gloss": "তিক্তভাবে"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "কাঁদছেন"
+    }
+  ],
+  "timestamp": "2026-08-09T04:35:49.950945460Z",
+  "model": "glm-5.2"
+}

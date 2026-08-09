@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "সত্য ⟨কে⟩ কিনো আর বিক্রি কোরো না — জ্ঞান ও শিক্ষা ও বোঝাপড়া।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "কিনো"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর কোরো না"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "বিক্রি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ও শিক্ষা"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ও বোঝাপড়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:23.067154477Z",
+  "model": "glm-5.2"
+}

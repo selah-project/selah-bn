@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "ওয়িশপান, ওয়াএভের, ওয়েলিয়েল —",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ওয়িশপান"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ওয়াএভের"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ওয়েলিয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:41.445376212Z",
+  "model": "glm-5.2"
+}

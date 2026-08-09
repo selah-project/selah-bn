@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "ইয়াহওয়েহ-এর বিরুদ্ধে কোনো জ্ঞান নেই, কোনো বোধ নেই, আর কোনো পরামর্শ ⟨নেই⟩।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আর নেই"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বোধ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আর নেই"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "পরামর্শ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "বিরুদ্ধে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:55.194644447Z",
+  "model": "glm-5.2"
+}

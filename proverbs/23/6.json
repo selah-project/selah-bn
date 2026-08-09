@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "কৃপণ লোকের রুটি ⟨את⟩ খেয়ো না এবং তার সুস্বাদু খাদ্য কামনা করো না।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "খেয়ো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রুটি"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    },
+    {
+      "surface": "רע",
+      "gloss": "কৃপণ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "লোকের"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "কামনা করো"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "তার সুস্বাদু খাদ্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:32.253699789Z",
+  "model": "glm-5.2"
+}

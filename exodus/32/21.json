@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আর মোশে আহারোনকে বললেন, “এই জাতি তোমার কী করেছিল যে তুমি তাদের উপর এত ⟨বড়⟩ পাপ এনেছ?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করেছিল"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "এনেছ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাদের উপর"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "বড়"
+    }
+  ],
+  "timestamp": "2026-08-09T07:48:11.776277472Z",
+  "model": "glm-5.2"
+}

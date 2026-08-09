@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "মন্দরা ভালোদের ⟨সামনে⟩ নত হয়, আর দুষ্টরা ধার্মিকের ফটকে ⟨নত হয়⟩।",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "নত হয়"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "মন্দরা"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "⟨সামনে⟩"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ভালোদের"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "আর দুষ্টরা"
+    },
+    {
+      "surface": "על",
+      "gloss": "ফটকে"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ফটকে"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:59:40.749232592Z",
+  "model": "glm-5.2"
+}

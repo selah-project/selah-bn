@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "“মানুষের পুত্র, দুই নারী ছিল — এক মায়ের কন্যা —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "নারী"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মায়ের"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ছিল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:09:31.885517580Z",
+  "model": "glm-5.2"
+}

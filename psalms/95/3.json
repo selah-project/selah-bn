@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 95,
+  "translation": "কারণ ইয়াহওয়েহ ⟨এক⟩ মহান এল, এবং সমস্ত এলোহিমের উপরে মহান রাজা;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "এবং রাজা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:47:18.961816550Z",
+  "model": "glm-5.2"
+}

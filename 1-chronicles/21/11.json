@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "গদ দাভিদের কাছে এলেন এবং তাঁকে বললেন, এইরূপ বলেছেন ইয়াহওয়েহ: তুমি গ্রহণ করো তোমার জন্য—",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "এলেন"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইরূপ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "গ্রহণ করো"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T09:42:18.644442854Z",
+  "model": "glm-5.2"
+}

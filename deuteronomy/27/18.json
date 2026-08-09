@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨সে⟩ যে পথে অন্ধকে বিপথগামী করে। আর সমস্ত জাতি বলবে, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "বিপথগামী করে"
+    },
+    {
+      "surface": "עור",
+      "gloss": "অন্ধকে"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আর বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:50.708358459Z",
+  "model": "glm-5.2"
+}

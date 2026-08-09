@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "ইস্রায়েলে সমর্পিত সব কিছু তোমার হবে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "সমর্পিত"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্রায়েলে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:53:32.621929506Z",
+  "model": "glm-5.2"
+}

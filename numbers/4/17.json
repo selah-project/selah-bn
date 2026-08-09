@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং ইয়াহওয়েহ মোশে ও আহারোনকে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং-কথা-বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও -কে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:09:59.645187785Z",
+  "model": "glm-5.2"
+}

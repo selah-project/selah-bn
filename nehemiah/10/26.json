@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "রেহূম, হশবনা, মাআসেয়া,",
+  "tokens": [
+    {
+      "surface": "רְח֥וּם",
+      "gloss": "রেহূম"
+    },
+    {
+      "surface": "חֲשַׁבְנָ֖ה",
+      "gloss": "হশবনা"
+    },
+    {
+      "surface": "מַעֲשֵׂיָֽה",
+      "gloss": "মাআসেয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:15.906873012Z",
+  "model": "glm-5.2"
+}

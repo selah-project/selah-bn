@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "হারিফ, আনাতোত, নোবাই।",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "হারিফ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "আনাতোত"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "নোবাই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:13.692714625Z",
+  "model": "glm-5.2"
+}

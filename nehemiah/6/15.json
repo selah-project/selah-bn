@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 6:15",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর প্রাচীর সম্পূর্ণ হলো এলুল ⟨মাসের⟩ পঁচিশ তারিখে, বায়ান্ন দিনে।",
+  "tokens": [
+    {
+      "surface": "ותשלם",
+      "gloss": "আর সম্পূর্ণ হলো"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "প্রাচীর"
+    },
+    {
+      "surface": "בעשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ও পাঁচ"
+    },
+    {
+      "surface": "לאלול",
+      "gloss": "এলুল"
+    },
+    {
+      "surface": "לחמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিনে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:08.818264960Z",
+  "model": "glm-5.2"
+}

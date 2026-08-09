@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "কান কি কথা বিচার করে না? এবং তালু কি ⟨নিজ⟩ খাদ্য আস্বাদন করে না?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "কি … না"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "কান"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "বিচার করে"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "এবং তালু"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খাদ্য"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "আস্বাদন করে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨নিজ⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:46:15.673558137Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 46,
+  "translation": "এই ⟨এরা⟩ রাখেলের পুত্রেরা, যারা ইয়াকোভের কাছে জন্মেছিল; সব মিলিয়ে নফশ চৌদ্দ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "রাখেলের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যারা"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্মেছিল"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ইয়াকোভের কাছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব মিলিয়ে"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "নফশ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চার"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T16:38:25.085377519Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "তখন ইয়োব উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তর দিল"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ইয়োব"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:08:05.265897637Z",
+  "model": "glm-5.2"
+}

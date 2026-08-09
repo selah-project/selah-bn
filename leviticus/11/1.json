@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "ইয়াহওয়েহ মোশে ও আহারোনকে সম্বোধন করলেন, তাদের বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং-বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং-কে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:01:33.251720899Z",
+  "model": "glm-5.2"
+}

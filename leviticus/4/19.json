@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 4:19",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং ⟨את⟩ সমস্ত চর্বি তার থেকে তুলে নেবেন এবং যজ্ঞবেদীতে ধূন করবেন।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত চর্বি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "חלבו",
+      "gloss": "চর্বি"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "তুলে নেবেন"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "তার থেকে"
+    },
+    {
+      "surface": "והקטיר",
+      "gloss": "এবং ধূন করবেন"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "যজ্ঞবেদীতে"
+    }
+  ],
+  "timestamp": "2026-08-09T16:39:10.221980965Z",
+  "model": "glm-5.2"
+}

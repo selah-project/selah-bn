@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "দুষ্টদের কথা ⟨হল⟩ রক্তের ওঁত পাতা, কিন্তু সরলদের মুখ ⟨তাদের⟩ উদ্ধার করে।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ওঁত পাতা"
+    },
+    {
+      "surface": "דם",
+      "gloss": "রক্তের"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "কিন্তু মুখ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সরলদের"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "উদ্ধার করে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:59:24.296227857Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "ছাদের কোণে বসা ভাল, বিবাদবতী স্ত্রী ও ব্যাপক গৃহের থেকে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "বসা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "কোণে"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ছাদের"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "স্ত্রীর থেকে"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "বিবাদবতী"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ও গৃহের"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ব্যাপক"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:14.652152244Z",
+  "model": "glm-5.2"
+}

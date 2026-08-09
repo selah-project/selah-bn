@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর ⟨তিনি⟩ বলল, “চল যাই আর চল যাই, আর আমি তোমার সামনে চলব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "চল যাই"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "আর চল যাই"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "আর আমি চলব"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "তোমার সামনে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:46.873678904Z",
+  "model": "glm-5.2"
+}

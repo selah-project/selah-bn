@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 28:12",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "ধার্মিকদের আনন্দে বড় গৌরব, আর দুষ্টদের উত্থানে মানুষ ⟨নিজেকে⟩ লুকায়।",
+  "tokens": [
+    {
+      "surface": "בעלץ",
+      "gloss": "আনন্দে"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ধার্মিকদের"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "বড়"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "গৌরব"
+    },
+    {
+      "surface": "ובקום",
+      "gloss": "আর উত্থানে"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "יחפש",
+      "gloss": "লুকায়"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:25.814697832Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "দানের গোত্রের জন্য — গমল্লীর পুত্র অম্মীয়েল।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "অম্মীয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "গমল্লী"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:48.448513750Z",
+  "model": "glm-5.2"
+}

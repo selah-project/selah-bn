@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং লোতনের পুত্ররা: হোরি ও হোমাম; এবং লোতনের বোন ⟨ছিল⟩ তিমনা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্ররা"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতনের"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "হোরি"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ও হোমাম"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "এবং বোন"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতনের"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "তিমনা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:11.890340595Z",
+  "model": "glm-5.2"
+}

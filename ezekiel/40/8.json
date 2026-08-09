@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "তিনি ভেতরের দিকের ফটকের বারান্দাও ⟨את⟩ মাপলেন — এক বেত।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "তিনি মাপলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ফটকের বারান্দা"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "বারান্দা"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ফটকের"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ভেতরের দিকের"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "বেত"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:14:38.926809604Z",
+  "model": "glm-5.2"
+}

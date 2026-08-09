@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এই ⟨হল⟩ স্বপ্নটি, এবং আমরা রাজার সামনে ⟨এর⟩ ব্যাখ্যা বলব।",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "স্বপ্নটি"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "এবং ব্যাখ্যা"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "বলব"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T09:24:33.558405048Z",
+  "model": "glm-5.2"
+}

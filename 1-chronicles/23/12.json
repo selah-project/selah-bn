@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "কহতের পুত্ররা: আম্রাম, য়িৎহার, হেবরোন, ও ঊজিয়েল — চারজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কহতের"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আম্রাম"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "য়িৎহার"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "হেবরোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ও ঊজিয়েল"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চারজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:40.506707206Z",
+  "model": "glm-5.2"
+}

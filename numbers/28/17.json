@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং এই মাসের পনেরো দিনে ⟨এক⟩ উৎসব; সাত দিন মিৎসরায়িম-রহিত রুটি খাওয়া হবে।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "এবং পনেরো"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "এই মাসের"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসব"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "মিৎসরায়িম-রহিত রুটি"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাওয়া হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:06:33.935648422Z",
+  "model": "glm-5.2"
+}

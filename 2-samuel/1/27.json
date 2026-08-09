@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 1:27",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কী করে পড়ল বীররা, এবং বিলুপ্ত হল যুদ্ধের অস্ত্র!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কী করে"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "পড়ল"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "বীররা"
+    },
+    {
+      "surface": "ויאבדו",
+      "gloss": "এবং বিলুপ্ত হল"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "অস্ত্র"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:00:05.878141591Z",
+  "model": "glm-5.2"
+}

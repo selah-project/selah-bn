@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "কে ⟨সে⟩, এই বলবত্তার রাজা? ইয়াহওয়েহ সাবাওত — ⟨তিনিই⟩ বলবত্তার রাজা। সেলা।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "বলবত্তার"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "সাবাওত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨তিনিই⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "বলবত্তার"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "সেলা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:33:54.207403438Z",
+  "model": "glm-5.2"
+}

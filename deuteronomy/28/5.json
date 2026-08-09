@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "বরকতময় ⟨হও⟩ তোমার ঝুড়ি ও তোমার মণ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "বরকতময়"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "তোমার ঝুড়ি"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ও তোমার মণ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:06:59.044957842Z",
+  "model": "glm-5.2"
+}

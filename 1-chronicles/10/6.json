@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর শৌল মারা গেলেন, এবং তাঁর তিন পুত্র, এবং তাঁর সমস্ত বংধ একত্রে মারা গেল।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আর মারা গেলেন"
+    },
+    {
+      "surface": "שאוײ",
+      "gloss": "শৌল"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "এবং তিন"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং তাঁর সমস্ত"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "বংধ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একত্রে"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মারা গেল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:44.221834741Z",
+  "model": "glm-5.2"
+}

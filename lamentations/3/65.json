@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তুমি তাদের দেবে ⟨এক⟩ হৃদয়ের আবরণ, তোমার অভিশাপ তাদের জন্য।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "তুমি দেবে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "আবরণ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ের"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "তোমার অভিশাপ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T06:18:32.343673573Z",
+  "model": "glm-5.2"
+}

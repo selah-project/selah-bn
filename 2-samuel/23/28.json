@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "ৎসলমোন অহোহীয়, মহরয় নতোফতীয়।",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ৎসলমোন"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "অহোহীয়"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "মহরয়"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "নতোফতীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:22.065233642Z",
+  "model": "glm-5.2"
+}

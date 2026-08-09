@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 130,
+  "translation": "যদি ⟨আপনি⟩ অপরাধ সংরক্ষণ করেন, ইয়াহ, আদোনাই, কে ⟨দাঁড়াবে⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "অপরাধ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "⟨আপনি⟩ সংরক্ষণ করেন"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "⟨দাঁড়াবে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:33.112992472Z",
+  "model": "glm-5.2"
+}

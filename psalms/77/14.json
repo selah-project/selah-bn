@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 77,
+  "translation": "হে এলোহিম, পবিত্রতায় ⟨আছে⟩ তোমার পথ; কে ⟨এ⟩ এল, এলোহিমের মতো মহান?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "হে এলোহিম"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "পবিত্রতায়"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "তোমার পথ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "এলোহিমের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T05:42:54.252008224Z",
+  "model": "glm-5.2"
+}

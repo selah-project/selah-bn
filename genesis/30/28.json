@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "এবং সে বলল — আপনার মজুরি ⟨⟩ ঠিক করুন, এবং আমি দেব।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ঠিক করুন"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "আপনার মজুরি"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "আমার ওপর"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "এবং আমি দেব"
+    }
+  ],
+  "timestamp": "2026-08-09T02:36:17.667541872Z",
+  "model": "glm-5.2"
+}

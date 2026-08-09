@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "বণীর বংশধরদের থেকে — মাআদয়, আমরাম, ঊয়েল।",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "বংশধরদের থেকে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বণীর"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "মাআদয়"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আমরাম"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "এবং ঊয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:43.269393532Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "এবং ইয়াহওয়েহর ⟨এটা⟩ বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨এটা⟩ হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে এল"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:39:58.041160502Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "শালমা, বেথ-লেহেমের পিতা; হারেফ, বেথ-গাদেরের পিতা।",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "শালমা"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেথ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেমের"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "হারেফ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেথ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "গাদেরের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:32.967551928Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আরোয়ের থেকে, যা আরনন নদীর তীরে ⟨আছে⟩, সিয়োন পর্বত পর্যন্ত — সে ⟨হল⟩ হেরমোন।",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "আরোয়ের থেকে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "על",
+      "gloss": "তীরে"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "তীর"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদীর"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "আরনন"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "הר",
+      "gloss": "পর্বত"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "সিয়োন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "হেরমোন"
+    }
+  ],
+  "timestamp": "2026-08-09T14:01:42.327146134Z",
+  "model": "glm-5.2"
+}

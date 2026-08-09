@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তুমি, হে ইয়াহওয়েহ, অনন্তকাল ⟨সিংহাসনে⟩ বিরাজমান; তোমার সিংহাসন প্রজন্মে প্রজন্মে।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাল"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "বিরাজমান"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "তোমার সিংহাসন"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "প্রজন্মে"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "প্রজন্মে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:34.945416089Z",
+  "model": "glm-5.2"
+}

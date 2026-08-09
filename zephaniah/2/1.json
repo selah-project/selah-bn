@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "সংগৃহীত হও এবং সংগৃহীত হও, ⟨হে⟩ জাতি, ⟨যার⟩ তৃষ্ণা নেই।",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "সংগৃহীত হও"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "এবং সংগৃহীত হও"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "তৃষ্ণা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:35:29.498731656Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর যোয়ব সরূয়ের ছেলে জানলেন যে রাজার হৃদয় ⟨আছে⟩ অবশালোমের প্রতি।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "আর জানলেন"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "যোয়ব"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ছেলে"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "সরূয়ার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "על",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "অবশালোমের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:03:50.694558110Z",
+  "model": "glm-5.2"
+}

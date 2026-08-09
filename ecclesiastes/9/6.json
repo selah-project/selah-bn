@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তাদের প্রেমও, তাদের ঘৃণাও, তাদের ঈর্ষাও ইতিমধ্যে বিলুপ্ত হয়েছে, এবং সূর্যের নিচে করা সবকিছুতে তাদের আর কখনো কোনো অংশ নেই।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "তাদের প্রেম"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "তাদের ঘৃণা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "তাদের ঈর্ষা"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ইতিমধ্যে"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "বিলুপ্ত হয়েছে"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "এবং অংশ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "কখনো"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সবকিছুতে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "করা হয়েছে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:54.250155681Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর ইয়াহওয়েহ মোশে ও আহারোনের কাছে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও কাছে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:09:33.975792219Z",
+  "model": "glm-5.2"
+}

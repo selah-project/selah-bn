@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর তুমি ⟨ה⟩-টেবিলের উপর সামনের রুটি রাখবে, আমার সামনে সদাকাল।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "আর তুমি রাখবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨ה⟩-টেবিলের"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "সামনের"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আমার সামনে"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদাকাল"
+    }
+  ],
+  "timestamp": "2026-08-09T07:48:15.739850278Z",
+  "model": "glm-5.2"
+}

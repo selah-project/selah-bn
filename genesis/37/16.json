@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "এবং সে বলল, “⟨את⟩ আমার ভাইদের আমি খুঁজছি। আমাকে বলো এখন, তারা কোথায় পাল চরাচ্ছে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আমার ভাইদের"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আমার ভাইদের"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "খুঁজছি"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "বলো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "কোথায়"
+    },
+    {
+      "surface": "הם",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "পাল চরাচ্ছে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:32.052292866Z",
+  "model": "glm-5.2"
+}

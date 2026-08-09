@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "উরিয়া হিট্টীয়, জাবাদ আচলাই-এর পুত্র,",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "উরিয়া"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "হিট্টীয়"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "জাবাদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "আচলাই"
+    }
+  ],
+  "timestamp": "2026-08-09T09:26:54.008547547Z",
+  "model": "glm-5.2"
+}

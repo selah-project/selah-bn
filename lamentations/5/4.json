@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আমাদের জল আমরা রূপোর বিনিময়ে পান করেছি, আমাদের কাঠ ⟨⟨আমাদের কাছে⟩⟩ দামে আসে।",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "আমাদের জল"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "রূপোর বিনিময়ে"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "পান করেছি"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "আমাদের কাঠ"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "দামে"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আসে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:42.468832152Z",
+  "model": "glm-5.2"
+}

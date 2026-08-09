@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "দরিদ্রকে লুটো না, কারণ ⟨সে⟩ দরিদ্র, এবং ফটকে ⟨থাকা⟩ বিপর্যস্তকে পিষো না।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "লুটো"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দরিদ্রকে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দরিদ্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "পিষো"
+    },
+    {
+      "surface": "עני",
+      "gloss": "বিপর্যস্তকে"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ফটকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:23.164429099Z",
+  "model": "glm-5.2"
+}

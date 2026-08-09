@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "গোরলের মুখ অনুসারে তার অধিকার ভাগ হবে — বহু ও স্বল্প উভয়ের মধ্যে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "গোরলের"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ভাগ হবে"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "তার অধিকার"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "ও স্বল্প"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:13.384853159Z",
+  "model": "glm-5.2"
+}

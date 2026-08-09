@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 26:13",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "সেরখের — সেরখীয় বংশ; শাউলের — শাউলীয় বংশ।",
+  "tokens": [
+    {
+      "surface": "לזרח",
+      "gloss": "সেরখের"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "הזרחי",
+      "gloss": "সেরখীয়"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "শাউলের"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "השאולי",
+      "gloss": "শাউলীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:31.555439975Z",
+  "model": "glm-5.2"
+}

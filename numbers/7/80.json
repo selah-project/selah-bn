@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "সোনার এক হাতা, দশ ⟨শেকেল⟩ ওজনে, ধূপে পূর্ণ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "হাতা"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "পূর্ণ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:55.296577663Z",
+  "model": "glm-5.2"
+}

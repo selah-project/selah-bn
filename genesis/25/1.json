@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর আভ্রাহাম আরও ⟨স্ত্রী⟩ গ্রহণ করলেন, আর ⟨তার⟩ নাম কেতুরাহ।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "আরও"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "গ্রহণ করলেন"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "স্ত্রী"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "আর ⟨তার⟩ নাম"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "কেতুরাহ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:47.530952149Z",
+  "model": "glm-5.2"
+}

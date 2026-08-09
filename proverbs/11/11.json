@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "সরলদের আশীর্বাদে নগর ⟨করে⟩ উন্নত, আর দুষ্টদের মুখে ⟨সে⟩ ধ্বংস হয়।",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "আশীর্বাদে"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সরলদের"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "উন্নত"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "আর মুখে"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "ধ্বংস হয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:59:05.584467624Z",
+  "model": "glm-5.2"
+}

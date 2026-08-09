@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং বরিয়ার সন্তানেরা: খেবের ও মলখিয়েল; ⟨সে⟩ বির্জোতের পিতা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং সন্তানেরা"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "বরিয়ার"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "খেবের"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "ও মলখিয়েল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "বির্জোতের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:25.047195365Z",
+  "model": "glm-5.2"
+}

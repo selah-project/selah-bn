@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "শিমিয়োন ⟨গোত্রের⟩ ⟨জন্য⟩ শাফাত, হোরির পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "শিমিয়োন"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "শাফাত"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "হোরির"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:47.591616092Z",
+  "model": "glm-5.2"
+}

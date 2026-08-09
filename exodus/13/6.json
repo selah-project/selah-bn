@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "সাত দিন তুমি মাৎসোত খাবে, এবং সপ্তম দিনে ইয়াহওয়েহর জন্য উৎসব।",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "তুমি খাবে"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "মাৎসোত"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "⟨the⟩ সপ্তম"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসব"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহর জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T09:00:24.799812986Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 16:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "জ্ঞানীর হৃদয় তার মুখকে বুদ্ধিমান করে, এবং তার ওষ্ঠে শিক্ষা যোগ করে।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীর"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "বুদ্ধিমান করে"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "তার মুখকে"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং ... উপর"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "তার ওষ্ঠে"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "যোগ করে"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "শিক্ষা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:49.619018433Z",
+  "model": "glm-5.2"
+}

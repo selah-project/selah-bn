@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 11:18",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "যোয়াব দূত পাঠালেন এবং দাভিদকে ⟨את⟩ যুদ্ধের সমস্ত কথা জানালেন।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "পাঠালেন"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "যোয়াব"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "জানালেন"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদকে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "যুদ্ধের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:03:18.464444883Z",
+  "model": "glm-5.2"
+}

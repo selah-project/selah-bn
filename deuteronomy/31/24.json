@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং ঘটল, যখন মোশে এই তোরাহর কথাগুলি ⟨את⟩ একটি বইয়ে লেখা শেষ করলেন, সম্পূর্ণ শেষ পর্যন্ত,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "যখন শেষ করলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "লেখা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কথাগুলি"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাগুলি"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "তোরাহর"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "על",
+      "gloss": "একটিতে"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "বইয়ে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "সম্পূর্ণ শেষ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:57:48.097910007Z",
+  "model": "glm-5.2"
+}

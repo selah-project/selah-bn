@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আর ইয়াহওয়েহ মোশেকে ধরলেন, বলে যেতে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর ধরলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যেতে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:51:04.634898379Z",
+  "model": "glm-5.2"
+}

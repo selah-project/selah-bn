@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর ইয়াহওয়েহর সিন্দুক পলিশতিদের ক্ষেত্রে সাত মাস ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨ছিল⟩"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "সিন্দুক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ক্ষেত্রে"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশতিদের"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "মাস"
+    }
+  ],
+  "timestamp": "2026-08-09T03:51:03.917596133Z",
+  "model": "glm-5.2"
+}

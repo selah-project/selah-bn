@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং ইয়াহওয়েহ আমাকে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:59.842573087Z",
+  "model": "glm-5.2"
+}

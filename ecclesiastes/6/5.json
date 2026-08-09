@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এমনকি সূর্য সে ⟨লোক⟩ দেখেনি এবং ⟨সে⟩ কিছু জানে না; এর চেয়ে ওইটির ⟨বিশ্রাম⟩ বেশি।",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "שֶׁ֥מֶשׁ",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "לֹא",
+      "gloss": "না"
+    },
+    {
+      "surface": "רָאָ֖ה",
+      "gloss": "দেখেছে"
+    },
+    {
+      "surface": "וְלֹ֣א",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יָדָ֑ע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "נַ֥חַת",
+      "gloss": "বিশ্রাম"
+    },
+    {
+      "surface": "לָזֶ֖ה",
+      "gloss": "ওইটির জন্য"
+    },
+    {
+      "surface": "מִזֶּֽה",
+      "gloss": "এর চেয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:24:08.926639088Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "কোহনীয়দের থেকে — যদাইয়া যোয়ারিবের পুত্র, যাখিন।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "কোহনীয়দের"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "যদাইয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "যোয়ারিবের"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "যাখিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:36.306480224Z",
+  "model": "glm-5.2"
+}

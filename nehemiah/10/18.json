@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আটের, হিজকিয়া, আজ্জুর।",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "আটের"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "হিজকিয়া"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "আজ্জুর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:13.692478754Z",
+  "model": "glm-5.2"
+}

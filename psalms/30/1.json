@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "মিযমোর — গীত, ⟨হে⟩-বাড়ির উদ্বোধনের, দাভিদের।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "মিযমোর"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "উদ্বোধনের"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨হে⟩-বাড়ির"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:34:41.560034503Z",
+  "model": "glm-5.2"
+}

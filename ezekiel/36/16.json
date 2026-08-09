@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এসেছিল, বলতে:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "এবং এসেছিল"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:13:31.031142566Z",
+  "model": "glm-5.2"
+}

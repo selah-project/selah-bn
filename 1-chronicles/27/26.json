@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং মাঠের কাজের কর্মীদের উপর — ভূমি চাষের সেবার জন্য — ⟨ছিল⟩ এজরি বেন-কেলুব।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "এবং … উপর"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "কর্মীদের"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাজের"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "মাঠের"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "চাষের সেবার জন্য"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ভূমি"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "এজরি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন-"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "কেলুব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:45:54.565015139Z",
+  "model": "glm-5.2"
+}

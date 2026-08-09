@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "বিদ্রুপকারী তার ⟨সংশোধন⟩ পছন্দ করে না; জ্ঞানীদের কাছে সে যাবে না।",
+  "tokens": [
+    {
+      "surface": "לֹ֣א",
+      "gloss": "না"
+    },
+    {
+      "surface": "יֶאֱהַב",
+      "gloss": "পছন্দ করে"
+    },
+    {
+      "surface": "לֵ֭ץ",
+      "gloss": "বিদ্রুপকারী"
+    },
+    {
+      "surface": "הוֹכֵ֣חַֽ",
+      "gloss": "সংশোধন"
+    },
+    {
+      "surface": "ל֑וֹ",
+      "gloss": "তার"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "חֲ֝כָמִ֗ים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "না"
+    },
+    {
+      "surface": "יֵלֵֽךְ",
+      "gloss": "যাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:21:22.434155031Z",
+  "model": "glm-5.2"
+}

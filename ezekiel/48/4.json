@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "আর নাফতালির সীমানায়, পূর্ব পক্ষ থেকে সমুদ্রের পক্ষ পর্যন্ত — মনশে, এক ⟨অংশ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "আর ⟨...⟩-এ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমানায়"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নাফতালির"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "পক্ষ থেকে"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "পূর্ব"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "পক্ষ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "সমুদ্রের"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশে"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:16:25.816077430Z",
+  "model": "glm-5.2"
+}

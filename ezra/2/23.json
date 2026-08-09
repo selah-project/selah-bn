@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আনাতোতের লোকেরা — একশত বিশ ও আট।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "আনাতোতের"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ও আট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:20.758400006Z",
+  "model": "glm-5.2"
+}

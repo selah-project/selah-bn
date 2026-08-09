@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "ও শেয়া ⟨ছিলেন⟩ লেখক, ও সাদোক ও এবিয়াতর ⟨ছিলেন⟩ যাজক।",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ও শেয়া"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "লেখক"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ও সাদোক"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ও এবিয়াতর"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "যাজক"
+    }
+  ],
+  "timestamp": "2026-08-09T04:05:45.577563574Z",
+  "model": "glm-5.2"
+}

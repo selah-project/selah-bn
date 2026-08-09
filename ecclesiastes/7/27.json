@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "দেখো, এটি আমি খুঁজে পেয়েছি, কোহেলেত বলেন; একের পর এক, হিসাব খুঁজে বের করতে।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "আমি খুঁজে পেয়েছি"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "বলেন"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "কোহেলেত"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "একের পর এক"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "খুঁজে বের করতে"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "হিসাব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:20.827163961Z",
+  "model": "glm-5.2"
+}

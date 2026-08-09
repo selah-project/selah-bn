@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর ⟨এরা⟩ দাঁড়াবে অভিশাপের ⟨জন্য⟩ এবাল পর্বতে: র‌আউবেন, গাদ, আশের, য়েবুলুন, দান ও নাফতালি।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর ⟨এরা⟩"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "দাঁড়াবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨জন্য⟩"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "অভিশাপের"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পর্বতে"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "এবাল"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "র‌আউবেন"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ও আশের"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "ও য়েবুলুন"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ও নাফতালি"
+    }
+  ],
+  "timestamp": "2026-08-09T16:40:59.153087102Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এই ⟨হলেন⟩ এসাভের পুত্ররা, আর এই ⟨হলেন⟩ তাদের নেতারা; সে ⟨সেই⟩ এদোম।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাভের"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "তাদের নেতারা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:02.518088813Z",
+  "model": "glm-5.2"
+}

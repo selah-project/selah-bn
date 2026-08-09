@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এইলাম-এর সন্তানেরা — এক হাজার দুইশো চুয়ান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এইলাম"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশো"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "এবং চার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:21.215574057Z",
+  "model": "glm-5.2"
+}

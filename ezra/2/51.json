@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বকবুক-পুত্র, খকুফা-পুত্র, খরখুর-পুত্র।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "বকবুক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "খকুফা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "খরখুর"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:56.257000357Z",
+  "model": "glm-5.2"
+}

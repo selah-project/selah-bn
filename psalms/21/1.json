@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "সঙ্গীত-পরিচালকের জন্য; দাভিদের ⟨একটি⟩ মিজমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীত-পরিচালকের জন্য"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোর"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:36:23.045153237Z",
+  "model": "glm-5.2"
+}

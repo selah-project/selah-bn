@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "আর ফরৌহ যাকোবকে বললেন, “তোমার জীবনের বছরের দিনগুলো কত?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ফরৌহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "যাকোবকে"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "কত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনগুলো"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছরের"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "তোমার জীবনের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:43:09.858888080Z",
+  "model": "glm-5.2"
+}

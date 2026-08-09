@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "মল্লূখীর ⟨নামে⟩ য়োনাতান, শেবান্যার ⟨নামে⟩ যোসেফ —",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "মল্লূখীর"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "য়োনাতান"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "শেবান্যার"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:38.442016283Z",
+  "model": "glm-5.2"
+}

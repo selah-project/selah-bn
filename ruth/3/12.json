@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "“আর এখন, যদিও সত্যই ⟨যে⟩ আমি গোয়েল, তবুও ⟨এমন একজন⟩ গোয়েল আছে যে ⟨আমার⟩ চেয়ে নিকটতর।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আর এখন"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যদিও"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "সত্যই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "“"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "গোয়েল"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "তবুও"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "গোয়েল"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "নিকটতর"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "আমার চেয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:33.513067544Z",
+  "model": "glm-5.2"
+}

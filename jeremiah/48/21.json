@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "এবং ⟨বিচার⟩ এসেছে ময়দানের দেশে — হোলোন এবং য়াহৎ-এর উপর, এবং মোফায়াত-এর উপর।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "এবং ⟨বিচার⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "এসেছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ময়দানের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "হোলোন"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "য়াহৎ-এর"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "মোফায়াত-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:59:27.390702529Z",
+  "model": "glm-5.2"
+}

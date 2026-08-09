@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর যদি স্ত্রীলিঙ্গ ⟨হয়⟩, তাহলে তোমার মূল্যায়ন ⟨হবে⟩ তিরিশ শেকেল।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "স্ত্রীলিঙ্গ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨হয়⟩"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "তাহলে ⟨হবে⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "তোমার মূল্যায়ন"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "তিরিশ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "শেকেল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:35.684142374Z",
+  "model": "glm-5.2"
+}

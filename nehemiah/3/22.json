@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "ও তাঁদের পরে মেরামত করলেন যাজকেরা, ⟨যারা⟩ ⟨ה⟩হকিকারের লোক।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ও তাঁদের পরে"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "মেরামত করলেন"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "যাজকেরা"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "লোক"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "⟨ה⟩হকিকারের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:30.666138754Z",
+  "model": "glm-5.2"
+}

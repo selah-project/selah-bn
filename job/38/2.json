@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "“এই কে ⟨হচ্ছে⟩ যে জ্ঞানহীন কথায় পরামর্শ অন্ধকার করছে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "অন্ধকার করছে"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "পরামর্শ"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "কথায়"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "হীন"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:06.347304325Z",
+  "model": "glm-5.2"
+}

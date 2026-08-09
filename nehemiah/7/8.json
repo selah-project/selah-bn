@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "পরোশের পুত্ররা: দুই হাজার একশত এবং ব়হাত্তর।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "পরোশের"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজার"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশত"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "এবং ব়হাত্তর"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:23.835006852Z",
+  "model": "glm-5.2"
+}

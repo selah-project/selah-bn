@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "পশহুরের পুত্রেরা: এক হাজার দুই শত সাতচল্লিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "পশহুর"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুই শত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "এবং সাত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:36.084569928Z",
+  "model": "glm-5.2"
+}

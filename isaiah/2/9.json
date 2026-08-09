@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বিনত হলো মানুষ, এবং নত হলো পুরুষ; আর তুমি ⟨তাদের⟩ ক্ষমা করো না।",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "বিনত হলো"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "এবং নত হলো"
+    },
+    {
+      "surface": "איש",
+      "gloss": "পুরুষ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ক্ষমা করো"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:26:57.962432306Z",
+  "model": "glm-5.2"
+}

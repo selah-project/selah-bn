@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 4:17",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর যিহোশূয় ⟨את⟩ যাজকদের আজ্ঞা দিলেন বলে, যর্দন থেকে উঠে এসো।",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "আর আজ্ঞা দিলেন"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "যিহোশূয়"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "যাজকদের"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "যাজকদের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "উঠে এসো"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "যর্দন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:51.030700731Z",
+  "model": "glm-5.2"
+}

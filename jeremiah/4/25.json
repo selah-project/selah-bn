@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আমি দেখলাম, এবং দেখ, ⟨কেউ⟩ মানুষ ⟨ছিল⟩ না, এবং আকাশমণ্ডলের সব পাখি পালিয়ে ⟨গেছে⟩।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "আমি দেখলাম"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "এবং দেখ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨the⟩ মানুষ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং সব"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশমণ্ডলের"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "পালিয়েছে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:45:24.775156568Z",
+  "model": "glm-5.2"
+}

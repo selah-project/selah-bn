@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "মানুষ ⟨যিনি⟩ রক্ত-নাফশে উৎপীড়িত, গর্ত পর্যন্ত পালাবে — ⟨কেউ⟩ তাকে ⟨বুকে⟩ ধরবে না।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "উৎপীড়িত"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "রক্তে"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "নাফশে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "בור",
+      "gloss": "গর্ত"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "পালাবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "ধরবে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:24.826268064Z",
+  "model": "glm-5.2"
+}

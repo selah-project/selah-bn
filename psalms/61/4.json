@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 61,
+  "translation": "কারণ তুমি হয়েছ ⟨আমার⟩ আশ্রয়, শক্তির দুর্গ শত্রুর সম্মুখে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "তুমি হয়েছ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "আশ্রয়"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨আমার⟩"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "দুর্গ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "শক্তির"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "সম্মুখে"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "শত্রুর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:40:36.548894742Z",
+  "model": "glm-5.2"
+}

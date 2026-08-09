@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 66,
+  "translation": "যা আমার ওষ্ঠ উচ্চারণ করেছিল এবং আমার মুখ আমার সংকটে বলেছিল।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "উচ্চারণ করেছিল"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "আমার ওষ্ঠ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "এবং ... বলেছিল"
+    },
+    {
+      "surface": "פי",
+      "gloss": "আমার মুখ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "সংকটে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:40:33.906676137Z",
+  "model": "glm-5.2"
+}

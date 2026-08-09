@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "পেরেৎের পুত্র ⟨থেল⟩ হেৎরোন ও হামুল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেরেৎ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "হেৎরোন"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ও হামুল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:12.216003001Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "হায় ⟨এ⟩ বিদ্রোহিনী ও ⟨এ⟩ কলুষিত! ⟨সে⟩ নগরী, দমনকারী!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "বিদ্রোহিনী"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ও কলুষিত"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨সে⟩ নগরী"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "দমনকারী"
+    }
+  ],
+  "timestamp": "2026-08-09T08:34:17.281656793Z",
+  "model": "glm-5.2"
+}

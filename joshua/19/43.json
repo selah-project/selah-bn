@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং এলোন ও তিমনা ও একরোন।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "এবং এলোন"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "ও তিমনা"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ও একরোন"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:31.624154504Z",
+  "model": "glm-5.2"
+}

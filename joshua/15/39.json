@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "লাকিশ, এবং বোসকত, এবং এগলোন,",
+  "tokens": [
+    {
+      "surface": "לָכִ֥ישׁ",
+      "gloss": "লাকিশ"
+    },
+    {
+      "surface": "וּבָצְקַ֖ת",
+      "gloss": "এবং বোসকত"
+    },
+    {
+      "surface": "וְעֶגְלֽוֹן",
+      "gloss": "এবং এগলোন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:12.972305773Z",
+  "model": "glm-5.2"
+}

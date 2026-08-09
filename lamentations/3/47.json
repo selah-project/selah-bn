@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আতঙ্ক ও ফাঁদ ⟨הָיָה⟩ আমাদের জন্য — বিধ্বংস ⟨וְ⟩ ভগ্নতা।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "আতঙ্ক"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ও ফাঁদ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨হয়েছে⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাদের জন্য"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "বিধ্বংস"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ও ভগ্নতা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:18:44.652957290Z",
+  "model": "glm-5.2"
+}

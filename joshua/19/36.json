@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং আদামা, এবং হারামা, এবং হাত্সোর।",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "এবং আদামা"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "এবং হারামা"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "এবং হাত্সোর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:39:23.943127393Z",
+  "model": "glm-5.2"
+}

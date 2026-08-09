@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর্পকষদ ⟨את⟩ শেলখকে জন্ম দিল, এবং শেলখ ⟨את⟩ এবরকে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "আর্পকষদ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শেলখকে"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "শেলখ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "শেলখ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এবরকে"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এবর"
+    }
+  ],
+  "timestamp": "2026-08-09T09:26:14.103836121Z",
+  "model": "glm-5.2"
+}

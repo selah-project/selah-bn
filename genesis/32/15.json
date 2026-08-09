@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "ছাগি দুইশো, বহরা বিশটি; ভেড়ি দুইশো, ভেড়ারা বিশটি।",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "ছাগি"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশো"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "বহরা"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশটি"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "ভেড়ি"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশো"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "ভেড়ারা"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশটি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:36:59.382227817Z",
+  "model": "glm-5.2"
+}

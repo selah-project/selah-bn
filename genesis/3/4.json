@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তখন সর্প নারীটিকে বলল, “তোমরা মরবে না ⟨– মরবে⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "বলল"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "সর্প"
+    },
+    {
+      "surface": "אל",
+      "gloss": "−কে"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "নারীটি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মরবে"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "তোমরা মরবে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:26:32.454829897Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "কারণ সে জানে না কী হবে, কারণ যখন তা হবে, কে তাকে জানাবে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "সে ⟨না⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "তা হবে"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "জানাবে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:02.586258167Z",
+  "model": "glm-5.2"
+}

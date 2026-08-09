@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তুমি আমাদের ফেলে-দেওয়া আবর্জনা ও ঘৃণিত করেছ ⟨আת⟩-কে, জাতিসমূহের মধ্যে।",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "ফেলে-দেওয়া আবর্জনা"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "ও ঘৃণিত"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "তুমি আমাদের করেছ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতিসমূহের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:18:44.652587946Z",
+  "model": "glm-5.2"
+}

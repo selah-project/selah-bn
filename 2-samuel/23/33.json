@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "শাম্মা হ়ারারী, আখিয়াম শারার-এর পুত্র হ়ারারী,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "শাম্মা"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হ়ারারী"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "আখিয়াম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "শারার"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "হ়ারারী"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:28.503730389Z",
+  "model": "glm-5.2"
+}

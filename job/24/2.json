@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "সীমানা সরিয়ে দেয়, ঝাঁক লুট করে এবং চরায়।",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "সীমানা"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "সরিয়ে দেয়"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "ঝাঁক"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "লুট করে"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "এবং চরায়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:46:00.053742846Z",
+  "model": "glm-5.2"
+}

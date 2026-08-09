@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমি আমার জন্য জলের পুকুর তৈরি করলাম, তাতে থেকে জল দেওয়ার জন্য ⟨যে⟩ বন ⟨যেখানে⟩ গাছ অঙ্কুরিত হয়।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "তৈরি করলাম"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "পুকুর"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জলের"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "জল দেওয়ার জন্য"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "তাতে থেকে"
+    },
+    {
+      "surface": "יער",
+      "gloss": "বন"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "অঙ্কুরিত হয়"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "গাছ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:08.361326665Z",
+  "model": "glm-5.2"
+}

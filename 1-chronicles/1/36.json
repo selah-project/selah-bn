@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এলিফাজের পুত্রগণ: তেমান ও ওমার, তসেফি ও গাতাম, কেনাজ ও তিমনা ও আমালেক।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফাজের"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ও ওমার"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "তসেফি"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ও গাতাম"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "কেনাজ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "ও তিমনা"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ও আমালেক"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:28.771264621Z",
+  "model": "glm-5.2"
+}

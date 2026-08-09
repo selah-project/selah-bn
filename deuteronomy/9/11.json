@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨এমন⟩ হলো চল্লিশ দিন ও চল্লিশ রাতের শেষে, ইয়াহওয়েহ আমাকে ⟨את⟩ দুই পাথরের ফলক দিলেন — বরিতের ফলক।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨এমন⟩ হলো"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "…র শেষে"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ও চল্লিশ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "রাত"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দিলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দুই পাথরের ফলক"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ফলক"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "পাথরের"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "ফলক"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "বরিতের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:25:56.316184510Z",
+  "model": "glm-5.2"
+}

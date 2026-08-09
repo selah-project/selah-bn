@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 52,
+  "translation": "এবং ডালিমগুল ⟨ছিল⟩ নিরানব্বই, পাশে; সব ডালিম ⟨ছিল⟩ একশ জালকের ওপরে, চারধারে।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "এবং ছিল"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ডালিমগুল"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নিরানব্বই"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "এবং ছয়"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "পাশে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "ডালিম"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ওপরে"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "জালকের"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারধারে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:15:52.437501709Z",
+  "model": "glm-5.2"
+}

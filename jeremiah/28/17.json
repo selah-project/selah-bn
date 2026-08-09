@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং খানান্যাহ ⟨ה⟩ নবী সেই বছরে মারা গেল, সপ্তম মাসে।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "এবং মারা গেল"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "খানান্যাহ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨ה⟩ নবী"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছরে"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাসে"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T04:53:19.003836695Z",
+  "model": "glm-5.2"
+}

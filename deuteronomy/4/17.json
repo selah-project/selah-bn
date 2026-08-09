@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "প্রতিমূর্তি পৃথিবীতে থাকা যেকোনো পশুর, প্রতিমূর্তি আকাশে উড়ন্ত যেকোনো ডানাওয়ালা পাখির—",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "প্রতিমূর্তি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "পশুর"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিবীতে"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "প্রতিমূর্তি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "পাখির"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ডানাওয়ালা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "উড়ে"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:24:31.660488660Z",
+  "model": "glm-5.2"
+}

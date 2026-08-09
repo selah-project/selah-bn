@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং যা ⟨তিনি⟩ তোমাদের জন্য করেছেন মরুপ্রান্তরে, তোমাদের আসা পর্যন্ত, এই স্থান পর্যন্ত —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "এবং যা"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করেছেন"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মরুপ্রান্তরে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "তোমাদের আসা"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "স্থান"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:30.453390249Z",
+  "model": "glm-5.2"
+}

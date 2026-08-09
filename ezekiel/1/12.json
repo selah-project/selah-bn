@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "各人向着自己脸的方向行走；⟨往⟩那灵要去的地方——那里，它们行走；它们行走时不转身。",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向着"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "方向"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他的脸"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "行走"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨往⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "那里"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "要"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "去"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "那灵"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "行走"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "⟨那里⟩它们行走"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "转身"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "它们行走时"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:54.103397292Z",
+  "model": "glm-5.2"
+}

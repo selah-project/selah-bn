@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "মরারির পুত্র ⟨থিল⟩ মহলী ও মূশী; য়াজিয়াহুর পুত্রদের ⟨মধ্যে⟩ বনো।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মরারি"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "মহলী"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ও মূশী"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "য়াজিয়াহু"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "বনো"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:42.731642924Z",
+  "model": "glm-5.2"
+}

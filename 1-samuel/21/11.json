@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর দাভিদ উঠে সেই দিনে শাউলের সামনে থেকে পালিয়ে গেল, এবং গতের রাজা আখিশের কাছে এল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "আর উঠে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "পালিয়ে গেল"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "সামনে থেকে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শাউলের"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "এল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "আখিশের"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "גת",
+      "gloss": "গতের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:04:16.929583303Z",
+  "model": "glm-5.2"
+}

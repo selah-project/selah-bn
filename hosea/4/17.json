@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "एफ्रायिम প্রতিমাগুলির সঙ্গে যুক্ত, তাকে ছেড়ে দাও।",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "যুক্ত"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "প্রতিমাগুলির"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফরায়িম"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "ছেড়ে দাও"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:17:03.550595083Z",
+  "model": "glm-5.2"
+}

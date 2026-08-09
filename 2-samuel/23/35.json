@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "খেৎসরো কারমেলী, পাআরাই আরবী,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "খেৎসরো"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "কারমেলী"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "পাআরাই"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "আরবী"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:28.504064002Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আয়িন, রিম্মোন, ও এতের, ও আশান — চার নগর ও সেগুলির গ্রামসমূহ।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "আয়িন"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "রিম্মোন"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ও এতের"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ও আশান"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ও সেগুলির গ্রামসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:47.061731316Z",
+  "model": "glm-5.2"
+}

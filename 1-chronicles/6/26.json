@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "⟨পুত্র⟩ এৎনি, ⟨পুত্র⟩ জেরাখ, ⟨পুত্র⟩ আদায়া।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "এৎনি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেরাখ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "আদায়া"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:54.467431695Z",
+  "model": "glm-5.2"
+}

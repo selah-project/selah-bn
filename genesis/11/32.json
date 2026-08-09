@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "তেরহের দিনগুলো ⟨হলো⟩ দুইশো পাঁচ বছর, আর তেরহ হারানে মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "⟨হলো⟩"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনগুলো"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেরহের"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ও দুইশো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "মারা গেলেন"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেরহ"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "হারানে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:47.163248306Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আর ⟨তারা⟩ করল অষ্টম দিনে ⟨এক⟩ সমাবেশ, কারণ যে মিলাপ-বেদির দীক্ষা ⟨তারা⟩ করল ⟨তা⟩ সাত দিন, আর উৎসবটি সাত দিন।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "আর করল"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "সমাবেশ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "দীক্ষা"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "মিলাপ-বেদির"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "করল"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "আর উৎসবটি"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:46.636700404Z",
+  "model": "glm-5.2"
+}

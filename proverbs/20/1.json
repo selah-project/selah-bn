@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "উপহাসকারী ⟨হল⟩ মদ, গোঙানি ⟨হল⟩ মদ্যপান; আর যে কেউ তাতে বিভ্রান্ত হয়, সে জ্ঞানী হয় না।",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "উপহাসকারী"
+    },
+    {
+      "surface": "היין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "গোঙানি"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "মদ্যপান"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আর যে কেউ"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "বিভ্রান্ত হয়"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "জ্ঞানী হয়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:08.116731103Z",
+  "model": "glm-5.2"
+}

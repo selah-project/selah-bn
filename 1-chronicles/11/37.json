@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "হেৎসরো হকার্মলী, নারাই এজবাই-এর পুত্র,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "হেৎসরো"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "হকার্মলী"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "নারাই"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "এজবাই-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:09.241625111Z",
+  "model": "glm-5.2"
+}

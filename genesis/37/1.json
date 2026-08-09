@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "আর ইয়াকব বাস করলেন ⟨তাঁর⟩ পিতার পরবাসের দেশে, কনান দেশে।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "আর বাস করলেন"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ইয়াকব"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "পরবাসের"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতার"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:37.419815503Z",
+  "model": "glm-5.2"
+}

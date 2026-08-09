@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "ডানে বা বামে নত হবে না; তোমার পা মন্দ ⟨থেকে⟩ সরাও।",
+  "tokens": [
+    {
+      "surface": "אַֽל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תֵּ֥ט",
+      "gloss": "নত হবে"
+    },
+    {
+      "surface": "יָמִ֛ין",
+      "gloss": "ডানে"
+    },
+    {
+      "surface": "וּשְׂמֹ֖אול",
+      "gloss": "বা বামে"
+    },
+    {
+      "surface": "הָסֵ֥ר",
+      "gloss": "সরাও"
+    },
+    {
+      "surface": "רַגְלְךָ֥",
+      "gloss": "তোমার পা"
+    },
+    {
+      "surface": "מֵרָֽע",
+      "gloss": "মন্দ ⟨থেকে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:52.213510509Z",
+  "model": "glm-5.2"
+}

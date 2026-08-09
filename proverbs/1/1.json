@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "শলোমোহর উপমাসমূহ — দাভিদের পুত্র, য়িসরায়েলের রাজা।",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "উপমাসমূহ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহর"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িসরায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:37.682127780Z",
+  "model": "glm-5.2"
+}

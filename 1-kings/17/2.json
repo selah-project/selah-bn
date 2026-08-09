@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আর ইয়াহওয়েহ-এর বাক্য তাঁর ⟨কাছে⟩ এল, যে বলে,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨এল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁর কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "যে বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:16:02.131639310Z",
+  "model": "glm-5.2"
+}

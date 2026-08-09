@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "যাও ও আমার দাস দাভিদকে বলো: এই বলেন ইয়াহওয়েহ — তুমি কি আমার জন্য বাস করার একটি বাড়ি বানাবে?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "যাও"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ও বলবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "আমার দাস"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইভাবে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "তুমি কি"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "বানাবে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাড়ি"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "বাস করার"
+    }
+  ],
+  "timestamp": "2026-08-09T04:02:06.605698734Z",
+  "model": "glm-5.2"
+}

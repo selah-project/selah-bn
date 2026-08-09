@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "জলে যার ⟨কোনো⟩ পাখা ও ⟨কোনো⟩ আঁশ নেই — সে ঘৃণ্য বস্তু ⟨হবে⟩ তোমাদের জন্য।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব যা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখা"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "এবং আঁশ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "জলে"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ঘৃণ্য বস্তু"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T09:02:27.492604216Z",
+  "model": "glm-5.2"
+}

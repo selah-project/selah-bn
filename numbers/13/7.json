@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "য়িসসাখার ⟨গোত্রের⟩ ⟨জন্য⟩ য়িগআল, য়োসেফের পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "য়িসসাখার"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "য়িগআল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োসেফের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:47.592078528Z",
+  "model": "glm-5.2"
+}

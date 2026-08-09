@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আর তারা মারায় এল; কিন্তু মারার জল পান করতে পারল না, কারণ তা তিক্ত ছিল; সুতরাং তার নাম মারা ডাকা হলো।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "আর এল"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "মারায়"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "কিন্তু না"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "পারল"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "পান করতে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "মারার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "তিক্ত"
+    },
+    {
+      "surface": "הם",
+      "gloss": "তা"
+    },
+    {
+      "surface": "על",
+      "gloss": "সুতরাং"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সুতরাং"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ডাকা হলো"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "তার নাম"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "মারা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:47:08.835152651Z",
+  "model": "glm-5.2"
+}

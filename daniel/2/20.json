@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 2:20",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "দানিয়েল উত্তর দিলেন ও বললেন: 'যুগ থেকে যুগ পর্যন্ত এলোহ-র নাম ধন্য হোক, কারণ প্রজ্ঞা ও সামর্থ্য তাঁরই।'",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "উত্তর দিলেন"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "দানিয়েল"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ও বললেন"
+    },
+    {
+      "surface": "להוא",
+      "gloss": "হোক"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלהא",
+      "gloss": "এলোহ-র"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "যুগ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "עלמא",
+      "gloss": "যুগ"
+    },
+    {
+      "surface": "די",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "প্রজ্ঞা"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "ও সামর্থ্য"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাঁরই"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨—⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T06:25:57.561739670Z",
+  "model": "glm-5.2"
+}

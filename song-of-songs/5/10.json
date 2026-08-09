@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আমার প্রিয় ⟨ה⟩ উজ্জ্বল ও লাল, রীবিবাঁ থেকে বিশিষ্ট।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "আমার প্রিয়"
+    },
+    {
+      "surface": "צח",
+      "gloss": "উজ্জ্বল"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ও লাল"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "বিশিষ্ট"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "রীবিবাঁ থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:16:14.053877624Z",
+  "model": "glm-5.2"
+}

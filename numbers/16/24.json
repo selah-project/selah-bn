@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 16:24",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "“সমাজকে বল, এই কথা বলে — কোরহ, দাতন ও আভিরামের তাঁবুর চারপাশ থেকে ওপরে উঠে যাও।”",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "বল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই কথা বলে"
+    },
+    {
+      "surface": "העלו",
+      "gloss": "ওপরে উঠে যাও"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "তাঁবুর"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "দাতন"
+    },
+    {
+      "surface": "ואבירם",
+      "gloss": "ও আভিরাম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:14:31.423930445Z",
+  "model": "glm-5.2"
+}

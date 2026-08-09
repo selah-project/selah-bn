@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং য়িবহর ও এলিশামা ও এলিফলেৎ।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "এবং য়িবহর"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ও এলিশামা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ও এলিফলেৎ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:31.969909220Z",
+  "model": "glm-5.2"
+}

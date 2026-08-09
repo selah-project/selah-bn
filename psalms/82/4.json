@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 82,
+  "translation": "উদ্ধার করো দুর্বল ও অভাবীকে; দুষ্টদের হাত থেকে বাঁচাও।”",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "উদ্ধার করো"
+    },
+    {
+      "surface": "דל",
+      "gloss": "দুর্বল"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "এবং অভাবীকে"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "বাঁচাও"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:55.631537767Z",
+  "model": "glm-5.2"
+}

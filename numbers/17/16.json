@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "ইয়াহওয়েহ মোশেকে সম্বোধন করে বললেন।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সম্বোধন করে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:14:50.060278670Z",
+  "model": "glm-5.2"
+}

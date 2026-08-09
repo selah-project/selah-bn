@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কেন জাতিসমূহ গর্জিয়ে উঠল, আর ⟨জনগণের⟩ দলসমূহ বৃথা কল্পনা করছে?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "গর্জিয়ে উঠল"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিসমূহ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "আর দলসমূহ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "কল্পনা করছে"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "বৃথা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:34:05.911037879Z",
+  "model": "glm-5.2"
+}

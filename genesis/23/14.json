@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "এবং এফ্রোন আব্রাহামকে ⟨את⟩ উত্তর দিল, তাঁকে বলে:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "এবং উত্তর দিল"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "এফ্রোন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আব্রাহামকে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আব্রাহামকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:58:04.339875606Z",
+  "model": "glm-5.2"
+}

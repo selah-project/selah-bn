@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "তাঁর রাজ্যের আরম্ভ ⟨ছিল⟩ বাবেল ও এরেখ ও আক্কাদ ও কলনেহ, শিনআর দেশে।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "এবং ⟨ছিল⟩"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "আরম্ভ"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "তাঁর রাজ্যের"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবেল"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ও এরেখ"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "ও আক্কাদ"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "ও কলনেহ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "শিনআর"
+    }
+  ],
+  "timestamp": "2026-08-09T07:41:57.501993279Z",
+  "model": "glm-5.2"
+}

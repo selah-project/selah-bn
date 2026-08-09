@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "উত্তর দিক ⟨তিনি⟩ মাপলেন — পাঁচশ নল, মাপের নলে, চারিদিকে।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "মাপলেন"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "দিক"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "উত্তর"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "নল"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "নলে"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "মাপের"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারিদিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:31:05.077202238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "⟨את⟩ এই ⟨গুলি⟩ তোমরা খাবে জলে যা কিছু ⟨আছে⟩ তার সব ⟨থেকে⟩; যার ⟨আছে⟩ পাখনা ও ত্রক সে-সব তোমরা খাবে।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "সব থেকে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা কিছু"
+    },
+    {
+      "surface": "במים",
+      "gloss": "জলে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "לו",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখনা"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ও ত্রক"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:33.324158888Z",
+  "model": "glm-5.2"
+}

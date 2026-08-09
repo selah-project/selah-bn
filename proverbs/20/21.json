@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 20:21",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "নিধন হস্তান্তরিত হয় প্রথমে, কিন্তু তার অন্ত ⟨নয়⟩ ধন্য।",
+  "tokens": [
+    {
+      "surface": "נחלה",
+      "gloss": "নিধন"
+    },
+    {
+      "surface": "מבחלת",
+      "gloss": "হস্তান্তরিত হয়"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "প্রথমে"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "কিন্তু তার অন্ত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "תברך",
+      "gloss": "ধন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:44.253120769Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "ভাব শারার জীবন — একশ বছর ও বিশ বছর ও সাত বছর; ⟨এগুলি⟩ শারার জীবনের বছর।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ভাব"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "জীবন"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "শারার"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ও সাত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "שני",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "জীবনের"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "শারার"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:44.798138332Z",
+  "model": "glm-5.2"
+}

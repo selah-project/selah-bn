@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "অভিশপ্ত ⟨হও⟩ তোমার ঝুড়ি ও তোমার ময়াদ-পাত্র।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "তোমার ঝুড়ি"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ও তোমার ময়াদ-পাত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T03:31:31.382604850Z",
+  "model": "glm-5.2"
+}

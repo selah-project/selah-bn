@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "চন্দ্রমর অদ্রা, লামরায়ত চন্দ্রদা —",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "চন্দ্রমর"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "অদ্রা"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "লামরায়ত"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "চন্দ্রদা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:38.442128092Z",
+  "model": "glm-5.2"
+}

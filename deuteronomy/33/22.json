@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "এবং দান সম্বন্ধে বললেন, “দান ⟨এ⟩ সিংহের ছানা, বাশান থেকে লাফায়।”",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "এবং দান সম্বন্ধে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "তিনি বললেন"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ছানা"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "সিংহের"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "লাফায়"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "বাশান"
+    }
+  ],
+  "timestamp": "2026-08-09T09:37:27.742690237Z",
+  "model": "glm-5.2"
+}

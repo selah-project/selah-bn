@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "বায়িদ্দোর আচার্য্য, আত্মার মশুল্লাম —",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "বায়িদ্দোর"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "আচার্য্য"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "আত্মার"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "মশুল্লাম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:38.442221885Z",
+  "model": "glm-5.2"
+}

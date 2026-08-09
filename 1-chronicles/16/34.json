@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "ইয়াহওয়েহকে ধন্যবাদ দাও, কারণ ⟨তিনি⟩ ভালো, কারণ অনন্তকাল তাঁর হেসেদ।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ধন্যবাদ দাও"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহকে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাল"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "তাঁর হেসেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:43:35.065043427Z",
+  "model": "glm-5.2"
+}

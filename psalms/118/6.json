@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 118,
+  "translation": "ইয়াহওয়েহ আমার ⟨পক্ষে⟩; আমি ভয় করব না — মানুষ আমার কী করবে?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "আমি ভয় করব"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "সে করবে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:19:33.395286922Z",
+  "model": "glm-5.2"
+}

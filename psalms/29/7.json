@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "ইয়াহওয়েহর কণ্ঠ ⟨আগুনের⟩ শিখা খোদায়।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "কণ্ঠ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়אহওয়েহর"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "খোদায়"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "শিখা"
+    },
+    {
+      "surface": "אש",
+      "gloss": "⟨আগুনের⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:34:44.681967484Z",
+  "model": "glm-5.2"
+}

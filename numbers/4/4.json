@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 4:4",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "“এটাই কাহতের পুত্রদের সেবা সমাবেশের তাঁবুতে — ⟨এটি⟩ পবিত্রতে পবিত্র।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এটাই"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "সেবা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কাহত"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "তাঁবুতে"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সমাবেশের"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "পবিত্রতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:09:33.976417464Z",
+  "model": "glm-5.2"
+}

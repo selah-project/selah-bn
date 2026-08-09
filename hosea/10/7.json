@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "নিশ্চিহ্ন হবে শোমরোন, ⟨তার⟩ রাজা—জলের উপর ফেনার মতো।",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "নিশ্চিহ্ন হবে"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "শোমরোন"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "⟨তার⟩ রাজা"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ফেনার মতো"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨নিচে⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জলের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:19:33.314553054Z",
+  "model": "glm-5.2"
+}

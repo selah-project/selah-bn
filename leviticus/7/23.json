@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "“ইস্রায়েলের সন্তানদের উদ্দেশ্যে কথা বলো, বলে: গরু, ভেড়া ও ছাগলের কোনো চর্বি তোমরা খাবে না।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "কথা বলো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উদ্দেশ্যে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানদের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "চর্বি"
+    },
+    {
+      "surface": "שור",
+      "gloss": "গরু"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "ও ভেড়া"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "ও ছাগল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "খাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:37.357744588Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে বললেন, বলে যেও—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যেও"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:16.497713213Z",
+  "model": "glm-5.2"
+}

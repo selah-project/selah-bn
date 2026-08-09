@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তাঁর সাতটি পুত্র ও তিনটি কন্যা জন্মগ্রহণ করেছিল।",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "জন্মগ্রহণ করেছিল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁর"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাতটি"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ও তিনটি"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "কন্যা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:05:22.732556363Z",
+  "model": "glm-5.2"
+}

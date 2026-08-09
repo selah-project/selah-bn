@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তখন তুমি বুঝবে ইয়াহওয়েহের ভয়, এবং এলোহিমের জ্ঞান পাবে।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "তুমি বুঝবে"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "এবং জ্ঞান"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "পাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:45.088210063Z",
+  "model": "glm-5.2"
+}

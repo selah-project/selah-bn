@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং গৃহপালিত গরু বাহানা দ্বারা দুই ও সত্তর হাজার।",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "এবং গৃহপালিত গরু"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "এবং সত্তর"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T03:19:42.923663721Z",
+  "model": "glm-5.2"
+}

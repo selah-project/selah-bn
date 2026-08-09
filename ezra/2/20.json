@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "গিব্বার-এর পুত্ররা — নব্বই পাঁচ জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "গিব্বার"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নব্বই"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "এবং পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:49.294380083Z",
+  "model": "glm-5.2"
+}

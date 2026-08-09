@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এক প্রজন্ম যায় এবং ⟨আরেক⟩ প্রজন্ম আসে, কিন্তু পৃথিবী ⟨সর্বদা⟩ দাঁড়িয়ে থাকে।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "প্রজন্ম"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "এবং প্রজন্ম"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আসে"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "কিন্তু পৃথিবী"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨সর্বদা⟩"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "দাঁড়িয়ে থাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:46.822846344Z",
+  "model": "glm-5.2"
+}

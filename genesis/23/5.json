@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তখন হেতের সন্তানেরা আভ্রাহামকে ⟨את⟩ উত্তর দিল, তাকে বলে:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "তখন উত্তর দিল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "חת",
+      "gloss": "হেতের"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভ্রাহামকে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:08.840310907Z",
+  "model": "glm-5.2"
+}

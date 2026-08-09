@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং তিনি বললেন, “দেখ এখন, আমি বৃদ্ধ হয়েছি; আমি জানি না আমার মৃত্যুর দিন।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং তিনি বললেন"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "আমি বৃদ্ধ হয়েছি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "আমি জানি"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "আমার মৃত্যুর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:34.002727248Z",
+  "model": "glm-5.2"
+}

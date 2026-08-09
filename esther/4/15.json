@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর এস্তার মর্দচীকে উত্তর পাঠালেন:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এস্তার"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "উত্তর দিতে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মর্দচী"
+    }
+  ],
+  "timestamp": "2026-08-09T06:23:31.950167439Z",
+  "model": "glm-5.2"
+}

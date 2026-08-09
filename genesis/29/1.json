@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "আর ইয়াকব ⟨তাঁর⟩ পা তুললেন এবং চললেন কেদেম-পুত্রদের দেশে।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "আর তুললেন"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ইয়াকব"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "পা"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "এবং চললেন"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "কেদেম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:54.887296240Z",
+  "model": "glm-5.2"
+}

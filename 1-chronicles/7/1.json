@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আর য়িশাসখারের পুত্রেরা: তোলা, ফুয়া, য়শিব ও শিমরোন — চারজন।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "আর … পুত্রেরা"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "য়িশাসখারের"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "তোলা"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "ফুয়া"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "য়শিব"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ও শিমরোন"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চারজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:30.551768321Z",
+  "model": "glm-5.2"
+}

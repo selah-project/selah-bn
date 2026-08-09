@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 106,
+  "translation": "অদ্ভুত কাজ হামের দেশে, ভয়ঙ্কর কাজ সুফ সাগরে।",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "অদ্ভুত ⟨কাজ⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "חם",
+      "gloss": "হামের"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "ভয়ঙ্কর ⟨কাজ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সাগরে"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "সুফ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:18.950703121Z",
+  "model": "glm-5.2"
+}

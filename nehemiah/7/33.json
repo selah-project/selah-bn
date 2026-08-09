@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "নেবো-র ⟨অন্যান্য⟩ লোকেরা, বাহান্ন।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "নেবো"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "অন্যান্য"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও-দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:12.481105125Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 1:29",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তাঁদের গণনাকৃত জন, যিষস্কার গোত্রে চুয়ান্ন হাজার চারশ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "তাঁদের গণনাকৃত জন"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রে"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "যিষস্কার"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চার"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ও পঞ্চাশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ও চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:03:10.044744331Z",
+  "model": "glm-5.2"
+}

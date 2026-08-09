@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং এবর চৌত্রিশ বছর বেঁচে রইলেন, এবং ⟨את⟩ পেলেগকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং বেঁচে রইলেন"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এবর"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "এবং তিরিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পেলেগকে"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "পেলেগ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:17.642737300Z",
+  "model": "glm-5.2"
+}

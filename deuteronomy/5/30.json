@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তাদের কাছে যাও, তাদের বল: ‘তোমরা ⟨নিজেদের জন্য⟩ ফিরে যাও, তোমাদের তাঁবুতে।’",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "যাও"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বল"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের কাছে"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ফিরে যাও"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨নিজেদের জন্য⟩"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "তোমাদের তাঁবুতে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:06:10.677744328Z",
+  "model": "glm-5.2"
+}

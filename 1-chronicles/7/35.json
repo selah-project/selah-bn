@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং তার ভাই হেলেমের পুত্রেরা: তসোফখ, উয়িমনা, উশেলেশ এবং উআমল।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "এবং …-এর পুত্রেরা"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "হেলেম"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তার ভাই"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "তসোফখ"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "উয়িমনা"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "উশেলেশ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "উআমল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:58.125629699Z",
+  "model": "glm-5.2"
+}

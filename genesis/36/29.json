@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এই ⟨হলো⟩ হোরীয়দের আলুফগণ: আলুফ লোতান, আলুফ শোবল, আলুফ ত্সিবোন, আলুফ আনা।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "আলুফগণ"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "হোরীয়দের"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "আলুফ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতান"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "আলুফ"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "শোবল"
+    },
+    {
+      "surface": "אলוף",
+      "gloss": "আলুফ"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ত্সিবোন"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "আলুফ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:39.480498797Z",
+  "model": "glm-5.2"
+}

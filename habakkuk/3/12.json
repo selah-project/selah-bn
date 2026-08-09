@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "ক্রোধে তুমি পৃথিবী পদচারণা করলে, রোষে তুমি জাতিসমূহ দলাইলে।",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "ক্রোধে"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "তুমি পদচারণা করলে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিবী"
+    },
+    {
+      "surface": "באף",
+      "gloss": "রোষে"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "তুমি দলাইলে"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:26:10.223885629Z",
+  "model": "glm-5.2"
+}

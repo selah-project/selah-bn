@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "⟨পুত্র⟩ এইতান, ⟨পুত্র⟩ জিম্মা, ⟨পুত্র⟩ শিমি।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "এইতান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "জিম্মা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমি"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:54.467652347Z",
+  "model": "glm-5.2"
+}

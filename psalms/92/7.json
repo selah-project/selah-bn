@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 92,
+  "translation": "একজন পশু-সম মানুষ ⟨সে⟩ জানে না, আর একজন নির্বোধ ⟨সে⟩ বোঝে না ⟨আת⟩ এই ⟨বিষয়⟩।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "একজন মানুষ"
+    },
+    {
+      "surface": "בער",
+      "gloss": "পশু-সম"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "আর একজন নির্বোধ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বোঝে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T05:47:43.600679081Z",
+  "model": "glm-5.2"
+}

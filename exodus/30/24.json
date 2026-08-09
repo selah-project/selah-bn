@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "ও কচু পাঁচশো, পবিত্র-শেকেলে, ও জলপাই তেল এক হীন।",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": "ও কচু"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "শেকেলে"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ও তেল"
+    },
+    {
+      "surface": "זית",
+      "gloss": "জলপাই"
+    },
+    {
+      "surface": "הין",
+      "gloss": "এক হীন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:54:23.661166208Z",
+  "model": "glm-5.2"
+}

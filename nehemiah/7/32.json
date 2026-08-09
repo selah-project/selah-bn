@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বাইত-এল ও হা-আই-এর লোকেরা — এক শত তেইশ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাইত-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-এল"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ও হা-আই"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এক শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ও তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:41.330948304Z",
+  "model": "glm-5.2"
+}

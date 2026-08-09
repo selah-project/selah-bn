@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তাহলে অনুগ্রহ ও উত্তম বুদ্ধি খুঁজে পাবে — এলোহিম ও মানুষের চোখে।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "তাহলে খুঁজে পাবে"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্রহ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ও বুদ্ধি"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চোখে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ও মানুষ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:20.806548306Z",
+  "model": "glm-5.2"
+}

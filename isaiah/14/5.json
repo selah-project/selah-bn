@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "ইয়াহওয়েহ দুষ্টদের লাঠি ভেঙেছেন, শাসকদের রাজদণ্ড ⟨অর্থাৎ⟩।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ভেঙেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "লাঠি"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "রাজদণ্ড"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "শাসকদের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:30:45.427391784Z",
+  "model": "glm-5.2"
+}

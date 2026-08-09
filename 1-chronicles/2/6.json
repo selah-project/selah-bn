@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ও জেরহের পুত্র ⟨থেল⟩ জিমরি ও এইতান ও হেইমান ও কালকোল ও দারা — তাঁরা সকলে পাঁচজন।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ও পুত্র"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেরহ"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "জিমরি"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "ও এইতান"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "ও হেইমান"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "ও কালকোল"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "ও দারা"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "সকলে"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:12.216287808Z",
+  "model": "glm-5.2"
+}

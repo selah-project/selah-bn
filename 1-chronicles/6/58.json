@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং ⟨את⟩ রামোত ও তার চারণভূমি, ⟨את⟩ আনেম ও তার চারণভূমি।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "রামোত"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "রামোত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "তার চারণভূমি"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "তার চারণভূমি"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আনেম"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "আনেম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "তার চারণভূমি"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "তার চারণভূমি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:26.980783772Z",
+  "model": "glm-5.2"
+}

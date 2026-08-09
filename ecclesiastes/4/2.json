@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "তাই আমি প্রশংসা করছি ⟨את⟩ মৃতদের, যারা ইতোমধ্যে মৃত, জীবিতদের চেয়ে, যারা এখনও জীবিত,",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "তাই আমি প্রশংসা করছি"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মৃতদের"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতদের"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "যারা ইতোমধ্যে"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মৃত"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীবিতদের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যারা"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীবিত"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "এখনও"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:43.957905663Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ও পার্বত্য অঞ্চলে: শামির ও য়াত্তির ও সোকোহ;",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "ও পার্বত্য অঞ্চলে"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "শামির"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "ও য়াত্তির"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "ও সোকোহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:19.717981228Z",
+  "model": "glm-5.2"
+}

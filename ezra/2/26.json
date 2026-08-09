@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "রামা ও গবার পুত্ররা — ছশ একুশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "রামা"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ও গবা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "একুশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:30.458030570Z",
+  "model": "glm-5.2"
+}

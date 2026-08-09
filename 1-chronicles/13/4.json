@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "এবং সমগ্র সভা এইরূপ করতে বলল, কারণ ⟨ব্যাপারটি⟩ সমগ্র জনগণের চোখে ⟨ছিল⟩ সঠিক।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্র"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "করতে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এইরূপ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সঠিক"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨ব্যাপারটি⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চোখে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্র"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনগণের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:43:08.366855447Z",
+  "model": "glm-5.2"
+}

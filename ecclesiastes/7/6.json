@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কারণ কণ্টকিনীদের শব্দের মতো ⟨যা শোনা যায়⟩ হাঁড়ির নিচে, তেমনই বোকার হাসি; এমনকি এটাও হেবেল।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "কণ্টকিনীদের শব্দের মতো"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "কণ্টকিনীদের"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "হাঁড়ির"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেমনই"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "হাসি"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "বোকার"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এটাও"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:52.609352879Z",
+  "model": "glm-5.2"
+}

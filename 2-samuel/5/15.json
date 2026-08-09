@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং ইভহার, এলিশুয়া, নেফেগ ও য়াফিয়া।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "এবং ইভহার"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "এলিশুয়া"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "নেফেগ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ও য়াফিয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T04:01:09.964615816Z",
+  "model": "glm-5.2"
+}

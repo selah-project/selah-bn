@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তিনি আরও বললেন, “ধন্য ইয়াহওয়েহ, শেমের এলোহিম; আর কনান ⟨হবে⟩ তাদের দাস।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তিনি আরও বললেন"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেমের"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "⟨আর⟩ ⟨সে⟩ হবে"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:17.784310944Z",
+  "model": "glm-5.2"
+}

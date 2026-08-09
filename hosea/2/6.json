@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর ⟨את⟩ তার ছেলেদের আমি করুণা করব না, কারণ ব্যভিচারের ছেলে তারা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "তার ছেলেদের"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "তার ছেলেদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "আমি করুণা করব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ছেলে"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "ব্যভিচারের"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:17:35.028724758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "হা-আভ্ভীয়, হা-পারা, অফ্রা,",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "হা-আভ্ভীয়"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "হা-পারা"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "অফ্রা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:49.605007774Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ছাগলের একটি লোমশ পাঁঠা পাপ-উপহারের জন্য।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "লোমশ পাঁঠা"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ছাগলের"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "পাপ-উপহারের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:31.880084180Z",
+  "model": "glm-5.2"
+}

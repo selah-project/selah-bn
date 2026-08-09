@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 45,
+  "translation": "এবং তৈলের নিয়ম: এক বাত তৈল — এক কোর থেকে এক বাতের দশভাগের এক ভাগ, কারণ দশ বাত এক হোমার; কেননা দশ বাত এক হোমার।",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "এবং নিয়ম"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তৈলের"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "বাত"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তৈল"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "দশভাগের এক ভাগ"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "বাতের"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "কোর"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "বাত"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "হোমার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "הבתিঝ",
+      "gloss": "বাত"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "হোমার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:15:20.481438903Z",
+  "model": "glm-5.2"
+}

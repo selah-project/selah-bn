@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "তখন ফরৌন যোসেফকে বললেন: আমার স্বপ্নে দেখলাম, আমি নদীর ⟨দ্বারে⟩ দাঁড়িয়ে আছি।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "তখন বললেন"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ফরৌন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "আমার স্বপ্নে"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "দেখলাম"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "দাঁড়িয়ে আছি"
+    },
+    {
+      "surface": "על",
+      "gloss": "দ্বারে"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "নদীর"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "নদী"
+    }
+  ],
+  "timestamp": "2026-08-09T02:40:20.799239267Z",
+  "model": "glm-5.2"
+}

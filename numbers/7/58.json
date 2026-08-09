@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ছাগলের একটি শিংওয়ালা পাঁঠা, পাপের উৎসর্গ হিসেবে।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "শিংওয়ালা পাঁঠা"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ছাগলের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপের উৎসর্গ হিসেবে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:52:27.740857626Z",
+  "model": "glm-5.2"
+}

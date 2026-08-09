@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর লেবীয়দের থেকে — শমায়, পুত্র হশ্শুব, পুত্র আজ্রিকাম, পুত্র হশবয়, পুত্র বুন্নি।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "আর — থেকে"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেবীয়দের"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "শমায়"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "হশ্শুব"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "আজ্রিকাম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "হশবয়"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "বুন্নি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:05.099898616Z",
+  "model": "glm-5.2"
+}

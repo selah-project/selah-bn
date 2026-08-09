@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আমাদের পিতৃগণ পাপ করল, ⟨তাঁরা⟩ নেই, আমরা ⟨তাঁদের⟩ অন্যায়গুলি বহন করেছি।",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "আমাদের পিতৃগণ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "পাপ করল"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমরা"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "তাঁদের অন্যায়গুলি"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "বহন করেছি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:36.743514722Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আর নোহ সবকিছু করলেন, যা ইয়াহওয়েহ তাঁকে আজ্ঞা দিয়েছিলেন।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আর করলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোহ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "সবকিছু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "তাঁকে আজ্ঞা দিয়েছিলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:42:45.100461490Z",
+  "model": "glm-5.2"
+}

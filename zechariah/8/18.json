@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং সেই হলো ইয়াহওয়েহ সেবাওতের বাক্য ⟨আমার প্রতি⟩, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং সেই হলো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "সেবাওত"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার প্রতি"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:20.236663031Z",
+  "model": "glm-5.2"
+}

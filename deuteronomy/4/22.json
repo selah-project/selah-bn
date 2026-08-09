@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "“কারণ আমি এই দেশে মারা যাচ্ছি, আমি ⟨את⟩ যর্দন পার হচ্ছি না; আর তোমরা পার হবে এবং এই ভাল দেশের ⟨את⟩ অধিকার নেবে।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "מת",
+      "gloss": "মারা যাচ্ছি"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "না"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "পার হচ্ছি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "যর্দন"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "যর্দন"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "আর তোমরা"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "পার হবে"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "এবং অধিকার নেবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই ভাল দেশ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:32.038548743Z",
+  "model": "glm-5.2"
+}

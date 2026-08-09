@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এবং শেবূয়েল — গেরশোমের পুত্র, মোশের পুত্র — ভাণ্ডারগুলোর উপর নগিদ।",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "এবং শেবূয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "গেরশোমের"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "নগিদ"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "ভাণ্ডারগুলোর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:45:50.141501103Z",
+  "model": "glm-5.2"
+}

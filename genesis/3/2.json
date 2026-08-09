@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "স্ত্রী ⟨নাগ-এর⟩ কাছে বলল, “বাগানের গাছের ফল আমরা খাব,”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "বলল"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "স্ত্রী"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "নাগ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গাছের"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "বাগানের"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "খাব"
+    }
+  ],
+  "timestamp": "2026-08-09T17:55:28.578529605Z",
+  "model": "glm-5.2"
+}

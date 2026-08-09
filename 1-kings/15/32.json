@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-kings 15:32",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ও যুদ্ধ ছিল আসা ও ইস্রায়েলের রাজা বাসার মধ্যে, তাদের সমস্ত দিন।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ও যুদ্ধ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "আসা"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ও"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "বাসার"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "তাদের দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:10:36.611042801Z",
+  "model": "glm-5.2"
+}

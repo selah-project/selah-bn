@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ধার্মিকের গৃহে ⟨রয়ে⟩ প্রচুর সম্পদ, আর দুষ্টের আয়ে ⟨রয়ে⟩ বিঘ্ন।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "সম্পদ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "প্রচুর"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "আর আয়ে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্টের"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "বিঘ্ন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:05.352991402Z",
+  "model": "glm-5.2"
+}

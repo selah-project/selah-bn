@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "জেরহিয়ার পুত্র, উজ্জির পুত্র, বুক্কির পুত্র।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "জেরহিয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:31.822684741Z",
+  "model": "glm-5.2"
+}

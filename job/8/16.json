@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 8:16",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "সে রসালো ⟨থাকে⟩ সূর্যের সামনে, এবং তার বাগানের উপর তার চারা বেরোয়।",
+  "tokens": [
+    {
+      "surface": "רטב",
+      "gloss": "রসালো"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং উপর"
+    },
+    {
+      "surface": "גנתו",
+      "gloss": "বাগানের"
+    },
+    {
+      "surface": "ינקתו",
+      "gloss": "চারা"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "বেরোয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:06:44.664165919Z",
+  "model": "glm-5.2"
+}

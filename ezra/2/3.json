@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "পর্শের পুত্রগণ — দুই হাজার এক শত সত্তর দুইজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "পর্শের"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজার"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এক শত"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সত্তর"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "দুইজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:29.391735994Z",
+  "model": "glm-5.2"
+}

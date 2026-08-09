@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "আর তুমি ⟨את⟩ এফোদের পোশাক সম্পূর্ণ নীল রঙে তৈরি করবে।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "আর তুমি তৈরি করবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পোশাক"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "পোশাক"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "এফোদের"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "সম্পূর্ণ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "নীল রঙে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:55:01.927719261Z",
+  "model": "glm-5.2"
+}

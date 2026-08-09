@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আর মাখিরকে আমি ⟨את⟩ গিলিয়দ দিলাম।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "আর মাখিরকে"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "আমি দিলাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গিলিয়দ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলিয়দ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:15.019030152Z",
+  "model": "glm-5.2"
+}

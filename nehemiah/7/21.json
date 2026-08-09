@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আটের-এর বংশধররা, হিজকিয়িয়ার ⟨এর⟩, আটানব্বই।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধররা"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "আটের-এর"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "হিজকিয়িয়ার"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "নব্বই"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ও আট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:26.157544831Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨সে⟩ হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:43:48.295733385Z",
+  "model": "glm-5.2"
+}

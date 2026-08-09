@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "স্থির মনে ⟨যারা⟩ আছে, তাদের ⟨তুমি⟩ শান্তি, শান্তি রক্ষা কর; কারণ তোমাতে ⟨তার⟩ ভরসা।",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "মন"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "স্থির"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "রক্ষা কর"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমাতে"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "ভরসা"
+    }
+  ],
+  "timestamp": "2026-08-09T04:33:24.333392826Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আমিও উত্তর দেব, আমিও আমার অংশ; আমি জানাব আমার জ্ঞান, আমিও।",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "উত্তর দেব"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "আমার অংশ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "জানাব"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "আমার জ্ঞান"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:12:51.649890160Z",
+  "model": "glm-5.2"
+}

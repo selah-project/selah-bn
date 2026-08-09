@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "সেই দিনগুলিতে আমি, দানিয়েল, শোক করছিলাম তিন সপ্তাহ, দিনের।",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "দিনগুলিতে"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "দানিয়েল"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ছিলাম"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "শোক করছিলাম"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সপ্তাহ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিনের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:28:43.814260570Z",
+  "model": "glm-5.2"
+}

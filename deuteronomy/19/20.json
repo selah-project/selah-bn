@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং অবশিষ্টরা শুনবে ও ভয় পাবে, এবং তারা আর তোমার মধ্যে এই মন্দ কাজের মতো করা যোগ করবে না।",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "এবং অবশিষ্টরা"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "শুনবে"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ও ভয় পাবে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "যোগ করবে"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "করা"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "কাজের মতো"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "তোমার মধ্যে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:28:03.936544043Z",
+  "model": "glm-5.2"
+}

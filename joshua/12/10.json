@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "য়েরুশালায়িমের রাজা — একজন; খেব্রোনের রাজা — একজন;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "য়েরুশালায়িম"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "খেব্রোন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.986043511Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং তুমি চুরি করবে না।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "তুমি চুরি করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:35.681340119Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "তুমি চুরি করবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "তুমি চুরি করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:49:53.265391715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "আর লেআহের চোখ ছিল ⟨ছিল⟩ কোমল, কিন্তু রাহেল ছিল সুঠামদেহী ও সুদর্শন।",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "আর চোখ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেআহের"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "কোমল"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "কিন্তু রাহেল"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "সুন্দর"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "সুঠামদেহী"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ও সুন্দর"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "সুদর্শন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:47.795339513Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এয়লাম পঞ্চম, য়েহোখানান ষষ্ঠ, এলিয়াহোএনাই সপ্তম।",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "এয়লাম"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "পঞ্চম"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "য়েহোখানান"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "এলিয়াহোএনাই"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:45:37.867541512Z",
+  "model": "glm-5.2"
+}

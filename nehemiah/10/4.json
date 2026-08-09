@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "পাশহুর, আমরিয়, মালকিয়।",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "পাশহুর"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "আমরিয়"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "মালকিয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:21.224414749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "খরিফ-এর বংশধররা, একশ বারো।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধররা"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "খরিফ-এর"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-র দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:26.157973259Z",
+  "model": "glm-5.2"
+}

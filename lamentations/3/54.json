@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "জল আমার মাথার উপর উপচে গেল; আমি বললাম, আমি কর্তিত।",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "উপচে গেল"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "আমার মাথার"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "আমি বললাম"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "আমি কর্তিত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:06.248614431Z",
+  "model": "glm-5.2"
+}

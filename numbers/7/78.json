@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "দ্বাদশ দিনে ⟨এগিয়ে এলেন⟩ নাফতালিয় সন্তানদের নেতা, আখিরা এনানের পুত্র।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "সন্তানদের"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নাফতালিয়"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "আখিরা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "এনানের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:55.296292204Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তসোফখের পুত্রেরা: সুয়খ, উখারনেফের, উশুয়াল, উবেরি এবং উয়িমরা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…-এর পুত্রেরা"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "তসোফখ"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "সুয়খ"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "উখারনেফের"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "উশুয়াল"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "উবেরি"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "উয়িমরা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:58.125771567Z",
+  "model": "glm-5.2"
+}

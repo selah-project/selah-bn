@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আর ইয়াহওয়েহ-এর দূত যিহোশূয়কে সাক্ষ্য দিলেন, বলে:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "আর সাক্ষ্য দিলেন"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "যিহোশূয়কে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:05.430908235Z",
+  "model": "glm-5.2"
+}

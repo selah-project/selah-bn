@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং এলআসা ⟨את⟩ সিসময়ের জনক হলেন, এবং সিসময় ⟨את⟩ শল্লূমের জনক হলেন।",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "এবং এলআসা"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সিসময়"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "সিসময়"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "এবং সিসময়"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শল্লূম"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শল্লূম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:56.446376167Z",
+  "model": "glm-5.2"
+}

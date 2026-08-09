@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবর, পেলেগ, রেউ।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "এবর"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "পেলেগ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "রেউ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:06.692277829Z",
+  "model": "glm-5.2"
+}

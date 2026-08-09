@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একটি স্বর্ণের হাতা, দশ ⟨শেকেল⟩, ধূপে ভরা।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "হাতা"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "স্বর্ণের"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভরা"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:07.796768182Z",
+  "model": "glm-5.2"
+}

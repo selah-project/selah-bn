@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 5:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে সম্বোধন করে বললেন:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সম্বোধন করে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T09:03:24.529199141Z",
+  "model": "glm-5.2"
+}

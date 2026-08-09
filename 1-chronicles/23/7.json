@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "গেরশোনীয়দের জন্য — লাদন ও শিমি।",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "গেরশোনীয়দের-জন্য"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "লাদন"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "এবং-শিমি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:50.933296015Z",
+  "model": "glm-5.2"
+}

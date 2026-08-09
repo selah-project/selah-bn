@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 75,
+  "translation": "সঙ্গীতপতির জন্য, 'বিনষ্ট কোরো না'; আসফের মিজমোর, এক গীত।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতপতির জন্য"
+    },
+    {
+      "surface": "אל",
+      "gloss": "'বিনষ্ট"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "কোরো না'"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোর"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "আসফের"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "এক গীত"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:09.800969817Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "আর যদি সত্য হয় ⟨এই⟩ বিষয়টি, বালিকার জন্য কুমারীত্ব পাওয়া যায়নি —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "সত্য"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বিষয়টি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨এই⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "পাওয়া যায়"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "কুমারীত্ব"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "বালিকার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T07:56:39.155796200Z",
+  "model": "glm-5.2"
+}

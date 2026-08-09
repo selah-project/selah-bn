@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং তাঁরা সাক্ষ্য দেবে ও বলবে, ‘আমাদের হাত ⟨את⟩ এই রক্ত ঢালেনি এবং আমাদের চোখ ⟨তাকে⟩ দেখেনি।’",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "এবং তাঁরা সাক্ষ্য দেবে"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "আমাদের হাত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ঢালেনি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই রক্ত"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "রক্ত"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "এবং আমাদের চোখ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "দেখেনি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:16.059811678Z",
+  "model": "glm-5.2"
+}

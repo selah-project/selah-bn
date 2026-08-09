@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং পেলেগ বাঁচলেন ত্রিশ বছর, এবং ⟨את⟩-রেউ-কে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং বাঁচলেন"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "পেলেগ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্রিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রেউ-কে"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "রেউ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:18.882663414Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "⟨একজন⟩ ধার্মিক জানে দরিদ্রদের বিচার; ⟨একজন⟩ দুষ্ট বোঝে না জ্ঞান।",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিক"
+    },
+    {
+      "surface": "דין",
+      "gloss": "বিচার"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "দরিদ্রদের"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বোঝে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-08-09T09:21:30.339582103Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "উপহাসী লোকেরা নগর উসকে দেয়, আর জ্ঞানীরা ক্রোধ ফেরায়।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "উপহাসী"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "উসকে দেয়"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "আর জ্ঞানীরা"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "ফেরায়"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ক্রোধ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:21:30.339820371Z",
+  "model": "glm-5.2"
+}

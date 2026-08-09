@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 7:14",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "“শালম উপহার আমার কাছে ⟨আছে⟩; আজ আমি আমার নজরনামা চুকিয়েছি।",
+  "tokens": [
+    {
+      "surface": "זבחי",
+      "gloss": "উপহার"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "শালম"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "שלמתי",
+      "gloss": "আমি চুকিয়েছি"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "আমার নজরনামা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:07.406901217Z",
+  "model": "glm-5.2"
+}

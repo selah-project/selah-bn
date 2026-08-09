@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:09:48.066885102Z",
+  "model": "glm-5.2"
+}

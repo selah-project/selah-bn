@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "এইগুলিও হাকামীমের জন্য: বিচারে মুখর পরিচয় দেওয়া — এটা মোটেই ভালো ⟨নয়⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইগুলি"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "হাকামীমের জন্য"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "পরিচয় দেওয়া"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখর"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "বিচারে"
+    },
+    {
+      "surface": "בל",
+      "gloss": "মোটেই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:15.917459922Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 50,
+  "translation": "আর যোসেফ তাদের বললেন, “ভয় করো না; কারণ এলোহিমের স্থানে আমি কি ⟨আছি⟩?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর ⟨সে⟩ বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদেরকে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "তোমরা ভয় করো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "স্থানে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:15.679584752Z",
+  "model": "glm-5.2"
+}

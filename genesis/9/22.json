@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 9:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর খাম, কনানের পিতা, ⟨את⟩ নিজের পিতার নগ্নতা দেখল আর বাইরে ⟨সে⟩ তার দুই ভাইকে বলল।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "আর দেখল"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খাম"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনানের"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিজের পিতার নগ্নতা"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "পিতার"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "לשני",
+      "gloss": "দুই ... কে"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "বাইরে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:51:40.047803333Z",
+  "model": "glm-5.2"
+}

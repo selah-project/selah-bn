@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 132,
+  "translation": "তোমার দাস দাভিদের নিমিত্ত তোমার মশিয়ের মুখখানি ফিরিয়ো না।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "নিমিত্ত"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "তোমার দাস"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ফিরিয়ো"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখখানি"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "তোমার মশিয়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:14.136980024Z",
+  "model": "glm-5.2"
+}

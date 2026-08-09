@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 52,
+  "translation": "হে বীর, তুমি কেন কুকর্মে গর্ব করো? এল-এর হেসেদ ⟨היא⟩ সারাদিন ⟨বর্তমান⟩।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "তুমি গর্ব করো"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "কুকর্মে"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "হে বীর"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "হেসেদ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল-এর"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সারা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:38:57.903909930Z",
+  "model": "glm-5.2"
+}

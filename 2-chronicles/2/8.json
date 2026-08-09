@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "“আর আমার জন্য প্রচুর কাঠ প্রস্তুত করতে; কারণ ⟨সেই⟩ গৃহ যা আমি নির্মাণ করছি ⟨তা⟩ বিশাল ও অদ্ভুত।”",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "আর প্রস্তুত করতে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "কাঠ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "প্রচুর"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "নির্মাণ করছি"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "বিশাল"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "ও অদ্ভুত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:48:45.688063310Z",
+  "model": "glm-5.2"
+}

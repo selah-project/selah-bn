@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "খাত্তূশ, শেবানিয়া, মল্লূখ",
+  "tokens": [
+    {
+      "surface": "חַטּ֥וּשׁ",
+      "gloss": "খাত্তূশ"
+    },
+    {
+      "surface": "שְׁבַנְיָ֖ה",
+      "gloss": "শেবানিয়া"
+    },
+    {
+      "surface": "מַלּֽוּךְ",
+      "gloss": "মল্লূখ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:45.226258779Z",
+  "model": "glm-5.2"
+}

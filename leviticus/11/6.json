@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ আরনেবেত — কারণ সে গেরা তোলে, কিন্তু পারসা বিভক্ত করেনি, সে তোমাদের জন্য অপবিত্র,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আরনেবেত"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "আরনেবেত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "তোলে"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "গেরা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "এবং পারসা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "বিভক্ত করেছে"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "অপবিত্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T13:56:54.829622097Z",
+  "model": "glm-5.2"
+}

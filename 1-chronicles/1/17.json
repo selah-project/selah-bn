@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "শেমের পুত্রেরা: এলাম, অশূর, আর্পকষদ, লূদ ও আরাম; ⟨এবং⟩ ঊৎ, হূল, গেথর ও মেশেক।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেম"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এলাম"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "অশূর"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "আর্পকষদ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "লূদ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "আরাম"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "ঊৎ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "হূল"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "গেথর"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "মেশেক"
+    }
+  ],
+  "timestamp": "2026-08-09T09:26:14.103627319Z",
+  "model": "glm-5.2"
+}

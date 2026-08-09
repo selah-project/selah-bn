@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "আর ইয়াহওয়েহ মোশের সাথে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সাথে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:21:01.939874500Z",
+  "model": "glm-5.2"
+}

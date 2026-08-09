@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "এবং ইয়োসেফ তাঁকে বললেন: “এর ⟨হল⟩ ব্যাখ্যা: তিনটি লতা — তিন দিন ⟨তারা⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ইয়োসেফ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এর"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ব্যাখ্যা"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিনটি"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "লতা"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "הם",
+      "gloss": "তারা"
+    }
+  ],
+  "timestamp": "2026-08-09T13:53:47.548905749Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "তাদের পতনের শব্দে পৃথিবী কেঁপে উঠল; ⟨একটি⟩ চিৎকার — সুফ সাগরে তার শব্দ শোনা গেল।",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "শব্দে"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "তাদের পতনের"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "কেঁপে উঠল"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "চিৎকার"
+    },
+    {
+      "surface": "בים",
+      "gloss": "সাগরে"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "সুফ"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "শোনা গেল"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "তার শব্দ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:00:01.062046286Z",
+  "model": "glm-5.2"
+}

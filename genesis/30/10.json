@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর লেয়ার দাসী জ়িলপাহ য়াকভের কাছে এক পুত্র প্রসব করলেন।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "আর প্রসব করলেন"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "জ়িলপাহ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "দাসী"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়ার"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকভের কাছে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এক পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:10.242462048Z",
+  "model": "glm-5.2"
+}

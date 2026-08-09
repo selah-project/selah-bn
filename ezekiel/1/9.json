@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 1:9",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "彼此连接着，一个贴近另一个——它们的翅膀；它们行走时不转身，各人向着自己脸的方向行走。",
+  "tokens": [
+    {
+      "surface": "חברת",
+      "gloss": "连接着"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "一个"
+    },
+    {
+      "surface": "אל",
+      "gloss": "贴近"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "另一个"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "它们的翅膀"
+    },
+    {
+      "surface": "לא",
+      "gloss": "不"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "转身"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "它们行走时"
+    },
+    {
+      "surface": "איש",
+      "gloss": "各人"
+    },
+    {
+      "surface": "אל",
+      "gloss": "向着"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "方向"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "他的脸"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "行走"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:54.102626994Z",
+  "model": "glm-5.2"
+}

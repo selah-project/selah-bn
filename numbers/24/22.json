@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "তবু যদি কায়িন ⟨তোমার⟩ জন্য নিঃশেষিত হয়, তবে কতকাল? অশ্শূর ⟨তোমাকে⟩ বন্দিনী করবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אם",
+      "gloss": "তবু"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "নিঃশেষিত"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কায়িন"
+    },
+    {
+      "surface": "עד",
+      "gloss": "তবে কতকাল"
+    },
+    {
+      "surface": "מה",
+      "gloss": "—"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "অশ্শূর"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "বন্দিনী করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:58:32.002582402Z",
+  "model": "glm-5.2"
+}

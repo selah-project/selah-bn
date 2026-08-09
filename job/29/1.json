@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "আর আইয়োভ ⟨আত্মকে⟩ তুললেন ⟨তাঁর⟩ উপমা এবং বললেন:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "আর"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "আইয়োভ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "তুললেন"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "তাঁর উপমা"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:11:42.626027652Z",
+  "model": "glm-5.2"
+}

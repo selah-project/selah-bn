@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 24:4",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "“এতে এর টুকরোগুলো জড়ো কর, প্রতিটি ভাল টুকরো, ঊরু ও কাঁধ; বাছাই করা হাড়ে পূর্ণ কর।”",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "তুমি জড়ো কর"
+    },
+    {
+      "surface": "נתחיה",
+      "gloss": "এর টুকরোগুলো"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "এতে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "נתח",
+      "gloss": "টুকরো"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ঊরু"
+    },
+    {
+      "surface": "וכתף",
+      "gloss": "ও কাঁধ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "বাছাই করা"
+    },
+    {
+      "surface": "עצמים",
+      "gloss": "হাড়ে"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "পূর্ণ কর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:30:07.757893227Z",
+  "model": "glm-5.2"
+}

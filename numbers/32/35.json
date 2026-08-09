@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "ও ⟨את⟩ আতারোত-শোফন ও ⟨את⟩ য়ায়েজের ও য়োগবহা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "আতারোত-শোফন"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "আতারোত"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "শোফন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "য়ায়েজের"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "য়ায়েজের"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ও য়োগবহা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:19.524113097Z",
+  "model": "glm-5.2"
+}

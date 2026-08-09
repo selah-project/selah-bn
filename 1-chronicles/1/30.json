@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "মিশমা, ও দুমা, মাসসা, হাদাদ, ও তেমা।",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "মিশমা"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ও দুমা"
+    },
+    {
+      "surface": "משא",
+      "gloss": "মাসসা"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "হাদাদ"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ও তেমা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:38.424837468Z",
+  "model": "glm-5.2"
+}

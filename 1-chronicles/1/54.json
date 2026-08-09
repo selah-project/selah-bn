@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "অধিপতি মগদিয়েল, অধিপতি ইরাম। এই ⟨הם⟩ এদোমের অধিপতিরা।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "মগদিয়েল"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ইরাম"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "অধিপতিরা"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:47.789607702Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨সে⟩ হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:11:37.825015654Z",
+  "model": "glm-5.2"
+}

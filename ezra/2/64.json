@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "সমস্ত সমাজ একসঙ্গে: চার মণ়, দুই হাজার, তিনশো ষাট।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "একসঙ্গে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "মণ়"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজার"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ষাট"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:39.885933980Z",
+  "model": "glm-5.2"
+}

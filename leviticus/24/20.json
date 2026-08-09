@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "ভাঙা বদলে ভাঙা, চোখ বদলে চোখ, দাঁত বদলে দাঁত; যেমন সে মানুষে বিকলাঙ্গ দিয়েছে, তেমনই তাতে দেওয়া হবে।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ভাঙা"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বদলে"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ভাঙা"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বদলে"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "দাঁত"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বদলে"
+    },
+    {
+      "surface": "שן",
+      "gloss": "দাঁত"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যেমন"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "সে দিয়েছে"
+    },
+    {
+      "surface": "מום",
+      "gloss": "বিকলাঙ্গ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "মানুষে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেমনই"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "দেওয়া হবে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:06:40.744597270Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "সব বিধবা ও এতিম ⟨কে⟩ তোমরা উত্ত্যক্ত করবে না।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধবা"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ও এতিম"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "তোমরা উত্ত্যক্ত করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:00:22.409485351Z",
+  "model": "glm-5.2"
+}

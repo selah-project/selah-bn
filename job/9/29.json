@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আমি ⟨হই⟩ দোষী; কেন এই ⟨জন্য⟩ বৃথাই আমি ক্লান্ত ⟨হই⟩?",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "দোষী ⟨হই⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "বৃথাই"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "ক্লান্ত ⟨হই⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T06:07:30.368009394Z",
+  "model": "glm-5.2"
+}

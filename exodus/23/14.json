@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তিন পর্ব তুমি আমার জন্য বছরে পালন করবে।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "পর্ব"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "তুমি পালন করবে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছরে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:51:53.330433988Z",
+  "model": "glm-5.2"
+}

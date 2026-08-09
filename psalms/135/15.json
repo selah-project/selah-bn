@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 135,
+  "translation": "জাতিদের মূর্তিগুলো ⟨হল⟩ রৌপ্য ও সোনা, মানুষের হাতের কার্য।",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "মূর্তিগুলো"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিদের"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রৌপ্য"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ও সোনা"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কার্য"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতের"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:54:05.078854701Z",
+  "model": "glm-5.2"
+}

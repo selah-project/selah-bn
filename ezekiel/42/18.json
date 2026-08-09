@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "⟨את⟩ দক্ষিণ দিক ⟨তিনি⟩ মাপলেন — পাঁচশ নল, মাপের নলে।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দক্ষিণ দিক"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "দিক"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "দক্ষিণ"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "মাপলেন"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "নল"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "নলে"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "মাপের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:31:05.077386328Z",
+  "model": "glm-5.2"
+}

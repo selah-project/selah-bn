@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 2:14",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "“এবং এখন গম, যব, তেল ও মদ — যা আমার প্রভু বলেছেন — ⟨তিনি⟩ ⟨সেগুলি⟩ তাঁর দাসদের পাঠাবেন।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "এবং এখন"
+    },
+    {
+      "surface": "החטים",
+      "gloss": "গম"
+    },
+    {
+      "surface": "והשערים",
+      "gloss": "যব"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "והיין",
+      "gloss": "ও মদ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আমার প্রভু"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "পাঠাবেন"
+    },
+    {
+      "surface": "לעבדיו",
+      "gloss": "তাঁর দাসদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:02.005831594Z",
+  "model": "glm-5.2"
+}

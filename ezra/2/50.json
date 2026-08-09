@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "অসনা-পুত্র, মেউনিম-পুত্র, নফিসিম-পুত্র।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "অসনা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "মেউনিম"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "নফিসিম"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:56.256838289Z",
+  "model": "glm-5.2"
+}

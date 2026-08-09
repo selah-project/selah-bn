@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর ইয়াহওয়েহের বাক্য শলোমোর কাছে এল, বলে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨হল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোর"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:08:10.459008090Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨את⟩ পরশন্দাতা, এবং ⟨את⟩ দলফোন, এবং ⟨את⟩ আস্পাতা —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পরশন্দাতা"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "পরশন্দাতা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "দলফোন"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "দলফোন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আস্পাতা"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "আস্পাতা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:25:08.179130668Z",
+  "model": "glm-5.2"
+}

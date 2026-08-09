@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 10:16",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর রাজা শলোমহ গাঁটা সোনার দুশো ঢাল বানালেন — প্রতি ঢালে ছশো ⟨শেকেল⟩ সোনা লাগত।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আর বানালেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমহ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুশো"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ঢাল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "গাঁটা"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশো"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনা"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "লাগত"
+    },
+    {
+      "surface": "על",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ঢালে"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T04:12:16.006448184Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "“দেখ, আমি ইয়াহওয়েহ, সকল মাংসের এলোহিম। আমার কাছে কি কোনো বিষয় অচেনা থাকবে?”",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকল"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসের"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "অচেনা থাকবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়"
+    }
+  ],
+  "timestamp": "2026-08-09T04:55:48.629149176Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কারণ অত্যাচার জ্ঞানীকে পাগল ⟨করে⟩, আর ⟨এটি⟩ ধ্বংস করে ⟨את⟩ হৃদয় ⟨যা⟩ উপহার।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "অত্যাচার"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "পাগল ⟨করে⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীকে"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "আর ধ্বংস করে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হৃদয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "⟨যা⟩ উপহার"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:52.609520879Z",
+  "model": "glm-5.2"
+}

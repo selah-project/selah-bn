@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "সেই কারণে আমি তোমাকে আজ্ঞা দিচ্ছি, বলছি: তুমি তোমার ⟨জন্য⟩ তিনটি শহর আলাদা করবে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "...-র উপর"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেই কারণে"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "তোমাকে আজ্ঞা দিচ্ছি"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলছি"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনটি"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "শহর"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "আলাদা করবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:28:31.493219256Z",
+  "model": "glm-5.2"
+}

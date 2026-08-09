@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আর গাদ-সন্তানেরা ⟨את⟩ দীবোন ও ⟨את⟩ আতারোত ও ⟨את⟩ আরোয়ের নির্মাণ করল।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "আর নির্মাণ করল"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দীবোন"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "দীবোন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "আতারোত"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "আতারোত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "আরোয়ের"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "আরোয়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:19.523968965Z",
+  "model": "glm-5.2"
+}

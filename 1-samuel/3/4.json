@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তখন ইয়াহওয়েহ শমুয়েলকে ডাকলেন, এবং সে বলল, “আমি ⟨আছি⟩।”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "তখন … ডাকলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—কে"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "শমুয়েল"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং সে বলল"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "আমি আছি"
+    }
+  ],
+  "timestamp": "2026-08-09T17:07:44.303481377Z",
+  "model": "glm-5.2"
+}

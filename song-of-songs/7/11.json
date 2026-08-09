@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আমি আমার প্রিয়ের, এবং আমার প্রতি ⟨তাঁর⟩ বাসনা।",
+  "tokens": [
+    {
+      "surface": "אֲנִי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "לְדוֹדִי",
+      "gloss": "আমার প্রিয়ের"
+    },
+    {
+      "surface": "וְעָלַי",
+      "gloss": "এবং আমার প্রতি"
+    },
+    {
+      "surface": "תְּשׁוּקָתוֹ",
+      "gloss": "⟨তাঁর⟩ বাসনা"
+    }
+  ],
+  "timestamp": "2026-08-09T14:27:39.300053379Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "আর যোসেফ সকালে তাদের কাছে এলেন, আর তাদের দেখলেন, আর দেখ, তারা বিষণ্ণ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "আর এলেন"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "তাদের কাছে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "সকালে"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "আর দেখলেন"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "তাদের"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "আর দেখ, তারা"
+    },
+    {
+      "surface": "זעפים",
+      "gloss": "বিষণ্ণ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:40:05.380991685Z",
+  "model": "glm-5.2"
+}

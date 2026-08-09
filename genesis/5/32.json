@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "নোখ পাঁচশো বছর বয়সে ছিলেন, এবং নোখ ⟨את⟩ শেম, ⟨את⟩ খাম ও ⟨את⟩ য়েফেৎ-কে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ছিলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোখ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বয়সে"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোখ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শেম-কে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "খাম-কে"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "য়েফেৎ-কে"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়েফেৎ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:38.671780152Z",
+  "model": "glm-5.2"
+}

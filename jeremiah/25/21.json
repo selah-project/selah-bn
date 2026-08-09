@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "⟨את⟩ এদোম এবং ⟨את⟩ মোয়াব এবং ⟨את⟩ অম্মোনের ⟨সন্তানদের⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এদোম"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "মোয়াব"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোয়াব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "অম্মোন-সন্তান"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তান"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "অম্মোন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:20:51.640949510Z",
+  "model": "glm-5.2"
+}

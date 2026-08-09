@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এদোমে রাজত্ব করল বেলা, বেয়োরের পুত্র; আর তাঁর শহরের নাম ⟨হলো⟩ দিনহবা।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "রাজত্ব করল"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "এদোমে"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "বেলা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "বেয়োরের"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "তাঁর শহরের"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "দিনহবা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:39.481247631Z",
+  "model": "glm-5.2"
+}

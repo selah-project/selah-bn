@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "উত্তরে লোকের আনন্দ হয়, আর ⟨নিজ⟩ সময়ে কথা — কত ভালো!",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "লোকের"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "উত্তরে"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "⟨তার মুখের⟩"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আর কথা"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কত"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:32.470585364Z",
+  "model": "glm-5.2"
+}

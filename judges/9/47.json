@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আভিমেলেখকে বলা হল যে শকেম-মিনারের সব অধিপতি একত্রিত হয়েছে।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "এবং বলা হল"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "আভিমেলেখকে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "একত্রিত হয়েছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "মিনার"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "শকেম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:44:23.951770935Z",
+  "model": "glm-5.2"
+}

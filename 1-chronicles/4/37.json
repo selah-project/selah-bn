@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং জিজা শিফির পুত্র, আল্লোনের পুত্র, যদায়ের পুত্র, শিমরির পুত্র, শেমায়ের পুত্র।",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "এবং জিজা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "শিফি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "আল্লোন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "যদায়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "শিমরি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "শেমায়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:15.873205030Z",
+  "model": "glm-5.2"
+}

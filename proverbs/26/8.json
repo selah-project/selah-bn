@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "গোলকে আবদ্ধ পাথরের মতো — তেমনই সে যে সম্মান দেয় নির্বোধকে।",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "আবদ্ধ গোলকের মতো"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "পাথর"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "গোলকে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেমনই"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "দেয়"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "নির্বোধকে"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "সম্মান"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:15.225399317Z",
+  "model": "glm-5.2"
+}

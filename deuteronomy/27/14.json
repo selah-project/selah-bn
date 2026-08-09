@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর লেবীয়েরা উত্তর দেবে এবং য়িসরায়েলের প্রতিটি মানুষে বলবে উচ্চ স্বরে:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "আর উত্তর দেবে"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেবীয়েরা"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িসরায়েলের"
+    },
+    {
+      "surface": "קול",
+      "gloss": "স্বরে"
+    },
+    {
+      "surface": "רם",
+      "gloss": "উচ্চ"
+    }
+  ],
+  "timestamp": "2026-08-09T16:40:59.153336129Z",
+  "model": "glm-5.2"
+}

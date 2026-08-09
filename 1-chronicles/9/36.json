@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর তাঁর প্রথমজাত পুত্র ⟨হলেন⟩ আব্দোন, আর সুর, আর কিশ, আর বা‘ল, আর নের, আর নাদব।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "আর তাঁর পুত্র"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "প্রথমজাত"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "আব্দোন"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "আর সুর"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "আর কিশ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "আর বা‘ল"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "আর নের"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "আর নাদব"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:07.576707897Z",
+  "model": "glm-5.2"
+}

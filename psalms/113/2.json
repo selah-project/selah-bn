@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 113,
+  "translation": "ইয়াহওয়েহের নাম ⟨হোক⟩ ধন্য, এখন থেকে ও ⟨দেখে⟩ চিরকাল।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨হোক⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ধন্য"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "এখন থেকে"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ও পর্যন্ত"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "চিরকাল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:50:36.996132281Z",
+  "model": "glm-5.2"
+}

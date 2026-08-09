@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "ত্রাস ও কম্পন ⟨হয়েছে⟩ দেশে —",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ত্রাস"
+    },
+    {
+      "surface": "ושעরורה",
+      "gloss": "কম্পন"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "⟨হয়েছে⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:21:50.529782303Z",
+  "model": "glm-5.2"
+}

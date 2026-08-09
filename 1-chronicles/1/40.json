@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "শোবলের পুত্ররা: অল্যান, মনহত, এবল, শেফি ও ওনাম; এবং ত্সিবঅনের পুত্ররা: অয়া ও অনা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "শোবলের"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "অল্যান"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "মনহত"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "এবল"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "শেফি"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ও ওনাম"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্ররা"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "ত্সিবঅনের"
+    },
+    {
+      "surface": "איה",
+      "gloss": "অয়া"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "ও অনা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:11.890481320Z",
+  "model": "glm-5.2"
+}

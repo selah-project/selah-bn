@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 140,
+  "translation": "সংগীতনায়কের জন্য; দাভিদের একটি মিজমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীতনায়কের জন্য"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোর"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:54:54.873247056Z",
+  "model": "glm-5.2"
+}

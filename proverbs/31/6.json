@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "নশ্বরকে মদ দাও, এবং তিক্ত ⟨নফেশ⟩-কে দ্রাক্ষারস।",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "দাও"
+    },
+    {
+      "surface": "שכর",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "নশ্বরকে"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "এবং দ্রাক্ষারস"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "তিক্ত ⟨নফেশ⟩-কে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:52.874509181Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "এবং তিনি বললেন, “আমাকে দেখাও না ⟨את⟩ তোমার কাওদ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং তিনি বললেন"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "আমাকে দেখাও"
+    },
+    {
+      "surface": "נא",
+      "gloss": "না"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তোমার কাওদ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "তোমার কাওদ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:01:07.264374022Z",
+  "model": "glm-5.2"
+}

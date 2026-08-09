@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 89,
+  "translation": "শত্রু তাকে চাপা দেবে না, আর অধর্মের পুত্র তাকে উত্পীড়ন করবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "চাপা দেবে"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "শত্রু"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "আর ⟨...⟩ পুত্র"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "অধর্মের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "তাকে উত্পীড়ন করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:07.967059735Z",
+  "model": "glm-5.2"
+}

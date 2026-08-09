@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর লূত তাঁদের বলল, “হে আদোনাই, না, প্রার্থনা করি!”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "লূত"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাঁদের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "נא",
+      "gloss": "প্রার্থনা করি"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "হে আদোনাই"
+    }
+  ],
+  "timestamp": "2026-08-09T02:32:40.039104237Z",
+  "model": "glm-5.2"
+}

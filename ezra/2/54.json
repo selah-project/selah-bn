@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "নৎসিয়খের পুত্রেরা, খাতিফার পুত্রেরা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "নৎসিয়খের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "খাতিফার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:39.015213674Z",
+  "model": "glm-5.2"
+}

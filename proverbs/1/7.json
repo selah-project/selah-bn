@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "ইয়াহওয়েহ-ভীতি জ্ঞানের আদিতত্ত্ব; জ্ঞান ও শুদ্ধি বোকারা অবজ্ঞা করে।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ভীতি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "আদিতত্ত্ব"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞানের"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "শুদ্ধি"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "বোকারা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:38.140855497Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং খামের পুত্রেরা: কূশ এবং মিৎসরায়িম এবং পূত এবং কনান।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্রেরা"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খামের"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কূশ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "এবং মিৎসরায়িম"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "এবং পূত"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "এবং কনান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:13.450299384Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এক পর্দার দৈর্ঘ্য আট ও বিশ হাত, এবং এক পর্দার প্রস্থ চার হাত — সব পর্দার জন্য এক মাপ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "দৈর্ঘ্য"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "এবং প্রস্থ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সবের জন্য"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "পর্দা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:56:44.545450547Z",
+  "model": "glm-5.2"
+}

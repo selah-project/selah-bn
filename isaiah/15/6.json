@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "কারণ নিমরিমের জল উজাড় হবে; কারণ ঘাস শুকিয়েছে, তৃণলতা শেষ হয়েছে—সবুজ কিছু ছিল ⟨না⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "জল"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "নিমরিমের"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "উজাড়"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "শুকিয়েছে"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ঘাস"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "শেষ হয়েছে"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "তৃণলতা"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "সবুজ কিছু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    }
+  ],
+  "timestamp": "2026-08-09T09:12:48.167607916Z",
+  "model": "glm-5.2"
+}

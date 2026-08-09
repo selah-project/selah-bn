@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তখন আইয়োভ উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তর দিল"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "আইয়োভ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:10:47.057695551Z",
+  "model": "glm-5.2"
+}

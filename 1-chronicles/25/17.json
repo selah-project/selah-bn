@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "দশম ⟨হল⟩ শিমি, ⟨আগে⟩ ⟨তাঁর⟩ পুত্র ও ⟨তাঁর⟩ ভাই — বারোজন।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "দশম"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমি"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তাঁহার পুত্র"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ও তাঁহার ভাই"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T18:15:43.955255936Z",
+  "model": "glm-5.2"
+}

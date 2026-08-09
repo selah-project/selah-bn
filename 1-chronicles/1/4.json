@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "নোয়, শেম, হাম ও য়াফেত।",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "নোয়"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেম"
+    },
+    {
+      "surface": "חם",
+      "gloss": "হাম"
+    },
+    {
+      "surface": "וקיפת",
+      "gloss": "ও য়াফেত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:04.264879116Z",
+  "model": "glm-5.2"
+}

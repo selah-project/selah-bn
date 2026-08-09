@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "কারণ আমি আকাশমণ্ডলের দিকে আমার হাত তুলি এবং বলি: আমি চিরকাল জীবিত আছি।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "আমি তুলি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশমণ্ডলের"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "আমার হাত"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "এবং বলি"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীবিত"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "চিরকাল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:34.670900893Z",
+  "model": "glm-5.2"
+}

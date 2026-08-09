@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং য়েবদ্যা, আরাদ, এবং এদের।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "এবং য়েবদ্যা"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "আরাদ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "এবং এদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:24.260240017Z",
+  "model": "glm-5.2"
+}

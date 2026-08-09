@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মোশে ⟨তা⟩ শুনলেন, এবং তাঁর চোখে ভালো লাগল।",
+  "tokens": [
+    {
+      "surface": "וַיִּשְׁמַ֣ע",
+      "gloss": "এবং শুনলেন"
+    },
+    {
+      "surface": "מֹשֶׁ֔ה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "וַיִּיטַ֖ב",
+      "gloss": "এবং ভালো লাগল"
+    },
+    {
+      "surface": "בְּעֵינָֽיו",
+      "gloss": "তাঁর চোখে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:07.876175914Z",
+  "model": "glm-5.2"
+}

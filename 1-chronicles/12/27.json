@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "লেবীয় সন্তানদের থেকে — চার হাজার ও ছয়শ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "…-থেকে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…-এর সন্তান"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "লেবীয়"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "চার"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ও ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:22.569626448Z",
+  "model": "glm-5.2"
+}

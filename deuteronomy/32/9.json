@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "কারণ ইয়াহওয়েহর অংশ ⟨হল⟩ তাঁর জাতি; য়াকোব ⟨হল⟩ তাঁর অধিকারের দড়ি।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "অংশ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "তাঁর জাতি"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোব"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "দড়ি"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "তাঁর অধিকারের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:34.745689633Z",
+  "model": "glm-5.2"
+}

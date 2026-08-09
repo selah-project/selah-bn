@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কারণ দেয়াল থেকে এক পাথর চিৎকার করবে, এবং কাঠ থেকে এক কড়ি উত্তর দেবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "এক পাথর"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "দেয়াল থেকে"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "চিৎকার করবে"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "এবং এক কড়ি"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "কাঠ থেকে"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "উত্তর দেবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:25:21.525431603Z",
+  "model": "glm-5.2"
+}

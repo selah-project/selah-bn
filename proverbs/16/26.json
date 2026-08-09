@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 16:26",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "পরিশ্রমী ⟨নফশ⟩ নিজের জন্য পরিশ্রম করে, কারণ তার মুখ তাকে তাড়িত করে।",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "⟨নফশ⟩"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "পরিশ্রমী"
+    },
+    {
+      "surface": "עמלה",
+      "gloss": "পরিশ্রম করে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজের জন্য"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אכף",
+      "gloss": "তাড়িত করে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "তার মুখ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:43.370806364Z",
+  "model": "glm-5.2"
+}

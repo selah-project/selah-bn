@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ও হেব্রোনের পুত্র ⟨היו⟩ কোরহ, ও তাপ্পুহ, ও রেকেম, ও শামা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ও … পুত্র"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "হেব্রোন"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "ও তাপ্পুহ"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ও রেকেম"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ও শামা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:16.707651130Z",
+  "model": "glm-5.2"
+}

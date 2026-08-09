@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "এবং ⟨তিনি⟩ বলবেন, কোথায় তাদের এলোহিম, ⟨এমন⟩ শিলা যাতে তারা আশ্রয় নিয়েছিল?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বলবেন"
+    },
+    {
+      "surface": "אי",
+      "gloss": "কোথায়"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "তাদের এলোহিম"
+    },
+    {
+      "surface": "צור",
+      "gloss": "শিলা"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "তারা আশ্রয় নিয়েছিল"
+    },
+    {
+      "surface": "בו",
+      "gloss": "যাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:34.670326318Z",
+  "model": "glm-5.2"
+}

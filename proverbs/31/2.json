@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "কী ⟨হবে⟩ আমার পুত্রের? এবং কী ⟨হবে⟩ গর্ভের পুত্রের? এবং কী ⟨হবে⟩ আমার প্রতিজ্ঞার পুত্রের?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "এবং কী"
+    },
+    {
+      "surface": "בר",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "গর্ভ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "এবং কী"
+    },
+    {
+      "surface": "বר",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "প্রতিজ্ঞা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:50.553375833Z",
+  "model": "glm-5.2"
+}

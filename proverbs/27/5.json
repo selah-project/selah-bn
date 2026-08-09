@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "প্রকাশিত সমালোচনা গোপন প্রেম অপেক্ষা উত্তম।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "সমালোচনা"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "প্রকাশিত"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "প্রেম অপেক্ষা"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "গোপন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:33.763203109Z",
+  "model": "glm-5.2"
+}

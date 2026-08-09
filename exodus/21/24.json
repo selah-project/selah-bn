@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "চোখের বিনিময়ে চোখ, দাঁতের বিনিময়ে দাঁত, হাতের বিনিময়ে হাত, পায়ের বিনিময়ে পা।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বিনিময়ে"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "দাঁত"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বিনিময়ে"
+    },
+    {
+      "surface": "שן",
+      "gloss": "দাঁত"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বিনিময়ে"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "পা"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বিনিময়ে"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "পা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:48:06.200349783Z",
+  "model": "glm-5.2"
+}

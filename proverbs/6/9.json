@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "কতক্ষণ, হে আলস্যালু, তুমি শুয়ে থাকবে? কতক্ষণ তুমি তোমার ঘুম থেকে উঠবে?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "কতক্ষণ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "কখন"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "হে আলস্যালু"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "তুমি শুয়ে থাকবে"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "কখন"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "তুমি উঠবে"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "তোমার ঘুম থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:11.552815621Z",
+  "model": "glm-5.2"
+}

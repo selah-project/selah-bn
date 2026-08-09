@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "নিষ্পাপে চলা দরিদ্র ⟨তার চেয়ে⟩ ভালো, বক্র পথে চলা ধনীর চেয়ে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "רש",
+      "gloss": "দরিদ্র"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "চলা"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "নিষ্পাপে"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "বক্র"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "এবং সে"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ধনী"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:39.241448293Z",
+  "model": "glm-5.2"
+}

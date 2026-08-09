@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "আর এভেদ-মেলেক রাজার গৃহ থেকে বেরিয়ে গেলেন, আর রাজার কাছে কথা বললেন, বলে —",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "আর বেরিয়ে গেলেন"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "এভেদ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "-মেলেক"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "গৃহ থেকে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:57:08.782492487Z",
+  "model": "glm-5.2"
+}

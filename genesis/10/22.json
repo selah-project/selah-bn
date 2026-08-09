@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "শেমের পুত্ররা: এলাম, আশ্শুর, আর্পকশদ, লুদ ও আরাম।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেমের"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এলাম"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "আশ্শুর"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "আর্পকশদ"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "লুদ"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "আরাম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:17.270393477Z",
+  "model": "glm-5.2"
+}

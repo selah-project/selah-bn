@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "সেখানে মোশে, ইয়াহওয়েহ-এর দাস, মোয়াভ দেশে মৃত্যুবরণ করলেন — ইয়াহওয়েহ-এর উক্তি অনুসারে।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "মৃত্যুবরণ করলেন"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোয়াভ"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "פי",
+      "gloss": "উক্তি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:15.080095132Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "অধিপতি ক়নাজ, অধিপতি তেমান, অধিপতি মিব্সার।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ক়নাজ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "মিব্সার"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:29.728177174Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "‘⟨এটা⟩ কি ⟨আমার⟩ কাছে সঞ্চিত নয়, আমার ভাণ্ডারসমূহে রক্ষিত?’",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "কি নয়"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "এটা"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "সঞ্চিত"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "⟨আমার⟩ কাছে"
+    },
+    {
+      "surface": "חתם",
+      "gloss": "রক্ষিত"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "আমার ভাণ্ডারসমূহে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:01:53.554993498Z",
+  "model": "glm-5.2"
+}

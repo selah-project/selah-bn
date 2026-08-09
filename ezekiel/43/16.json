@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 43,
+  "translation": "আর ⟨הָאֲרִאֵיל⟩ — বারো ⟨אֹרֶךְ⟩ বারো ⟨רֹחַב⟩; চার <দিকে চারকোণা>।",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "আর হারিয়েল"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-দশ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দৈর্ঘ্য"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "দুই-এ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-দশ"
+    },
+    {
+      "surface": "רחব",
+      "gloss": "প্রস্থ"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "চারকোণা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "চার"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "চতুর্থাংশ"
+    }
+  ],
+  "timestamp": "2026-08-09T14:18:55.088404749Z",
+  "model": "glm-5.2"
+}

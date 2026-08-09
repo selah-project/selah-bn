@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং তিনি ⟨את⟩ বেথ-লেহেম ও ⟨את⟩ এইতাম ও ⟨את⟩ তেকোয়া নির্মাণ করলেন।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "এবং তিনি নির্মাণ করলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বেথ-লেহেম"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেথ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "এইতাম"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "এইতাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "তেকোয়া"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "তেকোয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:16.345827657Z",
+  "model": "glm-5.2"
+}

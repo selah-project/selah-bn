@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 13:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "এবং ইয়াহওয়েহ মোশে-র সাথে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "সাথে"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "মোশে-র"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:58:36.990606170Z",
+  "model": "glm-5.2"
+}

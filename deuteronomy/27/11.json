@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর মোশে ⟨את⟩ জাতিকে সেই দিনে আজ্ঞা দিলেন, বলতে হয়েছে:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "আর আজ্ঞা দিলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাতিকে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতিকে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে হয়েছে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:32.055774097Z",
+  "model": "glm-5.2"
+}

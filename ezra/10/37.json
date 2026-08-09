@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মাতন্যাহ, মাতনয়, ও ⟨ইয়াসাউ⟩।",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "মাতন্যাহ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "মাতনয়"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ও ⟨ইয়াসাউ⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:22.773351288Z",
+  "model": "glm-5.2"
+}

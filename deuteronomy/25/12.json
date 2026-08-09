@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "তখন তুমি ⟨את⟩ তার হাত কেটে ফেলবে; তোমার চোখ করুণা করবে না।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "তখন কেটে ফেলবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার হাত"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "তার হাত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "করুণা করবে"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "তোমার চোখ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:48.439685834Z",
+  "model": "glm-5.2"
+}

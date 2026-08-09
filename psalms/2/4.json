@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আকাশমণ্ডলে বসে আছেন সেই হাসবেন, আদোনাই তাদের উপহাস করবেন।",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "বসে আছেন"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "আকাশমণ্ডলে"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "হাসবেন"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "উপহাস করবেন"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:34:05.911545002Z",
+  "model": "glm-5.2"
+}

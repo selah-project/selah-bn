@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "যিহোশাফাত পারূচের পুত্র ⟨⟨ছিল⟩⟩ য়িশস্করে।",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "যিহোশাফাত"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "পারূচ"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "য়িশস্করে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:10:18.802462154Z",
+  "model": "glm-5.2"
+}

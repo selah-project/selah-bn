@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আমার শিক্ষা গ্রহণ করো এবং রৌপ্য ⟨নয়⟩, এবং জ্ঞান মনোনীত সোনার চেয়ে।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "গ্রহণ করো"
+    },
+    {
+      "surface": "מוסרי",
+      "gloss": "আমার শিক্ষা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং ⟨নয়⟩"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রৌপ্য"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "এবং জ্ঞান"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "মনোনীত"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:36.257728761Z",
+  "model": "glm-5.2"
+}

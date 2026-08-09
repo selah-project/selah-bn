@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর মোশে গেলেন এবং ⟨এই⟩ ⟨את⟩ কথাগুলো সমস্ত ইস্রায়েলের কাছে বললেন।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "আর গেলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কথাগুলো"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাগুলো"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:46.926658130Z",
+  "model": "glm-5.2"
+}

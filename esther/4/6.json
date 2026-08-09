@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "তখন হাতাক বেরিয়ে মর্দোখয়ের কাছে গেল — নগরের চত্বরে, যা রাজার ফটকের সামনে ছিল।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "তখন বেরিয়ে গেল"
+    },
+    {
+      "surface": "התך",
+      "gloss": "হাতাক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মর্দোখয়ের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "চত্বর"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগরের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ফটকের"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T09:24:24.443147888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর আমি আমার মধ্যে কথা বলা ⟨那位⟩ মলঅকটিকে বললাম: এরা ⟨那位⟩ ⟨את⟩ এফাহটি কোথায় ⟨নিয়ে⟩ যাচ্ছে?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "আর বললাম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-কে"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "মলঅক"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কথা বলা"
+    },
+    {
+      "surface": "בי",
+      "gloss": "আমার মধ্যে"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "কোথায়"
+    },
+    {
+      "surface": "המה",
+      "gloss": "এরা"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "যাচ্ছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এফাহটি"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "এফাহটি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:30.675918233Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "হে য়াকোবের গৃহ, এসো এবং আমরা ইয়াহওয়েহর আলোতে চলি।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "হে গৃহ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোবের"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "এসো"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "এবং আমরা চলি"
+    },
+    {
+      "surface": "באור",
+      "gloss": "আলোতে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:13:19.794461397Z",
+  "model": "glm-5.2"
+}

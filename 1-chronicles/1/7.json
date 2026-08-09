@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর য়াওয়ানের ⟨পুত্ররা⟩: এলিশা, তরশীশা, কিত্তীয় ও রোদনীয়।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্ররা"
+    },
+    {
+      "surface": "יון",
+      "gloss": "য়াওয়ানের"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "এলিশা"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "তরশীশা"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "কিত্তীয়"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "রোদনীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:08.027209642Z",
+  "model": "glm-5.2"
+}

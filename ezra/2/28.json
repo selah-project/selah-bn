@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বেইত-এল ও হাআই-এর লোক — দুইশ তেত্রিশ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোক"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ও হাআই"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "তেত্রিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:30.458243564Z",
+  "model": "glm-5.2"
+}

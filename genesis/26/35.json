@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এবং তারা আইজাক ও রিভকার প্রাণের জন্য তিক্ততা হলো।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "এবং তারা হলো"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "তিক্ততা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "প্রাণের"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "আইজাকের জন্য"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "এবং রিভকার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:20.748837630Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর যদি এই তিনটি ⟨কাজ⟩ তার জন্য না করেন, তবে সে বিনামূল্যে বেরিয়ে যাবে, টাকা ছাড়াই।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিনটি"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "করেন"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তার জন্য"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "বেরিয়ে যাবে"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "বিনামূল্যে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ছাড়াই"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "টাকা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:51:21.488060028Z",
+  "model": "glm-5.2"
+}

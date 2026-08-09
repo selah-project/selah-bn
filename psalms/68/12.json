@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 68:12",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 68,
+  "translation": "আদোনাই ⟨অর্থ⟩ দেন; সুসমাচার প্রচারিকারা — এক বিশাল সেনাদল।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দেন"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨অর্থ⟩"
+    },
+    {
+      "surface": "המבשרות",
+      "gloss": "সুসমাচার প্রচারিকারা"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সেনাদল"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বিশাল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:41:29.185607821Z",
+  "model": "glm-5.2"
+}

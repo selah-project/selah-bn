@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর ফল্লুর পুত্র ⟨হল⟩ এলিয়াভ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর … পুত্র"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ফল্লুর"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "এলিয়াভ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:13.549118477Z",
+  "model": "glm-5.2"
+}

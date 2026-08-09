@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এই ⟨হল⟩ আনার পুত্ররা: দিশোন ও আহোলিবামা, আনার কন্যা।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনার"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "দিশোন"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "ও আহোলিবামা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনার"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:30.115525931Z",
+  "model": "glm-5.2"
+}

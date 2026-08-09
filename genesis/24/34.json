@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "তখন সে বলল, “আমি আভ্রাহামের ⟨⟨هبئ⟩⟩ দাস।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "সে বলল"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহামের"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:58:12.382720621Z",
+  "model": "glm-5.2"
+}

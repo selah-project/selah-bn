@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর নূহ সবকিছু করলেন, যা এলোহিম তাঁকে ⟨את⟩ আদেশ করেছিলেন; তিনি ঠিক তেমনই করলেন।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আর করলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নূহ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "সবকিছু"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ করেছিলেন"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "তাঁকে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ঠিক তেমনই"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:50.573752114Z",
+  "model": "glm-5.2"
+}

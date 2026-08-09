@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "অবশিষ্ট সকল গোত্র, গোত্রে গোত্রে একা, এবং তাদের স্ত্রীরা একা।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকল"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "অবশিষ্ট"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্রে"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্রে"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "এবং তাদের স্ত্রীরা"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:36.929289391Z",
+  "model": "glm-5.2"
+}

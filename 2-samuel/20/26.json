@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "ও ইরা হয়িরীয় দাভিদের ⟨নিজের⟩ যাজক ⟨ছিলেন⟩।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ইরা"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "হয়িরীয়"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ছিলেন⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "যাজক"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:05:45.577771080Z",
+  "model": "glm-5.2"
+}

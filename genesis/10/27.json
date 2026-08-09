@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর ⟨את⟩ হাদোরামকে, ⟨את⟩ ঊজালকে ও ⟨את⟩ দিকলাহকে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "হাদোরামকে"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "হাদোরাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "ঊজালকে"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ঊজাল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আর ⟨את⟩",
+      "marks": "দিকলাহকে"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "দিকলাহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:42:15.298699105Z",
+  "model": "glm-5.2"
+}

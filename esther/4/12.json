@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং তারা মর্দোকয়কে এসতারের ⟨את⟩ কথাসমূহ জানাল।",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "এবং তারা জানাল"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "মর্দোকয়কে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কথাসমূহ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাসমূহ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এসতারের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:23:59.488302535Z",
+  "model": "glm-5.2"
+}

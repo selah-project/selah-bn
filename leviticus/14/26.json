@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং যাজক তৈল থেকে যাজকের বাঁ হাতের তালুতে ঢেলে দেবেন।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "এবং থেকে"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তৈল"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ঢেলে দেবেন"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজক"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "כף",
+      "gloss": "তালুতে"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজকের"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "বাঁ হাতের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:33.632833139Z",
+  "model": "glm-5.2"
+}

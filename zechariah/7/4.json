@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং ইয়াহওয়েহ সাবাওতের বাক্য আমার কাছে এল ⟨⟨⟨এই⟩⟩⟩ বলে —",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֛י",
+      "gloss": "এবং ⟨এটি⟩ ঘটল"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יְהוָ֥ה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "צְבָא֖וֹת",
+      "gloss": "সাবাওত"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:05.880242233Z",
+  "model": "glm-5.2"
+}

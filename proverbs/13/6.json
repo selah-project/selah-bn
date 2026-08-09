@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "ধার্মিকতা রক্ষা করে নিষ্কলুষের পথ, আর দুষ্টতা উপদ্রব করে পাপ।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "ধার্মিকতা"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "রক্ষা করে"
+    },
+    {
+      "surface": "תם",
+      "gloss": "নিষ্কলুষের"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "আর দুষ্টতা"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "উপদ্রব করে"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:59:29.779509818Z",
+  "model": "glm-5.2"
+}

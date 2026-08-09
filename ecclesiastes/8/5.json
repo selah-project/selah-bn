@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "⟨যিনি⟩ আজ্ঞা পালন করেন তিনি কোনো মন্দ বিষয় জানবেন না, আর এক জ্ঞানীর হৃদয় সময় ও ⟨את⟩ বিচার জানে।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "⟨যিনি⟩ পালন করেন"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানবেন"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ও বিচার"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীর"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:02.585838043Z",
+  "model": "glm-5.2"
+}

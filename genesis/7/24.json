@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আর জলরাশি পৃথিবীর উপর প্রবল হলো পঞ্চাশ এবং একশ দিন।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "আর প্রবল হলো"
+    },
+    {
+      "surface": "המים",
+      "gloss": "জলরাশি"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "এবং একশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:19.288304313Z",
+  "model": "glm-5.2"
+}

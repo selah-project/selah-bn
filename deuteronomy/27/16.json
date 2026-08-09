@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨যে⟩ নিজের পিতা ও মাতাকে হেয় করে; আর সমস্ত জনগণ বলবে: আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "হেয় করে"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "নিজের পিতাকে"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ও মাতাকে"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আর বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনগণ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T16:40:59.153705171Z",
+  "model": "glm-5.2"
+}

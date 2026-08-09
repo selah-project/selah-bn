@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 66,
+  "translation": "তাঁর নামের গৌরব গাও, ⟨⟨⟩⟩ তাঁর স্তুতিকে মহিমান্বিত করো।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "গাও"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "গৌরব"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাঁর নামের"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "করো"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "মহিমান্বিত"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "তাঁর স্তুতিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:38:51.849723390Z",
+  "model": "glm-5.2"
+}

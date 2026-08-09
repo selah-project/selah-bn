@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "সঙ্গীতিপতির জন্য, দাভিদের, একটি মিযমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতিপতির জন্য"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "একটি মিযমোর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:36:47.902898091Z",
+  "model": "glm-5.2"
+}

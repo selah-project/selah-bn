@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "আর কায় হলো তার প্রসবের সময়ে, আর দেখ, ⟨তার⟩ গর্ভে যমজ ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর কায় হলো"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "তার প্রসবের"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "যমজ"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "তার গর্ভে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:11.309350421Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "ক্রোধের উগ্রতা শাস্তি বহন করে, কারণ তুমি তাকে উদ্ধার করলেও আবার করতে হবে।",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "উগ্রতা"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ক্রোধের"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "বহন করে"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "শাস্তি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "তুমি উদ্ধার করো"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "আবার"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "করতে হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:45.814568303Z",
+  "model": "glm-5.2"
+}

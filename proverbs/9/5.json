@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এসো, আমার রুটি খাও এবং আমার মিশ্রিত মদ পান করো।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "এসো"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "খাও"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "আমার রুটি"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "এবং পান করো"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "আমার মিশ্রিত"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:32.942985836Z",
+  "model": "glm-5.2"
+}

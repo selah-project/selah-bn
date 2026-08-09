@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 34:30",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "যাতে ভণ্ড মানুষ রাজত্ব না করে, জাতির ফাঁদ থেকে।",
+  "tokens": [
+    {
+      "surface": "ממלך",
+      "gloss": "রাজত্ব না করে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "חנף",
+      "gloss": "ভণ্ড"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ফাঁদ থেকে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতির"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:06.226125165Z",
+  "model": "glm-5.2"
+}

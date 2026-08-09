@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "বছরে তিনবার তোমার সব পুরুষ ⟨এল⟩ ইয়াহওয়েহ-এর আদোনাই-এর সামনে উপস্থিত হবে।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বার"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছরে"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "উপস্থিত হবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "তোমার পুরুষ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨এল⟩"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:51:59.041275988Z",
+  "model": "glm-5.2"
+}

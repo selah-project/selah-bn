@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং গাধ তিরিশ হাজার পাঁচশত",
+  "tokens": [
+    {
+      "surface": "וַחֲמֹרִ֕ים",
+      "gloss": "এবং গাধ"
+    },
+    {
+      "surface": "שְׁלֹשִׁ֥ים",
+      "gloss": "তিরিশ"
+    },
+    {
+      "surface": "אֶ֖לֶף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וַחֲמֵ֥שׁ",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מֵאֽוֹת",
+      "gloss": "শত"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:57.972074652Z",
+  "model": "glm-5.2"
+}

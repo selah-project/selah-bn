@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "⟨তখন⟩ আমি কুমারের বাড়িতে নামলাম, আর দেখ, সে পাথরদের উপর কাজ করছিল।",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "⟨তখন⟩ আমি নামলাম"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাড়িতে"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "কুমারের"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "আর দেখ ⟨সে⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করছিল"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨…⟩ উপর"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "পাথরদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:23:14.329071799Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আরনের নলগুলিতে বড়িগুলি থাকবে, সেগুলি তা থেকে সরানো যাবে না।",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "নলগুলিতে"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "আরনের"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "বড়িগুলি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "সরানো যাবে"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "তা থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:52:43.358620080Z",
+  "model": "glm-5.2"
+}

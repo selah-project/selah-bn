@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর ⟨আিঁন⟩ ⟨আিঁন⟩ ⟨আিঁন⟩ মাংস ও ⟨আিঁন⟩ চামড়া আগুনে পুড়িয়ে দিল ⟨আিঁন⟩ শিবিরের বাইরে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "মাংস"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "চামড়া"
+    },
+    {
+      "surface": "העור",
+      "gloss": "চামড়া"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "পুড়িয়ে দিল"
+    },
+    {
+      "surface": "באש",
+      "gloss": "আগুনে"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "শিবিরের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:00:54.386827212Z",
+  "model": "glm-5.2"
+}

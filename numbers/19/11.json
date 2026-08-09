@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "মৃতদেহ স্পর্শকারী — মানুষের যেকোনো ⟨নফেশ⟩-এর — সাত দিন অপবিত্র ⟨হবে⟩।",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "স্পর্শকারী"
+    },
+    {
+      "surface": "במת",
+      "gloss": "মৃতদেহ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "যেকোনো"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "নফেশ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "এবং অপবিত্র"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:15:59.987742095Z",
+  "model": "glm-5.2"
+}

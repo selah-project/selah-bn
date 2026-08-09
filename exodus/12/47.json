@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "ইস্রায়েলের সমূহ সমাজ ⟨এটি⟩ করবে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমূহ"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "করবে"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "এটি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:48:17.761504916Z",
+  "model": "glm-5.2"
+}

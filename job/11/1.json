@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "তখন সোফর নামতীয় ⟨জন⟩ উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তর দিল"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "সোফর"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "নামতীয়"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:08:23.694113178Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আগামীকাল নিয়ে গর্ব কোরো না, কারণ তুমি জানো না একটি দিন কী প্রসব করবে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "গর্ব কোরো"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "আগামীকাল"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "তুমি জানো"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "প্রসব করবে"
+    },
+    {
+      "surface": "יום",
+      "gloss": "একটি দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:27.339730488Z",
+  "model": "glm-5.2"
+}

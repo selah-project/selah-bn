@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "গীত, স্তবগীত, কোরহ-সন্তানদের জন্য।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "স্তবগীত"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "সন্তানদের জন্য"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:38:16.336834089Z",
+  "model": "glm-5.2"
+}

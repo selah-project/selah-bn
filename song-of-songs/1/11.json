@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "সোনার অলংকারশ্রেণী আমরা তোমার জন্য বানাব, রূপার বিন্দুসহ।",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "অলংকারশ্রেণী"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "আমরা বানাব"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সহ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "বিন্দু"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "রূপার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:11.525180766Z",
+  "model": "glm-5.2"
+}

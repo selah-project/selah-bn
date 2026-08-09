@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কেরোসের বংশধর, সিয়াহার বংশধর, পাদোনের বংশধর।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "কেরোস"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "সিয়াহা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "পাদোন"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:16.416912233Z",
+  "model": "glm-5.2"
+}

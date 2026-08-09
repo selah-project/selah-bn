@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "তোমার থেকে মুখের বক্রতা দূর করো, এবং ওষ্ঠের বিকৃতি তোমার থেকে দূরে সরাও।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "দূর করো"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমার থেকে"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "বক্রতা"
+    },
+    {
+      "surface": "פה",
+      "gloss": "মুখের"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "এবং বিকৃতি"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওষ্ঠের"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "দূরে সরাও"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমার থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:07.343847606Z",
+  "model": "glm-5.2"
+}

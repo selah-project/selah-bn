@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর ইয়াহওয়েহ আহারোনকে কথা বললেন, বলে যে,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨→⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোনকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:01:28.505105550Z",
+  "model": "glm-5.2"
+}

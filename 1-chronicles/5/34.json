@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং অহিতূব ⟨את⟩ সদোককে জন্ম দিলেন, এবং সদোক ⟨את⟩ অহিমায়ৎকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "এবং অহিতূব"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সদোক"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "সদোক"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "এবং সদোক"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অহিমায়ৎ"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "অহিমায়ৎ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:18.375362616Z",
+  "model": "glm-5.2"
+}

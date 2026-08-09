@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "আর শেখেম তার পিতা হামোরকে বলল, বলে, আমার জন্য ⟨את⟩ এই বালিকাটিকে নাও, স্ত্রীরূপে।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "শেখেম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "হামোরকে"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তার পিতা"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "קח",
+      "gloss": "নাও"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই বালিকাটিকে"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "বালিকাটিকে"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "স্ত্রীরূপে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:33:09.556288878Z",
+  "model": "glm-5.2"
+}

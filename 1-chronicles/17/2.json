@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "এবং নাতান দাভিদকে বললেন, তোমার হৃদয়ে যা কিছু আছে তা করো, কারণ ⟨ה⟩এলোহিম তোমার সঙ্গে ⟨আছেন⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতান"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "তোমার হৃদয়ে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "האলהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "তোমার সঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:27:01.220981037Z",
+  "model": "glm-5.2"
+}

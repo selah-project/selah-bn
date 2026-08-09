@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "তৃতীয় য়াক্কুর, তার পুত্রেরা ও তার ভাইয়েরা — বারো।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "য়াক্কুর"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তার পুত্রেরা"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ও তার ভাইয়েরা"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বারো"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-09T18:00:23.949755813Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং আজারিয় ⟨את⟩ খেলেৎসের জনক হলেন, এবং খেলেৎস ⟨את⟩ এলআসার জনক হলেন।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "এবং আজারিয়"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "খেলেৎস"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "খেলেৎস"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "এবং খেলেৎস"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এলআসা"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "এলআসা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:56.446255962Z",
+  "model": "glm-5.2"
+}

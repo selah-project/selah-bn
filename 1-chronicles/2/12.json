@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর বোয়াজ ⟨את⟩ ওবেদকে জন্ম দিলেন; এবং ওবেদ ⟨את⟩ য়িশাইকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "আর বোয়াজ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ওবেদকে"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ওবেদ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "এবং ওবেদ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়িশাইকে"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "য়িশাই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:48.639215387Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "জ্ঞানীদের ওষ্ঠ জ্ঞান বিক্ষিপ্ত করে, আর নির্বোধদের হৃদয় তা নয়।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ওষ্ঠ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "বিক্ষিপ্ত করে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আর হৃদয়"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "নির্বোধদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:05.353114554Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এগুলি ইস্রায়েলের পুত্রদের গণিত — ছয় লক্ষ এক হাজার সাতশ ত্রিশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "গণিত"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "ও এক হাজার"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ও ত্রিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:11.349612243Z",
+  "model": "glm-5.2"
+}

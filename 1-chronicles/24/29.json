@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "লা-কিশ; কিশের পুত্রেরা ⟨হল⟩ য়েরাখমেল।",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "লা-কিশ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "কিশ"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "য়েরাখমেল"
+    }
+  ],
+  "timestamp": "2026-08-09T17:22:34.405734136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "কে শুদ্ধকে অশুদ্ধ থেকে দেবে? একজনও নয়।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দেবে"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "শুদ্ধকে"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "অশুদ্ধ থেকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজনও"
+    }
+  ],
+  "timestamp": "2026-08-09T06:08:23.507443183Z",
+  "model": "glm-5.2"
+}

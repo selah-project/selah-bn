@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "যা ছিল তা দূরে, এবং গভীর, গভীর—কে ⟨সেটি⟩ খুঁজে পাবে?”",
+  "tokens": [
+    {
+      "surface": "רָח֖וֹק",
+      "gloss": "দূরে"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "যা"
+    },
+    {
+      "surface": "שֶׁהָיָ֑ה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "וְעָמֹ֥ק",
+      "gloss": "এবং গভীর"
+    },
+    {
+      "surface": "עָמֹ֖ק",
+      "gloss": "গভীর"
+    },
+    {
+      "surface": "מִ֥י",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יִמְצָאֶֽנּוּ",
+      "gloss": "খুঁজে পাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:53.602590832Z",
+  "model": "glm-5.2"
+}

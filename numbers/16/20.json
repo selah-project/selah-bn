@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "এবং ইয়াহওয়েহ মোশে ও আহারোনের সাথে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর সাথে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও এর সাথে"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:04:28.880975907Z",
+  "model": "glm-5.2"
+}

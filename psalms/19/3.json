@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "দিন দিনে ⟨את⟩ বাক্য উচ্চারণ করে, এবং রাত রাতে জ্ঞান ব্যক্ত করে।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "উচ্চারণ করে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "এবং রাত"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "রাতে"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ব্যক্ত করে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-08-09T05:33:23.417853361Z",
+  "model": "glm-5.2"
+}

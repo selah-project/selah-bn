@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "বেনায়া, বেদেয়া, কেলুহয়।",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "বেনায়া"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "বেদেয়া"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "কেলুহয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:43.269512756Z",
+  "model": "glm-5.2"
+}

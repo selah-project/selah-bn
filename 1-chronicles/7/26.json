@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "লাদান ⟨তাঁর⟩ পুত্র, অম্মিহূদ ⟨তাঁর⟩ পুত্র, এলিশামা ⟨তাঁর⟩ পুত্র।",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "লাদান"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "অম্মিহূদ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "এলিশামা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:08.838004046Z",
+  "model": "glm-5.2"
+}

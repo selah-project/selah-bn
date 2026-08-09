@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 1:29",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এ কারণে যে তারা জ্ঞান ঘৃণা করেছে, এবং ইয়াহওয়েহ-এর ভয় ⟨তারা⟩ বরণ করেনি —",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "এ কারণে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "שנאו",
+      "gloss": "ঘৃণা করেছে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "এবং ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "בחרו",
+      "gloss": "বরণ করেছে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:53.206972703Z",
+  "model": "glm-5.2"
+}

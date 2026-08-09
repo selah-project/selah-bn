@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "কারণ নিশ্চয় এক ⟨আশা⟩ আছে, এবং তোমার প্রত্যাশা ছেঁড়া হবে না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "নিশ্চয়"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "এক ⟨আশা⟩"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "এবং তোমার প্রত্যাশা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ছেঁড়া হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:31.497172400Z",
+  "model": "glm-5.2"
+}

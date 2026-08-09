@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "“যখন কোনো মানুষে ত্সারাতের নেগা হবে, তখন ⟨তাকে⟩ কোহেনের কাছে আনা হবে।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "নেগা"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ত্সারাত"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "মানুষে"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "আনা হবে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "কোহেনের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:06.935600265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "ও হারব্বিত ও কিশয়োন ও আভেৎ।",
+  "tokens": [
+    {
+      "surface": "וְהָרַבִּית",
+      "gloss": "ও হারব্বিত"
+    },
+    {
+      "surface": "וְקִשְׁיוֹן",
+      "gloss": "ও কিশয়োন"
+    },
+    {
+      "surface": "וָאָבֶץ",
+      "gloss": "ও আভেৎ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:05.173583101Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং এই ⟨হল⟩ অশমের বিধি; কদশ কদশিম ⟨তিনি⟩।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "এবং এই"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "বিধি"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "অশমের"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "কদশ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "কদশিম"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তিনি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:53.591042873Z",
+  "model": "glm-5.2"
+}

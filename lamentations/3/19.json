@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "স্মরণ করি আমার দুর্গতি ও আমার ক্লেশ, ⟨অর্থাৎ⟩ কৃমাক্ষর ও বিষ।",
+  "tokens": [
+    {
+      "surface": "זְכָר",
+      "gloss": "স্মরণ করি"
+    },
+    {
+      "surface": "עָנְיִ֥י",
+      "gloss": "আমার দুর্গতি"
+    },
+    {
+      "surface": "וּמְרוּדִ֖י",
+      "gloss": "ও আমার ক্লেশ"
+    },
+    {
+      "surface": "לַעֲנָ֥ה",
+      "gloss": "কৃমাক্ষর"
+    },
+    {
+      "surface": "וָרֹֽאשׁ",
+      "gloss": "ও বিষ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:27.106219623Z",
+  "model": "glm-5.2"
+}

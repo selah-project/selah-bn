@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "যতক্ষণ না সূর্য অন্ধকার হয় — আর আলো, আর চাঁদ, আর তারাগুলো — এবং মেঘগুলো ফিরে আসে বৃষ্টির পরে,",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "যতক্ষণ না"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "অন্ধকার হয়"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "আর আলো"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "আর চাঁদ"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "আর তারাগুলো"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "এবং ফিরে আসে"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "মেঘগুলো"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "বৃষ্টির"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:59.423604786Z",
+  "model": "glm-5.2"
+}

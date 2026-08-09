@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একটি স্বর্ণের হাত-তাল, দশ ⟨শেকেল⟩, ধূপে ভরা।",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "হাত-তাল"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "স্বর্ণ"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "ভরা"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "ধূপ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:00.482157818Z",
+  "model": "glm-5.2"
+}

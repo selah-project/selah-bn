@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "সেই রাতে ঘটল যে ইয়াহওয়েহের বাক্য নাতনের কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ঘটল যে"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "রাতে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল যে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতনের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:02:12.580279503Z",
+  "model": "glm-5.2"
+}

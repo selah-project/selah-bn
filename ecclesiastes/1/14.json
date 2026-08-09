@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আমি ⟨את⟩ সব কাজ দেখেছি যা সূর্যের তলায় করা হয়েছে, আর দেখ! সবই শূন্যতা ও আত্মার উৎকণ্ঠা।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "আমি দেখেছি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "যা করা হয়েছে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলায়"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সবই"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "শূন্যতা"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ও উৎকণ্ঠা"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "আত্মার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:31.197723036Z",
+  "model": "glm-5.2"
+}

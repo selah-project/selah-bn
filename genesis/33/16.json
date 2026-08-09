@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "সেই দিন এস়ভ ⟨ফিরে গেল⟩ নিজের পথে শেয়ির-এ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "⟨সেই দিন⟩ ⟨ফিরে গেল⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "সেই দিন"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এস়ভ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "নিজের পথে"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "শেয়ির-এ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:37:32.744423890Z",
+  "model": "glm-5.2"
+}

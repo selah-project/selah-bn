@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "“আমার মশিদদের স্পর্শ করো না, এবং আমার নবীদের ক্ষতি কোরো না।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "স্পর্শ করো"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "আমার মশিদদের"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "এবং আমার ঠাবীদের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ক্ষতি করো"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:21.973031981Z",
+  "model": "glm-5.2"
+}

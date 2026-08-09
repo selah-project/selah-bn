@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "এবং সপ্তম দিনে সাতটি ষাঁড়, দুইটি মেষপাল, চৌদ্দটি বছরবয়সী মেষশাবক — নিখুঁত।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ষাঁড়"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "মেষপাল"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "মেষশাবক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বছরবয়সী"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চৌদ্দ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "চৌদ্দ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "নিখুঁত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:57.409540559Z",
+  "model": "glm-5.2"
+}

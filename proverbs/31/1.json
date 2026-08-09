@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "লেমুয়েল রাজার কথা — ⟨এক⟩ ভার, যা ⟨তার⟩ মা ⟨তাকে⟩ শিখিয়েছিল।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "লেমুয়েল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ভার"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "শিখিয়েছিল"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "মা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:50.553144238Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "গর্ত খোঁড়ে সে তাতে পড়বে, আর বেড়া ভাঙে তাকে সাপ দংশন করবে।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "খোঁড়ে"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "গর্ত"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পড়বে"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "আর ভাঙে"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "বেড়া"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "দংশন করবে"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "সাপ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:16.306273315Z",
+  "model": "glm-5.2"
+}

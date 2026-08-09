@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং ⟨את⟩ প্রতিটি কাক — তার প্রকার অনুসারে।",
+  "tokens": [
+    {
+      "surface": "וְאֵ֥ת",
+      "gloss": "⟨את⟩",
+      "marks": "প্রতিটি"
+    },
+    {
+      "surface": "כָּל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "עֹרֵ֖ב",
+      "gloss": "কাক"
+    },
+    {
+      "surface": "לְמִינֽוֹ",
+      "gloss": "তার প্রকার অনুসারে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:35.833855301Z",
+  "model": "glm-5.2"
+}

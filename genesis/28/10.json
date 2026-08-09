@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং বের শবা থেকে বেরিয়ে যাকোব হারানের দিকে চললেন।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "এবং বেরিয়ে গেলেন"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "যাকোব"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "বের শবা"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "এবং চললেন"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "হারানের দিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:43.097271219Z",
+  "model": "glm-5.2"
+}

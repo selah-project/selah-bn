@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "সকল পরিশ্রমে লাভ হয়, কিন্তু ওষ্ঠের বাক্য কেবল অভাবেরই।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সকল"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "পরিশ্রমে"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "কিন্তু বাক্য"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ওষ্ঠের"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "অভাবেরই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:29.768594772Z",
+  "model": "glm-5.2"
+}

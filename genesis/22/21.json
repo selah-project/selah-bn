@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "⟨את⟩ ঊৎ তার প্রথমজাত ও ⟨את⟩ বুজ তার ভাই ও ⟨את⟩ কমুয়েল অরামের পিতা।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ঊৎ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ঊৎ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "তার প্রথমজাত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "বুজ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "বুজ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তার ভাই"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "কমুয়েল"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "কমুয়েল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "অরাম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:31.968834324Z",
+  "model": "glm-5.2"
+}

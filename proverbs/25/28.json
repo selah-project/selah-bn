@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "প্রাচীরহীন উন্মুক্ত নগর — ⟨সেইরকম⟩ মানুষ যার ⟨নিজের⟩ আত্মার কোনো নিয়ন্ত্রণ নেই।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "উন্মুক্ত"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "প্রাচীর"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "নিয়ন্ত্রণ"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "তার আত্মার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:45.613183271Z",
+  "model": "glm-5.2"
+}

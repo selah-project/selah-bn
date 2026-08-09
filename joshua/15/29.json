@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 15:29",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "বালা, ইয়িম, এবং আতসেম।",
+  "tokens": [
+    {
+      "surface": "בעלה",
+      "gloss": "বালা"
+    },
+    {
+      "surface": "ועיים",
+      "gloss": "এবং ইয়িম"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "এবং আতসেম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:13.264255587Z",
+  "model": "glm-5.2"
+}

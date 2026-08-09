@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং সেই দিনে ⟨হবে⟩ যে একজন মানুষ একটি বাছুরী ও দুইটি ভেড়া জীবিত রাখবে।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "এবং হবে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "জীবিত রাখবে"
+    },
+    {
+      "surface": "איש",
+      "gloss": "একজন মানুষ"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "বাছুরী"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "গোধন"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "ও দুইটি"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়া"
+    }
+  ],
+  "timestamp": "2026-08-09T08:12:57.754880121Z",
+  "model": "glm-5.2"
+}

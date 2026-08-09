@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "মহামারীতে মৃতের সংখ্যা হলো চৌদ্দ হাজার ও সাতশত, কোরহের বিষয়ে মৃতদের ছাড়া।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হলো"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতেরা"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "মহামারীতে"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চার"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ও সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "ছাড়া"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতদের"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:14:50.059990345Z",
+  "model": "glm-5.2"
+}

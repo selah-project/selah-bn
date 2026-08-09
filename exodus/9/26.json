@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "কেবল গোশেন দেশে, যেখানে ইস্রায়েলের বংশধররা ছিল, সেখানে শিলাবৃষ্টি ছিল না।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "গোশেন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যেখানে"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধররা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "শিলাবৃষ্টি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:00:09.249148041Z",
+  "model": "glm-5.2"
+}

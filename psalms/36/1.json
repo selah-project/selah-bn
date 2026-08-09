@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "সঙ্গীতপরিচালকের জন্য; ইয়াহওয়েহ-এর দাস দাভিদের।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতপরিচালকের জন্য"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:35:56.701893985Z",
+  "model": "glm-5.2"
+}

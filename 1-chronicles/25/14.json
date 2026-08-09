@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 25:14",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "সপ্তম — য়েশারেলাহ, তাঁর পুত্রেরা ও তাঁর ভাইয়েরা — বারো।",
+  "tokens": [
+    {
+      "surface": "השבעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "ישראלה",
+      "gloss": "য়েশারেলাহ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তাঁর পুত্রেরা"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ও তাঁর ভাইয়েরা"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T17:14:49.432295315Z",
+  "model": "glm-5.2"
+}

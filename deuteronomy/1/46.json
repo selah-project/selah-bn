@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তোমরা কাদেশে বসে রইলে অনেক দিন, সেই দিনগুলোর মতো যত দিন ⟨তোমরা⟩ বসে ছিলে।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "তোমরা বসে রইলে"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "কাদেশে"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "সেই দিনগুলোর মতো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যত"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "বসে ছিলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:11.207781762Z",
+  "model": "glm-5.2"
+}

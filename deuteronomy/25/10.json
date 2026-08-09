@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং যিশরায়েলে তার নাম ডাকা হবে, “যার জুতা খোলা — তার গৃহ।”",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "এবং ডাকা হবে"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তার নাম"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "যিশরায়েলে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "যার জুতা খোলা"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "জুতা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:48.439392440Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "হিকমার ⟨এটাই⟩ আদি — হিকমা ⟨অর্জন করো⟩, এবং তোমার সমস্ত অর্জনে বোঝ ⟨অর্জন করো⟩।",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "আদি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "হিকমার"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "অর্জন করো"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "হিকমা"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "এবং তোমার সমস্ত"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "অর্জনে"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "অর্জন করো"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোঝ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:38.836602577Z",
+  "model": "glm-5.2"
+}

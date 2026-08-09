@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "কিন্তু যদি তোমরা আমার কথা না শোনো এবং এই সমস্ত আদেশগুলির ⟨আনুপালিকা⟩ ⟨না⟩ করো,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "কিন্তু যদি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "তোমরা শোনো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার ⟨কথা⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "তোমরা করো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "আদেশগুলি"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:07:45.152769065Z",
+  "model": "glm-5.2"
+}

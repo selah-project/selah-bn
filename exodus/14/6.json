@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর ⟨তিনি⟩ ⟨তাঁর⟩ রথ জুতলেন এবং ⟨তাঁর⟩ জনগণকে ⟨সঙ্গে⟩ নিলেন।",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "আর জুতলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রথ"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "⟨তাঁর⟩ রথ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "জনগণকে"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨তাঁর⟩ জনগণকে"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "নিলেন"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨সঙ্গে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T07:47:59.123614666Z",
+  "model": "glm-5.2"
+}

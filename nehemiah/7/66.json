@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "পুরো সমাজ ⟨একত্রে⟩ চার মহাসংখ্যা, দুই হাজার তিনশো ষাট।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "পুরো"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "একত্রে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "মহাসংখ্যা"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজার"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "এবং ষাট"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:48.354245825Z",
+  "model": "glm-5.2"
+}

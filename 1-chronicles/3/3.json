@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "পঞ্চম শফটিয়া, অবিতলের গর্ভে; ষষ্ঠ যিতরয়াম, এগলার গর্ভে, তাঁর স্ত্রী;",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "পঞ্চম"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "শফটিয়া"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "অবিতলের"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "যিতরয়াম"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "এগলার"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "তাঁর স্ত্রী"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:02.819483578Z",
+  "model": "glm-5.2"
+}

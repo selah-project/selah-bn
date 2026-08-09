@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "মিখমাস-এর লোকেরা — এক শত বিশ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "মিখমাস"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এক শত"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:41.330837915Z",
+  "model": "glm-5.2"
+}

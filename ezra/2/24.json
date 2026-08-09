@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আজমাভেতের পুত্রেরা — চল্লিশ ও দুই।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "আজমাভেতের"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:20.758497827Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "“এই সমাজের মধ্য থেকে আলাদা হও, আর আমি তাদের এক মুহূর্তে বিনষ্ট করব।”",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "আলাদা হও"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজের"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "আর আমি বিনষ্ট করব"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "তাদের"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "এক মুহূর্তে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:14:31.423312846Z",
+  "model": "glm-5.2"
+}

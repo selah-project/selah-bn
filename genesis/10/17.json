@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং ⟨את⟩ হিব্বীয়, এবং ⟨את⟩ আর্কীয়, এবং ⟨את⟩ সীনীয়।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "হিব্বীয়"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "হিব্বীয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আর্কীয়"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "আর্কীয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "সীনীয়"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "সীনীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T07:41:50.436745941Z",
+  "model": "glm-5.2"
+}

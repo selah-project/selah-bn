@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর কায়িন ইয়াহওয়েহকে বলল, “আমার ⟨অপরাধ⟩ বহন করার চেয়ে বড়।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "קין",
+      "gloss": "কায়িন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "বড়"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "আমার অপরাধ"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "বহন করার চেয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:15.243528052Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "“তোমার জন্য অন্য এলোহিম ⟨নেই⟩ ⟨হবে⟩ আমার সম্মুখে।”",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "অন্য"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "সম্মুখে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:51:02.247265820Z",
+  "model": "glm-5.2"
+}

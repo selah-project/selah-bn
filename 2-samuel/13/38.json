@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আভশালোম পালাল এবং গশূরে গেল এবং সেখানে ⟨সে⟩ ছিল তিন বছর।",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "এবং আভশালোম"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "পালাল"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "এবং গেল"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "গশূরে"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ছিল"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:02:41.140630683Z",
+  "model": "glm-5.2"
+}

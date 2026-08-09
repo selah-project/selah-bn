@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "শেত পাঁচ বছর ও এক শত বছর বেঁচে ছিল, আর ⟨সে⟩ ⟨את⟩ এনোশকে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "বেঁচে ছিল"
+    },
+    {
+      "surface": "שת",
+      "gloss": "শেত"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ও এক শত"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এনোশকে"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "এনোশ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:30.792575861Z",
+  "model": "glm-5.2"
+}

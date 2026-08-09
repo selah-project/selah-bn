@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "বিন্যামিনের গোত্রের জন্য — রাফুর পুত্র পলতী।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "পলতী"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "রাফু"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:48.447952741Z",
+  "model": "glm-5.2"
+}

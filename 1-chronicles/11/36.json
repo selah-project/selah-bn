@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "হেফের হামেখরাতী, আখিয়া হাফলোনী।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "হেফের"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "হামেখরাতী"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "আখিয়া"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "হাফলোনী"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:33.471329844Z",
+  "model": "glm-5.2"
+}

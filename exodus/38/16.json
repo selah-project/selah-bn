@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "চারপাশে প্রাঙ্গণের সব জাল-পর্দা মরী সুতোর পিট করা শণের ছিল।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "জাল-পর্দা"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "প্রাঙ্গণের"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারপাশে"
+    },
+    {
+      "surface": "שש",
+      "gloss": "পিট করা শণ"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "মরী সুতোর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:57:08.134513273Z",
+  "model": "glm-5.2"
+}

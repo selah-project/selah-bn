@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 4:10",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "বেন-চেসেদ — আরুবোতে; তাঁর ⟨জন্য⟩ সোখো এবং সমস্ত হেফের দেশ ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "-চেসেদ"
+    },
+    {
+      "surface": "בארבות",
+      "gloss": "আরুবোতে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁর ⟨জন্য⟩"
+    },
+    {
+      "surface": "שכה",
+      "gloss": "সোখো"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং সমস্ত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "হেফের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:08:34.580680945Z",
+  "model": "glm-5.2"
+}

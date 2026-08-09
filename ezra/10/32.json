@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "বিনয়ামিন, মল্লুখ, শেমারয়া।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "বিনয়ামিন"
+    },
+    {
+      "surface": "মלוך",
+      "gloss": "মল্লুখ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "শেমারয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T09:26:17.019740401Z",
+  "model": "glm-5.2"
+}

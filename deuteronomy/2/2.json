@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং ইয়াহওয়েহ আমাকে বললেন, বলে যে —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:00:04.450498162Z",
+  "model": "glm-5.2"
+}

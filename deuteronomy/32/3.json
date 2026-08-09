@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "কেননা ইয়াহওয়েহর নাম আমি ডাকব; আমাদের এলোহিমের মহত্ত্ব ⟨হে⟩ দিন।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কেননা"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "আমি ডাকব"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "মহত্ত্ব"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "আমাদের এলোহিমের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:57:33.594699266Z",
+  "model": "glm-5.2"
+}

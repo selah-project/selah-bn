@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "কাছিলের জন্মদাতা ⟨⟨এট⟩⟩ শোক পায়, আর নাবালের পিতা আনন্দিত হয় না।",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "জন্মদাতা"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "কাছিলের"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "শোক"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨এট⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "আনন্দিত হয়"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "নাবালের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:59.546679010Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর আমি আমার প্রভুকে বললাম, ‘হয়তো সেই নারী আমার পিছু নেবে না।’",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "আর আমি বললাম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আমার প্রভু"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "হয়তো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "সে যাবে"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "সেই নারী"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "আমার পিছু"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:11.490974302Z",
+  "model": "glm-5.2"
+}

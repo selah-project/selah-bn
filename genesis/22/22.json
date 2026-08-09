@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "ও ⟨את⟩ কেসেদ ও ⟨את⟩ হাজো ও ⟨את⟩ পিলদশ ও ⟨את⟩ য়িদলাফ ও ⟨את⟩ বেতুয়েল।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "কেসেদ"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "কেসেদ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "হাজো"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "হাজো"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "পিলদশ"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "পিলদশ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "য়িদলাফ"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "য়িদলাফ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "বেতুয়েল"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "বেতুয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:31.969147977Z",
+  "model": "glm-5.2"
+}

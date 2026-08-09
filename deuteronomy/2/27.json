@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "“আমি তোমার দেশে পার হব, রাস্তায় রাস্তায় আমি চলব; আমি ডানে বা বাঁয়ে ফিরব না।",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "আমি পার হব"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "তোমার দেশে"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "রাস্তায়"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "রাস্তায়"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "আমি চলব"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "আমি ফিরব"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ডানে"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "বা বাঁয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:59.954835775Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "আর তাঁর ভাইয়েরা ⟨את⟩ তাঁদের পিতার ভেড়া চরাতে শখেমে গেল।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "আর গেল"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তাঁর ভাইয়েরা"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "চরাতে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ভেড়া"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "তাঁদের পিতার"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "শখেমে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:53:54.558473041Z",
+  "model": "glm-5.2"
+}

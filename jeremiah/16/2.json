@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "তুমি নিজের জন্য ⟨এক⟩ স্ত্রী গ্রহণ করবে না, এবং এই স্থানে তোমার পুত্র ও কন্যা হবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "গ্রহণ করবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তুমি নিজের জন্য"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨এক⟩ স্ত্রী"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ও কন্যা"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "স্থানে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T08:21:32.006884824Z",
+  "model": "glm-5.2"
+}

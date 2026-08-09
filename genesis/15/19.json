@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "⟨את⟩ কেনীয় এবং ⟨את⟩ কনিজীয় এবং ⟨את⟩ কদ্মোনীয়।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কেনীয়"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "কেনীয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "কনিজীয়"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "কনিজীয়"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "কদ্মোনীয়"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "কদ্মোনীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:12.007237742Z",
+  "model": "glm-5.2"
+}

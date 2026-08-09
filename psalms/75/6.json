@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 75,
+  "translation": "তোমাদের শিং উচ্চে তুলো না, বলপূর্বক তোমাদের ঘাড় ⟨সগর্বে⟩ কথা বলো না।”",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "তুলো"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "উচ্চে"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "তোমাদের শিং"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "কথা বলো"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "ঘাড়"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "বলপূর্বক"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:50.814941867Z",
+  "model": "glm-5.2"
+}

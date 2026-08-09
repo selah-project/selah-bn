@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "সঙ্গীতকাররা — আসফের পুত্ররা — এক শত আটচল্লিশ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "সঙ্গীতকাররা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসফের"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "এক শত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ও আট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:35.729542249Z",
+  "model": "glm-5.2"
+}

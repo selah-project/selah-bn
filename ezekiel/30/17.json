@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আভেনের বালকরা ও ফি-বেসেত—তরবারিতে পড়বে, আর সেই ⟨নগরগুলি⟩ বন্দিত্বে যাবে।",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "বালকরা"
+    },
+    {
+      "surface": "און",
+      "gloss": "আভেনের"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ও ফি"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "বেসেত"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "তরবারিতে"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "পড়বে"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর সেই"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "বন্দিত্বে"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "যাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:17:25.141069745Z",
+  "model": "glm-5.2"
+}

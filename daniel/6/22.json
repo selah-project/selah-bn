@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "তখন দানিয়েল রাজার সঙ্গে কথা বলল: হে রাজা, অনন্তকাল ধরে বাঁচুন!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "দানিয়েল"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "কথা বলল"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "হে রাজা"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "অনন্তকাল ধরে"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "বাঁচুন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:28:13.502357323Z",
+  "model": "glm-5.2"
+}

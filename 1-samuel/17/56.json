@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আর রাজা বললেন, “তুমি জিজ্ঞেস করো, এই যুবক কার পুত্র।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "জিজ্ঞেস করো"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কার"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "যুবক"
+    }
+  ],
+  "timestamp": "2026-08-09T03:55:33.442484338Z",
+  "model": "glm-5.2"
+}

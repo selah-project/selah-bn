@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কারণ এও অনেকবার তোমার মন জানে যে এও তুমি অন্যদের অভিশাপ দিয়েছ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এও"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "বার"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমার মন"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "অভিশাপ দিয়েছ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "অন্যদের"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:23.662957792Z",
+  "model": "glm-5.2"
+}

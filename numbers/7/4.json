@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে উদ্দেশ্য করে বললেন,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উদ্দেশ্যে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:22.599153712Z",
+  "model": "glm-5.2"
+}

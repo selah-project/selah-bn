@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 109,
+  "translation": "তার দিনগুলি অল্প হোক, এবং তার পদ অন্য ⟨একজন⟩ গ্রহণ করুক।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হোক"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তার দিনগুলি"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "অল্প"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "তার পদ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "গ্রহণ করুক"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "অন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:33.158475291Z",
+  "model": "glm-5.2"
+}

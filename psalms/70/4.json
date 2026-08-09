@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 70,
+  "translation": "যারা বলে, “হাঃ হাঃ!” তারা তাদের লজ্জার কারণে ফিরে যাক।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "তারা ফিরে যাক"
+    },
+    {
+      "surface": "על",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "⟨ফলস্বরূপ⟩"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "তাদের লজ্জার"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "যারা বলে"
+    },
+    {
+      "surface": "האח",
+      "gloss": "হাঃ!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "হাঃ!"
+    }
+  ],
+  "timestamp": "2026-08-09T05:41:49.257246195Z",
+  "model": "glm-5.2"
+}

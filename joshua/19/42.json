@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং শাআলাব্বিন ও আয়ালোন ও ইৎলা।",
+  "tokens": [
+    {
+      "surface": "ושעלবין",
+      "gloss": "এবং শাআলাব্বিন"
+    },
+    {
+      "surface": "ואיײון",
+      "gloss": "ও আয়ালোন"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ও ইৎলা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:31.624022195Z",
+  "model": "glm-5.2"
+}

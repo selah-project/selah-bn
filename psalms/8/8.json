@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "ভেড়া ও বলদ, এগুলি সমস্ত, এবং মরুভূমির পশুও।",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ও বলদ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "এগুলি সমস্ত"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "এবং আমি"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "পশু"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "মরুভূমির"
+    }
+  ],
+  "timestamp": "2026-08-09T05:32:05.973587941Z",
+  "model": "glm-5.2"
+}

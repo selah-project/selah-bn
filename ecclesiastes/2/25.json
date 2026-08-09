@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কারণ কে ⟨খাবে⟩, এবং কে ⟨আনন্দ⟩ ⟨অনুভব⟩ করবে আমার বাইরে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাবে"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "এবং কে"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "আনন্দ অনুভব করবে"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "আমার"
+    }
+  ],
+  "timestamp": "2026-08-09T10:12:58.475758799Z",
+  "model": "glm-5.2"
+}

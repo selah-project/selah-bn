@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ শাফান — কারণ সে গেরা তোলে, কিন্তু পারসা বিভক্ত করে না, সে তোমাদের জন্য অপবিত্র,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "শাফান"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "শাফান"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "তোলে"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "গেরা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "এবং পারসা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "বিভক্ত করে"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অপবিত্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T13:56:54.829347979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "প্রত্যেক শুদ্ধ পাখি তোমরা খেতে পারবে",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্রত্যেক"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "শুদ্ধ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:32.563421666Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং সিকলগে, এবং মেখোনায় ও ⟨তার⟩ উপনগরগুলিতে,",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "এবং সিকলগে"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "এবং মেখোনায়"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "এবং ⟨তার⟩ উপনগরগুলিতে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:02.634321477Z",
+  "model": "glm-5.2"
+}

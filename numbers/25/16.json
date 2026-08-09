@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং ইয়াহওয়েহ মোশের সঙ্গে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨সঙ্গে⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:04.676223180Z",
+  "model": "glm-5.2"
+}

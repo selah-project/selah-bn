@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং নাহোর বেঁচে রইল ঊনিশ বছর, এবং ⟨את⟩ তেরহকে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং বেঁচে রইল"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাহোর"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেরহকে"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেরহ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:16.791835123Z",
+  "model": "glm-5.2"
+}

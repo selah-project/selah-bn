@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর যার ⟨নেই⟩ পাখনা ও ত্রক তা তোমরা খাবে না; তোমাদের নিকট তা অশুচি।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "আর সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার নিকট"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "পাখনা"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ও ত্রক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অশুচি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের নিকট"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:33.324390281Z",
+  "model": "glm-5.2"
+}

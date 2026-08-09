@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং ⟨את⟩ দেদান এবং ⟨את⟩ তেমা এবং ⟨את⟩ বুস এবং ⟨את⟩ সমস্ত ⟨যারা⟩ কর্ত চুলের-প্রান্ত ⟨কাটে⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "দেদান"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "দেদান"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "তেমা"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "তেমা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "বুস"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "বুস"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "সমস্ত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "কর্ত"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "প্রান্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:20:51.641336348Z",
+  "model": "glm-5.2"
+}

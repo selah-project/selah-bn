@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং প্রত্যেক বিচরণশীল পক্ষী যার চারটে পা ⟨আছে⟩ — তা তোমাদের কাছে ঘৃণ্য বস্তু।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "এবং প্রত্যেক"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "বিচরণশীল"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "পক্ষী"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার কাছে"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "পা"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ঘৃণ্য বস্তু"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:00:57.663160357Z",
+  "model": "glm-5.2"
+}

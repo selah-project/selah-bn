@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "হাগাবের পুত্রেরা, শামলায়ের পুত্রেরা, হানানের পুত্রেরা,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "হাগাব"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "শামলায়"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "হানান"
+    }
+  ],
+  "timestamp": "2026-08-09T09:25:07.965458915Z",
+  "model": "glm-5.2"
+}

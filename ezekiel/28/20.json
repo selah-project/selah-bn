@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:11:02.632873639Z",
+  "model": "glm-5.2"
+}

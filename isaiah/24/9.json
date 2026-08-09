@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 24:9",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "গানসহ ⟨অার⟩ মদ পান করবে না; ⟨অার⟩ পানকারীদের কাছে মদ তিক্ত হয়ে যাবে।",
+  "tokens": [
+    {
+      "surface": "בשיר",
+      "gloss": "গানসহ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "পান করবে"
+    },
+    {
+      "surface": "יין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "তিক্ত হবে"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "לשתיו",
+      "gloss": "পানকারীদের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:14:46.682872171Z",
+  "model": "glm-5.2"
+}

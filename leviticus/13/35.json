@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আর যদি তাঁর পবিত্র ঘোষণার পরে নেতেক চামড়ায় ছড়াতে ছড়ায় —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ছড়ায়"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ছড়াতে"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "নেতেক"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "চামড়ায়"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "তাঁর পবিত্র ঘোষণা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:50:34.769065641Z",
+  "model": "glm-5.2"
+}

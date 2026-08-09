@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "সেই সময়ে রাজা আহাজ অশূরের রাজাদের ⟨কাছে⟩ প্রেরণ করলেন তাঁকে সাহায্য করার জন্য।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "প্রেরণ করলেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাজ"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨কাছে⟩"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "রাজাদের"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "অশূরের"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "সাহায্য করার জন্য"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:54:44.950156835Z",
+  "model": "glm-5.2"
+}

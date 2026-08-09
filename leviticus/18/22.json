@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "এবং ⟨את⟩ পুরুষের সঙ্গে নারীর শয্যার মতো শয়ন করবে না; ঘৃণিত বস্তু ⟨এটি⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "পুরুষ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "পুরুষ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "শয়ন করবে"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "শয্যার মতো"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নারী"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ঘৃণিত বস্তু"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨এটি⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T13:57:51.634025700Z",
+  "model": "glm-5.2"
+}

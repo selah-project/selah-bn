@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "নেতোফার লোকেরা — ছাপ্পান্ন ও ছয়।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "নেতোফার"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ছাপ্পান্ন"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ও ছয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:20.758286132Z",
+  "model": "glm-5.2"
+}

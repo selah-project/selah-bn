@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং তুই, মানব-পুত্র, তোর উপর এক শোকগাথা তুলে ধর, তসোরের জন্য।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "এবং তুই"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানবের"
+    },
+    {
+      "surface": "שא",
+      "gloss": "তুলে ধর"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "צר",
+      "gloss": "তসোরের"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "শোকগাথা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:10:28.224037308Z",
+  "model": "glm-5.2"
+}

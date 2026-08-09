@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর গৃহপালিত গরু ছত্রিশ হাজার —",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "আর গৃহপালিত গরু"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "আর তিরিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T03:19:40.644071345Z",
+  "model": "glm-5.2"
+}

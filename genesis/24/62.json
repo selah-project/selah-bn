@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর য়িৎসহাক বের-লহাই-রোয়ি পথ থেকে আসছিলেন — কারণ তিনি দক্ষিণ দেশে বাস করতেন।",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "আর য়িৎসহাক"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আসছিলেন"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "পথ থেকে"
+    },
+    {
+      "surface": "באר",
+      "gloss": "বের"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "লহাই"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "রোয়ি"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আর তিনি"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "বাস করতেন"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "দক্ষিণ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:01.111253879Z",
+  "model": "glm-5.2"
+}

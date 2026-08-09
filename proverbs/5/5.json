@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তার পা মৃত্যুতে নেমে যায়; শেওল ⟨আঁকড়ে⟩ ধরে তার পদক্ষেপগুলো।",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "তার পা"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "নেমে যায়"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুতে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শেওল"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "তার পদক্ষেপগুলো"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "⟨আঁকড়ে⟩ ধরে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:47.604579282Z",
+  "model": "glm-5.2"
+}

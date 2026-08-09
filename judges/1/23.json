@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর যোসেফের গৃহ বেথ-এলে গুপ্তচর প্রেরণ করল; আর ⟨העיר⟩ নগরের নাম পূর্বে ⟨היה⟩ লুজ।",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "আর প্রেরণ করল"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফের"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "বেথ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এলে"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগরের"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "পূর্বে"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "লুজ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:40:59.963069553Z",
+  "model": "glm-5.2"
+}

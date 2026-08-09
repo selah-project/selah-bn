@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "ছাদের কোণে বসে থাকা ভালো, বিবাদ-ময় স্ত্রী ও বিস্তৃত ঘরের চেয়ে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "বসে থাকা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে\/এ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "কোণে"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ছাদের"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "...স্ত্রীর চেয়ে"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "বিবাদ-ময়"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "এবং ঘর"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "সংসর্গের\/বিস্তৃত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:56.679620970Z",
+  "model": "glm-5.2"
+}

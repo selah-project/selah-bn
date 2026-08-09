@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "আর মোশের শ্বশুর তাঁকে বললেন, “তুমি যে কাজটি করছ ⟨সেটি⟩ ভাল ⟨নয়⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "শ্বশুর"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাজটি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করছ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:50:40.654141420Z",
+  "model": "glm-5.2"
+}

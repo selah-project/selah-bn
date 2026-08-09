@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং তাঁর পরে গাব্বাই, সাল্লাই — নয়শত বিশ আট।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "এবং তাঁর পরে"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "গাব্বাই"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "সাল্লাই"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "এবং আট"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:24.501432149Z",
+  "model": "glm-5.2"
+}

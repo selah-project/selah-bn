@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ও ⟨বানি⟩, ও ⟨বিন্নুয়⟩, শিময়।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ও বানি"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ও বিন্নুয়"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিময়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:22.773559071Z",
+  "model": "glm-5.2"
+}

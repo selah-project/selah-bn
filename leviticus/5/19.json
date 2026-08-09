@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "অশম ⟨এটি⟩ — সে দোষী; ইয়াহওয়েহর বিরুদ্ধে সে দোষী।",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "অশম"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "সে দোষী"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "সে দোষী"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহর বিরুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:11.156652077Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 34:7",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "মোশে মৃত্যুকালে একশো বিশ বছর বয়সের ছিলেন — তাঁর চোখ ম্লান হয়নি, আর তাঁর সতেজতা দূর হয়নি।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বয়সের"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশো"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "মৃত্যুকালে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כהתה",
+      "gloss": "ম্লান হয়নি"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "তাঁর চোখ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "נס",
+      "gloss": "দূর হয়নি"
+    },
+    {
+      "surface": "לחה",
+      "gloss": "তাঁর সতেজতা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:15.080644006Z",
+  "model": "glm-5.2"
+}

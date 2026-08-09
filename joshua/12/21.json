@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "তাআনকের রাজা, একজন; মেগিদ্দোর রাজা, একজন।",
+  "tokens": [
+    {
+      "surface": "מֶ֤לֶךְ",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "תַּעְנַךְ֙",
+      "gloss": "তাআনক"
+    },
+    {
+      "surface": "אֶחָ֔ד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מֶ֥לֶךְ",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "מְגִדּ֖וֹ",
+      "gloss": "মেগিদ্দো"
+    },
+    {
+      "surface": "אֶחָֽד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T14:03:01.333795374Z",
+  "model": "glm-5.2"
+}

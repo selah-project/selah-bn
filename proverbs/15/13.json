@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আনন্দিত হৃদয় ⟨মুখখানি⟩ সুন্দর করে, আর হৃদয়ের দুঃখে আত্মা পিষ্ট হয়।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "আনন্দিত"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "সুন্দর করে"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "আর দুঃখে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ের"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "আত্মা"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "পিষ্ট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:05.810539948Z",
+  "model": "glm-5.2"
+}

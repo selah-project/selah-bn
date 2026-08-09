@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "অধিপতিদের তাদের হাতে ঝুলিয়ে দেওয়া হয়েছে, বৃদ্ধদের মুখ সম্মানিত হয়নি।",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "অধিপতিদের"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "তাদের হাতে"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ঝুলিয়ে দেওয়া হয়েছে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "বৃদ্ধদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "সম্মানিত হয়েছে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:44.178100874Z",
+  "model": "glm-5.2"
+}

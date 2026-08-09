@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 126,
+  "translation": "যারা বিলাপে বপন করে, তারা আনন্দগানে কাটবে।",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "যারা বপন করে"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "বিলাপে"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "আনন্দগানে"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "কাটবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:18.774661211Z",
+  "model": "glm-5.2"
+}

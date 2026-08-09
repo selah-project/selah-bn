@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "এবং শোহম পাথর ও বসানোর পাথর, এফোদ ও খোশেনের জন্য।",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "এবং পাথর"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "শোহম"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "এবং পাথর"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "বসানোর"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "এফোদের জন্য"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "এবং খোশেনের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T02:55:50.491419547Z",
+  "model": "glm-5.2"
+}

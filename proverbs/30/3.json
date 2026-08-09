@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর আমি প্রজ্ঞা শিখিনি, এবং কদশীম-এর ⟨দৈবজ্ঞান⟩ — ⟨তা⟩ জানি না।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "শিখিয়েছি"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্রজ্ঞা"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "এবং ⟨দৈবজ্ঞান⟩"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "কদশীম-এর"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "জানি"
+    }
+  ],
+  "timestamp": "2026-08-09T17:12:38.589659979Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "পেরেৎের পুত্রদের থেকে সে ⟨ছিল⟩ — প্রথম মাসের জন্য সমস্ত সেনাবাহিনীপতিদের প্রধান।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেরেৎ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "প্রধান"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "…-এর অধিপতি"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "সেনাবাহিনী"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাসের জন্য"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্রথম"
+    }
+  ],
+  "timestamp": "2026-08-09T14:33:16.919728888Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 62:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 62,
+  "translation": "কেবল তিনিই আমার শিলা ও আমার মুক্তি; আমার দুর্গ, ⟨তাই⟩ আমি টলিনা।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তিনিই"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "আমার শিলা"
+    },
+    {
+      "surface": "וישועתי",
+      "gloss": "ও আমার মুক্তি"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "আমার দুর্গ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "আমি টলিনা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:40:58.309366574Z",
+  "model": "glm-5.2"
+}

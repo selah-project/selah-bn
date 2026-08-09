@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "ইসরায়েলের সঙ্গে ⟨তুমি⟩ নিষ্কলুষ থাকবে, তোমার এলোহিম ইয়াহওয়েহের সঙ্গে।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "নিষ্কলুষ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟤ুমি থাকবে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "তোমার এলোহিম"
+    }
+  ],
+  "timestamp": "2026-08-09T07:56:08.854914894Z",
+  "model": "glm-5.2"
+}

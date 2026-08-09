@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তাই লেমেখ-এর সমস্ত দিন সাত ও সত্তর বছর এবং সাতশো বছর হলো, এবং তিনি মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তাই … হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "למך",
+      "gloss": "লেমেখ-এর"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ও সত্তর"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "এবং সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "তিনি মারা গেলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:38.671606611Z",
+  "model": "glm-5.2"
+}

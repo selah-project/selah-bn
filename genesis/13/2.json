@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আর আভ্রাম পশুসম্পদে, রূপায় ও সোনায় অত্যন্ত ভারী ⟨হলেন⟩।",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "আর আভ্রাম"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভারী"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অত্যন্ত"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "পশুসম্পদে"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "রূপায়"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ও সোনায়"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:54.150776713Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর শাউল মারা গেল, আর তাঁর বদলে বা‌ল-‌‌হানান অকবোরের ছেলে রাজা হলেন।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আর মারা গেল"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শাউল"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "আর রাজা হলেন"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "তাঁর বদলে"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বা‌ল-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "‌‌হানান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ছেলে"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "অকবোরের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:46:41.624301822Z",
+  "model": "glm-5.2"
+}

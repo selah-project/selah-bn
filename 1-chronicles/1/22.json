@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং ⟨את⟩ এবল এবং ⟨את⟩ আবিমায়েল এবং ⟨את⟩ শবা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "এবল"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "এবল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আবিমায়েল"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "আবিমায়েল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "শবা"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "শবা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:06.777334296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "নাফতালির ⟨থেকে⟩ অহীরা ⟨এর ছেলে⟩ এনানের।”",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "নাফতালির"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "অহীরা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "এনানের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:33.314340176Z",
+  "model": "glm-5.2"
+}

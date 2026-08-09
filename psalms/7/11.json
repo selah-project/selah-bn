@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আমার ঢাল ⟨আছে⟩ এলোহিমের উপর, সরল-হৃদয়দের ⟨তিনি⟩ ত্রাণকর্তা।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "আমার ঢাল"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ত্রাণকর্তা"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "সরল"
+    },
+    {
+      "surface": "לב",
+      "gloss": "-হৃদয়দের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:35:28.429468901Z",
+  "model": "glm-5.2"
+}

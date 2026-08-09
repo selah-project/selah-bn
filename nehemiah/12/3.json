@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "শেখানিয়, রহূম, মেরেমোৎ।",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "শেখানিয়"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "রহূম"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "মেরেমোৎ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:36:20.118870264Z",
+  "model": "glm-5.2"
+}

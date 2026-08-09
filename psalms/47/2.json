@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 47:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "সব জাতিরা, ⟨তোমরা⟩ তালি দাও; এলোহিমকে জয়ধ্বনির স্বরে গর্জে ওঠ!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতিরা"
+    },
+    {
+      "surface": "תקעו",
+      "gloss": "তালি দাও"
+    },
+    {
+      "surface": "כף",
+      "gloss": "⟨হাত⟩"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "গর্জে ওঠ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "এলোহিমকে"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "স্বরে"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "জয়ধ্বনির"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:53.304825168Z",
+  "model": "glm-5.2"
+}

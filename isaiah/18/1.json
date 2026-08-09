@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "হায়, পাখার গুনগুন করা দেশ, যা কুশের নদীগুলির ওপারে।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "গুনগুন করা"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "পাখার"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ওপারে"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "নদীগুলির"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কুশের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:17:34.686350027Z",
+  "model": "glm-5.2"
+}

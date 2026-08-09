@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং ঘটল মহামারীর পরে।",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֖י",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "אַחֲרֵ֣י",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "הַמַּגֵּפָ֑ה",
+      "gloss": "মহামারীর"
+    }
+  ],
+  "timestamp": "2026-08-09T07:53:37.621331785Z",
+  "model": "glm-5.2"
+}

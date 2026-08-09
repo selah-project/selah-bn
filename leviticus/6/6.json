@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আগুন নিরন্তর ⟨হম্জবেচ⟩ ⟨পর⟩ জ্বলবে, নিভবে না।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "নিরন্তর"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "জ্বলবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨পর⟩"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "⟨হম্জবেচ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "নিভবে"
+    }
+  ],
+  "timestamp": "2026-08-09T16:39:54.819693568Z",
+  "model": "glm-5.2"
+}

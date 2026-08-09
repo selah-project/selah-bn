@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "এলোহিমের গান গাও, গান গাও, আমাদের রাজাকে গান গাও, গান গাও।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "গান গাও"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "গান গাও"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "গান গাও"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "আমাদের রাজাকে"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "গান গাও"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:35.130550855Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "judges 1:26",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "সেই লোকটি হিত্তীয়দের দেশে গেল, আর ⟨একটি⟩ নগর নির্মাণ করল, আর তার নাম রাখল লুজ — ⟨সেই⟩ নাম আজ ⟨পর্যন্ত⟩।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "গেল"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "লোকটি"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "החתים",
+      "gloss": "হিত্তীয়দের"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "নির্মাণ করল"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "রাখল"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "লুজ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:41:47.463364961Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "কারণ প্রতি ইচ্ছার জন্য এক ⟨আছে⟩ সময় ও বিচার, কারণ মানুষের দুর্ভোগ তার উপর বড়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ইচ্ছার"
+    },
+    {
+      "surface": "יש",
+      "gloss": "এক ⟨আছে⟩"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ও বিচার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "দুর্ভোগ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "বড়"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তার উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:02.586109926Z",
+  "model": "glm-5.2"
+}

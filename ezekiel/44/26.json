@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 44,
+  "translation": "এবং তাঁর শুদ্ধির পরে সাত দিন তাঁর জন্য গণনা করা হবে।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "এবং পরে"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "তাঁর শুদ্ধির"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "গণনা করা হবে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁর জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:15:49.590754772Z",
+  "model": "glm-5.2"
+}

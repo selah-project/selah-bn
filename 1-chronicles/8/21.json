@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "ওয়াদায়াহ, উবরায়াহ, ওশিমরাত — শিময়ির পুত্ররা।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ওয়াদায়াহ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "উবরায়াহ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ওশিমরাত"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিময়ি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:41.445042108Z",
+  "model": "glm-5.2"
+}

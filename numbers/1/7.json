@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "যিহূদার জন্য — নখশোন আম্মিনাদবের পুত্র।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "যিহূদার জন্য"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "নখশোন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "আম্মিনাদবের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:07:39.267863743Z",
+  "model": "glm-5.2"
+}

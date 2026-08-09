@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং বকবক্কর, খেরেশ ও গালাল; এবং মাতনইয়াহ বেন মিখা বেন জিখ্রি বেন আসফ।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "এবং বকবক্কর"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "খেরেশ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ও গালাল"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "এবং মাতনইয়াহ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "মিখা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "জিখ্রি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসফ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:19.648628249Z",
+  "model": "glm-5.2"
+}

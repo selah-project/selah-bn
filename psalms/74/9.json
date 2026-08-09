@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 74,
+  "translation": "আমাদের নিদর্শন আমরা দেখি না, আর কোনো নবী নেই, এবং ⟨את⟩-এর সঙ্গে কেউ নেই ⟨যিনি⟩ জানে কতক্ষণ।",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "আমাদের নিদর্শন"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "আমরা দেখি"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "নবী"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "আমাদের সঙ্গে"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "কত"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কখন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:38:27.996103063Z",
+  "model": "glm-5.2"
+}

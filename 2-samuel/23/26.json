@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "খেলেৎ পলতীয়, ঢিক্কেশের পুত্র ঢিরা তকোয়ীয়।",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "খেলেৎ"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "পলতীয়"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ঢিরা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ঢিক্কেশ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "তকোয়ীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:22.064973974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বৎশেবা বলল, “ভাল; আমি তোমার জন্য রাজার কাছে কথা বলব।”",
+  "tokens": [
+    {
+      "surface": "ותאমר",
+      "gloss": "সে বলল"
+    },
+    {
+      "surface": "בת",
+      "gloss": "বৎ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শেবা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "বলব"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "তোমার জন্য"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    }
+  ],
+  "timestamp": "2026-08-09T04:09:04.601912913Z",
+  "model": "glm-5.2"
+}

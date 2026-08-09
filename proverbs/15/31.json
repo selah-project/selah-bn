@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "⟨একটি⟩ কান যা জীবন-দায়ী সমালোচনা শোনে, ⟨সে⟩ জ্ঞানীদের মধ্যে বাস করে।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "কান"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "যা শোনে"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "সমালোচনা"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীবন-দায়ী"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "বাস করে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:25:20.600312192Z",
+  "model": "glm-5.2"
+}

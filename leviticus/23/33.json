@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আর ইয়াহওয়েহ মোশেকে বললেন, বলে যেও —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর উদ্দেশে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যেও"
+    }
+  ],
+  "timestamp": "2026-08-09T03:06:52.367593961Z",
+  "model": "glm-5.2"
+}

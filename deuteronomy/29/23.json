@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "এবং বলবে সমস্ত জাতিসমূহ, কেন এমন করেছেন ইয়াহওয়েহ এই দেশে; এই মহান ক্রোধের উত্তাপ কী?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কীজন্য"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "এমন"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "এই দেশে"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "উত্তাপ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "ক্রোধের"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:31:42.692101812Z",
+  "model": "glm-5.2"
+}

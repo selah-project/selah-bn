@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমার প্রেমিক আমার এবং আমি তার — সে ⟨রাখে⟩ পালন ⟨করে⟩ গোলাপেদের মধ্যে।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "আমার প্রেমিক"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "এবং আমি"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "সে পালন করে"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "গোলাপেদের মধ্যে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:24.839101754Z",
+  "model": "glm-5.2"
+}

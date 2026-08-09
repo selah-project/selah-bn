@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "⟨একটি⟩ আঘাত ও অসম্মান ⟨সে⟩ পাবে, এবং তার অপমান মুছে ফেলা হবে না।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "আঘাত"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "এবং অসম্মান"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "⟸সে⟹ পাবে"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "এবং তার অপমান"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "মুছে ফেলা হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:40:51.700620972Z",
+  "model": "glm-5.2"
+}

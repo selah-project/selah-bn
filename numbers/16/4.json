@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "আর মোশে ⟨এটি⟩ শুনলেন এবং তাঁর মুখের উপর পড়ে গেলেন।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "আর ... শুনলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "এবং পড়ে গেলেন"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "তাঁর মুখের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:53:40.083165148Z",
+  "model": "glm-5.2"
+}

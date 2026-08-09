@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "দান, যোসেফ, ও বিন্যামিন, নাফতালি, গাদ, ও আশের।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ও বিন্যামিন"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নাফতালি"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ও আশের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:55.007794446Z",
+  "model": "glm-5.2"
+}

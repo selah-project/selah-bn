@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং ইস্রায়েল ⟨বাস করল⟩ এমোরীয়ের দেশে।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "এবং বাস করল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "এমোরীয়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T13:58:23.708147232Z",
+  "model": "glm-5.2"
+}

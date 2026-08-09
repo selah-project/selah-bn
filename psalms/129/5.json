@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 129,
+  "translation": "লজ্জিত হও এবং পিছনে ফিরে যাও, সিয়োনের সব ⟨বিদ্বেষীরা⟩।",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "লজ্জিত হও"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "এবং ফিরে যাও"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "পিছনে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "⟨বিদ্বেষীরা⟩"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "সিয়োনের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:40.521500106Z",
+  "model": "glm-5.2"
+}

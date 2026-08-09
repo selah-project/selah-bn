@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 122,
+  "translation": "আমার ভাই ও বন্ধুদের কারণে আমি এখন কথা বলব: তোমার মধ্যে শালোম।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আমার ভাই"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "ও বন্ধুদের"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "আমি কথা বলব"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শালোম"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমার মধ্যে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:52.273976334Z",
+  "model": "glm-5.2"
+}

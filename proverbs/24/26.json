@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "ঠোটা চুম্বন করবে ⟨তাকে⟩ যে সোজা কথা জবাব দেয়।",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ঠোটা"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "চুম্বন করবে"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "যে জবাব দেয়"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "সোজা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:05.409129455Z",
+  "model": "glm-5.2"
+}

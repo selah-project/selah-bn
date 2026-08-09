@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "অপর এলামের পুত্ররা, এক হাজার দুই শত চুয়ান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "এলামের"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "অপর"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুই শত"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ও চার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.959753617Z",
+  "model": "glm-5.2"
+}

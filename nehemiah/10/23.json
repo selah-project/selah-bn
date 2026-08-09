@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "পলতিয়া, গনন, অনায়া,",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "পলতিয়া"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "গনন"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "অনায়া"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:52.414967225Z",
+  "model": "glm-5.2"
+}

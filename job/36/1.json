@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এলিহু আরও বলল:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "আরও বলল"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "এলিহু"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:14:19.292787273Z",
+  "model": "glm-5.2"
+}

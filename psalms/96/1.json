@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 96,
+  "translation": "ইয়াহওয়েহকে গাও এক নতুন গীত; গাও ইয়াহওয়েহকে, হে সমস্ত পৃথিবী!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "গাও"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহকে"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "গাও"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    }
+  ],
+  "timestamp": "2026-08-09T05:47:24.929883798Z",
+  "model": "glm-5.2"
+}

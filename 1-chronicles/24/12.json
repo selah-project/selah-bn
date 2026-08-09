@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "এগারো নম্বর এলিয়াশিব, বারো নম্বর য়াকিম।",
+  "tokens": [
+    {
+      "surface": "לְאֶלְיָשִׁיב֙",
+      "gloss": "এলিয়াশিব"
+    },
+    {
+      "surface": "עַשְׁתֵּ֣י",
+      "gloss": "এগারো"
+    },
+    {
+      "surface": "עָשָׂ֔ר",
+      "gloss": "নম্বর"
+    },
+    {
+      "surface": "לְיָקִ֖ים",
+      "gloss": "য়াকিম"
+    },
+    {
+      "surface": "שְׁנֵ֥ים",
+      "gloss": "বারো"
+    },
+    {
+      "surface": "עָשָֽׂר",
+      "gloss": "নম্বর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:34.598127124Z",
+  "model": "glm-5.2"
+}

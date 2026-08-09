@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "যেখানে রাজার বাক্য ⟨সেখানে⟩ কর্তৃত্ব, আর কে ⟨তাঁকে⟩ বলবে, “তুমি কী করছ?”",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "যেখানে"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "কর্তৃত্ব"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "আর কে"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "বলবে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨তাঁকে⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "করছ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:24.440147233Z",
+  "model": "glm-5.2"
+}

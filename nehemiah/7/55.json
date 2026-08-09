@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বারকোসের সন্তানেরা, সিসরার সন্তানেরা, তামহের সন্তানেরা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "বারকোসের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "সিসরার"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "তামহের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:33.685894431Z",
+  "model": "glm-5.2"
+}

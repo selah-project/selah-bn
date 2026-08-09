@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 57,
+  "translation": "জাগো, হে আমার গৌরব; জাগো, হে নেবেল ও কিন্নর; আমি প্রভাতকে জাগাব।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "জাগো"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "আমার গৌরব"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "জাগো"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "নেবেল"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ও কিন্নর"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "আমি জাগাব"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "প্রভাতকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:38:51.874694467Z",
+  "model": "glm-5.2"
+}

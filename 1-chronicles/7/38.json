@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ও য়েতেরের পুত্রেরা: য়েফুন্নেহ, ও ফিসপা, ও আরা।",
+  "tokens": [
+    {
+      "surface": "וּבְנֵ֖י",
+      "gloss": "ও পুত্রেরা"
+    },
+    {
+      "surface": "יֶ֑תֶר",
+      "gloss": "য়েতেরের"
+    },
+    {
+      "surface": "יְפֻנֶּ֥ה",
+      "gloss": "য়েফুন্নেহ"
+    },
+    {
+      "surface": "וּפִסְפָּ֖ה",
+      "gloss": "ও ফিসপা"
+    },
+    {
+      "surface": "וַאְרָֽא",
+      "gloss": "ও আরা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:15.575270867Z",
+  "model": "glm-5.2"
+}

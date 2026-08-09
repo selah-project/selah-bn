@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 94,
+  "translation": "ইয়াহওয়েহ মানুষের চিন্তাভাবনা জানেন, কারণ সেগুলি ⟨⟩ ব্যর্থ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানেন"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "চিন্তাভাবনা"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "সেগুলি"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ব্যর্থ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:13.817099045Z",
+  "model": "glm-5.2"
+}

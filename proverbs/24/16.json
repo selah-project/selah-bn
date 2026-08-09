@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "কারণ সাতবার ধার্মিক পড়বে ও উঠবে, কিন্তু দুষ্টরা বিপদে পতিত হবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাতবার"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "পড়বে"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিক"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ও উঠবে"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "কিন্তু দুষ্টরা"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "পতিত হবে"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "বিপদে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:50.365722810Z",
+  "model": "glm-5.2"
+}

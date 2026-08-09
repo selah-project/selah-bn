@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "⟨⟩ সঙ্গীতকাররা: আসফের বংশধর, একশো আঠারো।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "সঙ্গীতকাররা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসফ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশো"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "এবং আট"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:16.416309932Z",
+  "model": "glm-5.2"
+}

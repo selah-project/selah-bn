@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "গাদের ⟨থেকে⟩ এলয়াসাফ ⟨এর ছেলে⟩ দেউয়েলের।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "গাদের"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "এলয়াসাফ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "দেউয়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:33.314182818Z",
+  "model": "glm-5.2"
+}

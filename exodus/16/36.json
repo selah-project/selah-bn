@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "আর ওমর ⟨হ⟩-এইফার দশমাংশ।",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "আর ওমর"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "দশমাংশ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "⟨হ⟩-এইফার"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨-⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T02:49:59.734109836Z",
+  "model": "glm-5.2"
+}

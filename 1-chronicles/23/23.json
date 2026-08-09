@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "মুশির পুত্রেরা: মখলি ও এদের ও য়েরেমোত — তিনজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "মুশির"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "মখলি"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ও এদের"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ও য়েরেমোত"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:45:09.847050354Z",
+  "model": "glm-5.2"
+}

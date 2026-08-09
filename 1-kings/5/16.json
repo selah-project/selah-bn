@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "“এবং শলোমোন হীরামের কাছে, বলে পাঠালেন।”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "এবং তিনি পাঠালেন"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "হীরামের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:09:14.684127520Z",
+  "model": "glm-5.2"
+}

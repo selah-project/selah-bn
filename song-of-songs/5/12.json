@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তাঁর চোখ দুটি জলধারার উপর কবুতরের মতো, দুধে স্নাত, পূর্ণতার উপর উপবিষ্ট।",
+  "tokens": [
+    {
+      "surface": "עיניו",
+      "gloss": "তাঁর চোখ দুটি"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "কবুতরের মতো"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "জলধারার"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "স্নাত"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "দুধে"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "উপবিষ্ট"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "পূর্ণতার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:16:14.054154327Z",
+  "model": "glm-5.2"
+}

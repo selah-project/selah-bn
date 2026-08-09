@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে বললেন, বলে যে।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:26.116439614Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ইয়াহওয়েহ-এর ভয় ⟨হল⟩ জ্ঞানের শিক্ষা, এবং গৌরবের আগে ⟨আসে⟩ বিনয়।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "এবং আগে"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "গৌরব"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "বিনয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:14.680331642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "তোমার পিতার স্ত্রীর নগ্নতা তুমি উন্মোচন করবে না; সে ⟨হল⟩ তোমার পিতার নগ্নতা।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "স্ত্রী"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "তোমার পিতার"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "তুমি উন্মোচন করবে"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "তোমার পিতার"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:04:11.441578291Z",
+  "model": "glm-5.2"
+}

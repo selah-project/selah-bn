@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "নিম্নভূমিতে: এশ্তাওল, ও ত্সোরআ, ও আশনা —",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "নিম্নভূমিতে"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "এশ্তাওল"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "ও ত্সোরআ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ও আশনা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:25.814567665Z",
+  "model": "glm-5.2"
+}

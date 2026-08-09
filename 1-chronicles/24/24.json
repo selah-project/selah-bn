@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "ऊज़জিয়েলের पुत্ররা: মীখা; লমীখার পুত্রদের জন্য — শামুর।",
+  "tokens": [
+    {
+      "surface": "ब্ন্য",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "उজ্জিয়েল",
+      "gloss": "ऊজ़জিয়েলের"
+    },
+    {
+      "surface": "মিখা",
+      "gloss": "মীখা"
+    },
+    {
+      "surface": "লব্ন্য",
+      "gloss": "পুত্রদের জন্য"
+    },
+    {
+      "surface": "मিখা",
+      "gloss": "মীখার"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "শামুর"
+    }
+  ],
+  "timestamp": "2026-08-09T14:32:35.223157181Z",
+  "model": "glm-5.2"
+}

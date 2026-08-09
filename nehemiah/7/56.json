@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "নেতসিয়াখের সন্তানেরা, হাতিফার সন্তানেরা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "নেতসিয়াখের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "হাতিফার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:33.686095914Z",
+  "model": "glm-5.2"
+}

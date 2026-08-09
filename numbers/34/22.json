@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "এবং দানের সন্তানদের গোত্রের ⟨জন্য⟩ — নেতা বুক্কি যোগলির পুত্র।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "এবং গোত্রের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানদের"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দানের"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নেতা"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "যোগলির"
+    }
+  ],
+  "timestamp": "2026-08-09T03:21:09.418954353Z",
+  "model": "glm-5.2"
+}

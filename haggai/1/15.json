@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "haggai 1:15",
+  "book": "haggai",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "ষষ্ঠ মাসের চব্বিশ তারিখে, রাজা দারিয়বেশের দ্বিতীয় বছরে —",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "এবং চার"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাসের"
+    },
+    {
+      "surface": "בששי",
+      "gloss": "ষষ্ঠে"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "বছরে"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "לדריוש",
+      "gloss": "দারিয়বেশের"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:26:48.766159962Z",
+  "model": "glm-5.2"
+}

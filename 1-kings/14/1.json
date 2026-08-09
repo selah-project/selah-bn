@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "সেই সময়ে আবিয়া, যারভভূমের পুত্র, ⟨অসুস্থ⟩ হল।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "সেই সময়ে"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "অসুস্থ হল"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "আবিয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "যারভভূম"
+    }
+  ],
+  "timestamp": "2026-08-09T04:14:52.236065255Z",
+  "model": "glm-5.2"
+}

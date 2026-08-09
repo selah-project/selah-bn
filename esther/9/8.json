@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨את⟩ পোরাতা, এবং ⟨את⟩ আদল্যা, এবং ⟨את⟩ আরিদাতা —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "পোরাতা"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "পোরাতা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আদল্যা"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "আদল্যা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "আরিদাতা"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "আরিদাতা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:25:08.179248218Z",
+  "model": "glm-5.2"
+}

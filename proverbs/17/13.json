@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "যে ভালোর বদলে মন্দ ফিরিয়ে দেয়, তার ⟨গৃহ⟩ থেকে মন্দ দূর হবে না।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ফিরিয়ে দেয়"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "বদলে"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "দূর হবে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "তার ⟨গৃহ⟩ থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:02.568839930Z",
+  "model": "glm-5.2"
+}

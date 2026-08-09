@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর তাঁর পুত্র, জ্যেষ্ঠ ⟨পুত্র⟩ — আব্দোন ও সূর ও কীশ ও বাল ও নদব।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "আর তাঁর পুত্র"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "জ্যেষ্ঠ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "আব্দোন"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ও সূর"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ও কীশ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ও বাল"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ও নদব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:36.584617020Z",
+  "model": "glm-5.2"
+}

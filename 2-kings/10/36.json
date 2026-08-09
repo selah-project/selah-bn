@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-kings 10:36",
+  "book": "2-kings",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর যে দিনগুলিতে যিহূ ইয়িস্রায়েলের উপর রাজত্ব করেছিল শোমরোনে—বিশ ও আট বছর।",
+  "tokens": [
+    {
+      "surface": "德国黄",
+      "gloss": "আর দিনগুলিতে"
+    },
+    {
+      "surface": "현재",
+      "gloss": "যে"
+    },
+    {
+      "surface": "Раш",
+      "gloss": "রাজত্ব করেছিল"
+    },
+    {
+      "surface": "बैठে",
+      "gloss": "যিহূ"
+    },
+    {
+      "surface": "على",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "Yonge",
+      "gloss": "ইয়িস্রায়েলের"
+    },
+    {
+      "surface": "عشرون",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "وثمانية",
+      "gloss": "ও আট"
+    },
+    {
+      "surface": "波兰",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "הסאם",
+      "gloss": "শোমরোনে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:21:35.409113279Z",
+  "model": "glm-5.2"
+}

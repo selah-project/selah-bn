@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আভ্রাম — ⟨নিজেই সে⟩ আভ্রাহাম।",
+  "tokens": [
+    {
+      "surface": "אַבְרָם",
+      "gloss": "আভ্রাম"
+    },
+    {
+      "surface": "הוּא",
+      "gloss": "⟨নিজেই সে⟩"
+    },
+    {
+      "surface": "אַבְרָהָם",
+      "gloss": "আভ্রাহাম"
+    }
+  ],
+  "timestamp": "2026-08-09T17:13:23.043767067Z",
+  "model": "glm-5.2"
+}

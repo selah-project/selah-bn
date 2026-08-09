@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "আর প্রথম মাসে, চৌদ্দ দিনে, ⟨ওই⟩ মাসের, পেসহ ইয়াহওয়েহের।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "আর মাসে"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্রথম"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "চৌদ্দ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাসের"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "পেসহ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:30.491993661Z",
+  "model": "glm-5.2"
+}

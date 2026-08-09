@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "যাজকদের মধ্যে প্রত্যেক পুরুষ তা খাবে; ⟨এটি⟩ ⟨את⟩ পবিত্র, পরম পবিত্র ⟨এটি⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্রত্যেক"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "পুরুষ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "যাজকদের মধ্যে"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাবে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "তা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "পরম পবিত্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "এটি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:02:02.227446834Z",
+  "model": "glm-5.2"
+}

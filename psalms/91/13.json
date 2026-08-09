@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 91,
+  "translation": "সিংহ ও ফণার উপর তুমি দলবে; বাঘ ও দৈত্য তুমি পিষবে।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "ও ফণা"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "তুমি দলবে"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "তুমি পিষবে"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "বাঘ"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "ও দৈত্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:59.589154833Z",
+  "model": "glm-5.2"
+}

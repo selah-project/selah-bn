@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আর যখন মাংসে, তার চামড়ায়, একটি ফোঁড়া হবে এবং ⟨তা⟩ সেরে যাবে—",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "আর মাংসে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "তার চামড়ায়"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ফোঁড়া"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "এবং সেরে যাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:05.085190931Z",
+  "model": "glm-5.2"
+}

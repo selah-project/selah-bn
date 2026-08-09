@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "য়েফেতের ⟨পুত্ররা⟩: গোমের, মাগোগ, মাদাই, য়াওয়ান, তুবল, মেশেখ ও তিরাস।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়েফেতের"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমের"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "মাগোগ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "মাদাই"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "য়াওয়ান"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "তুবল"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "মেশেখ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "তিরাস"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:08.026882933Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং এগুলি তাদের নাম: বেন-হুর, আভ্রায়িম পাহাড়ে।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "এবং এগুলি"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "তাদের নাম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "হুর"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পাহাড়ে"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "আভ্রায়িম"
+    }
+  ],
+  "timestamp": "2026-08-09T04:09:20.192199476Z",
+  "model": "glm-5.2"
+}

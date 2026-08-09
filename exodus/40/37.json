@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "আর যদি ⟨এ⟩ মেঘ ⟨না⟩ ওঠে, তবে তাঁরা যাত্রা করত ⟨না⟩ — যে দিন ⟨তা⟩ ওঠে তার আগ পর্যন্ত।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ওঠে"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "মেঘ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "তবে ⟨না⟩"
+    },
+    {
+      "surface": "יסעו",
+      "gloss": "যাত্রা করত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "ওঠে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:58:09.046241903Z",
+  "model": "glm-5.2"
+}

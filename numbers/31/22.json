@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "কেবল ⟨את⟩ সোনা, ⟨আর⟩ ⟨את⟩ রূপা, ⟨את⟩ তামা, ⟨את⟩ লোহা, ⟨את⟩ টিন, ⟨আর⟩ ⟨את⟩ সীসা—",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সোনা"
+    },
+    {
+      "surface": "הזהব",
+      "gloss": "সোনা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "রূপা"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "রূপা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তামা"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "তামা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লোহা"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "লোহা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "টিন"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "টিন"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "সীসা"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "সীসা"
+    }
+  ],
+  "timestamp": "2026-08-09T09:37:15.962586892Z",
+  "model": "glm-5.2"
+}

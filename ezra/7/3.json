@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আমারয়ার পুত্র, আজারয়ার পুত্র, মরায়োতের পুত্র।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "আমারয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজারয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "মরায়োত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:31.822550378Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "ইস্রায়েল যোসেফের পুত্রদিগকে দেখিলেন এবং বলিলেন, “এই দুজন কে?”",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "দেখিলেন"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পুত্রদিগকে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফের"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলিলেন"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই দুজন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:43:57.636223976Z",
+  "model": "glm-5.2"
+}

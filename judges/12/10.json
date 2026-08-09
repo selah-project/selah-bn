@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "আর ইবৎসন মারা গেল, এবং তাঁকে বাইত লেহেমে কবর দেওয়া হল।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আর মারা গেল"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ইবৎসন"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "এবং কবর দেওয়া হল"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "-বাইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেমে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:45:48.560813736Z",
+  "model": "glm-5.2"
+}

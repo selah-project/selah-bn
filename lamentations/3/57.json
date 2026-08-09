@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তুমি নিকটবর্তী হলে সেই দিনে যেদিন আমি তোমাকে ডাকি, তুমি বললে: ভয় করো না।",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "তুমি নিকটবর্তী হলে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "সেই দিনে"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "আমি তোমাকে ডাকি"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "তুমি বললে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভয় করো"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:29.481152487Z",
+  "model": "glm-5.2"
+}

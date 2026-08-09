@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 37:8",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "এক করুব এই প্রান্তে এবং এক করুব ওই প্রান্তে; কাফফোরেত থেকে ⟨সে⟩ ⟨את⟩ ⟨أחد⟩ করুবগুলি তার দুই প্রান্তে বানালেন।",
+  "tokens": [
+    {
+      "surface": "כרוב",
+      "gloss": "করুব"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "مקצה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "וכרוב",
+      "gloss": "—"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "مקצה",
+      "gloss": "—"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "—"
+    },
+    {
+      "surface": "مן",
+      "gloss": "—"
+    },
+    {
+      "surface": "הכפרת",
+      "gloss": "—"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨أחد⟩",
+      "marks": "—"
+    },
+    {
+      "surface": "הכרבים",
+      "gloss": "—"
+    },
+    {
+      "surface": "مשני",
+      "gloss": "—"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-09T02:56:34.120681175Z",
+  "model": "glm-5.2"
+}

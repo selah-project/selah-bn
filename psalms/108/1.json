@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 108,
+  "translation": "গীত, স্তব, দাভিদের।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "স্তব"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:22.545817073Z",
+  "model": "glm-5.2"
+}

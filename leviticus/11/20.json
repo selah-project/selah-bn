@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "প্রতিটি বিচরণকারী ডানাওয়ালা প্রাণী যা চার ⟨পায়ে⟩ চলে, তা তোমাদের কাছে ঘৃণ্য।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "বিচরণকারী প্রাণী"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ডানাওয়ালা"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "যা চলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨পায়ে⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ঘৃণ্য"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তা"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:01:17.353666992Z",
+  "model": "glm-5.2"
+}

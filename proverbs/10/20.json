@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "বাছাইকৃত রূপা ⟨হলো⟩ ধার্মিকের জিহ্বা; দুষ্টদের হৃদয় ⟨হলো⟩ তুচ্ছ।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "রূপা"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "বাছাইকৃত"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিহ্বা"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "তুচ্ছ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:42.307424199Z",
+  "model": "glm-5.2"
+}

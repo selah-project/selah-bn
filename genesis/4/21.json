@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর তার ভাইয়ের নাম য়ুবাল; সে-ই কিন্নর ও উগাভ বাদক সকলের পিতা ছিল।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তার ভাইয়ের"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "য়ুবাল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে-ই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলের"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "বাদক"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "কিন্নর"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "আর উগাভ"
+    }
+  ],
+  "timestamp": "2026-08-09T13:51:06.229297391Z",
+  "model": "glm-5.2"
+}

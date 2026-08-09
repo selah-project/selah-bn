@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "সঙ্গীত-পরিচালকের জন্য, দাভিদের মিযমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীত-পরিচালকের জন্য"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিযমোর"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:36:48.074028085Z",
+  "model": "glm-5.2"
+}

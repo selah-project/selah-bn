@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তখন রাজা ও হামন রানি এসতেরের সঙ্গে পান করতে এলেন।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "তখন এলেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ও হামন"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "পান করতে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "এসতের"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "রানি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:44.107197865Z",
+  "model": "glm-5.2"
+}

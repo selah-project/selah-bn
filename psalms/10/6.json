@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "সে তার হৃদয়ে বলে, “আমি টলিনে, প্রজন্মে প্রজন্মে ⟨আমি⟩ বিপদে পড়ব না।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "সে বলে"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "তার হৃদয়ে"
+    },
+    {
+      "surface": "בל",
+      "gloss": "না"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "আমি টলিনে"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "প্রজন্মে"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "প্রজন্মে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "বিপদে পড়ব"
+    }
+  ],
+  "timestamp": "2026-08-09T08:35:48.655170617Z",
+  "model": "glm-5.2"
+}

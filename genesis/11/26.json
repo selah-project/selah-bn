@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর তেরহ সত্তর বছর বাঁচলেন, এবং ⟨את⟩ আভ্রাম, ⟨את⟩ নাখোর ও ⟨את⟩ হারানকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "আর বাঁচলেন"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "তেরহ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সত্তর"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আভ্রাম"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "আভ্রাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাখোর"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাখোর"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "হারানকে"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "হারান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:40.285454683Z",
+  "model": "glm-5.2"
+}

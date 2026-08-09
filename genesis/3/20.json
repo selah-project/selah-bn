@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আর মানব ⟨הוא⟩ তার স্ত্রীর নাম খাও্যা রাখলেন, কারণ সে ছিলেন সমস্ত জীবের মাতা।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "আর রাখলেন"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানব"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "তার স্ত্রীর"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "খাও্যা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ছিলেন"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মাতা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীবের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:21.468858076Z",
+  "model": "glm-5.2"
+}

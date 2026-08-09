@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 83,
+  "translation": "গীত, স্তব, আসফের জন্য।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "স্তব"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "আসফের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:15.509236098Z",
+  "model": "glm-5.2"
+}

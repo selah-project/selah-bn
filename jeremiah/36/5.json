@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর যিরমিয়হু বরূককে আদেশ দিলেন ⟨את⟩, বলে: আমি আটকানো, আমি পারব না ইয়াহওয়েহের গৃহে যেতে।",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "আর আদেশ দিলেন"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "যিরমিয়হু"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বরূক"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "বরূককে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "আটকানো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "পারব"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "যেতে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:56:25.740867279Z",
+  "model": "glm-5.2"
+}

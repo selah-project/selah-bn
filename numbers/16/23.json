@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 16:23",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "ইয়াহওয়েহ মোশের সঙ্গে কথা বললেন, বলে —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর তিনি কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:14:31.423788417Z",
+  "model": "glm-5.2"
+}

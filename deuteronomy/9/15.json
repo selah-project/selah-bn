@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং আমি ফিরলাম এবং পাহাড় থেকে নামলাম, আর পাহাড়টি আগুনে জ্বলছিল, এবং নিয়মের দুই ফলক আমার দুই হাতে ছিল।",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "এবং ফিরলাম"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "এবং নামলাম"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "পাহাড়"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "আর পাহাড়টি"
+    },
+    {
+      "surface": "בער",
+      "gloss": "জ্বলছিল"
+    },
+    {
+      "surface": "באש",
+      "gloss": "আগুনে"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "এবং দুই"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ফলক"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "নিয়মের"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:56:01.849352256Z",
+  "model": "glm-5.2"
+}

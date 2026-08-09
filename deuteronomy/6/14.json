@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "তোমাদের চারপাশে থাকা ⟨সেই⟩ জাতিগুলোর অন্য এলোহিমদের পিছনে তোমরা চলবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "চলবে"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পিছনে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমদের"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "অন্য"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "–এর"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "জাতিগুলোর"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "তোমাদের চারপাশে থাকা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:24:18.240237036Z",
+  "model": "glm-5.2"
+}

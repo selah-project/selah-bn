@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "⟨একজন⟩ শাসক মিথ্যা বাক্য ⟨এ⟩ কান পাতলে, তার সমস্ত সেবক দুষ্ট।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "শাসক"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "কান পাতলে"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨এ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিথ্যা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "তার সেবক"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্ট"
+    }
+  ],
+  "timestamp": "2026-08-09T14:27:04.465293565Z",
+  "model": "glm-5.2"
+}

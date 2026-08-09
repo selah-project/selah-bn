@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "তাঁর নির্বাণের সমস্ত দিনগুলিতে তিনি ইয়াহওয়েহের জন্য পবিত্র।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনগুলিতে"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "তাঁর নির্বাণের"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:10:48.800307380Z",
+  "model": "glm-5.2"
+}

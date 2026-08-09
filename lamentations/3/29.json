@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "⟨সে⟩ তার মুখ ধুলোয় রাখুক — হয়তো ⟨এ⟩ আশা আছে।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "রাখুক"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ধুলোয়"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "তার মুখ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "হয়তো"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "আশা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:03.191136048Z",
+  "model": "glm-5.2"
+}

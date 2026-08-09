@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "একা বসুক এবং নীরব থাকুক, কারণ ⟨সে⟩ তা তার উপর চাপিয়েছে।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "বসুক"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "একা"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "এবং নীরব থাকুক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "চাপিয়েছে"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তার উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:18:49.963651769Z",
+  "model": "glm-5.2"
+}

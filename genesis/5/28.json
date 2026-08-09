@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং লেমেখ জীবিত ছিলেন দুই ও আশি বছর এবং একশ বছর, এবং ⟨সে⟩ জন্ম দিলেন ⟨এক⟩ পুত্র।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং জীবিত ছিলেন"
+    },
+    {
+      "surface": "למך",
+      "gloss": "লেমেখ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "এবং আশি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "এবং একশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিলেন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T07:41:53.335489407Z",
+  "model": "glm-5.2"
+}

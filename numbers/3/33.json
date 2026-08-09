@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 3:33",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "লেবীয়ের — মহলীয় গোষ্ঠী ও মূশীয় গোষ্ঠী; এগুলি মরারীয় গোষ্ঠীসমূহ।",
+  "tokens": [
+    {
+      "surface": "למררי",
+      "gloss": "মরারীর"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোষ্ঠী"
+    },
+    {
+      "surface": "המחלי",
+      "gloss": "মহলীয়"
+    },
+    {
+      "surface": "ומשפחת",
+      "gloss": "ও গোষ্ঠী"
+    },
+    {
+      "surface": "המושי",
+      "gloss": "মূশীয়"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "הם",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোষ্ঠীসমূহ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মরারী"
+    }
+  ],
+  "timestamp": "2026-08-09T09:36:48.562837946Z",
+  "model": "glm-5.2"
+}

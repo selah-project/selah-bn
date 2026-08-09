@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "তখন বিলদদ ⟨হ⟩শূহী উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন উত্তর দিল"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "বিলদদ"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "⟨হ⟩শূহী"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:09:18.653899556Z",
+  "model": "glm-5.2"
+}

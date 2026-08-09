@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "গভীর জল ⟨হল⟩ ⟨এক⟩ ব্যক্তির মুখের কথা; প্রবহমান নহল ⟨হল⟩ হাখমাহর উৎস।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "গভীর"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখের"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨এক⟩ ব্যক্তির"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নহল"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "প্রবহমান"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "উৎস"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "হাখমাহর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:32.594054379Z",
+  "model": "glm-5.2"
+}

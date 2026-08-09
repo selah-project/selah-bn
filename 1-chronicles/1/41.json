@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "⟨বন্য⟩ আনাহ ⟨থেকে⟩ দিশোণ; আর দিশোণের পুত্র ⟨হলেন⟩ হমরান ও এশবান ও যিতরান ও খরান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "⟨সন্তান⟩"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "আনাহ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "দিশোণ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "আর ⟨সন্তান⟩"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "দিশোণের"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "হমরান"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ও এশবান"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ও যিতরান"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ও খরান"
+    }
+  ],
+  "timestamp": "2026-08-09T14:31:14.517229332Z",
+  "model": "glm-5.2"
+}

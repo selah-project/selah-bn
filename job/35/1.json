@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "আর এলিহূ উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "উত্তর দিল"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "এলিহূ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:14:04.931519288Z",
+  "model": "glm-5.2"
+}

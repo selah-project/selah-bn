@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "আর ⟨את⟩ পাপের ক্রিয়ার মেদ বেদির উপর ধূপ করবেন।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আর ⟨את⟩",
+      "marks": "পাপের ক্রিয়ার মেদ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "মেদ"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "পাপের ক্রিয়ার"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "ধূপ করবেন"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "বেদির উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:04:49.422702051Z",
+  "model": "glm-5.2"
+}

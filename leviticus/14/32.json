@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এই ⟨হল⟩ বিধি তার, যার মধ্যে দগ্ধ-রোগের আঘাত ⟨আছে⟩, যার হাত তার শুদ্ধিকরণে পৌঁছায় না।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "বিধি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তার মধ্যে"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "আঘাত"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "দগ্ধ-রোগের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "পৌঁছায়"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "তার শুদ্ধিকরণে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:02:27.168205334Z",
+  "model": "glm-5.2"
+}

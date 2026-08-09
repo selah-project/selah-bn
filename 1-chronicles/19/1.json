@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং এই ঘটল, এর পরে, যে নাখশ বনি-আম্মোনের রাজা মারা গেল, এবং তার পুত্র তার বদলে রাজা হলল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "এবং মারা গেল"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "নাখশ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বনি-"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "আম্মোনের"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "এবং রাজা হলল"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তার পুত্র"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "তার বদলে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:11.504897069Z",
+  "model": "glm-5.2"
+}

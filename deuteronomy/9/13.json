@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ইয়াহওয়েহ আমাকে বললেন, বলে: আমি ⟨את⟩ এই জাতিকে দেখেছি, আর দেখ, এ ⟨গণ⟩ এক কঠোর-ঘাড়ের জাতি — সে",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "দেখেছি"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই জাতিকে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "এই জাতিকে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "কঠোর"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ঘাড়ের"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:56:01.848800245Z",
+  "model": "glm-5.2"
+}

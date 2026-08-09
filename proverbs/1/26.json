@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আমিও তোমাদের বিপর্যয়ে হাসব, উপহাস করব তোমাদের ভয় আসার সময়।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "আমিও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "তোমাদের বিপর্যয়ে"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "হাসব"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "উপহাস করব"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "আসার সময়"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "তোমাদের ভয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:44.965084886Z",
+  "model": "glm-5.2"
+}

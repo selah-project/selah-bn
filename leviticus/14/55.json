@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং বস্ত্রের চর্মরোগের জন্য এবং গৃহের জন্য —",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "এবং চর্মরোগের জন্য"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "বস্ত্রের"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "এবং গৃহের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:25.526489784Z",
+  "model": "glm-5.2"
+}

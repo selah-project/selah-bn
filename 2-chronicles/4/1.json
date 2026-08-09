@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর তিনি তামার একটি বেদি তৈরি করলেন — এর দৈর্ঘ্য বিশ হাত ও এর প্রস্থ বিশ হাত, আর এর উচ্চতা দশ হাত।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আর তিনি তৈরি করলেন"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "বেদি"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "তামার"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "এর দৈর্ঘ্য"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "আর বিশ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "এর প্রস্থ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "আর দশ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "এর উচ্ঘতা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:48:19.034938424Z",
+  "model": "glm-5.2"
+}

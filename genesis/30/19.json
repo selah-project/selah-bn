@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর লেয়াহ আবার গর্ভবতী হলো এবং য়াকোবের জন্য ষষ্ঠ পুত্র প্রসব করল।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "আর গর্ভবতী হলো"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আবার"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াহ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "এবং প্রসব করল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ষষ্ঠ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকোবের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:47.955550848Z",
+  "model": "glm-5.2"
+}

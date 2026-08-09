@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "বিধান আমাদের জন্য নির্দেশ করলেন মোশে, যাকোবের সমষ্টির ⟨এক⟩ মীরাস।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "বিধান"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "নির্দেশ করলেন"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাদের জন্য"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "মীরাস"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "সমষ্টির"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "যাকোবের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:16.175595919Z",
+  "model": "glm-5.2"
+}

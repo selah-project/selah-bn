@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তোমার আত্মায় রেগে যেতে তাড়াতাড়ি কোরো না, কারণ ক্রোধ বোকাদের বুকে বিশ্রাম নেয়।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "তাড়াতাড়ি কোরো"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "তোমার আত্মায়"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "রেগে যেতে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ক্রোধ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "বুকে"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "বোকাদের"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "বিশ্রাম নেয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:57.758092402Z",
+  "model": "glm-5.2"
+}

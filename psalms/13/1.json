@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "সঙ্গীতনাট্যের জন্য দাভিদের ⟨করা⟩ মিজমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতনাট্যের জন্য"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মিজমোর"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:32:28.594740678Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "শৃঙ্খলাপ্রেমী জ্ঞানপ্রেমী, কিন্তু তিরস্কার ঘৃণাকারী ⟨হল⟩ নির্বোধ।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "প্রেমী"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শৃঙ্খলা"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "প্রেমী"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "কিন্তু ঘৃণাকারী"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "তিরস্কার"
+    },
+    {
+      "surface": "בער",
+      "gloss": "নির্বোধ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:05.740164222Z",
+  "model": "glm-5.2"
+}

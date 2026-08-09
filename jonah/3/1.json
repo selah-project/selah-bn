@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং ইয়াহওয়েহ-এর বাক্য য়োনার কাছে দ্বিতীয়বার এল, বলতে গেলে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "য়োনা"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "দ্বিতীয়বার"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে গেলে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:32:34.001931289Z",
+  "model": "glm-5.2"
+}

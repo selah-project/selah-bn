@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর রিবকার ⟨এক⟩ ভাই ছিল এবং তার নাম লবন; এবং লবন সেই লোকের কাছে বাইরে ছুটে গেল, ঝরনার কাছে।",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "আর রিবকার"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "এবং তার নাম"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লবন"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "এবং ছুটে গেল"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লবন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "সেই লোকের"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "העין",
+      "gloss": "ঝরনার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:58:23.708451969Z",
+  "model": "glm-5.2"
+}

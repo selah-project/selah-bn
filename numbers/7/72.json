@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একাদশ দিনে ⟨আছিল⟩ আশের-এর পুত্রদের নাসি — পগিয়েল, ওক্রান-এর পুত্র।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "একা-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নাসি"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশের-এর"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "পগিয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ওক্রান-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T17:05:54.224394331Z",
+  "model": "glm-5.2"
+}

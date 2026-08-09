@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "বিনয়ের ফল ⟨হল⟩ ইয়াহওয়েহের ভয়, ধন-সম্পদ ও সম্মান ও জীবন।",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ফল"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "বিনয়ের"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ধন-সম্পদ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ও সম্মান"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ও জীবন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:08.003713510Z",
+  "model": "glm-5.2"
+}

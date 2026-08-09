@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "⟨দরজা⟩ ঘুরে তার ⟨কবজার⟩ উপর, এবং আলস্য ⟨ঘুরে⟩ তার বিছানার উপর।",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "দরজা"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ঘুরে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "কবজা"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "এবং-আলস্য"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "তার-বিছানা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:05.950312734Z",
+  "model": "glm-5.2"
+}

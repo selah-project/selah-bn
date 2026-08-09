@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "জাদুকরীণীকে তুমি জীবিত রেখো না।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "জাদুকরীণীকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "তুমি জীবিত রেখো"
+    }
+  ],
+  "timestamp": "2026-08-09T07:47:56.650018810Z",
+  "model": "glm-5.2"
+}

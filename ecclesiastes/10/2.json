@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "জ্ঞানীর হৃদয় ⟨তাঁর⟩ ডান দিকে ⟨আছে⟩, আর মূর্খের হৃদয় ⟨তার⟩ বাম দিকে ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানীর"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "তাঁর ডান দিকে"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "আর হৃদয়"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "মূর্খের"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "তার বাম দিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:24.730602298Z",
+  "model": "glm-5.2"
+}

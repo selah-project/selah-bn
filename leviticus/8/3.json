@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর ⟨את⟩ সমস্ত ⟨ה⟩ সমাজকে তাঁবক সমাবেশের প্রবেশদ্বারে একত্রিত করো।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত সমাজকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজকে"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "একত্রিত করো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "প্রবেশদ্বারে"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তাঁবক"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "সমাবেশের"
+    }
+  ],
+  "timestamp": "2026-08-09T17:05:34.531541678Z",
+  "model": "glm-5.2"
+}

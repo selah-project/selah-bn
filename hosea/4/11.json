@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "“ব্যভিচার ও দ্রাক্ষারস ও নতুন মদ হৃদয় ⟨কেড়ে নেয়⟩।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "ব্যভিচার"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ও দ্রাক্ষারস"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ও নতুন মদ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "কেড়ে নেয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:30:44.183901237Z",
+  "model": "glm-5.2"
+}

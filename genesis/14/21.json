@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর সদোমের রাজা আব্রামকে বলল, “আমাকে প্রাণগুলো দাও, আর সম্পত্তি তুমি নিয়ে নাও।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "সদোমের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "আব্রামকে"
+    },
+    {
+      "surface": "תן",
+      "gloss": "দাও"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "প্রাণগুলো"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "আর সম্পত্তি"
+    },
+    {
+      "surface": "קח",
+      "gloss": "নিয়ে নাও"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তুমি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:08.915356043Z",
+  "model": "glm-5.2"
+}

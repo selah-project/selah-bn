@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আর শিমির পুত্ররা: যাখত, জিনা, য়েউশ, ও বরিয়া। এরা শিমির পুত্র — চারজন।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর … পুত্ররা"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমির"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "যাখত"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "জিনা"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "য়েউশ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ও বরিয়া"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শিমির"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চারজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:40.506244751Z",
+  "model": "glm-5.2"
+}

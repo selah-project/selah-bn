@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ ঘুংঘু, এবং ⟨את⟩ বাজপাখি — তার প্রকার অনুসারে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "ঘুংঘু"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ঘুংঘু"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "বাজপাখি"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "বাজপাখি"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "তার প্রকার অনুসারে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:00:56.513943609Z",
+  "model": "glm-5.2"
+}

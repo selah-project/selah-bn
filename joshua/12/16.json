@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "মাক্কেদার রাজা — একজন; বেইত-এলের রাজা — একজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "মাক্কেদা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-এল"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.231478928Z",
+  "model": "glm-5.2"
+}

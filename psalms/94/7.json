@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 94,
+  "translation": "এবং ⟨তারা⟩ বলে, “ইয়াহ ⟨তিনি⟩ দেখেন না,” এবং য়াকোবের এলোহিম ⟨তিনি⟩ বুঝেন না।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "এবং বলে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখেন"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "বুঝেন"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোবের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:36.129368671Z",
+  "model": "glm-5.2"
+}

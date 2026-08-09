@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "সতেরো হেজিরের জন্য, আঠারো হপ্পিজ্জেসের জন্য।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "হেজিরের জন্য"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "হপ্পিজ্জেসের জন্য"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:52.744805745Z",
+  "model": "glm-5.2"
+}

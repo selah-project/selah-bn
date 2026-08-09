@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "কারণ ⟨তারা⟩ পরামর্শহীন জাতি, তাদের মধ্যে কোনো বোধ ⟨নেই⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "পরামর্শহীন"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "পরামর্শ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "তাদের মধ্যে নেই"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "তাদের মধ্যে"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বোধ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:03.223184496Z",
+  "model": "glm-5.2"
+}

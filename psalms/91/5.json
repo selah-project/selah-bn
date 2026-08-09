@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 91,
+  "translation": "তুমি ভয় পাবে না — রাতের ভয় ⟨থেকে⟩, দিনে উড়ে আসা তীর ⟨থেকে⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "তুমি ভয় পাবে"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ভয় থেকে"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "রাতের"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "তীর থেকে"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "উড়ে আসা"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "দিনে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:39:50.697656461Z",
+  "model": "glm-5.2"
+}

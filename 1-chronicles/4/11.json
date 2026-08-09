@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর কেলুব, শূহার ভাই, ⟨את⟩ মহিরকে জন্ম দিলেন; ⟨সে⟩ এশতোনের পিতা।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "আর কেলুব"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…-এর ভাই"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "শূহা"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মহিরকে"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "মহির"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…-এর পিতা"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "এশতোন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:26.127285561Z",
+  "model": "glm-5.2"
+}

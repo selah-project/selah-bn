@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর তুমি, হে তাঁর পুত্র বেলশাত্সর, এতসব জেনেও তুমি তোমার হৃদয়কে বিনত করোনি,",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "আর তুমি"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "বেলশাত্সর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "বিনত করোনি"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "তোমার হৃদয়কে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সম্পূর্ণভাবে"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "די",
+      "gloss": "যে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "এতসব"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "জেনেও"
+    }
+  ],
+  "timestamp": "2026-08-09T06:27:07.049511737Z",
+  "model": "glm-5.2"
+}

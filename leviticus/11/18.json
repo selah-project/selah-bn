@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ ধবল প্যাঁচা এবং ⟨את⟩ পেলিকান এবং ⟨את⟩ শকুন।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ এবং ⟨אত⟩",
+      "marks": "ধবল প্যাঁচা"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "ধবল প্যাঁচা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ এবং ⟨אত⟩",
+      "marks": "পেলিকান"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "পেলিকান"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ এবং ⟨אত⟩",
+      "marks": "শকুন"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "শকুন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:01:17.353305264Z",
+  "model": "glm-5.2"
+}

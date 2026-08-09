@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মাআজ্যাহ, বিলগয়, শেমায়াহ — এরা ⟨হল⟩ যাজকরা।",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "মাআজ্যাহ"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "বিলগয়"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "শেমায়াহ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এরা"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "যাজকরা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:22.293014231Z",
+  "model": "glm-5.2"
+}

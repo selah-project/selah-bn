@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং ইয়াহওয়েহ মোশের সাথে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "সাথে"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:01.691219170Z",
+  "model": "glm-5.2"
+}

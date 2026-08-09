@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "সেই দিনে মোয়াব বিনীত হলো ইস্রায়েলের হাতের অধীনে; আর ⟨ה⟩দেশ শান্ত হলো আশি বছর।",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "বিনীত হলো"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোয়াব"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "অধীনে"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাতের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "শান্ত হলো"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "আশি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:42:53.419844965Z",
+  "model": "glm-5.2"
+}

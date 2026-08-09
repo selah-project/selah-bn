@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং এলতোলাদ এবং বেতূল এবং হর্মা।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "এবং এলতোলাদ"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "এবং বেতূল"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "এবং হর্মা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:39:07.110086509Z",
+  "model": "glm-5.2"
+}

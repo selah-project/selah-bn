@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আর ⟨রাজা⟩ তাকে বললেন, শান্তিতে যাও। আর ⟨সে⟩ উঠল এবং খেবরোনে গেল।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨রাজা⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "যাও"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "শান্তিতে"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "আর উঠল"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "এবং গেল"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "খেবরোনে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:07:16.892304512Z",
+  "model": "glm-5.2"
+}

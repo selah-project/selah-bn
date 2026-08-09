@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "একজন মানুষের বিচারকে বিকৃত করা, এলিয়োনের সম্মুখে,",
+  "tokens": [
+    {
+      "surface": "לְהַטּוֹת֙",
+      "gloss": "বিকৃত করা"
+    },
+    {
+      "surface": "מִשְׁפַּ֣ט",
+      "gloss": "বিচারকে"
+    },
+    {
+      "surface": "גָּ֔בֶר",
+      "gloss": "একজন মানুষের"
+    },
+    {
+      "surface": "נֶ֖גֶד",
+      "gloss": "সম্মুখে"
+    },
+    {
+      "surface": "פְּנֵ֥י",
+      "gloss": "মুখের"
+    },
+    {
+      "surface": "עֶלְיֹֽון",
+      "gloss": "এলিয়োনের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:12.345150485Z",
+  "model": "glm-5.2"
+}

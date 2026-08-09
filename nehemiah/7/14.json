@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "জাক্কাই-র পুত্রগণ: সাতশ ষাট।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "জাক্কাই"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "এবং ষাট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:23.644873011Z",
+  "model": "glm-5.2"
+}

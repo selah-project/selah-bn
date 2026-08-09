@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর তাদের বললেন, “আমি আজ একশ বিশ বছরের বৃদ্ধ; আমি আর বেরোতে ও ঢোকাতে পারি না; আর ইয়াহওয়েহ আমাকে বলেছেন, তুমি ⟨את⟩ এই যর্দন পার হবে না।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বৃদ্ধ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছরের"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "পারি"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "বেরোতে"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "এবং ঢোকাতে"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "আর ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "পার হবে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "যর্দন"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "যর্দন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:46.926972446Z",
+  "model": "glm-5.2"
+}

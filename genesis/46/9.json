@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 46,
+  "translation": "এবং রেউবেনের পুত্রেরা: হানোক ও পল্লু ও হেৎরোন ও কর্মী।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং … পুত্রেরা"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "রেউবেন"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "হানোক"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ও পল্লু"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ও হেৎরোন"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ও কর্মী"
+    }
+  ],
+  "timestamp": "2026-08-09T07:46:01.870283970Z",
+  "model": "glm-5.2"
+}

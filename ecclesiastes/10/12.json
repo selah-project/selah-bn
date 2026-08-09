@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "জ্ঞানীর মুখের কথায় ⟨আছে⟩ অনুগ্রহ, আর বোকার ওষ্ঠ তাকেই গিলে ফেলে।",
+  "tokens": [
+    {
+      "surface": "דִּבְרֵי",
+      "gloss": "কথায়"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "মুখের"
+    },
+    {
+      "surface": "חָכָם",
+      "gloss": "জ্ঞানীর"
+    },
+    {
+      "surface": "חֵן",
+      "gloss": "অনুগ্রহ"
+    },
+    {
+      "surface": "וְשִׂפְתוֹת",
+      "gloss": "আর ওষ্ঠ"
+    },
+    {
+      "surface": "כְּסִיל",
+      "gloss": "বোকার"
+    },
+    {
+      "surface": "תְּבַלְעֶנּוּ",
+      "gloss": "তাকেই গিলে ফেলে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:04.430443170Z",
+  "model": "glm-5.2"
+}

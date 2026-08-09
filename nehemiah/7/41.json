@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "পষহূরের পুত্ররা — এক হাজার দুই শত এরচল্লিশ ও সাত।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "পষহূরের"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুই শত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "এরচল্লিশ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ও সাত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:35.729060207Z",
+  "model": "glm-5.2"
+}

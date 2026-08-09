@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "রেউয়েলের পুত্ররা: নহত, জেরহ, শম্মা ও মিজ্জা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "রেউয়েলের"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "নহত"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেরহ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "শম্মা"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ও মিজ্জা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:11.890017554Z",
+  "model": "glm-5.2"
+}

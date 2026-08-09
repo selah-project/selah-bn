@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "“এবং তোমরা আমার জন্য জাতি হবে, এবং আমি তোমাদের জন্য এলোহিম হবে।”",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "এবং তোমরা হবে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "এবং আমি"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "এলোহিম"
+    }
+  ],
+  "timestamp": "2026-08-09T09:39:54.244978108Z",
+  "model": "glm-5.2"
+}

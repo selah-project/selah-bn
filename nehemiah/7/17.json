@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বনি আজগাদ, দুই হাজার তিনশত বিশ, ⟨ও⟩ দুই।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বনি"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "আজগাদ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "দুই হাজার"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "⟨ও⟩ দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T17:13:19.514181551Z",
+  "model": "glm-5.2"
+}

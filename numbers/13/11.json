@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "য়োসেফের গোত্রের জন্য — মনশের গোত্রের জন্য — সুসীর পুত্র গদ্দী।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "য়োসেফ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশে"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "গদ্দী"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "সুসী"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:48.448373385Z",
+  "model": "glm-5.2"
+}

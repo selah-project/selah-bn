@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 109,
+  "translation": "কারণ দরিদ্র ও অভাবী ⟨আমি⟩, আর আমার হৃদয় আমার ভেতরে বিদ্ধ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দরিদ্র"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ও অভাবী"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨আমি⟩"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "আর আমার হৃদয়"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "বিদ্ধ"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "আমার ভেতরে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:50:26.381267603Z",
+  "model": "glm-5.2"
+}

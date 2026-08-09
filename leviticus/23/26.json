@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে সম্বোধন করলেন, বলতে:",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּ֥ר",
+      "gloss": "এবং ⟨তিনি⟩ সম্বোধন করলেন"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "מֹשֶׁ֥ה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לֵּאמֹֽר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:06:50.444132895Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর যাজক তৈলের লগ থেকে নেবেন এবং যাজকের বাঁ হাতের তালুতে ঢালবেন।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "আর নেবেন"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজক"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "লগ থেকে"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "তৈলের"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "এবং ঢালবেন"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כף",
+      "gloss": "তালুতে"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজকের"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "বাঁ হাতের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:57.887290341Z",
+  "model": "glm-5.2"
+}

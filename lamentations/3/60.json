@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তুমি দেখেছ ⟨את⟩ সব তাদের প্রতিশোধ, ⟨את⟩ সব তাদের চিন্তা আমার বিরুদ্ধে।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "তুমি দেখেছ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "তাদের প্রতিশোধ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "তাদের চিন্তা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার বিরুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:16.438264858Z",
+  "model": "glm-5.2"
+}

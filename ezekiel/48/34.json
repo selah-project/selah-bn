@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezekiel 48:34",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "পশ্চিম দিকে পাঁচ শত ও চার হাজার, তাদের ফটক তিনটি: গাদের ফটক এক, আশেরের ফটক এক, নফতালির ফটক এক।",
+  "tokens": [
+    {
+      "surface": "פאת",
+      "gloss": "দিক"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "পশ্চিমে"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "এবং চার"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "שעריהם",
+      "gloss": "তাদের ফটক"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনটি"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ফটক"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ফটক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "আশেরের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ফটক"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নফতালির"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:17:22.500966781Z",
+  "model": "glm-5.2"
+}

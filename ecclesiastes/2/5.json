@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমি আমার জন্য বাগান ও ফরদেস তৈরি করলাম, এবং তাতে আমি রোপণ করলাম প্রত্যেক ফলের গাছ।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "তৈরি করলাম"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "বাগান"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ও ফরদেস"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "এবং রোপণ করলাম"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গাছ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রত্যেক"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ফলের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:08.361080983Z",
+  "model": "glm-5.2"
+}

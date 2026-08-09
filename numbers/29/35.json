@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "অষ্টম দিনে তোমাদের জন্য ⟨এক⟩ সমাবেশ হবে; কোনো দাস-কর্মের কাজ তোমরা করবে না।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "সমাবেশ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "দাস-কর্মের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "তোমরা করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:19:45.785122400Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "যাক্কায়ের পুত্রেরা — সাতশ ষাট।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "যাক্কায়ের"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ষাট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.680436678Z",
+  "model": "glm-5.2"
+}

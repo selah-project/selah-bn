@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "বুঝে শোও, হে সরলরা, চতুরতা; এবং হে নির্বোধরা, বুঝে শোও হৃদয়।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "বুঝে শোও"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "হে সরলরা"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "চতুরতা"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "এবং হে নির্বোধরা"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "বুঝে শোও"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:26.032721815Z",
+  "model": "glm-5.2"
+}

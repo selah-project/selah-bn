@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং ইয়াহওয়েহ আমাকে বললেন: এই জাতির জন্য কল্যাণের জন্য প্রার্থনা কোরো না।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "প্রার্থনা কোরো"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "জন্য"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতির"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "কল্যাণের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:21:28.321456804Z",
+  "model": "glm-5.2"
+}

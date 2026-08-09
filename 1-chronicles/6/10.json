@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "ও এলকানার পুত্ররা: আমাসয় ও আহিমোত।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ও পুত্ররা"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানার"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "আমাসয়"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ও আহিমোত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:30.291577254Z",
+  "model": "glm-5.2"
+}

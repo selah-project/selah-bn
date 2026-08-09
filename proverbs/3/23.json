@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তখন তুমি তোমার পথে নিরাপদে চলবে এবং তোমার পা বিড়ম্বিত হবে না।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "তুমি চলবে"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "নিরাপদে"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "তোমার পথে"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "এবং তোমার পা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "বিড়ম্বিত হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:03.257331509Z",
+  "model": "glm-5.2"
+}

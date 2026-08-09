@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং হাদাদ মারা গেল, এবং আদোমের অলূফীয় হল ⟨এরা⟩ — অলূফ তিমনা, অলূফ অলিয়া, অলূফ যিতিত।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "এবং মারা গেল"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "হাদাদ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "এবং হল"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "অলূফীয়"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "আদোমের"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অলূপ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "তিমনা"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অলূপ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "অলিয়া"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অলূপ"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "যিতিত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:24.107513291Z",
+  "model": "glm-5.2"
+}

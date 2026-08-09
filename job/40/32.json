@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "তোমার হাত তার উপর রাখ; যুদ্ধের কথা স্মরণ কর — আর নয়।",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "রাখ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তার উপর"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "তোমার হাত"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "স্মরণ কর"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধের কথা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "আর নয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:15:20.573103159Z",
+  "model": "glm-5.2"
+}

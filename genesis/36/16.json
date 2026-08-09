@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 36:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "অলূফ কোরহ, অলূফ গতাম, অলূফ আমালেক। এদোমের দেশে এলিফিজের এই অলূপগণ; এরা আদার পুত্রগণ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "অলূফ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অলূফ"
+    },
+    {
+      "surface": "געתם",
+      "gloss": "গতাম"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অলূফ"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "আমালেক"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "অলূপগণ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফিজের"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোমের"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "আদার"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:29.323681474Z",
+  "model": "glm-5.2"
+}

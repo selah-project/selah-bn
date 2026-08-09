@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ধার্মিকের ওষ্ঠ কল্যাণ ⟨জানে⟩, কিন্তু দুষ্টদের মুখ ⟨⟨থাকে⟩⟩ বক্রতা।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ওষ্ঠ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "কল্যাণ"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "কিন্তু মুখ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "বক্রতা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:51.980846094Z",
+  "model": "glm-5.2"
+}

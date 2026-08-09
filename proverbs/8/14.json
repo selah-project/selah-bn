@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আমার ⟨আছে⟩ পরামর্শ ও দক্ষতা; আমিই বোঝা, আমার ⟨আছে⟩ শক্তি।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "পরামর্শ"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "ও দক্ষতা"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোঝা"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "শক্তি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:20:15.192087610Z",
+  "model": "glm-5.2"
+}

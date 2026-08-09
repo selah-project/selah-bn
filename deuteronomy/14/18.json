@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং সারস, এবং বক তার প্রজাতি অনুযায়ী, এবং হুদহুদ এবং বাদুড়",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "এবং সারস"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "এবং বক"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "তার প্রজাতি অনুযায়ী"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "এবং হুদহুদ"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "এবং বাদুড়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:32.563195664Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর য়ায়ির মারা গেল এবং ⟨তাঁকে⟩ কামোনে কবর দেওয়া হলো।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "আর মারা গেল"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "য়ায়ির"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "এবং কবর দেওয়া হলো"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "কামোনে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:45:01.338289221Z",
+  "model": "glm-5.2"
+}

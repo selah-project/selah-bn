@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর কোরহের পুত্রেরা মারা যায়নি।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্রেরা"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "মারা গেল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:15.273439799Z",
+  "model": "glm-5.2"
+}

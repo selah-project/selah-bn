@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "বরকতময় তুমি তোমার আগমনে, এবং বরকতময় তুমি তোমার প্রস্থানে।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "বরকতময়"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "তোমার আগমনে"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "এবং বরকতময়"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "তোমার প্রস্থানে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:06:59.045157424Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "ঘুমকে ভালোবাসো না, পাছে তুমি দরিদ্র হও; তোমার চোখ খোলো, এবং অন্নে তৃপ্ত হও।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "ভালোবাসো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ঘুম"
+    },
+    {
+      "surface": "פן",
+      "gloss": "পাছে"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "দরিদ্র হও"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "খোলো"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "তোমার চোখ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "তৃপ্ত হও"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "অন্ন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:49.310765928Z",
+  "model": "glm-5.2"
+}

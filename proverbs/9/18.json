@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর সে ⟨জানে⟩ না যে সেখানে রেফায়ীম, শেওলের গহীনে তার ডাকা অতিথিরা।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আর … না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "সে জানে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "রেফায়ীম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "গহীনে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শেওলের"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "তার ডাকা অতিথিরা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:03.001355529Z",
+  "model": "glm-5.2"
+}

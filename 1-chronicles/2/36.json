@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং আত্তাই ⟨את⟩ নাতনের জন্ম দিল; এবং নাতন ⟨את⟩ জাবাদের জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "এবং আত্তাই"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাতনের"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতনের"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "এবং নাতন"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জাবাদের"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "জাবাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:32.698504386Z",
+  "model": "glm-5.2"
+}

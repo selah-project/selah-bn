@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "পাথরের ভার, আর বালির ওজন; কিন্তু নির্বোধের ক্রোধ ⟨হয়⟩ উভয়ের চেয়ে ভারী।",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ভার"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "পাথরের"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "আর ওজন"
+    },
+    {
+      "surface": "החול",
+      "gloss": "বালির"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "কিন্তু ক্রোধ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "নির্বোধের"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভারী"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "উভয়ের চেয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:27.340154408Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং খেলআহ-র পুত্রেরা ⟨থেকে গেল⟩: সেরেত, যিতসহর, এবং এতনন।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং …-র পুত্রেরা"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "খেলআহ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "সেরেত"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "যিতসহর"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "এবং এতনন"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:55.973919146Z",
+  "model": "glm-5.2"
+}

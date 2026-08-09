@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং ⟨את⟩ ওফির, এবং ⟨את⟩ হাভিলা, এবং ⟨את⟩ যোবব; এই সমস্ত ⟨এরা⟩ যক্তনের পুত্র।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "ওফির"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "ওফির"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "হাভিলা"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "হাভিলা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "যোবব"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "যোবব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "যক্তন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:23.566024165Z",
+  "model": "glm-5.2"
+}

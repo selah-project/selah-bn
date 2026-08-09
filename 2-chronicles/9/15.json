@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর রাজা শলোমোহ দুইশো বড় ঢাল বানালেন, পিটানো সোনার — ছশো ⟨শেকেল⟩ পিটানো সোনা এক একটি ঢালে উঠত।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "আর বানালেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশো"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "বড় ঢাল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "পিটানো"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশো"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শেকেল"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনা"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "পিটানো"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "উঠত"
+    },
+    {
+      "surface": "על",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ঢালে"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক একটি"
+    }
+  ],
+  "timestamp": "2026-08-09T14:34:59.531676119Z",
+  "model": "glm-5.2"
+}

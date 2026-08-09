@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "“হায়, সিয়োন, পালাও, যিনি বাবিল-কন্যায় বাস করো।”",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "হায়"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "সিয়োন"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "পালাও"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "বাস করো"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যায়"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "বাবিল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:19.600863100Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "সুতরাং, হে রাখালেরা, শোনো ⟨את⟩ ইয়াহওয়েহ-এর বাক্য।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সুতরাং"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "হে রাখালেরা"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহওয়েহ-এর বাক্য"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:12:07.267935648Z",
+  "model": "glm-5.2"
+}

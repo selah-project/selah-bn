@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর ⟨সে⟩ জবাই করল, আর মোশে ⟨את⟩ রক্ত বেদীর চারদিকে ছিটিয়ে দিল।",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "আর জবাই করল"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "আর ছিটিয়ে দিল"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রক্ত"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "রক্ত"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "বেদী"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারদিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:01:53.303850506Z",
+  "model": "glm-5.2"
+}

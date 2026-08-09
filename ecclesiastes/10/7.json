@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আমি দেখেছি দাসদের ⟨এ⟩ ঘোড়ার উপরে, আর অভিজনরা দাসদের মতো হেঁটে যেতে ⟨পৃথিবীর⟩ উপরে।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "আমি দেখেছি"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "দাসদের"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোড়ার"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "আর অভিজনরা"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "হেঁটে যেতে"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "দাসদের মতো"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:16.306110175Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 45:12",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 45,
+  "translation": "এবং শেকেল ⟨হবে⟩ বিশ গেরা; বিশ শেকেল, পঁচিশ শেকেল, পনেরো শেকেল — মনেহ তোমাদের হবে।",
+  "tokens": [
+    {
+      "surface": "והשקל",
+      "gloss": "এবং শেকেল"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "গেরা"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "শেকেল"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "শেকেল"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ও পাঁচ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "শেকেল"
+    },
+    {
+      "surface": "המנה",
+      "gloss": "মনেহ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:15:26.423252640Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 112:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 112,
+  "translation": "কারণ ⟨সে⟩ চিরকাল টলবে না; চিরকালের স্মরণে ⟨থাকবে⟩ ⟨সেই⟩ ধার্মিক।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিরকাল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "টলবে"
+    },
+    {
+      "surface": "לזכר",
+      "gloss": "স্মরণে"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "চিরকালের"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিক"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:26.462032650Z",
+  "model": "glm-5.2"
+}

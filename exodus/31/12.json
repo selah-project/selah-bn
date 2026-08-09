@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "ইয়াহওয়েহ মোশেকে সম্বোধন করে বললেন —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সম্বোধন করে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:54:25.565426569Z",
+  "model": "glm-5.2"
+}

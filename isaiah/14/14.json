@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 14:14",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "‘মেঘের উচ্চতাসমূহে আরোহণ করব, উচ্চতমের সদৃশ হব।’",
+  "tokens": [
+    {
+      "surface": "אעלה",
+      "gloss": "আরোহণ করব"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "উচ্চতাসমূহে"
+    },
+    {
+      "surface": "עב",
+      "gloss": "মেঘের"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "সদৃশ হব"
+    },
+    {
+      "surface": "לעליון",
+      "gloss": "উচ্চতমের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:31:12.938375837Z",
+  "model": "glm-5.2"
+}

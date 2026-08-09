@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কী সুন্দর তুমি এবং কী মধুর তুমি, হে প্রিয়া, তৃপ্তিসমূহে!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "সুন্দর তুমি"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "এবং কী"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "মধুর তুমি"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "হে প্রিয়া"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "তৃপ্তিসমূহে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:17:36.352579803Z",
+  "model": "glm-5.2"
+}

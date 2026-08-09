@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং সমুদ্রতট হবে রাখালদের আশ্রম, মেদভূমি ও ভেড়ার পাখারি।",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "এবং হবে"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "তট"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সমুদ্র"
+    },
+    {
+      "surface": "נות",
+      "gloss": "আশ্রম"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "মেদভূমি"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "রাখালদের"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "এবং পাখারি"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ভেড়ার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:26:31.433124335Z",
+  "model": "glm-5.2"
+}

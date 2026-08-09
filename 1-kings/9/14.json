@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর হীরাম ⟨রাজার⟩ কাছে পাঠালেন একশ ও বিশ ছিকর সোনা।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "আর পাঠালেন"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "হীরাম"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "রাজার কাছে"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ছিকর"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনা"
+    }
+  ],
+  "timestamp": "2026-08-09T14:08:55.657864219Z",
+  "model": "glm-5.2"
+}

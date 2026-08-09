@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "গিলয়দ — অনর্থকর্মীদের নগরী, রক্ত থেকে পিছলে যাওয়া।",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "গিলয়দ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগরী"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "কর্মীদের"
+    },
+    {
+      "surface": "און",
+      "gloss": "অনর্থ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "পিছলে যাওয়া"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "রক্ত থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:17:05.873845508Z",
+  "model": "glm-5.2"
+}

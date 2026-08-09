@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 4:11",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আমি উত্তর দিলাম এবং তাঁকে বললাম: “এই দুটি জলপাই গাছ ⟨কী⟩, মনোরার ডান পাশে এবং তার বাম পাশে?”",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "আমি উত্তর দিলাম"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বললাম"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨কী⟩"
+    },
+    {
+      "surface": "שני",
+      "gloss": "দুটি"
+    },
+    {
+      "surface": "הזיתים",
+      "gloss": "জলপাই গাছ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "על",
+      "gloss": "পাশে"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ডান"
+    },
+    {
+      "surface": "המנורה",
+      "gloss": "মনোরার"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং পাশে"
+    },
+    {
+      "surface": "שמאולה",
+      "gloss": "তার বাম"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:36.032457959Z",
+  "model": "glm-5.2"
+}

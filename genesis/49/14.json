@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "য়িসসকার শক্তিমান গাধার মতো, দুই কুক্ষিগুলির মাঝে শুয়ে ⟨আছে⟩।",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "য়িসসকার"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "গাধার"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "শক্তিমান"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "শুয়ে"
+    },
+    {
+      "surface": "בין",
+      "gloss": "মাঝে"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "দুই কুক্ষিগুলির"
+    }
+  ],
+  "timestamp": "2026-08-09T02:44:45.073470088Z",
+  "model": "glm-5.2"
+}

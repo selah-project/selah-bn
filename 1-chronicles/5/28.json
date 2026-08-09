@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর কেহাতের পুত্ররা: অম্রাম, যিৎহার, হেব্রোন এবং উজ্জিয়েল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্ররা"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাতের"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "অম্রাম"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "যিৎহার"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "হেব্রোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "এবং উজ্জিয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:52.701811854Z",
+  "model": "glm-5.2"
+}

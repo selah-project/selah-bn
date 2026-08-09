@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "অন্ধকারে তার সমস্ত দিনগুলো ⟨সে⟩ খাবে, আর ⟨থাকবে⟩ অনেক ক্রোধ, তার অসুস্থতা ও ক্ষোভ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "অন্ধকারে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "তার দিনগুলো"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাবে"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "আর ক্রোধ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "তার অসুস্থতা"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ও ক্ষোভ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:24:09.899259276Z",
+  "model": "glm-5.2"
+}

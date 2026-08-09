@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং নোগা ও নেফেগ ও য়াফিয়া।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "এবং নোগা"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ও নেফেগ"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ও য়াফিয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:31.970030547Z",
+  "model": "glm-5.2"
+}

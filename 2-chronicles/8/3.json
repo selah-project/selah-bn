@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং শলোমোহ হামাত-সোবাহে গেলেন, এবং সেটির বিরুদ্ধে প্রবল হলেন।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "এবং গেলেন"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "হামাত"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "সোবাহে"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "এবং প্রবল হলেন"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "সেটির বিরুদ্ধে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:23.518584485Z",
+  "model": "glm-5.2"
+}

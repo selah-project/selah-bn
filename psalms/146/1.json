@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 146,
+  "translation": "হালেলু ইয়াহ! হালেলু, হে আমার প্রাণ, ⟨את⟩ ইয়াহওয়েহকে।",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "হালেলু"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহ"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "হালেলু"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "হে আমার প্রাণ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহওয়েহকে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:48.947975995Z",
+  "model": "glm-5.2"
+}

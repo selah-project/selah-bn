@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আমি ডাকলাম তোমার নাম, হে ইয়াহওয়েহ, নিম্নতম গর্ট থেকে।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "আমি ডাকলাম"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "তোমার নাম"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "গর্ট থেকে"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "নিম্নতম"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:06.248723775Z",
+  "model": "glm-5.2"
+}

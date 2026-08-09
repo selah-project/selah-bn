@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং শুপ্পিম ও হুপ্পিম — ঢির-এর পুত্রেরা; হুশীম — আহের-এর পুত্রেরা।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "এবং শুপ্পিম"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ও হুপ্পিম"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ঢির-এর"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "হুশীম"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "আহের-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:05.770038719Z",
+  "model": "glm-5.2"
+}

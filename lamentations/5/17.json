@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এই কারণে আমাদের হৃদয় রুগ্ণ ⟨হয়েছে⟩; এই জিনিসগুলির জন্য আমাদের চোখ অন্ধকার ⟨হয়েছে⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "এর কারণে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়েছে"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "রুগ্ণ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "আমাদের হৃদয়"
+    },
+    {
+      "surface": "על",
+      "gloss": "এর কারণে"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই জিনিসগুলির"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "অন্ধকার হয়েছে"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "আমাদের চোখ"
+    }
+  ],
+  "timestamp": "2026-08-09T17:12:44.900396094Z",
+  "model": "glm-5.2"
+}

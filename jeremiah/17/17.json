@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আমার জন্য ভয়ংকর ⟨মহা⟩ হয়ো না; তুমি আমার আশ্রয়, বিপদের দিনে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হয়ো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার জন্য"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "ভয়ংকর ⟨মহা⟩"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "আমার আশ্রয়"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বিপদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:20:54.165700715Z",
+  "model": "glm-5.2"
+}

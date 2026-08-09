@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এবং অষ্টম দিনে তার খালের মাংস পরিচ্ছেদ করা হবে।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "পরিচ্ছেদ করা হবে"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "তার খালের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:01:47.678179613Z",
+  "model": "glm-5.2"
+}

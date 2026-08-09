@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "বহু মধু খাওয়া ⟨এটা⟩ ভাল নয়, এবং ⟨নিজের⟩ গৌরব অনুসন্ধান করা — ⟨এটাও গৌরব⟩ নয়।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "খাওয়া"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মধু"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "এবং অনুসন্ধান করা"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "তাদের গৌরব"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "গৌরব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:45.613052303Z",
+  "model": "glm-5.2"
+}

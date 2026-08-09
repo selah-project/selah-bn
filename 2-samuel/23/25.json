@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "শম্মা হরোদীয়, এলিকা হরোদীয়।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "শম্মা"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "হরোদীয়"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "এলিকা"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "হরোদীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:22.064702242Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "তোমরা এমন করবে না তোমাদের এলোহিঞ্জ ইয়াহওয়েহের নিমিত্ত।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "করবে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমন"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহের নিমিত্ত"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "তোমাদের এলোহিঞ্জ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:27:08.102488968Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং গাধা ছিল এক ও ষাট হাজার।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "এবং গাধা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "এবং ষাট"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T03:19:42.923863482Z",
+  "model": "glm-5.2"
+}

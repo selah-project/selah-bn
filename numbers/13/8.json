@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "এফ্রায়িম ⟨গোত্রের⟩ ⟨জন্য⟩ হোশেয়া, নুনের পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "এফ্রায়িম"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "হোশেয়া"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "נון",
+      "gloss": "নুনের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:47.592282477Z",
+  "model": "glm-5.2"
+}

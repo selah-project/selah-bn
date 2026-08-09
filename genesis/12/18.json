@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "আর ফারওহ আভ্রামকে ডাকল ও বলল, “তুমি আমারে এ ⟨এটা⟩ কী করলে? কেন আমাকে জানালে না যে সে ⟨তোমার⟩ স্ত্রী?”",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "আর ডাকল"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ফারওহ"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "আভ্রামকে"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এ ⟨এটা⟩"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "করলে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমারে"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "জানালে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "⟨তোমার⟩ স্ত্রী"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:03.321191735Z",
+  "model": "glm-5.2"
+}

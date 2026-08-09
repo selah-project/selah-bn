@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "এবং ⟨সে⟩ তাঁকে বলল, “তোমার নাম কী?” এবং ⟨সে⟩ বলল, “ইয়াকোব।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "তোমার নাম"
+    },
+    {
+      "surface": "ויאমר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ইয়াকোব"
+    }
+  ],
+  "timestamp": "2026-08-09T02:37:02.474439368Z",
+  "model": "glm-5.2"
+}

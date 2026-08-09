@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 46,
+  "translation": "এবং দানের পুত্রেরা ⟨হল⟩: হুশিম।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং …-এর পুত্রেরা"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দানের"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "হুশিম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:42:20.439176801Z",
+  "model": "glm-5.2"
+}

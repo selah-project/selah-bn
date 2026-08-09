@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তোমরাও, হে কুশীয়রা, আমার তরবারির বিদ্ধ — তারাই তারা।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "তোমরাও"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমরা"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "হে কুশীয়রা"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "বিদ্ধ"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "আমার তরবারির"
+    },
+    {
+      "surface": "המה",
+      "gloss": "তারাই তারা"
+    }
+  ],
+  "timestamp": "2026-08-09T09:18:36.198467708Z",
+  "model": "glm-5.2"
+}

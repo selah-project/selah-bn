@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ছাগলের একটি লোমশ পুরুষ, পাপবলির জন্য।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "লোমশ পুরুষ"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ছাগলের"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "পাপবলির জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:10:59.083794386Z",
+  "model": "glm-5.2"
+}

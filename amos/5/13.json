@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "সেইজন্য ⟨জ্ঞানী⟩ সেই সময়ে নীরব থাকবে, কারণ সে ⟨এক⟩ মন্দ সময়।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "সেইজন্য"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "⟨জ্ঞানী⟩"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "নীরব থাকবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সে ⟨এক⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:22:10.517735296Z",
+  "model": "glm-5.2"
+}

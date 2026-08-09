@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর য়েরুব্বল যোআশের পুত্র ⟨ক⟩ গেল এবং নিজের বাড়িতে বাস করল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "আর গেল"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "য়েরুব্বল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "যোআশ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "এবং বাস করল"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "নিজের বাড়িতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:44:09.424004860Z",
+  "model": "glm-5.2"
+}

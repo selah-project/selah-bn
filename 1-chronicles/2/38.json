@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং ওবেদ ⟨את⟩ যিহূর জনক হলেন, এবং যিহূ ⟨את⟩ আজারিয়র জনক হলেন।",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "এবং ওবেদ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "যিহূ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "যিহূ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "এবং যিহূ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আজারিয়"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "আজারিয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:56.446130637Z",
+  "model": "glm-5.2"
+}

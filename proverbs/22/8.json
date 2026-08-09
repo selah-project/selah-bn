@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "অধর্ম বপনকারী ⟨সে⟩ অনর্থ কাটবে, এবং তার ক্রোধের দণ্ড ⟨নিঃশেষ⟩ হবে।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "বপনকারী"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "অধর্ম"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "কাটবে"
+    },
+    {
+      "surface": "און",
+      "gloss": "অনর্থ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "এবং দণ্ড"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "তার ক্রোধের"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "নিঃশেষ হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:22:04.059716442Z",
+  "model": "glm-5.2"
+}

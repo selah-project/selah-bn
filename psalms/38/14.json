@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "আর আমি বধিরের মতো ⟨কিছু⟩ শুনি না, এবং মূকের মতো ⟨যে⟩ ⟨তার⟩ মুখ খোলে না।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "আর আমি"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "বধিরের মতো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "শুনি"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "এবং মূকের মতো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "খোলে"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "মুখ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:36:47.790599474Z",
+  "model": "glm-5.2"
+}

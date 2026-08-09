@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "শল্লুমের পুত্র, সদোকের পুত্র, আহিতুবের পুত্র।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শল্লুম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "সদোক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "আহিতুব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:31.822447085Z",
+  "model": "glm-5.2"
+}

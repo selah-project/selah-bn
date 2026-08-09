@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "তোমার সামগ্রী দেশ থেকে একত্র কর, হে দুর্গে বাসী",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "একত্র কর"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "দেশ থেকে"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "তোমার সামগ্রী"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "হে বাসী"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "দুর্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:46:52.696012409Z",
+  "model": "glm-5.2"
+}

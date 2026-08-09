@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "নভলের জন্য উৎকৃষ্ট ওষ্ঠ ⟨শোভনীয় নয়⟩; কত ছেলে, নদিবের জন্য মিথ্যা ওষ্ঠ!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "শোভনীয়"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "নভলের জন্য"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ওষ্ঠ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "উৎকৃষ্ট"
+    },
+    {
+      "surface": "אף",
+      "gloss": "কত ছেলে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "নদিবের জন্য"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ওষ্ঠ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিথ্যা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:01.014374426Z",
+  "model": "glm-5.2"
+}

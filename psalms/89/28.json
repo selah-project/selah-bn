@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 89,
+  "translation": "আমিও তাকে জ্যেষ্ঠপুত্র করব, পৃথিবীর রাজাদের মধ্যে উচ্চতম!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "আমিও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "জ্যেষ্ঠপুত্র"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "তাকে করব"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "উচ্চতম"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "রাজাদের মধ্যে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T09:40:46.730234143Z",
+  "model": "glm-5.2"
+}

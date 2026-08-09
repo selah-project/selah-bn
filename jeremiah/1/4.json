@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং ইয়াহওয়েহর বাক্য আমার কাছে এসেছিল, বলছে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং … এসেছিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বলছে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:44:20.637857341Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "কে ⟨এই⟩ ⟨সে⟩ বলল, আর ⟨এটি⟩ ঘটল, যখন আদোনাই ⟨এটি⟩ আদেশ করেননি?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨এই⟩ ⟨সে⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলল"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "আর ⟨এটি⟩ ঘটল"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ করেননি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:36.417199888Z",
+  "model": "glm-5.2"
+}

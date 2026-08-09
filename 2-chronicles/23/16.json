@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "যিহোয়াদা ⟨একটি⟩ নিয়ম করলেন — নিজের ও সমস্ত জনের ও রাজার মধ্যে — ইয়াহওয়েহর ⟨জন্য⟩ জন হতে।",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "করলেন"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "যিহোয়াদা"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "নিয়ম"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "নিজের মধ্যে"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ও"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনের"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ও"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "হতে"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "জন"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহর জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:56:52.773652593Z",
+  "model": "glm-5.2"
+}

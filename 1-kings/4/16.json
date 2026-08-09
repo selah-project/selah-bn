@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "বাআনা বেন-খুশাই আশেরে ও বেআলোতে।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "বাআনা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বেন-"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "খুশাই"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "আশেরে"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ও বেআলোতে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:09:32.066295974Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "সাধারণকে চতুরতা দেওয়ার জন্য, বালককে জ্ঞান ও বিচারবুদ্ধি —",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "দেওয়ার জন্য"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "সাধারণকে"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "চতুরতা"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "বালককে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ও বিচারবুদ্ধি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:37.682644130Z",
+  "model": "glm-5.2"
+}

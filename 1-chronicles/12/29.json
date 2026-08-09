@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এবং সাদোক ⟨একজন⟩ যুবক, সাহসী বীর, এবং তাঁর পিতৃগৃহে বিশ ও দুই সরদার।",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "এবং সাদোক"
+    },
+    {
+      "surface": "נער",
+      "gloss": "যুবক"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "সাহসী বীর"
+    },
+    {
+      "surface": "חיײ",
+      "gloss": "বলপ্রতাপ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "এবং গৃহে"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তাঁর পিতার"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "সরদার"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:13.281090052Z",
+  "model": "glm-5.2"
+}

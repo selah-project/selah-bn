@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "কারণ এই আজ্ঞা যা আমি আজ তোমাকে আদেশ করছি, সেটি তোমার জন্য অসাধ্য নয়, আর দূরেও নয় ⟨সেটি⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "আজ্ঞা"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "তোমাকে আদেশ করছি"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "অসাধ্য"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেটি"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "তোমার জন্য"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর নয়"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "দূরে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সেটি⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:00.716679117Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর ⟨ਦাসটি⟩ যিতসহাককে ⟨את⟩ সব কথাগুলো বর্ণনা করল যা ⟨ਉਹ⟩ করেছিল।",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "আর ⟨ਦাসটি⟩ বর্ণনা করল"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "দাস"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "যিতসহাককে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সব কথাগুলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাগুলো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "⟨ਉਹ⟩ করেছিল"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:58.141907184Z",
+  "model": "glm-5.2"
+}

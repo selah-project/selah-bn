@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 86,
+  "translation": "আমার প্রতি অনুগ্রহ করো, হে আদোনাই, কারণ আমি সারাদিন তোমাকে ডাকি।",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "আমার প্রতি অনুগ্রহ করো"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাকে"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "আমি ডাকি"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সারা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:05.961193978Z",
+  "model": "glm-5.2"
+}

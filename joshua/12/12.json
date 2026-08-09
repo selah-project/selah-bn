@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এগ্লোনের রাজা — একজন; গেজেরের রাজা — একজন;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "এগ্লোন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "গেজের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.986286597Z",
+  "model": "glm-5.2"
+}

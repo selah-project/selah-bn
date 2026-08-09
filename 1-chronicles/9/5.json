@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨শিলোণীদের⟩ মধ্য থেকে: আসায়া জ্যেষ্ঠ এবং তাঁর পুত্রেরা।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "এবং থেকে"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "⟨শিলোণীদের⟩"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "আসায়া"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "জ্যেষ্ঠ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "এবং তাঁর পুত্রেরা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:12.022328501Z",
+  "model": "glm-5.2"
+}

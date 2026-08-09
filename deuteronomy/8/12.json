@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "পাছে তুমি খেয়ে তৃপ্ত হও, এবং ভালো বাড়িঘর তুমি নির্মাণ করো ও বাস করো,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "পাছে"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "তুমি খেয়ে"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "তৃপ্ত হও"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "এবং বাড়িঘর"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "তুমি নির্মাণ করো"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "এবং বাস করো"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:43.277324514Z",
+  "model": "glm-5.2"
+}

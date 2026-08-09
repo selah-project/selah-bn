@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 65,
+  "translation": "প্রার্থনা শোনা, তোমার কাছে সমস্ত মাংস ⟨আসবে⟩।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "⟨হে⟩ শোনা"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "প্রার্থনা"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "তোমার কাছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আসবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:40:44.617989663Z",
+  "model": "glm-5.2"
+}

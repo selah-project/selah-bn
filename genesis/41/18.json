@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 41:18",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "আর দেখলাম, নদী থেকে মাংসল ও সুদর্শন সাতটি গাভী উঠে এল, আর তারা ঘাসবনে চরছিল।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখলাম"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "উঠে এল"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাতটি"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "গাভী"
+    },
+    {
+      "surface": "בריאות",
+      "gloss": "মাংসল"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংসে"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ও সুদর্শন"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "দর্শনে"
+    },
+    {
+      "surface": "ותרעינה",
+      "gloss": "আর চরছিল"
+    },
+    {
+      "surface": "באחו",
+      "gloss": "ঘাসবনে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:40:20.799759470Z",
+  "model": "glm-5.2"
+}

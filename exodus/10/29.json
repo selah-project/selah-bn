@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর মোশে বললেন, “ঠিক তাই তুমি বলেছ; ⟨আমি⟩ আর তোমার মুখ দর্শন করব না।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ঠিক তাই"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "তুমি বলেছ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "⟨আমি⟩ যোগ করব"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "দর্শন করা"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "তোমার মুখ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:46:54.148139859Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "তখন মোশে ⟨এ⟩ জাতির কাছে নেমে গেলেন এবং তাদের কাছে কথা বললেন।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "নেমে গেলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨এ⟩ জাতির"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:54:49.629854138Z",
+  "model": "glm-5.2"
+}

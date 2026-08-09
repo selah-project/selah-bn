@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং সে হল, সেই দিন পতিত হওয়া সকলে, পুরুষ থেকে নারী পর্যন্ত, বারো হাজার — হায়ি-এর সমস্ত লোক।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং সে হল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকল"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "পতিত হওয়া"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "পুরুষ থেকে"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "নারী"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বারো"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "লোক"
+    },
+    {
+      "surface": "העי",
+      "gloss": "হায়ি-এর"
+    }
+  ],
+  "timestamp": "2026-08-09T14:03:47.313547767Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর মোশে ⟨את⟩ লেবীয়দের — ইয়াহওয়েহর বন্ধনার সিন্দুক বাহকদের — আদেশ করলেন, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "আর আদেশ করলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লেবীয়দের"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেবীয়দের"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "বাহকদের"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "সিন্দুক"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "বন্ধনার"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:08.097195931Z",
+  "model": "glm-5.2"
+}

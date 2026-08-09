@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে ⟨এল⟩, বলে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨এটি ঘটল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאমר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:11:55.340876368Z",
+  "model": "glm-5.2"
+}

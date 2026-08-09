@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "কারণ যে ⟨ব্যক্তি⟩ সমস্ত জীবদের সাথে যুক্ত, তাঁর আশা ⟨আছে⟩; কারণ এক জীবন্ত কুকুর এক মৃত সিংহের চেয়ে উত্তম।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ব্যক্তি⟩"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "যুক্ত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...-এর সাথে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীবদের"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨আছে⟩"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "আশা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "এক কুকুরের জন্য"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীবন্ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟸"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...-এর চেয়ে"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "এক সিংহের"
+    },
+    {
+      "surface": "המת",
+      "gloss": "মৃত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:23:23.368652673Z",
+  "model": "glm-5.2"
+}

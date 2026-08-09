@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এবং দানীয়ের কাছ থেকে — যুদ্ধ সাজানো-সহ আঠারো হাজার এবং ছয় শত।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "এবং ... কাছ থেকে"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "দানীয়ের"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "সাজানো"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "এবং আট"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "এবং ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:29.438326213Z",
+  "model": "glm-5.2"
+}

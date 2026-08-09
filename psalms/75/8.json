@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 75,
+  "translation": "কারণ এলোহিম ⟨হলেন⟩ বিচারক; ⟨তিনি⟩ একজনকে নিচু করেন এবং একজনকে উঁচু করেন।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "বিচারক"
+    },
+    {
+      "surface": "זה",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "নিচু করেন"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "এবং একজন"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "উঁচু করেন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:50.815208239Z",
+  "model": "glm-5.2"
+}

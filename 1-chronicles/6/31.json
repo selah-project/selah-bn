@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "অমৎসির পুত্র, বনির পুত্র, শেমেরের পুত্র।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "অমৎসির"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বনির"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "শেমেরের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:26:01.671629777Z",
+  "model": "glm-5.2"
+}

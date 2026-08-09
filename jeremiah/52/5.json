@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 52,
+  "translation": "আর ⟨এই⟩ নগর অবরুদ্ধ হলো, রাজা তিদকিয়াহুর একাদশ বর্ষ পর্যন্ত।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "আর ⟨এটি⟩ এলো"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨এই⟩ নগর"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "অবরুদ্ধ হলো"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "এক"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বর্ষ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "তিদকিয়াহুর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:27:12.995151600Z",
+  "model": "glm-5.2"
+}

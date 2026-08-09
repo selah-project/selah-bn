@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একটি স্বর্ণের হাতা, দশ ⟨শেকেল⟩, ধূপ দ্বারা পূর্ণ।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "হাতা"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "স্বর্ণের"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "পূর্ণ"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:52:55.932612495Z",
+  "model": "glm-5.2"
+}

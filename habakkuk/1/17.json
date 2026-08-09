@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "“এর জন্য কি ⟨সে⟩ ⟨তার⟩ জাল খালি করবে, আর জাতিদের বধ করতে সদা নির্দয় থাকবে?”",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "এর উপর কি"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এর জন্য"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "খালি করবে"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "তার জাল"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "আর সদা"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "বধ করতে"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "দয়া করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:24:34.672677004Z",
+  "model": "glm-5.2"
+}

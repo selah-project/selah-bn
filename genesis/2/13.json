@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর ⟨দ্বিতীয়⟩ নদীর নাম গিহোন; সেই নদীটিই ⟨সে⟩ যে ⟨את⟩ সমস্ত কুশ দেশকে পরিবেষ্টন করে।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "নদীর"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "গিহোন"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "পরিবেষ্টন করে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত কুশ দেশকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কুশ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:27:50.809784767Z",
+  "model": "glm-5.2"
+}

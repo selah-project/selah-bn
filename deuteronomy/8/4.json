@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "তোমার পোশাক পুরোনো হয়নি তোমার ওপর থেকে এবং তোমার পা ফুলে ওঠেনি — এই চল্লিশ বছর।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "তোমার পোশাক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "পুরোনো হয়েছিল"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "তোমার ওপর থেকে"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "এবং তোমার পা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ফুলে উঠেছিল"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:15.113002494Z",
+  "model": "glm-5.2"
+}

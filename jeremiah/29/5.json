@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "গৃহ নির্মাণ করাও এবং বসবাস করাও, এবং বাগান রোপণ করাও এবং ⟨את⟩ তার ফল খাও।",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "নির্মাণ করাও"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "এবং বসবাস করাও"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "এবং রোপণ করাও"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "বাগান"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "এবং খাও"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার ফল"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "ফল"
+    }
+  ],
+  "timestamp": "2026-08-09T08:22:27.046946836Z",
+  "model": "glm-5.2"
+}

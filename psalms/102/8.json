@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 102,
+  "translation": "আমি জেগে ছিলাম এবং একাকী পাখির ⟨মত⟩ ছাদের উপর হলাম।",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "আমি জেগে ছিলাম"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "এবং হলাম"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "পাখির ⟨মত⟩"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "একাকী"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ছাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T16:44:21.892147387Z",
+  "model": "glm-5.2"
+}

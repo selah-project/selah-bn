@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কিরয়্যাত-আরিম, কফিরা ও বেরোতের পুত্ররা — সাতশ তেত্রিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "কিরয়্যাত-"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "আরিম"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "কফিরা"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ও বেরোত"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "তেত্রিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:30.457778229Z",
+  "model": "glm-5.2"
+}

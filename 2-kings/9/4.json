@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তখন ⟨সেই⟩ বালক গেল — ⟨সেই⟩ বালক, ⟨সেই⟩ নবী — রামোত-গিলয়দ ⟨কে⟩।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "তখন গেল"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "নবী"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "রামোত"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিলয়দ"
+    }
+  ],
+  "timestamp": "2026-08-09T14:10:21.330522391Z",
+  "model": "glm-5.2"
+}

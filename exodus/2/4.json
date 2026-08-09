@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর ⟨তাঁর⟩ বোন দূরে দাঁড়াল, ⟨ হিসাবে⟩ জানবার — তাঁর সঙ্গে কী করা হবে।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "আর দাঁড়াল"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "তাঁর বোন"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "দূরে"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "জানবার জন্য"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "করা হবে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাঁর সঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:01.351284672Z",
+  "model": "glm-5.2"
+}

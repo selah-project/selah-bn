@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং য়িশূয়ায়, এবং মোলাদায়, এবং বেথ-পালেটে,",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "এবং য়িশূয়ায়"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "এবং মোলাদায়"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "এবং বেথ-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "পালেটে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:02.634074538Z",
+  "model": "glm-5.2"
+}

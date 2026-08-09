@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "ও বেইত-লেবাওত, ও শারুহেন — তেরো নগর ও সেগুলির গ্রামসমূহ।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ও বেইত"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "লেবাওত"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "ও শারুহেন"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ও সেগুলির গ্রামসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:47.061609788Z",
+  "model": "glm-5.2"
+}

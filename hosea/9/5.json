@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তোমরা নিয়ুক্ত দিনে কী করবে, এবং ইয়াহওয়েহর উৎসবের দিনে?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "তোমরা করবে"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "নিয়ুক্ত সময়ের"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসবের"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:19:32.179508534Z",
+  "model": "glm-5.2"
+}

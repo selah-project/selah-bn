@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তোমার আকৃতি তামারের সদৃশ এবং তোমার স্তনদুটো আশ্কোলোতের সদৃশ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "তোমার আকৃতি"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "সদৃশ"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "তামারের"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "এবং তোমার স্তনদুটো"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "আশ্কোলোতের সদৃশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:17:36.352736330Z",
+  "model": "glm-5.2"
+}

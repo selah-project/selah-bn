@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 18:15",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "বিবেচকের মন জ্ঞান ⟨এটি⟩ অর্জন করে, আর জ্ঞানীদের কান জ্ঞান ⟨সেটিই⟩ অন্বেষণ করে।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "মন"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "বিবেচকের"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "অর্জন করে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "আর কান"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "תבקש",
+      "gloss": "অন্বেষণ করে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:08.452539834Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 9:18",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "দুষ্টেরা শেওলে ফিরে যাবে — এলোহিমকে ভুলে যাওয়া সমস্ত জাতি।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "ফিরে যাবে"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টেরা"
+    },
+    {
+      "surface": "לשאולה",
+      "gloss": "শেওলে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "שכחי",
+      "gloss": "ভুলে যাওয়া"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:32:12.211166717Z",
+  "model": "glm-5.2"
+}

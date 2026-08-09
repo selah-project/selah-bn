@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "দুষ্ট ⟨এট⟩⟩ কোল থেকে ঘুষ গ্রহণ করে, ⟨⟨এট⟩⟩ বিচারের পথ বক্র করার জন্য।",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ঘুষ"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "কোল থেকে"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্ট"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "গ্রহণ করে"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "বক্র করার জন্য"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচারের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:59.547170870Z",
+  "model": "glm-5.2"
+}

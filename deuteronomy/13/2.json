@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "যখন তোমার মধ্যে উঠবে ⟨একজন⟩ নবী, অথবা স্বপ্ন দ্রষ্টা, এবং তোমাকে দেবে ⟨একটি⟩ চিহ্ন অথবা অলৌকিক কাজ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "উঠবে"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "তোমার মধ্যে"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "নবী"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "স্বপ্ন দ্রষ্টা"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "স্বপ্ন"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "এবং ⟨সে⟩ দেবে"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাকে"
+    },
+    {
+      "surface": "אות",
+      "gloss": "চিহ্ন"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "অলৌকিক কাজ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:27:35.648757704Z",
+  "model": "glm-5.2"
+}

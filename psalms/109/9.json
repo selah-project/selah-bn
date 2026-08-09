@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 109,
+  "translation": "তাঁর ছেলেরা হোক এতিম, এবং তাঁর স্ত্রী হোক বিধবা।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "হোক"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তাঁর ছেলেরা"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "এতিম"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "এবং তাঁর স্ত্রী"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "বিধবা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:50:24.681394730Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "হঠাৎ আসা ভয় থেকে ভীত হয়ো না, এবং রাষায়িমদের বিপর্যয় থেকে — যখন তা ⟨আসে⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভীত হয়ো"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ভয় থেকে"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "হঠাৎ আসা"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "এবং বিপর্যয় থেকে"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "রাষায়িমদের"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "⟨আসে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:21.146565711Z",
+  "model": "glm-5.2"
+}

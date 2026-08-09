@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর শিশির রাতে শিবিরের উপর নামার সময়, মন তার উপর নামত।",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "আর নামার সময়"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "শিশির"
+    },
+    {
+      "surface": "על",
+      "gloss": "—এর উপর"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "শিবির"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "রাতে"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "নামত"
+    },
+    {
+      "surface": "המן",
+      "gloss": "মন"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তার উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:13:48.582756272Z",
+  "model": "glm-5.2"
+}

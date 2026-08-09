@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 137,
+  "translation": "কী করে ⟨আমরা⟩ ইয়াহওয়েহ-এর ⟨את⟩ গান গাইব ⟨এক⟩ অচেনা ভূমিতে?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কী করে"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "গাইব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গান"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গান"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "על",
+      "gloss": "—এ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ভূমিতে"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "অচেনা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:54:54.654368409Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 108,
+  "translation": "জাগো, হে নেবেল ও কিন্নর; আমি জাগাব ⟨את⟩ প্রভাতকে।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "জাগো"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "হে নেবেল"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ও কিন্নর"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "আমি জাগাব"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "⟨את⟩ প্রভাতকে",
+      "marks": "প্রভাত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:22.546250251Z",
+  "model": "glm-5.2"
+}

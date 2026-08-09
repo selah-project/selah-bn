@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 29:30",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "তখন ইয়াহওয়েহ-এর বাক্য ইরমিয়াহুর কাছে এল, বলতে যে,—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তখন এল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ইরমিয়াহুর"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে যে,—"
+    }
+  ],
+  "timestamp": "2026-08-09T04:53:43.515793140Z",
+  "model": "glm-5.2"
+}

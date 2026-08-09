@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর কায়িনানের সমস্ত দিনসমূহ হলো দশ বছর ও নয়শ বছর, আর তিনি মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আর হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "কায়িনানের"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ও নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "আর তিনি মারা গেলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T07:43:30.904256174Z",
+  "model": "glm-5.2"
+}

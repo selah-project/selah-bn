@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "সেই দিন ⟨একজন⟩ পলাতক তোমার কাছে আসবে ⟨একটি⟩ কান শোনানোর জন্য।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "সেই দিন"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আসবে"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "পলাতক"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমার কাছে"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "শোনানোর জন্য"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "কান"
+    }
+  ],
+  "timestamp": "2026-08-09T05:10:00.326365198Z",
+  "model": "glm-5.2"
+}

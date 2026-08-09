@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "যিগআল নাতান-এর পুত্র সোবা থেকে, বানি গাদী,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "যিগআল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতান"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "সোবা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানি"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "গাদী"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:28.504172524Z",
+  "model": "glm-5.2"
+}

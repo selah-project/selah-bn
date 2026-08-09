@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "“এমন নয় আমার দাস মোশে; আমার সমস্ত গৃহে ⟨הוּא⟩ বিশ্বস্ত।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমন"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "আমার দাস"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "আমার গৃহে"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "বিশ্বস্ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T03:13:04.071701701Z",
+  "model": "glm-5.2"
+}

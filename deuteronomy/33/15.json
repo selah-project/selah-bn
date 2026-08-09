@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর প্রাচীন পর্বতমালার শীর্ষ থেকে, আর অনন্ত পাহাড়ের মেগদ থেকে।",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "আর শীর্ষ থেকে"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "পর্বতমালার"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "প্রাচীন"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "আর মেগদ থেকে"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "পাহাড়ের"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "অনন্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:43.535089989Z",
+  "model": "glm-5.2"
+}

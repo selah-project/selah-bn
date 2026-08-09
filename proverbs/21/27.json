@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "দুষ্টদের বলি ⟨হল⟩ ঘৃণ্য — কত অধিক, যখন ⟨তিনি⟩ দুরভিপ্রায়ে ⟨তা⟩ আনেন।",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "বলি"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ঘৃণ্য"
+    },
+    {
+      "surface": "אף",
+      "gloss": "কত অধিক"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "দুরভিপ্রায়ে"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "⟨তিনি⟩ আনেন"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:07.206802531Z",
+  "model": "glm-5.2"
+}

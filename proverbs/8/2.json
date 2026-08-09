@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "উচ্চস্থানের শীর্ষে, পথের উপরে, পথচারার ⟨ঘরে⟩ তিনি দাঁড়িয়ে আছেন।",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "শীর্ষে"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "উচ্চস্থানের"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথের"
+    },
+    {
+      "surface": "בית",
+      "gloss": "⟨ঘরে⟩"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "পথচারার"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "তিনি দাঁড়িয়ে আছেন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:38.779439065Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "এবং ⟨את⟩ নেগেব, এবং ⟨את⟩ উপত্যকা — য়েরিখোর বিধান, খেজুরের শহর, ত্সোয়ার পর্যন্ত।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "নেগেব"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "নেগেব"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "উপত্যকা"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "বিধান"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "য়েরিখোর"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "শহর"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "খেজুরের"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "צער",
+      "gloss": "ত্সোয়ার"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:04.716448243Z",
+  "model": "glm-5.2"
+}

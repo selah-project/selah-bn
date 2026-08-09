@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 33:14",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর সূর্যের উৎপাদনের মেগদ থেকে, আর চাঁদের গেরেশের মেগদ থেকে।",
+  "tokens": [
+    {
+      "surface": "וממגד",
+      "gloss": "আর মেগদ থেকে"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "উৎপাদনের"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "আর মেগদ থেকে"
+    },
+    {
+      "surface": "גרש",
+      "gloss": "গেরেশের"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "চাঁদের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:32:43.534964413Z",
+  "model": "glm-5.2"
+}

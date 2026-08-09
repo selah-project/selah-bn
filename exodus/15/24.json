@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আর ⟨হ⟩জনগণ মোশের বিরুদ্ধে বিদ্রোপ করল, বলে — “আমরা কী পান করব?”",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "আর বিদ্রোপ করল"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨হ⟩জনগণ"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিরুদ্ধে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "পান করব"
+    }
+  ],
+  "timestamp": "2026-08-09T07:47:08.835280001Z",
+  "model": "glm-5.2"
+}

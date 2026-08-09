@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "একজন অত্যাচারীর প্রতি ঈর্ষা করো না, এবং তার সমস্ত পথের কোনোটিই বেছো না।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ঈর্ষা করো"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "একজনের প্রতি"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "অত্যাচারী"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "বেছো"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "তার পথের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:30.491684675Z",
+  "model": "glm-5.2"
+}

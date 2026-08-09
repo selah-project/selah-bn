@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আজারএল, শেলেমযাহু, শেমারযাহ।",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "আজারএল"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "এবং শেলেমযাহু"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "শেমারযাহ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:27.551799791Z",
+  "model": "glm-5.2"
+}

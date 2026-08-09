@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "আর তার পরে ইবতসান বেইত লেহেমের বিচার করল ⟨את⟩ ইস্রায়েল।",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "আর বিচার করল"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "তার পরে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইস্রায়েল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ইবতসান"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "লেহেমের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:03:13.256497611Z",
+  "model": "glm-5.2"
+}

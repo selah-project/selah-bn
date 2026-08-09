@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "তোমার গৃহে এক ইফা ও ⟨এক⟩ ইফা থাকবে না — বড় ও ছোট।",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "তোমার কাছে"
+    },
+    {
+      "surface": "בְּבֵיתְךָ֖",
+      "gloss": "তোমার গৃহে"
+    },
+    {
+      "surface": "אֵיפָ֣ה",
+      "gloss": "ইফা"
+    },
+    {
+      "surface": "וְאֵיפָ֑ה",
+      "gloss": "ও ইফা"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "বড়"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "ও ছোট"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:45.540607094Z",
+  "model": "glm-5.2"
+}

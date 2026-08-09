@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর ⟨এটি⟩ ঘটবে সেই দিনে: আলো থাকবে না — ⟨এগুলি⟩ মূল্যবান ⟨গোলক⟩, ঘনীভূত হবে।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "আর ⟨এটি⟩ ঘটবে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "אור",
+      "gloss": "আলো"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "মূল্যবান ⟨গোলক⟩"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "ঘনীভূত হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:29:10.346564649Z",
+  "model": "glm-5.2"
+}

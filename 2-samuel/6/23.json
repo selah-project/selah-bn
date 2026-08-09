@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর মিখলকে, শাউলের কন্যাকে, তাঁর মৃত্যুর দিন পর্যন্ত কোনো সন্তান হলো না।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "আর মিখলকে"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যাকে"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শাউলের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হলো"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাঁর"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "কোনো সন্তান"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "তাঁর মৃত্যুর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:01:19.753298123Z",
+  "model": "glm-5.2"
+}

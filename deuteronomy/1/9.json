@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর আমি সেই সময়ে তোমাদের বললাম, বলে: আমি একা তোমাদের ⟨את⟩ বহন করতে সক্ষম নই।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "আর আমি বললাম"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "তোমাদের বললাম"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "সেই সময়ে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নই"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "সক্ষম"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "একা"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "বহন করতে"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:21.538138400Z",
+  "model": "glm-5.2"
+}

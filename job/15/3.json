@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 15:3",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "⟨কি⟩ কথায় তর্ক ⟨এটা⟩ উপকারী নয়, আর বাক্যে তাতে লাভ নেই?",
+  "tokens": [
+    {
+      "surface": "הוכח",
+      "gloss": "তর্ক"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "কথায়"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "יסכון",
+      "gloss": "উপকারী"
+    },
+    {
+      "surface": "ומלים",
+      "gloss": "আর বাক্যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "তাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:22:18.693392991Z",
+  "model": "glm-5.2"
+}

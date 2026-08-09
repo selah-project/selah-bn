@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর মিশমা, আর দুমা, আর মাশসা।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "আর মিশমা"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "আর দুমা"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "আর মাশসা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:21.953783305Z",
+  "model": "glm-5.2"
+}

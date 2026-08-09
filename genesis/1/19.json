@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং সন্ধ্যা হল, এবং প্রভাত হল — চতুর্থ দিন।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং হল"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "সন্ধ্যা"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "এবং হল"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "প্রভাত"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "চতুর্থ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:16.872883848Z",
+  "model": "glm-5.2"
+}

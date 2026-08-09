@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 80,
+  "translation": "বনের শুকর একে নষ্ট করে, এবং মাঠের বন্যপ্রাণী একে চরায়।",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "একে নষ্ট করে"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "শুকর"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "বনের"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "এবং বন্যপ্রাণী"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "মাঠের"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "একে চরায়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:44:29.272358283Z",
+  "model": "glm-5.2"
+}

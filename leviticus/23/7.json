@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "প্রথম দিনে তোমাদের জন্য পবিত্র সভা হবে; তোমরা কোনো দাস-কর্ম করবে না।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্রথম"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "সভা"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কর্ম"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "দাস-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "তোমরা করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:51:36.107192836Z",
+  "model": "glm-5.2"
+}

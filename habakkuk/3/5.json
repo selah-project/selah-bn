@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তাঁর সামনে দেবের যায়, আর তাঁর পদযুগলের কাছে রেশেফ বের ওঠে।",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "তাঁর সামনে"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "দেবের"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "আর বের ওঠে"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "রেশেফ"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "তাঁর পদযুগলের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:35:27.706573831Z",
+  "model": "glm-5.2"
+}

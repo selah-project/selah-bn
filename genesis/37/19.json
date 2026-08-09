@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "আর ⟨তারা⟩ একে অপরের কাছে বলল, “দেখো, স্বপ্নের বালক ⟨এই⟩ ⟨সেই⟩ আসছে!”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "איש",
+      "gloss": "একে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "অপরের"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "স্বপ্নের"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "এই সেই"
+    },
+    {
+      "surface": "בא",
+      "gloss": "আসছে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:40.090869448Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তুমি আজ ⟨את⟩ মোয়াবের সীমানা, ⟨অর্থাৎ⟩ ⟨את⟩ অর ⟨নগরী⟩ পার হচ্ছ:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "পার হচ্ছ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মোয়াবের সীমানা"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "সীমানা"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "মোয়াব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অর"
+    },
+    {
+      "surface": "ער",
+      "gloss": "অর"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:59.842765003Z",
+  "model": "glm-5.2"
+}

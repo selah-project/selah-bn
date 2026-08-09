@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং য়েরেদ জীবিত ছিল দুই ও ষাট বছর এবং একশ বছর, এবং ⟨সে⟩ ⟨את⟩ হনোককে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং জীবিত ছিল"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "য়েরেদ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ও ষাট"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "এবং একশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং ⟨সে⟩ জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "হনোককে"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "হনোক"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:56.161400249Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "তখন সমস্ত সমাজ ⟨את⟩ তাদের কণ্ঠস্বর তুলল এবং সেই রাতে লোকেরা কাঁদল।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "তুলল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "এবং দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাদের কণ্ঠস্বর"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "তাদের কণ্ঠস্বর"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "এবং কাঁদল"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকেরা"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "রাতে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    }
+  ],
+  "timestamp": "2026-08-09T07:53:02.954349145Z",
+  "model": "glm-5.2"
+}

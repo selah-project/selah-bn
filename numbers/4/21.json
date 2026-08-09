@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর ইয়াহওয়েহ মোশেকে বললেন, বলে যে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:03:19.470738917Z",
+  "model": "glm-5.2"
+}

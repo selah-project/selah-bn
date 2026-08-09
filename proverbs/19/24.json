@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "অলস ⟨লোকটি⟩ তার হাত থালায় গুঁজে রাখে; এমনকি তার মুখের কাছেও ⟨সেটি⟩ ফেরত আনে না।",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "গুঁজে রাখে"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "অলস"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তার হাত"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "থালায়"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছেও"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "তার মুখের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ফেরত আনে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:32.418409647Z",
+  "model": "glm-5.2"
+}

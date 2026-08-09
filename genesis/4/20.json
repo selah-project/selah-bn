@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর আদাহ ⟨את⟩ য়াবাল-কে জন্ম দিল; সে-ই তাঁবুবাসী ও গবাদি-পশু-পালনকারীদের পিতা ছিল।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "আর জন্ম দিল"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "আদাহ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়াবাল-কে"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "য়াবাল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে-ই"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বাসী"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তাঁবু"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "আর গবাদি-পশু"
+    }
+  ],
+  "timestamp": "2026-08-09T13:51:06.229033643Z",
+  "model": "glm-5.2"
+}

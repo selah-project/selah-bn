@@ -1,0 +1,53 @@
+{
+ "tier": "glm-5.2",
+ "verse": 9,
+ "ref": "ecclesiastes 4:9",
+ "book": "ecclesiastes",
+ "lang": "bn",
+ "chapter": 4,
+ "translation": "এক জনের চেয়ে দুই জন ভালো, কারণ তাদের পরিশ্রমে তাদের ভালো ফল আছে।",
+ "tokens": [
+  {
+   "surface": "טובים",
+   "gloss": "ভালো"
+  },
+  {
+   "surface": "השנים",
+   "gloss": "দুই জন"
+  },
+  {
+   "surface": "מן",
+   "gloss": "চেয়ে"
+  },
+  {
+   "surface": "האחד",
+   "gloss": "এক জনের"
+  },
+  {
+   "surface": "אשר",
+   "gloss": "কারণ"
+  },
+  {
+   "surface": "יש",
+   "gloss": "আছে"
+  },
+  {
+   "surface": "להם",
+   "gloss": "তাদের"
+  },
+  {
+   "surface": "שכר",
+   "gloss": "ফল"
+  },
+  {
+   "surface": "טוב",
+   "gloss": "ভালো"
+  },
+  {
+   "surface": "בעמלם",
+   "gloss": "তাদের পরিশ্রমে"
+  }
+ ],
+ "timestamp": "2026-08-09T18:19:25.149190182Z",
+ "model": "glm-5.2"
+}

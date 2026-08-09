@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "ইরা, ইক্কেশের ছেলে, তকোয়ীয়; অবিয়েজর অনাতোতীয়।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ইরা"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ছেলে"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ইক্কেশের"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "তকোয়ীয়"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "অবিয়েজর"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "অনাতোতীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:20.502067652Z",
+  "model": "glm-5.2"
+}

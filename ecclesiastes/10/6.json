@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "নির্বোধ ⟨কে⟩ উঁচু স্থানে বসানো হয়, আর ধনীরা নিচুতে বসে।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "বসানো হয়"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "নির্বোধ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "উঁচু স্থানে"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "আর ধনীরা"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "নিচুতে"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "বসে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:16.305919161Z",
+  "model": "glm-5.2"
+}

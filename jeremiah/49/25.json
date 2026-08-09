@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "কেমন করে ⟨তা⟩ পরিত্যক্ত নয় — ⟨היא⟩ প্রশংসার নগরী, আমার আনন্দের নগরী!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কেমন করে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "পরিত্যক্ত"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগরী"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "প্রশংসার"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগরী"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "আমার আনন্দের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:26:44.779324190Z",
+  "model": "glm-5.2"
+}

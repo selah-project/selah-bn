@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "পঙ্গুর পা-জোড়া ঝুলে থাকে — নির্বোধদের মুখে ⟨একটি⟩ উপমাও তেমনি।",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ঝুলে থাকে"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "পা-জোড়া"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "পঙ্গুর"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "এবং উপমা"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "মুখে"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "নির্বোধদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:15.225251215Z",
+  "model": "glm-5.2"
+}

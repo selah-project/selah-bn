@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "আর তুমি সোনার বসানোর খাপ তৈরি করবে।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "আর তুমি তৈরি করবে"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "বসানোর খাপ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:34.916182017Z",
+  "model": "glm-5.2"
+}

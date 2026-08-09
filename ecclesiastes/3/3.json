@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "হত্যা করার সময়, আর আরোগ্য দেওয়ার সময়; ভাঙার সময়, আর গড়ের সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "হত্যা করার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "আরোগ্য দেওয়ার"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "ভাঙার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "গড়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:04.380751073Z",
+  "model": "glm-5.2"
+}

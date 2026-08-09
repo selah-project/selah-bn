@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 41:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "আর আমি আমার স্বপ্নে দেখলাম, আর দেখ, এক ডাঁটায় সাতটি শিষ উঠল, ভরা ও উত্তম।",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "আর আমি দেখলাম"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "আমার স্বপ্নে"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "শিষ"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "উঠল"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "এক ডাঁটায়"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "ভরা"
+    },
+    {
+      "surface": "וטבות",
+      "gloss": "ও উত্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:40:43.224375613Z",
+  "model": "glm-5.2"
+}

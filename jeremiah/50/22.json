@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 50,
+  "translation": "⟦যুদ্ধের⟧ শব্দ ⟨আছে⟩ ⟨দেশে⟩ এবং মহান ভগ্নতা।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "শব্দ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধের"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "এবং ভগ্নতা"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    }
+  ],
+  "timestamp": "2026-08-09T04:59:42.642719639Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 122:7",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 122,
+  "translation": "তোমার প্রাচীরে শালোম হোক, তোমার প্রাসাদে শলবা।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "হোক"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শালোম"
+    },
+    {
+      "surface": "בחילך",
+      "gloss": "তোমার প্রাচীরে"
+    },
+    {
+      "surface": "שלוה",
+      "gloss": "শলবা"
+    },
+    {
+      "surface": "בארמנותיך",
+      "gloss": "তোমার প্রাসাদে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:52.273847312Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "ezra 2:52",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বৎসলুৎ-পুত্র, মখিদা-পুত্র, খরশা-পুত্র।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בצלות",
+      "gloss": "বৎসলুৎ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "মখিদা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "খরশা"
+    }
+  ],
+  "timestamp": "2026-08-09T14:29:56.257141764Z",
+  "model": "glm-5.2"
+}

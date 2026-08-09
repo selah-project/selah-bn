@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 18:22",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "আর ইসরায়েলের ছেলেরা আর মিলন-তাঁবুর কাছে নিকটে আসবে না, পাপ বহন করতে, মরতে।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "יקרבו",
+      "gloss": "তারা আসবে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ছেলেরা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইসরায়েলের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তাঁবুর"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলন"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "বহন করতে"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মরতে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:53:55.119936753Z",
+  "model": "glm-5.2"
+}

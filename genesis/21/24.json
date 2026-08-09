@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং আভ্রাহাম বলল, আমি শপথ করব।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "শপথ করব"
+    }
+  ],
+  "timestamp": "2026-08-09T02:32:54.591424061Z",
+  "model": "glm-5.2"
+}

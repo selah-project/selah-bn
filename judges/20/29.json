@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "আর ইস্রায়েল ঘাতকদের গিবিয়ার চারদিকে স্থাপন করল।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "আর স্থাপন করল"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "ঘাতকদের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "গিবিয়া"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারদিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:48:50.439886870Z",
+  "model": "glm-5.2"
+}

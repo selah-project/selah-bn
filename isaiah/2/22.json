@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 2:22",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তোমরা মানুষ ⟨থেকে⟩ বিরত হও, যার নাসিকায় নশ্বাস ⟨আছে⟩ — কারণ সে ⟨কিসে⟩ গণ্য?",
+  "tokens": [
+    {
+      "surface": "חדלו",
+      "gloss": "বিরত হও"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমরা"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "נשמה",
+      "gloss": "নশ্বাস"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "নাসিকায়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "কিসে"
+    },
+    {
+      "surface": "נחשב",
+      "gloss": "গণ্য"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:26:45.521585956Z",
+  "model": "glm-5.2"
+}

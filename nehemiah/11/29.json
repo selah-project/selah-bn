@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং এইন-রিম্মোনে, এবং ত্সোরআয়, এবং য়িরমুতে।",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "এবং এইন-রিম্মোনে"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "রিম্মোন"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "এবং ত্সোরআয়"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "এবং য়িরমুতে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:27.285080284Z",
+  "model": "glm-5.2"
+}

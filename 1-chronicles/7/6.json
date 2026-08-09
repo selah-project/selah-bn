@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বিন্যামিন — বেলা, ও বেখের, ও যিদিয়াএল; তিনজন।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিন"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "বেলা"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ও বেখের"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "ও যিদিয়াএল"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনজন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:59.878348690Z",
+  "model": "glm-5.2"
+}

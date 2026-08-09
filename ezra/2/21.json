@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বাইত-লেখেমের পুত্রেরা — একশত বিশ ও তিন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাইত-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-লেখেমের"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ও তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:20.757870919Z",
+  "model": "glm-5.2"
+}

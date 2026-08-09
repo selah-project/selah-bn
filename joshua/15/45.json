@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "এক্রোন, ⟨তার⟩ নগরীসমূহ ও ⟨তার⟩ গ্রামসমূহ;",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "এক্রোন"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "ও ⟨তার⟩ নগরীসমূহ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "ও ⟨তার⟩ গ্রামসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:19.717334542Z",
+  "model": "glm-5.2"
+}

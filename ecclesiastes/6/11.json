@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "কারণ আছে কথার বহুত্ব যা বাড়িয়ে তোলে হেবেল — মানুষের ⟨জন্য⟩ কী অতিরিক্ত ⟨আছে⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "কথার"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "বহুত্ব"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "যা বাড়িয়ে তোলে"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "অতিরিক্ত"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুষের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:12.133160678Z",
+  "model": "glm-5.2"
+}

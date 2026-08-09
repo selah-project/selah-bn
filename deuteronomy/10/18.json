@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "⟨তিনি⟩ এতিম ও বিধবার বিচার করেন, আর ⟨তিনি⟩ গেরকে ভালোবাসেন, তাকে অন্ন ও বস্ত্র দেওয়ার জন্য।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "করেন"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচার"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "এতিম"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ও বিধবার"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "আর ভালোবাসেন"
+    },
+    {
+      "surface": "גר",
+      "gloss": "গেরকে"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "দেওয়ার জন্য"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "অন্ন"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "ও বস্ত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T14:01:36.577947470Z",
+  "model": "glm-5.2"
+}

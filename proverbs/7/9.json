@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "গোধূলিতে, দিনের সন্ধ্যায়, রাতের অন্ধকারে ও ঘোর অন্ধকারে।",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "গোধূলিতে"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "সন্ধ্যায়"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিনের"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "অন্ধকারে"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "রাতের"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "ও ঘোর অন্ধকারে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:04.831500282Z",
+  "model": "glm-5.2"
+}

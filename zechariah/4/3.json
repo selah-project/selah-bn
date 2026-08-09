@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং তার উপরে দুটি জয়ত বৃক্ষ — একটি গোলার ডান পাশে এবং একটি তার বাঁ পাশে।",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুটি"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "জয়ত বৃক্ষ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তার উপরে"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ডান পাশে"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "⟨সেই⟩ গোলার"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "এবং একটি"
+    },
+    {
+      "surface": "על",
+      "gloss": "[উপরে]"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "তার বাঁ পাশে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:26.450406271Z",
+  "model": "glm-5.2"
+}

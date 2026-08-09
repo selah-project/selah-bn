@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "সমতলের সব শহর, আর সব গিলিয়দ, আর সব বাশান — সালখা ও এদ্রেয় পর্যন্ত — বাশানে ওগের রাজ্যের শহরসমূহ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "শহর"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "সমতলের"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আর সব"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলিয়দ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "আর সব"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "বাশান"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "সালখা"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ও এদ্রেয়"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "শহরসমূহ"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "রাজ্যের"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ওগের"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "বাশানে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:19.423487115Z",
+  "model": "glm-5.2"
+}

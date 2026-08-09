@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর সমস্ত সমাজ আরও সাত দিন করার পরামর্শ নিল, এবং তারা সাত দিন আনন্দে করল।",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "আর পরামর্শ নিল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "করার"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "আরও"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "এবং তারা করল"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:56:45.593932710Z",
+  "model": "glm-5.2"
+}

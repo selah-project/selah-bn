@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর রাজা শলোমহ ⟨ছিলেন⟩ সমস্ত য়িসরায়েলের উপর রাজা।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ছিলেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমহ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িসরায়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T04:09:38.363328145Z",
+  "model": "glm-5.2"
+}

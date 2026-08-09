@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "নোয়খ তিন পুত্রের জনক হলেন — ⟨את⟩ শেম, ⟨את⟩ খাম ও ⟨את⟩ য়াফেত।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোয়খ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শেম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "শেম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "খাম"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "য়াফেত"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়াফেত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:07.527085427Z",
+  "model": "glm-5.2"
+}

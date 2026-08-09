@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "হ্যাঁ কি দুজন ⟨একসঙ্গে⟩ চলবে, তারা ⟨একত্রে⟩ না হলে?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "হ্যাঁ কি চলবে"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুজন"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একসঙ্গে"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "না"
+    },
+    {
+      "surface": "אם",
+      "gloss": "তারা হলে"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "একত্রে"
+    }
+  ],
+  "timestamp": "2026-08-09T16:53:25.059674733Z",
+  "model": "glm-5.2"
+}

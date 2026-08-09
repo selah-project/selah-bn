@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨সে⟩ যে ⟨নিজের⟩ প্রতিবেশীকে গোপনে আঘাত করে; এবং সমস্ত ⟨হ⟩জাতি বলবে, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "আঘাত করে"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "প্রতিবেশীকে"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "গোপনে"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨হ⟩জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:53.375752199Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং আমি নত করব ⟨את⟩ দাভিদের বংশ এই কারণে — কিন্তু সর্বদা নয় সব ⟨দিন⟩।",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "এবং আমি নত করব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দাভিদের বংশ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "বংশ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "למען",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אך",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "⟨দিন⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T04:14:06.583416757Z",
+  "model": "glm-5.2"
+}

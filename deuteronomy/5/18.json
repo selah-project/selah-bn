@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং তুমি ব্যভিচার করবে না।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "তুমি ব্যভিচার করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:35.681230895Z",
+  "model": "glm-5.2"
+}

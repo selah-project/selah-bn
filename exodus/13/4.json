@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আজ তোমরা বেরিয়ে যাচ্ছ, আবিব মাসে।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমরা"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "বেরিয়ে যাচ্ছ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "মাসে"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "আবিব"
+    }
+  ],
+  "timestamp": "2026-08-09T02:49:23.106485568Z",
+  "model": "glm-5.2"
+}

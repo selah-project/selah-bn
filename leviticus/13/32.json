@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 13:32",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "এবং সপ্তম ⟨দিনে⟩ কোহেন ⟨את⟩ নেগে দেখবে, আর দেখ, নেতেক ছড়ায়নি এবং তাতে হলুদ চুল হয়নি, এবং নেতেকের দৃশ্য চামড়ার চেয়ে গভীর নয়।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "এবং দেখবে"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "কোহেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নেগে"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "নেগে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "সপ্তম"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ছড়ায়নি"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "নেতেক"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়নি"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "שער",
+      "gloss": "চুল"
+    },
+    {
+      "surface": "צהב",
+      "gloss": "হলুদ"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "এবং দৃশ্য"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "নেতেকের"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "গভীর"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "העור",
+      "gloss": "চামড়ার"
+    }
+  ],
+  "timestamp": "2026-08-09T07:51:02.349508745Z",
+  "model": "glm-5.2"
+}

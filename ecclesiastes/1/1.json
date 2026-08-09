@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কোহেলেতের কথা — দাভিদের পুত্র, য়েরুশালায়িমে ⟨রাজা⟩।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "…এর কথা"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "কোহেলেত"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "য়েরুশালায়িমে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:46.822341495Z",
+  "model": "glm-5.2"
+}

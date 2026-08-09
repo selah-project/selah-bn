@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আর আজারিয়হূ ⟨ের⟩ ওডেদ-এর পুত্র — তাঁর উপর এলোহিমের রূহ ছিল।",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "আর আজারিয়হূ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ওডেদ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "তাঁর উপর"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "রূহ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    }
+  ],
+  "timestamp": "2026-08-09T06:51:55.189256700Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "⟨সে⟩ কোলাহলকারী ও বিদ্রোহী; তার বাড়িতে তার পা স্থির থাকে না।",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "কোলাহলকারী"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "ও বিদ্রোহী"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "তার বাড়িতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "স্থির থাকে"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "তার পা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:04.831970562Z",
+  "model": "glm-5.2"
+}

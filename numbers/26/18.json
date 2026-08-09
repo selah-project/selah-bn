@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 26:18",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এই ⟨হল⟩ গাদ-পুত্রদের গোত্রসমূহ তাদের গণনা অনুসারে: চল্লিশ হাজার পাঁচশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্রসমূহ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "তাদের গণনা অনুসারে"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:36.652125461Z",
+  "model": "glm-5.2"
+}

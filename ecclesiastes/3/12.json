@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আমি জানি যে তাদের মধ্যে ভাল নেই, কেবল আনন্দ করা এবং জীবনে ভাল করা ছাড়া।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "আমি জানি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בם",
+      "gloss": "তাদের মধ্যে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ছাড়া"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "আনন্দ করা"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "এবং করা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "জীবনে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:15.697153202Z",
+  "model": "glm-5.2"
+}

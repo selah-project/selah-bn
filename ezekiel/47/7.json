@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "আমার ফিরে আসায় আর দেখো, নদীর তীরে অত্যন্ত বহু গাছ ⟨ছিল⟩ — এই দিকে এবং এই দিকে।",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "আমার ফিরে আসায়"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর দিকে"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "তীরে"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "নদীর"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "গাছ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অত্যন্ত"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "এই দিকে"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "এবং এই দিকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:15:58.399846399Z",
+  "model": "glm-5.2"
+}

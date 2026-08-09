@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 70,
+  "translation": "সঙ্গীতপতির জন্য, দাভিদের, স্মরণ করার জন্য।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতপতির জন্য"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "স্মরণ করার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:41:49.256763602Z",
+  "model": "glm-5.2"
+}

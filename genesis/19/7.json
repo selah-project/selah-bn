@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং বলল, “আমি অনুনয় করি, আমার ভাইয়েরা, মন্দ করো না।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "נא",
+      "gloss": "আমি অনুনয় করি"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আমার ভাইয়েরা"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "মন্দ করো"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:36.076736102Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কারণ প্রজ্ঞার আধিক্যে ক্রোধ বাড়ে, এবং জ্ঞান বৃদ্ধি করলে যন্ত্রণা বৃদ্ধি পায়।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "আধিক্যে"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্রজ্ঞার"
+    },
+    {
+      "surface": "רב",
+      "gloss": "বাড়ে"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ক্রোধ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "এবং বৃদ্ধি করলে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "বৃদ্ধি পায়"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "যন্ত্রণা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:40.659428967Z",
+  "model": "glm-5.2"
+}

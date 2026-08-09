@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ধার্মিকের স্মৃতি আশীর্বাদের জন্য, আর দুষ্টদের নাম পচে যাবে।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "স্মৃতি"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "আশীর্বাদের জন্য"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "পচে যাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:43.307150378Z",
+  "model": "glm-5.2"
+}

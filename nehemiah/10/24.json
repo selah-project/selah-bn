@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "হোশেয়, গননিয়া, গশ্শুব।",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "হোশেয়"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "গননিয়া"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "গশ্শুব"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:52.415087955Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "বিদারণ করার সময়, এবং সেলাই করার সময়; নীরব থাকার সময়, এবং কথা বলার সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "বিদারণ করার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "সেলাই করার"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "নীরব থাকার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "কথা বলার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:47.636517499Z",
+  "model": "glm-5.2"
+}

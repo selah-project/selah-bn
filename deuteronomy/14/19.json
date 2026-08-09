@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং প্রত্যেক বিচরণকারী পাখি ⟨মহাকাশে ওড়ে⟩, সে তোমাদের জন্য অশুদ্ধ, সে খাওয়া হবে না",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "এবং প্রত্যেক"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "বিচরণকারী প্রাণী"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অশুদ্ধ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "খাওয়া হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:32.563318344Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "দুষ্টদের বাড়ি ধ্বংস হবে, কিন্তু সরলদের তাঁবু ফুলবে।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "বাড়ি"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "ধ্বংস হবে"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "কিন্তু ... তাঁবু"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সরলদের"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "ফুলবে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:05.258912974Z",
+  "model": "glm-5.2"
+}

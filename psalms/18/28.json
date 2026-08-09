@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "কারণ তুমি দীন প্রজাকে উদ্ধার করবে, আর অহংকারী চোখ তুমি নত করবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עם",
+      "gloss": "প্রজাকে"
+    },
+    {
+      "surface": "עני",
+      "gloss": "দীন"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "উদ্ধার করবে"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "আর চোখ"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "অহংকারী"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "নত করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:36:12.816693960Z",
+  "model": "glm-5.2"
+}

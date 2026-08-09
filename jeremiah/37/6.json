@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "এবং ইয়াহওয়েহ-এর বাক্য নবী য়িরমিয়াহুর কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨হল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িরমিয়াহুর"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "নবী"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:23:02.552414161Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর আভ্রাহাম পলিশতীয়দের ⟨দেশে⟩ অনেক দিন পরবাসী হলেন।",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "আর ⟨তিনি⟩ পরবাসী হলেন"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "⟨দেশে⟩"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "পলিশতীয়দের"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "অনেক"
+    }
+  ],
+  "timestamp": "2026-08-09T02:32:42.794238197Z",
+  "model": "glm-5.2"
+}

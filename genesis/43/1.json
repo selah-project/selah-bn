@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 43,
+  "translation": "আর ⟨া⟩দুর্ভিক্ষ দেশে ভারী ছিল।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "আর দুর্ভিক্ষ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভারী"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:54:05.527548210Z",
+  "model": "glm-5.2"
+}

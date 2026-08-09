@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "একজন মানুষের সঙ্গে বিনা কারণে বিবাদ করো না, যদি সে তোমার প্রতি মন্দ করে না থাকে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "বিবাদ করো"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "একজন মানুষ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "বিনা কারণে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "তোমার প্রতি ব্যবহার করে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "মন্দ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:30.491538279Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 45,
+  "translation": "আমার দিকে ফিরো এবং মুক্তি পাও, পৃথিবীর সমস্ত প্রান্ত; কারণ আমি এল এবং অন্য কেউ নেই।",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "ফিরো"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার দিকে"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "এবং মুক্তি পাও"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "প্রান্ত"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিবীর"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "এবং নেই"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "অন্য কেউ"
+    }
+  ],
+  "timestamp": "2026-08-09T04:39:13.918511021Z",
+  "model": "glm-5.2"
+}

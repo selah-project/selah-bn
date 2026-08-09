@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "বার্ধক্য ⟨হল⟩ গৌরবের মুকুট, ধার্মিকতার পথে তা পাওয়া যায়।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "মুকুট"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "গৌরবের"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "বার্ধক্য"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ধার্মিকতার"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "পাওয়া যায়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:53.793732676Z",
+  "model": "glm-5.2"
+}

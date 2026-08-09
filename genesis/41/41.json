@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "আর ফরৌন যোসেফকে বলল, দেখ, আমি তোমাকে ⟨את⟩ সমগ্র মিৎসরায়িম দেশের উপর নিযুক্ত করেছি।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ফরৌন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "আমি নিযুক্ত করেছি"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "তোমাকে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্র"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশের"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎসরায়িম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:41.602345154Z",
+  "model": "glm-5.2"
+}

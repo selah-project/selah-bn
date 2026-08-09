@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "“তোমাদের জন্য ⟨হ⟩জাতির মধ্য থেকে বারো ⟨জন⟩ লোক নাও — এক জন, এক জন প্রতিটি গোত্র থেকে।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "নাও"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨হ⟩জাতির"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বারো"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "⟨জন⟩ লোক"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এক জন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এক জন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "—"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "প্রতিটি গোত্র থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:34:22.954143135Z",
+  "model": "glm-5.2"
+}

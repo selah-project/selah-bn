@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আদিতে এলোহিম ⟨את⟩ আকাশমণ্ডল ও ⟨את⟩ পৃথিবী সৃষ্টি করলেন।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "আদিতে"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "সৃষ্টি করলেন"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "আকাশমণ্ডল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "পৃথিবী"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    }
+  ],
+  "timestamp": "2026-08-09T02:27:54.150760124Z",
+  "model": "glm-5.2"
+}

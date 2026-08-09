@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "প্রথম দিনে ⟨এক⟩ পবিত্র সমাবেশ; তোমরা কোনো দাসত্বমূলক কাজ করবে না।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "প্রথম"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "সমাবেশ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "כל",
+      "gloss": "কোনো"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "দাসত্বমূলক"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "তোমরা করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T17:06:33.935901388Z",
+  "model": "glm-5.2"
+}

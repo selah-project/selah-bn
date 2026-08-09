@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "তিন ⟨হল⟩ এমন যা আমার কাছে অদ্ভুত লাগে, এবং চারটি আমি জানি না।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨হল⟩"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "অদ্ভুত লাগে"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "এবং চারটি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "আমি জানি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:39.091528753Z",
+  "model": "glm-5.2"
+}

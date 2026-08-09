@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "উদ্ধত চোখ, মিথ্যার জিভ, এবং নির্দোষ রক্ত ঢালে এমন হাত,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "উদ্ধত"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "মিথ্যার"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "এবং হাত"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "ঢালে"
+    },
+    {
+      "surface": "דם",
+      "gloss": "রক্ত"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "নির্দোষ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:56.840418803Z",
+  "model": "glm-5.2"
+}

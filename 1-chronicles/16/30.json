@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "তাঁর সম্মুখ থেকে কাঁপ, ⟨হে⟩ সমস্ত পৃথিবী; হ্যাঁ, প্রতিষ্ঠিত হয় প্রপঞ্চ, টলে না।",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "কাঁপ"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "তাঁর সম্মুখ থেকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    },
+    {
+      "surface": "אף",
+      "gloss": "হ্যাঁ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "প্রতিষ্ঠিত হয়"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "প্রপঞ্চ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "টলে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:43:41.300091237Z",
+  "model": "glm-5.2"
+}

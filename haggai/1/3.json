@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তখন ইয়াহওয়েহর বাক্য হাগ্গী নবীর হস্তে হল, বলতে যে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তখন ⟨...⟩ হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হস্তে"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "হাগ্গী"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "নবীর"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:28.089530085Z",
+  "model": "glm-5.2"
+}

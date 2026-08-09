@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এগুলি শিমিয়োনীয়দের বংশসমূহ — বাইশ হাজার ও দুইশত।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "বংশসমূহ"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "শিমিয়োনীয়দের"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বাইশ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "ও দুইশত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:31.555672009Z",
+  "model": "glm-5.2"
+}

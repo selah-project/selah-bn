@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এক মন্দতা আমি দেখেছি সূর্যের তলে — এক ভুলের মতো যা ⟨সেই⟩ শাসকের সম্মুখ থেকে বেরিয়ে আসে।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "এক … আছে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "মন্দতা"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "আমি দেখেছি"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "এক ভুলের মতো"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "যা বেরিয়ে আসে"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "সম্মুখ থেকে"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "শাসকের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:16.305648981Z",
+  "model": "glm-5.2"
+}

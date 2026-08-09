@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "অপরাধ ভালোবাসে সেই বিবাদ ভালোবাসে; নিজের দরজা উঁচু করে সেই ধ্বংস খোঁজে।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ভালোবাসে"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "অপরাধ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভালোবাসে"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "উঁচু করে"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "নিজের দরজা"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "খোঁজে"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ধ্বংস"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:57.131066525Z",
+  "model": "glm-5.2"
+}

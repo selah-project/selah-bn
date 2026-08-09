@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "কীনা দশ জোড়া আঙ্গুরক্ষেতের এক বাত উৎপন্ন হবে, এবং এক হোমর বীজের এক ইফা হবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কীনা"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "জোড়া"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "আঙ্গুরক্ষেতের"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "উৎপন্ন হবে"
+    },
+    {
+      "surface": "בת",
+      "gloss": "এক বাত"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "এবং বীজ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "হোমর"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ইফা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:13:17.043088850Z",
+  "model": "glm-5.2"
+}

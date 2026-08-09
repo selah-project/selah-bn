@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তোমার একার জন্য তারা ⟨হওক⟩, এবং পরদরোহীদের জন্য ⟨নয়⟩ তোমার ⟨সঙ্গে⟩।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "তারা হওক"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "একার"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "এবং নয়"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "পরদরোহীদের জন্য"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "তোমার সঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:52.231182416Z",
+  "model": "glm-5.2"
+}

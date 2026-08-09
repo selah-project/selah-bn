@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "কারণ অনেক নিহত ⟨সেটিকে⟩ তিনি পতিত করেছেন, এবং প্রবল ⟨সকলে⟩ তার সব নিহত।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "নিহত"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "তিনি পতিত করেছেন"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "এবং প্রবল সকলে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "তার নিহত"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:25.847133245Z",
+  "model": "glm-5.2"
+}

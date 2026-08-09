@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর বেলার পুত্র রইল আদ্দার, গেরা আর আবিহূদ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আর রইল"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "বেলার"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "আদ্দার"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "আর গেরা"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "আর আবিহূদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:19.733740284Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "বা এমন ব্যক্তি যার মধ্যে পায়ের ভাঙন থাকবে, বা হাতের ভাঙন।",
+  "tokens": [
+    {
+      "surface": "א֣וֹ",
+      "gloss": "বা"
+    },
+    {
+      "surface": "אִ֔ישׁ",
+      "gloss": "ব্যক্তি"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "ב֖וֹ",
+      "gloss": "যার মধ্যে"
+    },
+    {
+      "surface": "שֶׁ֣בֶר",
+      "gloss": "ভাঙন"
+    },
+    {
+      "surface": "רָ֑גֶל",
+      "gloss": "পায়ের"
+    },
+    {
+      "surface": "א֖וֹ",
+      "gloss": "বা"
+    },
+    {
+      "surface": "שֶׁ֥בֶר",
+      "gloss": "ভাঙন"
+    },
+    {
+      "surface": "יָֽד",
+      "gloss": "হাতের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:05:47.088224764Z",
+  "model": "glm-5.2"
+}

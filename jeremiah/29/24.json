@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "এবং শেমায়াহু হানেহেলামিকে তুমি বলবে, বলে —",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "এবং ... কে"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "শেমায়াহু"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "হানেহেলামি"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "তুমি বলবে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:39:36.764947534Z",
+  "model": "glm-5.2"
+}

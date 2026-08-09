@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "⟨তিনিই⟩ ⟨এল⟩ পৃথিবীর তলে বৃষ্টি দেন, এবং মাঠের তলে জল পাঠান।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "⟨তিনিই⟩ দেন"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "বৃষ্টি"
+    },
+    {
+      "surface": "על",
+      "gloss": "তলে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨…এর⟩ তলে"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "পৃথিবী"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "এবং পাঠান"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "על",
+      "gloss": "তলে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨…এর⟩ তলে"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "মাঠ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:49.910720944Z",
+  "model": "glm-5.2"
+}

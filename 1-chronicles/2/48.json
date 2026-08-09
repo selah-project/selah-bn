@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কালেবের উপপত্নী মাআখা জন্ম দিল ⟨את⟩ শেবর এবং ⟨את⟩ তিরহানাকে।",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "উপপত্নী"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "কালেবের"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "মাআখা"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "শেবর"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "তিরহানা"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "তিরহানাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:54.163462506Z",
+  "model": "glm-5.2"
+}

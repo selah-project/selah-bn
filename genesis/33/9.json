@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর এসভ বলল, “আমার ⟨আছে⟩ প্রচুর, আমার ভাই; তোমার যা আছে তা তোমারই থাক।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসভ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার"
+    },
+    {
+      "surface": "רב",
+      "gloss": "প্রচুর"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "আমার ভাই"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "থাক"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমারই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:46.872903403Z",
+  "model": "glm-5.2"
+}

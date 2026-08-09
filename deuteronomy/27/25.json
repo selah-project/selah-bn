@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "“অভিশপ্ত ⟨⟨সে⟩⟩ যে ঘুষ নেয় নির্দোষ রক্তের প্রাণ হত্যা করার জন্য।” আর সমস্ত জাতি বলবে: “আমেন।”",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "যে নেয়"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ঘুষ"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "হত্যা করার জন্য"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্রাণ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "রক্ত"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "নির্দোষ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আর বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:51.892308890Z",
+  "model": "glm-5.2"
+}

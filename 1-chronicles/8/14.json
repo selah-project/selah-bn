@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং আহিয়ো, শাশক, এবং য়েরেমোত।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "এবং আহিয়ো"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "শাশক"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "এবং য়েরেমোত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:24.260076708Z",
+  "model": "glm-5.2"
+}

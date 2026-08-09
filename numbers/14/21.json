@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "কিন্তু আমি জীবন্ত, এবং ইয়াহওয়েহ-র গৌরবে ⟨את⟩ সমস্ত পৃথিবী ভরে যাবে —",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীবন্ত"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "এবং ভরে যাবে"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "গৌরব"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-র"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত পৃথিবী"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    }
+  ],
+  "timestamp": "2026-08-09T03:13:15.876670173Z",
+  "model": "glm-5.2"
+}

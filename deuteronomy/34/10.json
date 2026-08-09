@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "আর ইস্রায়েলে আর কোনো নবী উঠলেন না মোশের মতো, যাঁকে ইয়াহওয়েহ মুখোমুখি জানতেন —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আর … না"
+    },
+    {
+      "surface": "קם",
+      "gloss": "উঠলেন"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "নবী"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ইস্রায়েলে"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "মোশের মতো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাঁকে"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "জানতেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:59.795633117Z",
+  "model": "glm-5.2"
+}

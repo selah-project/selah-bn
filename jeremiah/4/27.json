@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "কারণ এইভাবে ইয়াহওয়েহ বলেছেন: উপসর্গহীন ⟨হবে⟩ সমস্ত দেশ, এবং একটি সমাপ্তি আমি করব না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইভাবে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "উপসর্গহীন"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "⟨হবে⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "এবং একটি সমাপ্তি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "আমি করব"
+    }
+  ],
+  "timestamp": "2026-08-09T14:14:47.952324076Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "“আমরা সকলে এক মানুষের পুত্র; আমরা সৎ লোক — আপনার দাসরা গুপ্তচর নয়।”",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "আমরা সকলে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "איש",
+      "gloss": "এক মানুষের"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "আমরা"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "সৎ লোক"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমরা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨নয়⟩"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "আপনার দাসরা"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "গুপ্তচর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:24.378536740Z",
+  "model": "glm-5.2"
+}

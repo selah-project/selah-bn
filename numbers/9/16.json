@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তেমনই ⟨তা⟩ সর্বদা থাকত — ⟨দিনে⟩ মেঘ ⟨তাকে⟩ আচ্ছাদন করত এবং রাতে আগুনের দর্শন।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "তেমনই"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকত"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সর্বদা"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "মেঘ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "আচ্ছাদন করত"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "এবং দর্শন"
+    },
+    {
+      "surface": "אש",
+      "gloss": "আগুনের"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "রাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:59:19.487727953Z",
+  "model": "glm-5.2"
+}

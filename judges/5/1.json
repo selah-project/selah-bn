@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তখন দেবোরা ও বারাক, আবিনোয়ামের পুত্র, সেই দিনে গাইল, বলতে গিয়ে:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "তখন গাইল"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "দেবোরা"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "ও বারাক"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "আবিনোয়ামের"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে গিয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:42:58.991609823Z",
+  "model": "glm-5.2"
+}

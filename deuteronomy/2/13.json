@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এখন উঠো এবং তোমাদের জন্য ⟨את⟩ জারেদ নদী পার হও। আর ⟨আমরা⟩ ⟨את⟩ জারেদ নদী পার হলাম।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "উঠো"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "এবং পার হও"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জারেদ নদী"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "জারেদ"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "এবং আমরা পার হলাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "জারেদ নদী"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "নদী"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "জারেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:44.045513888Z",
+  "model": "glm-5.2"
+}

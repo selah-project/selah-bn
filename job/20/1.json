@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "তখন সোফর নামাতীয় ⟨জবাব দিল⟩ ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন জবাব দিল"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "সোফর"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "নামাতীয়"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:09:50.807868532Z",
+  "model": "glm-5.2"
+}

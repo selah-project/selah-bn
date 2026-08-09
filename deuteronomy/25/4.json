@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "তুমি তার শস্য মাড়াইয়ের সময় ষাঁড়ের মুখ বাঁধবে না।",
+  "tokens": [
+    {
+      "surface": "לֹא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תַחְסֹ֥ם",
+      "gloss": "তুমি মুখ বাঁধবে"
+    },
+    {
+      "surface": "שׁ֖וֹר",
+      "gloss": "ষাঁড়ের"
+    },
+    {
+      "surface": "בְּדִישֽׁוֹ",
+      "gloss": "তার শস্য মাড়াইয়ে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:45.560568206Z",
+  "model": "glm-5.2"
+}

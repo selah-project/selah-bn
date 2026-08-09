@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ও শামা ⟨את⟩ রহম-কে জন্ম দিল — য়োর্কেয়ামের পিতা; ও রেকেম ⟨את⟩ শাম্মাই-কে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "ও শামা"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রহম-কে"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "রহম"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "য়োর্কেয়াম"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ও রেকেম"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শাম্মাই-কে"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "শাম্মাই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:16.707787727Z",
+  "model": "glm-5.2"
+}

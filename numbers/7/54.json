@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "অষ্টম দিনে ⟨এগিয়ে এলেন⟩ মনশে-পুত্রদের নাসি, পেদাহ-ৎসুর-পুত্র গমলিয়েল।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "অষ্টম"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "নাসি"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশে"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "গমলিয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "পেদাহ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ৎসুর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:23.929254053Z",
+  "model": "glm-5.2"
+}

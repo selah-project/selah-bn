@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "বৃদ্ধরা ⟨ফটক⟩ থেকে বিরত হল, যুবকেরা তাদের সঙ্গীত থেকে।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "বৃদ্ধরা"
+    },
+    {
+      "surface": "משער",
+      "gloss": "⟨ফটক⟩ থেকে"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "বিরত হল"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "যুবকেরা"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "তাদের সঙ্গীত থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:02.287039048Z",
+  "model": "glm-5.2"
+}

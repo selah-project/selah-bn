@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "হারিমের পুত্রেরা: এক হাজার সতেরো।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "হারিম"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "এবং সাত"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:36.084710423Z",
+  "model": "glm-5.2"
+}

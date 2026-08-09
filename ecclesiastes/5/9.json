@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "রূপ ভালোবাসে ⟨সে⟩ রূপে পরিতৃপ্ত হয় না, এবং কে সমৃদ্ধি ভালোবাসে? ⟨সে⟩ আয়ে পরিতৃপ্ত হয় না। এটিও হেবেল।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ভালোবাসে"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রূপ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "পরিতৃপ্ত হয়"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রূপে"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "এবং কে"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভালোবাসে"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "সমৃদ্ধি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "আয়ে পরিতৃপ্ত হয়"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এটিও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:49.483781435Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "এবং ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "וַיְהִ֥י",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "דְבַר",
+      "gloss": "...এর বাক্য"
+    },
+    {
+      "surface": "יְהוָ֖ה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אֵלַ֥י",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לֵאמֹֽר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:30:12.805631375Z",
+  "model": "glm-5.2"
+}

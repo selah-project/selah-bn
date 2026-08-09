@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর দাভিদ সেই দুর্গে বাস করতে লাগল; সেইজন্য ⟨তারা⟩ তাকে ডাকত দাভিদের নগর।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "আর বাস করতে লাগল"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "দুর্গে"
+    },
+    {
+      "surface": "על",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "জন্য"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ডাকত"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:16.813956902Z",
+  "model": "glm-5.2"
+}

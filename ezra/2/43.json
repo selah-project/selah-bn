@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezra 2:43",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "নেতিনীয়রা: সিহার বংশধর, হাসূফার বংশধর, তব্বোতের বংশধর।",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "নেতিনীয়রা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "ציחא",
+      "gloss": "সিহা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "חשופא",
+      "gloss": "হাসূফা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "তব্বোত"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:16.416773812Z",
+  "model": "glm-5.2"
+}

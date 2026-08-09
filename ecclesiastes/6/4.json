@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "কারণ সে হেবেলে এসেছে, আর অন্ধকারে চলে যাবে, আর অন্ধকারে তার নাম ঢাকা পড়বে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "হেবেলে"
+    },
+    {
+      "surface": "בא",
+      "gloss": "এসেছে"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "আর অন্ধকারে"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "চলে যাবে"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "আর অন্ধকারে"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তার নাম"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ঢাকা পড়বে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:54.780288168Z",
+  "model": "glm-5.2"
+}

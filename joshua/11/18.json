@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "অনেক দিন ধরে যিহোশূয় ⟨את⟩ এই সমস্ত রাজাদের সাথে যুদ্ধ করলেন।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করলেন"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "যিহোশূয়"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই সমস্ত রাজাদের"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "রাজাদের"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:37:35.883368660Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "তখন ইয়াহওয়েহ-এর বাক্য য়েহু বিন হানানির কাছে বাআশার বিরুদ্ধে এল, বলে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তখন ⟨হল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "য়েহু"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বিন"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "হানানি"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিরুদ্ধে"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "বাআশা"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:15:28.495994640Z",
+  "model": "glm-5.2"
+}

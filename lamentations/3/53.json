@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তারা আমার জীবন গর্তে বিচ্ছিন্ন করেছিল, এবং আমার উপর পাথর নিক্ষেপ করেছিল।",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "বিচ্ছিন্ন করেছিল"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "গর্তে"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "আমার জীবন"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "এবং নিক্ষেপ করেছিল"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "পাথর"
+    },
+    {
+      "surface": "בי",
+      "gloss": "আমার উপর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:06.248410131Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "মখনাদবয়, শাশয়, শারয়।",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "মখনাদবয়"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "শাশয়"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "শারয়"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:22.773752534Z",
+  "model": "glm-5.2"
+}

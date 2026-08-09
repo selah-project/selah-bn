@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর য়েরয়াখমেলের ⟨জন্য⟩ আর এক স্ত্রী ⟨ছিল⟩, এবং তার নাম আতারা; সে ওনামের মা।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "আর ছিল"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "স্ত্রী"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "আর এক"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "য়েরয়াখমেলের ⟨জন্য⟩"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "এবং তার নাম"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "আতারা"
+    },
+    {
+      "surface": "היא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মা"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ওনামের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:55.059379364Z",
+  "model": "glm-5.2"
+}

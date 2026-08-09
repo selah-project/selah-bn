@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "হে পৃথিবী, হে পৃথিবী, হে পৃথিবী, শোন ⟨তুই⟩ ইয়াহওয়েহর বাক্য!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "হে পৃথিবী"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "হে পৃথিবী"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "হে পৃথিবী"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "শোন"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:50:21.236380418Z",
+  "model": "glm-5.2"
+}

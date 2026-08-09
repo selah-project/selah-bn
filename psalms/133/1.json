@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 133,
+  "translation": "আরোহণ-গীত, দাভিদের। দেখ, কত ভাল ও কত মনোরম — ভাইদের একসঙ্গে বসবাস!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "আরোহণ-গীত"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কত"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ও কত"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "মনোরম"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "বসবাস"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ভাইদের"
+    },
+    {
+      "surface": "גם",
+      "gloss": "একসঙ্গে"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "একত্রে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:20:20.195397945Z",
+  "model": "glm-5.2"
+}

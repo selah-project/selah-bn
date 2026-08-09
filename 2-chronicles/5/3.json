@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তখন ইস্রায়েলের সমস্ত ⟨পুরুষ⟩ উৎসবে রাজার কাছে একত্রিত হল — ⟨সেটিই⟩ ⟨হল⟩ সেই সপ্তম ⟨মাস⟩।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "একত্রিত হল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "র কাছে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨পুরুষ⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "উৎসবে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সেটিই⟩"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "⟨মাস⟩"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "সপ্তম"
+    }
+  ],
+  "timestamp": "2026-08-09T09:27:11.139399951Z",
+  "model": "glm-5.2"
+}

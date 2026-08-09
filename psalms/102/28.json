@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 102,
+  "translation": "“কিন্তু তুমিই সেই, এবং তোমার বছর শেষ হবে না।”",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "কিন্তু তুমি"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "তোমার বছর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "শেষ হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:02.166643872Z",
+  "model": "glm-5.2"
+}

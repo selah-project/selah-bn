@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "ভাগ অনুযায়ী ভাগ তারা খাবে, তার বিক্রয়ের উপর পিতৃগণের ⟨কাছ থেকে আসা⟩ ব্যতীত।",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ভাগ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "অনুযায়ী ভাগ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "তারা খাবে"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ব্যতীত"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "তার বিক্রয়ের"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "পিতৃগণের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:50.784148787Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর যোসেফ ⟨את⟩ তার ভাইদের চিনল, আর তারা তাঁকে চিনল না।",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "আর … চিনল"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার ভাইদের"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তার ভাইদের"
+    },
+    {
+      "surface": "והם",
+      "gloss": "আর তারা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "তাঁকে চিনল"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:38.922980868Z",
+  "model": "glm-5.2"
+}

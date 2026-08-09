@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 28:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "মানুষকে তিরস্কার ⟨ব্যক্তি⟩ পরে ⟨অনুগ্রহ⟩ পায়, মসৃণ জিভের চেয়ে।",
+  "tokens": [
+    {
+      "surface": "מוכיח",
+      "gloss": "তিরস্কার"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষকে"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্রহ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "পায়"
+    },
+    {
+      "surface": "ממחליק",
+      "gloss": "মসৃণ করে বলের"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:52.274823311Z",
+  "model": "glm-5.2"
+}

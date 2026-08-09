@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "তখন এলিফষ হতৈমনিৎ উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন উত্তর দিল"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফষ"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "হতৈমনিৎ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:10:28.613039259Z",
+  "model": "glm-5.2"
+}

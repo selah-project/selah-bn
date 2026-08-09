@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "খেৎসরোন — হাখেৎসরোনীয় গোত্র; কর্মি — হাকর্মীয় গোত্র।",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "খেৎসরোন"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "হাখেৎসরোনীয়"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "কর্মি"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "হাকর্মীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:17:13.548858739Z",
+  "model": "glm-5.2"
+}

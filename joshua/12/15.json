@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "লিবনার রাজা — একজন; আদুল্লামের রাজা — একজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "লিবনা"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "আদুল্লাম"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.231370296Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "খশুম-এর পুত্ররা — দুইশত বিশ তিনজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "খশুম"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "এবং তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:49.294281240Z",
+  "model": "glm-5.2"
+}

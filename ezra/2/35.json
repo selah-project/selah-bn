@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "সেনাহ-র পুত্রেরা, তিন হাজার ছয়শত ত্রিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "সেনাহ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ও ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ও ত্রিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:20.738491784Z",
+  "model": "glm-5.2"
+}

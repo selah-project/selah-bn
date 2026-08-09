@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "একটি সমমিত — হাতে ধরা যায়, অথচ সে ⟨বাস করে⟩ রাজার প্রাসাদে।",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "একটি সমমিত"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "ধরা যায়"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "অথচ সে"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "প্রাসাদে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:10.923185057Z",
+  "model": "glm-5.2"
+}

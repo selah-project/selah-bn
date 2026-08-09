@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "যাও ⟨তুমি⟩ পিপড়ের কাছে, হে আলস্যবাবু; দেখ ⟨তুমি⟩ তার পথগুলো এবং ⟨তুমি⟩ জ্ঞানী হও।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "যাও"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "পিপড়ের"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "হে আলস্যবাবু"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "তার পথগুলো"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "এবং জ্ঞানী হও"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:09.407542552Z",
+  "model": "glm-5.2"
+}

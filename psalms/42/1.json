@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "সংগীতপতির জন্য; বিবেচনামূলক, কোরহের পুত্রদের ⟨জন্য⟩।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সংগীতপতির জন্য"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "বিবেচনামূলক"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্রদের"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:22.477860272Z",
+  "model": "glm-5.2"
+}

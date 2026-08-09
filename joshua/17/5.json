@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "এবং মনষ্যের দশটি অংশ পড়ল, গিলআদ ও বাশান দেশের বাইরে, যা যর্দনের ওপারে।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "এবং পড়ল"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "অংশ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনষ্যের"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "দেশের"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "গিলআদ"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "এবং বাশান"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ওপারে"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "যর্দনের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:13.396235503Z",
+  "model": "glm-5.2"
+}

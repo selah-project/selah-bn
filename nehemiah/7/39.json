@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "⟨নির্বাসিতরা⟩ যাজকেরা: যিদায়ার পুত্র, যিশূয়ের বংশের — ন'শ তিয়াত্তর।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "যাজকেরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "যিদায়া"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "বংশের"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "যিশূয়"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "সত্তর"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "এবং তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:34.838536302Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আমি আমার শয্যা সুগন্ধিত করেছি — গন্ধরস, আগরু কাঠ ও দারুচিনি।",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "আমি সুগন্ধিত করেছি"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "আমার শয্যা"
+    },
+    {
+      "surface": "מר",
+      "gloss": "গন্ধরস"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "আগরু কাঠ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ও দারুচিনি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:10.538890491Z",
+  "model": "glm-5.2"
+}

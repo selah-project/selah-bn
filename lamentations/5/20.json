@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "কেন চিরকাল তুমি আমাদের ভুলে যাও, ⟨কেন⟩ আমাদের দীর্ঘ দিনব্যাপী পরিত্যাগ করো?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিরকাল"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "তুমি ভুলে যাও"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "তুমি পরিত্যাগ করো"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "দীর্ঘ ব্যাপী"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:34.945535493Z",
+  "model": "glm-5.2"
+}

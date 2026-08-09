@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "আর পূর্ব দিকে, সূর্যোদয়ের দিকে, পঞ্চাশ হাত ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "আর দিকে"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "পূর্ব দিকে"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "সূর্যোদয়ের দিকে"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "হাত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:57:08.133824744Z",
+  "model": "glm-5.2"
+}

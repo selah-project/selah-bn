@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কারণ ইয়াহওয়েহ জ্ঞান দেন; তাঁর মুখ থেকে ⟨আসে⟩ জ্ঞান ও বোধ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দেন"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "তাঁর মুখ থেকে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ও বোধ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:45.088474992Z",
+  "model": "glm-5.2"
+}

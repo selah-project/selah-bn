@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 108,
+  "translation": "কে আমাকে দুর্গ নগরে নিয়ে যাবে? কে আমাকে এদোম পর্যন্ত পথ দেখাবে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "আমাকে নিয়ে যাবে"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "দুর্গ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "আমাকে পথ দেখাবে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-08-09T05:50:23.570368683Z",
+  "model": "glm-5.2"
+}

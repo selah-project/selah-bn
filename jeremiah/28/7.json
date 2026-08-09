@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "তবু এখন তুমি এই কথাটি শোনো যা আমি তোমার কানে এবং সমস্ত লোকের কানে বলছ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "তবু"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "এই কথাটি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বলছ"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "তোমার কানে"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "এবং কানে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:54:57.230034946Z",
+  "model": "glm-5.2"
+}

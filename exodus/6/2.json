@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর এলোহিম মোশের সঙ্গে কথা বললেন এবং তাঁকে বললেন, আমিই ইয়াহওয়েহ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমিই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:32.534517329Z",
+  "model": "glm-5.2"
+}

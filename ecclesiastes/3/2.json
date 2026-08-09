@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "জন্ম নেওয়ার সময়, আর মৃত্যুর সময়; রোপণের সময়, আর রোপিতকে উপড়ে ফেলার সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "জন্ম নেওয়ার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মৃত্যুর"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "রোপণের"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "উপড়ে ফেলার"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "রোপিতকে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:04.380627040Z",
+  "model": "glm-5.2"
+}

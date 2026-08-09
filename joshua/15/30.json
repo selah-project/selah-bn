@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "এলতোলাদ, কসিল, এবং হোরমা।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "এলতোলাদ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "এবং কসিল"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "এবং হোরমা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:13.264460428Z",
+  "model": "glm-5.2"
+}

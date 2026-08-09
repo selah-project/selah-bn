@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আর আমি তাদের চোখের সামনে ⟨את⟩ বারুককে আদেশ দিলাম, বলতে:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "আর আমি আদেশ দিলাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বারুককে"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "বারুক"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "তাদের চোখের সামনে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:55:24.419583973Z",
+  "model": "glm-5.2"
+}

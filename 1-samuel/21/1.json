@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "তিনি উঠলেন ও চলে গেলেন; আর য়েহোনাতান ⟨নগরে⟩ গেল।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "উঠলেন"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ও চলে গেলেন"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "আর য়েহোনাতান"
+    },
+    {
+      "surface": "בא",
+      "gloss": "গেল"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨নগরে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T03:57:04.478201414Z",
+  "model": "glm-5.2"
+}

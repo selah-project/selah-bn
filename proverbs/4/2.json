@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "কারণ ⟨আমি⟩ তোমাদের ⟨এক⟩ উত্তম উপদেশ দিয়েছি; আমার শিক্ষা ত্যাগ কোরো না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "উপদেশ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "দিয়েছি"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "আমার শিক্ষা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ত্যাগ কোরো"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:39.418241797Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "অন্বেষণ করার সময়, এবং বিনষ্ট করার সময়; রক্ষা করার সময়, এবং ছুঁড়ে ফেলার সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "অন্বেষণ করার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "বিনষ্ট করার"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "রক্ষা করার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "এবং সময়"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ছুঁড়ে ফেলার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:47.636378466Z",
+  "model": "glm-5.2"
+}

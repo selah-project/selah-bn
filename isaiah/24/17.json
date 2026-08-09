@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "ভয় ও গর্ত ও ফাঁদ ⟨তোমার⟩ উপর, হে পৃথিবীর বাসিন্দা!",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ভয়"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ও গর্ত"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "ও ফাঁদ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "তোমার উপর"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "বাসিন্দা"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:33:25.058032610Z",
+  "model": "glm-5.2"
+}

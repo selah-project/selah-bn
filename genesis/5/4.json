@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আদমের দিনগুলি ⟨את⟩ শেতকে জন্ম দেওয়ার পর আটশ বছর হলো, এবং ⟨সে⟩ পুত্র ও কন্যাদের জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "হলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনগুলি"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "আদমের"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পর"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "জন্ম দেওয়ার"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শেতকে"
+    },
+    {
+      "surface": "שת",
+      "gloss": "শেত"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিল"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ও কন্যাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T16:38:59.008830990Z",
+  "model": "glm-5.2"
+}

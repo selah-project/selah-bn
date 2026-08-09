@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আমাদের এক ছোট বোন আছে, আর তার ⟨কোনো⟩ স্তন নেই; আমরা আমাদের বোনের জন্য কী করব, যে দিন তার প্রসঙ্গে কথা বলা হবে?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "বোন"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাদের"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ছোট"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "আর স্তন"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তার"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "করব"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "আমাদের বোনের জন্য"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "যে দিন"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "কথা বলা হবে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তার প্রসঙ্গে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:54.521776023Z",
+  "model": "glm-5.2"
+}

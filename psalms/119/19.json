@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 119,
+  "translation": "বিদেশী আমি ⟨এই⟩ পৃথিবীতে; আমার কাছ থেকে তোমার মিটসভোত লুকিও না।",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "বিদেশী"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিবীতে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "লুকিও"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "আমার কাছ থেকে"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "তোমার মিটসভোত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:15.034012490Z",
+  "model": "glm-5.2"
+}

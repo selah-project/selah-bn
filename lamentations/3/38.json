@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এলিয়োন-এর মুখ থেকে কি মন্দ ⟨জিনিসগুলো⟩ এবং ভাল ⟨জিনিসটি⟩ বের হয় না?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "মুখ থেকে"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "এলিয়োন-এর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "বের হয়"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "মন্দ ⟨জিনিসগুলো⟩"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "এবং ভাল ⟨জিনিসটি⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:36.417407735Z",
+  "model": "glm-5.2"
+}

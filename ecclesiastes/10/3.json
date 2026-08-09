@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর যখন ⟨মূর্খ⟩ পথে চলে, তখনও ⟨তার⟩ হৃদয় বঞ্চিত ⟨থাকে⟩, এবং সে সকলকে বলে দেয় যে সে ⟨একজন⟩ মূর্খ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "আর যখনও"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "মূর্খ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "চলে"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "তার হৃদয়"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "বঞ্চিত"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "এবং সে বলে দেয়"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সকলকে"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "মূর্খ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:24.730721291Z",
+  "model": "glm-5.2"
+}

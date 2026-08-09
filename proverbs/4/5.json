@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "জ্ঞান অর্জন কর, বোধ অর্জন কর; ভুলিও না, আর আমার মুখের কথাসমূহ থেকে বিচ্যুত হয়ো না।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "অর্জন কর"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "অর্জন কর"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ভুলিও"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תט",
+      "gloss": "বিচ্যুত হয়ো"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "থেকে কথাসমূহ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "আমার মুখের"
+    }
+  ],
+  "timestamp": "2026-08-09T14:25:44.437565580Z",
+  "model": "glm-5.2"
+}

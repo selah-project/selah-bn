@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-kings 18:19",
+  "book": "2-kings",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "“তোমরা যিজকিয়িহুকে বলো, ‘এইভাবে বলেছেন ⟨הַ⟩ মহান রাজা, অশূরের রাজা: ⟨এই⟩ ভরসা কী, যাতে তুমি ভরসা করছ?’””",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের প্রতি"
+    },
+    {
+      "surface": "רב",
+      "gloss": "রব"
+    },
+    {
+      "surface": "שקה",
+      "gloss": "শাকেহ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "বলো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "যিজকিয়িহু"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এইভাবে"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨the⟩ রাজা"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "⟨the⟩ মহান"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "অশূরের"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "הבטחון",
+      "gloss": "⟨the⟩ ভরসা"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨this⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which⟩"
+    },
+    {
+      "surface": "בטחת",
+      "gloss": "তুমি ভরসা করছ"
+    }
+  ],
+  "timestamp": "2026-08-09T16:42:08.241595728Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর মোশে ইসরায়েল-সন্তানদের বললেন ⟨את⟩ পেসহ পালন করতে।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানদের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইসরায়েল"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "পালন করতে"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨আর⟩ পেসহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:21.650102877Z",
+  "model": "glm-5.2"
+}

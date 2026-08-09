@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "হাঁ কি নয়, জ্ঞান ডাকছে, আর বুদ্ধি তার কণ্ঠস্বর ⟨দিচ্ছে⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "হাঁ কি নয়"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ডাকছে"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "আর বুদ্ধি"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "⟨দিচ্ছে⟩"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "তার কণ্ঠস্বর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:38.779198785Z",
+  "model": "glm-5.2"
+}

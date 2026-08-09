@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 17:9",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "ইয়াহওয়েহ মোশেকে সম্বোধন করে বললেন:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং-সম্বোধন-করলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:15:12.468358708Z",
+  "model": "glm-5.2"
+}

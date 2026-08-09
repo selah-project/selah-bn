@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "বাঁকা জিনিস ⟨এটি⟩ সোজা করা যায় না, আর অভাব ⟨এটি⟩ গণনা করা যায় না।",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "বাঁকা জিনিস"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "সোজা করা"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "আর অভাব"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "যায়"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "গণনা করা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:31.197864302Z",
+  "model": "glm-5.2"
+}

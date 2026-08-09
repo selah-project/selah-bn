@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর দাভিদ মরুভূমিতে শুনলেন যে নাবল ⟨তার⟩ পাল কামড়াচ্ছে।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "আর শুনলেন"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মরুভূমিতে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "কামড়াচ্ছে"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "নাবল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার পাল"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "তার পাল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:57:41.636814690Z",
+  "model": "glm-5.2"
+}

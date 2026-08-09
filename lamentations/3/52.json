@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "শিকার করে আমার শত্রুরা বিনা কারণে আমাকে ধরেছে, পাখির মতো।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "শিকার করে"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "আমাকে ধরেছে"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "পাখির মতো"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "আমার শত্রুরা"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "বিনা কারণে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:00.259234414Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "শকেম-মিনারের সব অধিপতি শুনল, এবং বেরিত গৃহের দুর্গে প্রবেশ করল।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "এবং শুনল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "মিনার"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "শকেম"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "এবং প্রবেশ করল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এতে"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "দুর্গ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "বেরিত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:44:23.951656882Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "আর তাঁর মাথার চুল কামানোর পর আবার বাড়তে শুরু করল।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "আর শুরু হল"
+    },
+    {
+      "surface": "שער",
+      "gloss": "চুল"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "তাঁর মাথার"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "বাড়তে"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "কামানো হল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:47:10.669526656Z",
+  "model": "glm-5.2"
+}

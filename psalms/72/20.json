@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 72,
+  "translation": "সমাপ্ত ⟨হল⟩ দাভিদের, যিশয়ের পুত্রের, প্রার্থনাসমূহ।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "সমাপ্ত"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "প্রার্থনাসমূহ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "যিশয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:42:13.385333112Z",
+  "model": "glm-5.2"
+}

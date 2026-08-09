@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং সেয়িরের পুত্ররা: লোতন, শোবল, ত্সিবঅন, অনা, দিশোন, এৎসার ও দিশান।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্ররা"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "সেয়িরের"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "লোতন"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "শোবল"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "ত্সিবঅন"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "অনা"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "দিশোন"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "এৎসার"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "দিশান"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:11.890218677Z",
+  "model": "glm-5.2"
+}

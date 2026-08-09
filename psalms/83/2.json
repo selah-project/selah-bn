@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 83,
+  "translation": "হে এলোহিম, ⟨তোমার জন্য⟩ নীরবতা না হোক, চুপ থেকো না এবং শান্ত হয়ো না, হে এল!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "হে এলোহিম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "নীরবতা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨তোমার জন্য⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "চুপ থেকো"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "শান্ত হয়ো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "হে এল"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:15.509455979Z",
+  "model": "glm-5.2"
+}

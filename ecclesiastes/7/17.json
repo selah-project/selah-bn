@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "অতিশয় দুষ্ট হয়ো না এবং মূর্খ হয়ো না; কেন তুমি তোমার সময়ের আগেই মরবে?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "দুষ্ট হয়ো"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "অতিশয়"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হয়ো"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "মূর্খ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "তুমি মরবে"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ছাড়া"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "তোমার সময়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:11.483488651Z",
+  "model": "glm-5.2"
+}

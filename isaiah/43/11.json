@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 43,
+  "translation": "আমিই, আমিই ইয়াহওয়েহ, আর আমার বাইরে কোনো মোশিয়া নেই।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "আমিই"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমিই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "আর নেই"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "আমার বাইরে"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "মোশিয়া"
+    }
+  ],
+  "timestamp": "2026-08-09T08:19:06.063369885Z",
+  "model": "glm-5.2"
+}

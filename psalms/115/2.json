@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 115,
+  "translation": "কেন ⟨তারা বলে⟩ জাতিসমূহ, “কোথায় এখন তাদের এলোহিম?”",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "তারা বলে"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতিসমূহ"
+    },
+    {
+      "surface": "איה",
+      "gloss": "কোথায়"
+    },
+    {
+      "surface": "נא",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "তাদের এলোহিম"
+    }
+  ],
+  "timestamp": "2026-08-09T09:19:28.966111475Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "আর আভিমেলেখ আভ্রাহামকে বলল, “তুমি কী দেখলে, যে তুমি ⟨את⟩ এই কাজটি করলে?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর ⟨...⟩ বলল"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আভিমেলেখ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨...⟩-কে"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "তুমি দেখলে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "তুমি করলে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কাজটি"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাজটি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:06.217603075Z",
+  "model": "glm-5.2"
+}

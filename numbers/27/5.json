@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "তখন মোশে ⟨את⟩ তাঁদের মামলা ইয়াহওয়েহের সামনে পেশ করলেন।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "তখন পেশ করলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাঁদের মামলা"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "তাঁদের মামলা"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:26.116199804Z",
+  "model": "glm-5.2"
+}

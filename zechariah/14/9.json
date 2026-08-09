@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং হবে — ইয়াহওয়েহ সমগ্র পৃথিবীর উপর রাজা হবেন; সেই দিনে ইয়াহওয়েহ এক হবেন এবং তাঁর নাম এক হবে।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "এবং হবে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "রাজা হিসেবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্র"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবীর"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "এবং তাঁর নাম"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:29:47.420094625Z",
+  "model": "glm-5.2"
+}

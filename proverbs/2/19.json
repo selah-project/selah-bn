@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 2:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তার কাছে আসা সকলেই ফিরে আসে না, এবং তারা জীবনের পথগুলোকে ধরবে না —",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সকলেই"
+    },
+    {
+      "surface": "באיה",
+      "gloss": "তার কাছে আসা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישובון",
+      "gloss": "ফিরে আসে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "ধরবে"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথগুলোকে"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "জীবনের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:46.361690546Z",
+  "model": "glm-5.2"
+}

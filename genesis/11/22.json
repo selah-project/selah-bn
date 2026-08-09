@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং সেরুগ বেঁচে রইল তিরিশ বছর, এবং ⟨את⟩ নাহোরকে জন্ম দিল।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং বেঁচে রইল"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "সেরুগ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "তিরিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাহোরকে"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "নাহোর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:16.791496841Z",
+  "model": "glm-5.2"
+}

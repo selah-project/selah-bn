@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর আবিমেলখ বললেন, আমি জানি না কে ⟨את⟩ এই কাজটি করেছে, এমনকি তুমিও আমাকে জানাওনি, এবং আমিও শুনিনি — আজ ছাড়া।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আবিমেলখ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "আমি জানি"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করেছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই কাজটি"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "জানাওনি"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "শুনিনি"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ছাড়া"
+    },
+    {
+      "surface": "היום",
+      "gloss": "আজ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:32:57.085615918Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "অধিপতি কেনায, অধিপতি তেমান, অধিপতি মিবৎসার।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "কেনায"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "তেমান"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অধিপতি"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "মিবৎসার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:47.789379039Z",
+  "model": "glm-5.2"
+}

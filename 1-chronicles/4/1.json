@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "যিহূদার পুত্রেরা ⟨ছিল⟩ পেরেৎ, হৎরোন, কর্মি, হূর ও শোবল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদার"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "পেরেৎ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "হৎরোন"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ও কর্মি"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "হূর"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ও শোবল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:24.227949859Z",
+  "model": "glm-5.2"
+}

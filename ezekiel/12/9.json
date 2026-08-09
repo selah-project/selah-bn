@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "মানুষের পুত্র, ⟨কি না⟩ ইস্রায়েলের গৃহ, বিদ্রোহের গৃহ, তোমার কাছে বলেনি — তুমি কী করছ?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "⟨কি না⟩"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "বলেনি"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমার কাছে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "বিদ্রোহের"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করছ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:28:52.474170895Z",
+  "model": "glm-5.2"
+}

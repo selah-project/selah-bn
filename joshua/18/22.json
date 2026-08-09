@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "বেইত-হা-আরাবা, তেমারয়িম, বেইত-এল,",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "হা-আরাবা"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "তেমারয়িম"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "বেইত"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:49.604857580Z",
+  "model": "glm-5.2"
+}

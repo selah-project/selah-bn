@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং ইয়াহওয়েহের ⟨ছিল⟩ মহসুল ⟨ছেড়েক⟩ ভেড়া থেকে — ছয় শত পঁচাত্তর।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ⟨ছিল⟩"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "মহসুল"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ছেড়েক"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "এবং সত্তর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:01.212313096Z",
+  "model": "glm-5.2"
+}

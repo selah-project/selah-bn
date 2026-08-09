@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর ⟨את⟩ ওভালকে, ⟨את⟩ আবিমায়েলকে ও ⟨את⟩ শেভাকে।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "ওভালকে"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ওভাল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨আর⟩ ⟨את⟩",
+      "marks": "আবিমায়েলকে"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "আবিমায়েল"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "আর ⟨את⟩",
+      "marks": "শেভাকে"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "শেভা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:42:15.298811425Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "আর ইয়াহওয়েহ মোশেকে বললেন, বলে যেও—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যেও"
+    }
+  ],
+  "timestamp": "2026-08-09T07:50:53.793657849Z",
+  "model": "glm-5.2"
+}

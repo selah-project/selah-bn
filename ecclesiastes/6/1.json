@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এক ⟨রা⟩ আছে যা আমি সূর্যের তলায় দেখেছি, আর তা ⟨মানুষের⟩ উপর ভারী —",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "⟨রা⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "আমি দেখেছি"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলায়"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "আর ভারী"
+    },
+    {
+      "surface": "היא",
+      "gloss": "তা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨মানুষের⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:54.779671239Z",
+  "model": "glm-5.2"
+}

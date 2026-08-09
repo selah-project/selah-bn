@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কীভাবে আমি একা তোমাদের ভার ও তোমাদের বোঝা ও তোমাদের বিবাদ বহন করব?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "কীভাবে"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "আমি বহন করব"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "একা"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "তোমাদের ভার"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ও তোমাদের বোঝা"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ও তোমাদের বিবাদ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:21.538706352Z",
+  "model": "glm-5.2"
+}

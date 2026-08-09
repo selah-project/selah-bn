@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং মোশে ⟨সমাজটিকে⟩ বললেন, “এই ⟨হল⟩ সেই বাক্য যা ইয়াহওয়েহ করতে আদেশ করেছেন।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "সমাজটিকে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ করেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "করতে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:49:33.098678545Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 97,
+  "translation": "আগুন তাঁর সামনে চলে, এবং তাঁর চারপাশের শত্রুদের দাহ করে।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "তাঁর সামনে"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "চলে"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "এবং দাহ করে"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "চারপাশের"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "তাঁর শত্রুদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:47:33.835205117Z",
+  "model": "glm-5.2"
+}

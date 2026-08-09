@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এখন আমার চোখ খোলা থাকবে এবং আমার কান মনোযোগী থাকবে এই স্থানের প্রার্থনার প্রতি।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "এখন"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "আমার চোখ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "খোলা"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "এবং আমার কান"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "মনোযোগী"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "প্রার্থনার প্রতি"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "স্থানের"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:50:40.422423092Z",
+  "model": "glm-5.2"
+}

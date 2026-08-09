@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "স্তোত্র দাভিদের, স্মরণ করিবার নিমিত্ত।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "স্তোত্র"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "স্মরণ করিবার নিমিত্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:37:39.032797865Z",
+  "model": "glm-5.2"
+}

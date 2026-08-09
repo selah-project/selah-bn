@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "দেখো, সেই রাত যেন নির্বংশ হয়, তাতে কোনো আনন্দধ্বনি যেন না আসে।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "সেই রাত"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "নির্বংশ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "আসে"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "আনন্দধ্বনি"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:05:10.277654416Z",
+  "model": "glm-5.2"
+}

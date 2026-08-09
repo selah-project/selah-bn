@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "“যদ়াই একটু জল আনা হোক, আর আপনাদের পা ধোবেন, আর গাছটির তলে বিশ্রাম নেবেন।”",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "আনা হোক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "যদ়াই"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "একটু"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "আর ধোবেন"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "আপনাদের পা"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "আর বিশ্রাম নেবেন"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "তলে"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "গাছটির"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:56.706961624Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "এলোহিম রাজত্ব করেন জাতিদের উপর; এলোহিম ⟨আসীন⟩ ⟨হন⟩ ⟨নিজের⟩ পবিত্র সিংহাসনে।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজত্ব করেন"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিদের"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "আসীন"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "সিংহাসনে"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "পবিত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T08:38:48.453659331Z",
+  "model": "glm-5.2"
+}

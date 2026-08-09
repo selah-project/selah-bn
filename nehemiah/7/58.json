@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "য়ালার পুত্ররা, দার্কোনের পুত্ররা, গিদ্দেলের পুত্ররা।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "য়ালার"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "দার্কোনের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "গিদ্দেলের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:00.969201410Z",
+  "model": "glm-5.2"
+}

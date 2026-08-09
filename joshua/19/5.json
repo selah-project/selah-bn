@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "ও সিকলগ, ও বেইত-হম্মারকাবোত, ও হাতসার-সুসা",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ও সিকলগ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ও বেইত"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "হম্মারকাবোত"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ও হাতসার"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "সুসা"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:47.061428282Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 127,
+  "translation": "বীরের হাতে তীরের ন্যায় — এমনিভাবে যৌবনের পুত্ররা।",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "তীরের ন্যায়"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বীরের"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমনিভাবে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "যৌবনের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:13.754556561Z",
+  "model": "glm-5.2"
+}

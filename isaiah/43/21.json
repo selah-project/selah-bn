@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 43:21",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 43,
+  "translation": "⟨এই⟩ জাতি, আমি নিজের জন্য গড়েছি; আমার স্তুতি ⟨তারা⟩ বর্ণনা করবে।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "זו",
+      "gloss": "এই"
+    },
+    {
+      "surface": "יצרתי",
+      "gloss": "গড়েছি"
+    },
+    {
+      "surface": "לי",
+      "gloss": "নিজের জন্য"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "আমার স্তুতি"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "বর্ণনা করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:17:50.286079671Z",
+  "model": "glm-5.2"
+}

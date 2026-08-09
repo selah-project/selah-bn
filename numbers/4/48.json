@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং তাদের গণনাকৃত ⟨জন⟩ হলো আট হাজার পাঁচশো আশিটি।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "এবং হলো"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "তাদের গণনাকৃত"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "আট"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "আশিটি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:25.532871186Z",
+  "model": "glm-5.2"
+}

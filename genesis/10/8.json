@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং কূশ ⟨את⟩ নিমরোদকে জন্ম দিল; ⟨সে⟩ পৃথিবীতে একজন বীর ⟨হতে⟩ শুরু করল।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "এবং কূশ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিমরোদকে"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "নিমরোদকে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "החל",
+      "gloss": "শুরু করল"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "⟨হতে⟩"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "একজন বীর"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিবীতে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:13.450614590Z",
+  "model": "glm-5.2"
+}

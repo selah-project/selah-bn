@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "সর্বক্ষণ বন্ধু ⟨কে⟩ ভালোবাসে, আর বিপদের জন্য ভাই জন্মায়।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "সর্বক্ষণ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়ে"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ভালোবাসে"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "বন্ধু"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "আর ভাই"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "বিপদের জন্য"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "জন্মায়"
+    }
+  ],
+  "timestamp": "2026-08-09T18:00:27.270227440Z",
+  "model": "glm-5.2"
+}

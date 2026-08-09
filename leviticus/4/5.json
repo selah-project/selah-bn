@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর অভিষিক্ত ⟨হাকোহেন⟩ ষাঁড়ের রক্ত থেকে ⟨কিছু⟩ নেবেন, আর তা ⟨את⟩ মিলন-তাঁবুর কাছে আনবেন।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "আর নেবেন"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨হাকোহেন⟩"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "অভিষিক্ত"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "রক্ত থেকে"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ষাঁড়ের"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "আর আনবেন"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "তা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "তাঁবু"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "মিলন-"
+    }
+  ],
+  "timestamp": "2026-08-09T02:59:32.737162892Z",
+  "model": "glm-5.2"
+}

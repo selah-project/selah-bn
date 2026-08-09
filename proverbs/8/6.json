@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 8:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "শোন, কারণ আমি মহান বিষয় বলব; এবং আমার ওষ্ঠের উন্মোচন ⟨হবে⟩ সরল।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শোন"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "נגידים",
+      "gloss": "মহান বিষয়"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "আমি বলব"
+    },
+    {
+      "surface": "ומפתח",
+      "gloss": "এবং উন্মোচন"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "আমার ওষ্ঠের"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "সরল"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:26.033008105Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কারণ তার বাড়ি মৃত্যুর দিকে নত হয়েছে, এবং তার পথগুলি রফায়িমের প্রতি —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "নত হয়েছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুর"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "তার বাড়ি"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং ... প্রতি"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "রফায়িমের"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "তার পথগুলি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:46.361533709Z",
+  "model": "glm-5.2"
+}

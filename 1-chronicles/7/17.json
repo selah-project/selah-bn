@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং ⟨আউলামের⟩ পুত্রগণ ⟨হল⟩ বেদান। এইরা ⟨হলেন⟩ গিলআদের পুত্রগণ — মাখিরের পুত্র, মনশির পুত্র।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং … পুত্রগণ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "আউলাম"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "বেদান"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এইরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "গিলআদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "মাখির"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:11.841346975Z",
+  "model": "glm-5.2"
+}

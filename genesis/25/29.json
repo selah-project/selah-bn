@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আর য়াকোব রান্না করছিল ⟨নাজিদ⟩, এবং এসাও মাঠ থেকে এল, আর ⟨সে⟩ ক্লান্ত ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "আর রান্না করছিল"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকোব"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "নাজিদ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাও"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "মাখ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "আর সে"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "ক্লান্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:12.640535307Z",
+  "model": "glm-5.2"
+}

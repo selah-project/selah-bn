@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর শাউলের চাচা বললেন, “আমাকে বলো না, শমুয়েল তোমাদের কী বলেছেন?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "চাচা"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শাউলের"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "বলো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "না"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "শমুয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T08:05:03.193243963Z",
+  "model": "glm-5.2"
+}

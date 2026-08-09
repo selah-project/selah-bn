@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তাদের শান্তি ও মঙ্গল খোঁজো না, তোমার সমস্ত দিনগুলোতে, চিরকালের জন্য।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "খোঁজো"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "তাদের শান্তি"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "এবং মঙ্গল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "তোমার দিনগুলোতে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "চিরকালের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:49.665001983Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "দেদান তোমার ব্যবসায়ী আসন-বস্ত্রে আরোহের জন্য।",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "দেদান"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "তোমার ব্যবসায়ী"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "বস্ত্রে"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "আসন"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "আরোহের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:10:46.181130556Z",
+  "model": "glm-5.2"
+}

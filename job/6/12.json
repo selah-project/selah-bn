@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আমার শক্তি কি পাথরের শক্তি? আমার মাংসপিণ্ড কি তাম্র?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "কি"
+    },
+    {
+      "surface": "כח",
+      "gloss": "শক্তি"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "পাথরের"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "আমার শক্তি"
+    },
+    {
+      "surface": "אם",
+      "gloss": "কি"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "আমার মাংসপিণ্ড"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "তাম্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:06:25.736586869Z",
+  "model": "glm-5.2"
+}

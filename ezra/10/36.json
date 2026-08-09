@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ওণীয়, মেরেমোত, এলিয়শীব।",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ওণীয়"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "মেরেমোত"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "এলিয়শীব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:31:43.269632801Z",
+  "model": "glm-5.2"
+}

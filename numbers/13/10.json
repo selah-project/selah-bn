@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "য়িবুলুনের গোত্রের জন্য — সোদীর পুত্র গদ্দীয়েল।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "য়িবুলুন"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "গদ্দীয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "সোদী"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:48.448243711Z",
+  "model": "glm-5.2"
+}

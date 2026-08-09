@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 39,
+  "translation": "আর ⟨তিনি⟩ ⟨את⟩ এফোদের মশিল বুনন-কার্য, সম্পূর্ণ তেকেলেত, তৈরি করলেন।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "তৈরি করলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মশিল"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "মশিল"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "এফোদের"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কার্য"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "বুনন"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "সম্পূর্ণ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "তেকেলেত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:58:27.058322479Z",
+  "model": "glm-5.2"
+}

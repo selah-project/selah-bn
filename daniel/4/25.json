@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এই সব নবুকদনেসসর রাজার ⟨উপর⟩ এসে পৌঁছাল।",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "এই সব"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "এসে পৌঁছাল"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨উপর⟩"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "নবুকদনেসসর"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:50:26.617841953Z",
+  "model": "glm-5.2"
+}

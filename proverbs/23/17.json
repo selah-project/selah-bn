@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তোমার হৃদয় পাপীদের ঈর্ষা না করুক, কিন্তু ইয়াহওয়েহের ভয়ে ⟨থাক⟩ সারা দিন।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ঈর্ষা করুক"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোমার হৃদয়"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "পাপীদের"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কিন্তু"
+    },
+    {
+      "surface": "אם",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ভয়ে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সারা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:31.496939782Z",
+  "model": "glm-5.2"
+}

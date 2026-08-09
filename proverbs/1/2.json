@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "জ্ঞান ও শিক্ষা জানার জন্য, বোধের বাক্য বুঝে নেওয়ার জন্য —",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "জানার জন্য"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ও শিক্ষা"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "বুঝে নেওয়ার জন্য"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোধের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:37.682360696Z",
+  "model": "glm-5.2"
+}

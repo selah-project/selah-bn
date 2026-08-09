@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "সঙ্গীতপতির জন্য, দাভিদের মযমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতপতির জন্য"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মযমোর"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "দাভিদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:33:23.417436969Z",
+  "model": "glm-5.2"
+}

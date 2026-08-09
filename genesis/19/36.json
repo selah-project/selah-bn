@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর লোতের দুই কন্যা তাদের পিতা থেকে গর্ভধারণ করল।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "আর গর্ভধারণ করল"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "লোতের"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "তাদের পিতা থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:44:22.252392054Z",
+  "model": "glm-5.2"
+}

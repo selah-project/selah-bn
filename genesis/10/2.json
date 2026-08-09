@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "য়াফেত-এর পুত্রেরা: গোমের, মাগোগ, মাদাই, য়াওয়ান, তুবল, মেশেখ ও তিরাস।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "য়াফেত-এর"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমের"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "মাগোগ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "মাদাই"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "য়াওয়ান"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "তুবল"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "মেশেখ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ও তিরাস"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:32.912253546Z",
+  "model": "glm-5.2"
+}

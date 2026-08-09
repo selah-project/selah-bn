@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "⟨এটি⟩ ⟨הוא⟩ বোঝা যা হাবাক্কুক ⟨ה⟩ নবী দেখলেন।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "বোঝা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দেখলেন"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "হাবাক্কুক"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "⟨ה⟩ নবী"
+    }
+  ],
+  "timestamp": "2026-08-09T14:20:38.423125483Z",
+  "model": "glm-5.2"
+}

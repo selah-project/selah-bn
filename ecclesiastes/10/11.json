@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "যদি সাপ ⟨বিনা⟩ মন্ত্রে কামড়ায়, তবে জিভের অধিকারীর কোনো লাভ নেই।",
+  "tokens": [
+    {
+      "surface": "אִם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "יִשֹּׁךְ",
+      "gloss": "কামড়ায়"
+    },
+    {
+      "surface": "הַנָּחָשׁ",
+      "gloss": "সাপ"
+    },
+    {
+      "surface": "בְּלוֹא",
+      "gloss": "⟨বিনা⟩"
+    },
+    {
+      "surface": "לַחַשׁ",
+      "gloss": "মন্ত্র"
+    },
+    {
+      "surface": "וְאֵין",
+      "gloss": "তবে নেই"
+    },
+    {
+      "surface": "יִתְרוֹן",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "לְבַעַל",
+      "gloss": "অধিকারীর"
+    },
+    {
+      "surface": "הַלָּשׁוֹן",
+      "gloss": "জিভের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:04.430317514Z",
+  "model": "glm-5.2"
+}

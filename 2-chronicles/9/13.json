@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨হয়েছিল⟩ সোনার ওজন যা শলোমোহের কাছে এক বছরে এসেছিল — ছশো এবং ষাট এবং ছয় সোনার তাগারি —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং হয়েছিল"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ওজন"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "בא",
+      "gloss": "এসেছিল"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শলোমোহের কাছে"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "বছরে"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছশো"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "এবং ষাট"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "এবং ছয়"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "তাগারি"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    }
+  ],
+  "timestamp": "2026-08-09T17:33:44.868941999Z",
+  "model": "glm-5.2"
+}

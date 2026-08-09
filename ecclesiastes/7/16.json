@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "অতিশয় ধার্মিক হইও না, এবং অতিরিক্ত জ্ঞানী হইও না; কেন নিজেকে বিধ্বস্ত করিবে?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হইও"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিক"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "অতিশয়"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "জ্ঞানী হইও"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "অতিরিক্ত"
+    },
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "বিধ্বস্ত করিবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:49:02.501336068Z",
+  "model": "glm-5.2"
+}

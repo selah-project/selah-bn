@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 128,
+  "translation": "দেখো, কেন না এইভাবে ধন্য ⟨হবে⟩ সেই মানুষ, যে ইয়াহওয়েহকে ভয় করে।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কেন না"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এইভাবে"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ধন্য হবে"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ভয় করে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহকে"
+    }
+  ],
+  "timestamp": "2026-08-09T14:24:53.724038459Z",
+  "model": "glm-5.2"
+}

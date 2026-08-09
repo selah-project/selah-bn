@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "মিখার ভাই ⟨থিল⟩ যিশিয়া; যিশিয়ার পুত্রদের ⟨মধ্যে⟩ খকরিয়াহু।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "মিখা"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "যিশিয়া"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "পুত্রদের জন্য"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "যিশিয়া"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "খকরিয়াহু"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:42.731429627Z",
+  "model": "glm-5.2"
+}

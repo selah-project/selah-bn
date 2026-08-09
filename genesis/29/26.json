@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 29:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "আর লাবান বলল, “আমাদের জায়গায় এমন করা ⟨হয় না⟩ — ছোটকে বড়ের আগে দেওয়া।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লাবান"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "করা হবে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমন"
+    },
+    {
+      "surface": "במקומנו",
+      "gloss": "আমাদের জায়গায়"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "দেওয়ার জন্য"
+    },
+    {
+      "surface": "הצעירה",
+      "gloss": "ছোটকে"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "আগে"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "বড়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:02.823302144Z",
+  "model": "glm-5.2"
+}

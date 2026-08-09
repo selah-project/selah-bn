@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং খানোকের সমস্ত দিনসমূহ হলো পঁয়ষট্টি বছর এবং তিনশো বছর।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং-হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "খানোকের"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "এবং-ষাট"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "এবং-তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:59.267075229Z",
+  "model": "glm-5.2"
+}

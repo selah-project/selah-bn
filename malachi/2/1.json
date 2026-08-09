@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং এখন তোমাদের জন্য ⟨হল⟩ এই আজ্ঞা, হে যাজকেরা।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "এবং এখন"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "তোমাদের জন্য"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "এই আজ্ঞা"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "হে যাজকেরা"
+    }
+  ],
+  "timestamp": "2026-08-09T14:21:52.583028014Z",
+  "model": "glm-5.2"
+}

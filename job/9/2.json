@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "সত্যই, আমি জানি যে এমনই; কিন্তু মানুষ এল-এর কাছে কীভাবে ধার্মিক হবে?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "সত্যই"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "আমি জানি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমনই"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "কিন্তু কীভাবে"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ধার্মিক হবে"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:07:19.584800624Z",
+  "model": "glm-5.2"
+}

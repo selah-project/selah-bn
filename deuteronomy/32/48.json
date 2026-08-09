@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আর ইয়াহওয়েহ সেই দিনের ঠিক সেই সময়ে মোশের কাছে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ঠিক সেই সময়ে"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিনের"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:57:56.701946781Z",
+  "model": "glm-5.2"
+}

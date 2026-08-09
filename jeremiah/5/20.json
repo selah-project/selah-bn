@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "“বাড়ি ইয়াকভে ⟨এই⟩ ঘোষণা করো এবং য়েহুদায় একে শোনাও — বলে,”",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ঘোষণা করো"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "বাড়িতে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ইয়াকভ"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "এবং শোনাও"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "য়েহুদায়"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:46:00.475369375Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "হোদিযা, বানি, বনিনু;",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "হোদিযা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানি"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "বনিনু"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:25.066337271Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 6:4",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং সে গৃহের জন্য বদ্ধ জানালা তৈরি করল।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "এবং সে তৈরি করল"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "গৃহের জন্য"
+    },
+    {
+      "surface": "חלוני",
+      "gloss": "জানালা"
+    },
+    {
+      "surface": "שקפים",
+      "gloss": "বদ্ধ"
+    },
+    {
+      "surface": "אטמים",
+      "gloss": "আবৃত"
+    }
+  ],
+  "timestamp": "2026-08-09T04:11:11.537482871Z",
+  "model": "glm-5.2"
+}

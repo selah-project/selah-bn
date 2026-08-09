@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 73,
+  "translation": "আর আমি — প্রায় বিচলিত হল ⟨আমার⟩ পা, যেন ঢেলে দিল ⟨আমার⟩ পদক্ষেপ।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "আর আমি"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "প্রায়"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "বিচলিত হল"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "পা"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "যেন"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ঢেলে দিল"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "পদক্ষেপ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:42:16.671781403Z",
+  "model": "glm-5.2"
+}

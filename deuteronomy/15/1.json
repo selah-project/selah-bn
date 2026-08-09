@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 15:1",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "সাত বছরের শেষে তুমি ঋণমুক্তি করবে।",
+  "tokens": [
+    {
+      "surface": "מִקֵּ֥ץ",
+      "gloss": "শেষে"
+    },
+    {
+      "surface": "שֶֽׁבַע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "שָׁנִ֖ים",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "תַּעֲשֶׂ֥ה",
+      "gloss": "তুমি করবে"
+    },
+    {
+      "surface": "שְׁמִטָּֽה",
+      "gloss": "ঋণমুক্তি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:28:05.513041338Z",
+  "model": "glm-5.2"
+}

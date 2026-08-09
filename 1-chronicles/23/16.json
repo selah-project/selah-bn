@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "গেরশোমের পুত্রেরা — শেবুয়েল ⟨হলেন⟩ প্রধান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "গেরশোমের"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "শেবুয়েল"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "প্রধান"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:48.549761764Z",
+  "model": "glm-5.2"
+}

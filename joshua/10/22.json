@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 10:22",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর যিহোশূয় বললেন, “গুহার মুখ খোলো, আর এই পাঁচ রাজাকে গুহা থেকে আমার কাছে ⟨এনো⟩।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "যিহোশূয়"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "খোলো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মুখ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "গুহার"
+    },
+    {
+      "surface": "והוציאו",
+      "gloss": "আর ⟨এনো⟩"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পাঁচ রাজাকে"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "রাজাকে"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "গুহা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:48.985597301Z",
+  "model": "glm-5.2"
+}

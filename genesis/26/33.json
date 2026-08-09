@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "তিনি ⟨את⟩-এ শিবআহ নাম দিলেন; সেইজন্য নগরের নাম বের-শবেয়া এই দিন পর্যন্ত।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "তিনি নাম দিলেন"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "শিবআহ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "শিবআহ"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইজন্য"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "নগরের"
+    },
+    {
+      "surface": "באר",
+      "gloss": "বের"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "শবেয়া"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "היום",
+      "gloss": "এই দিন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T13:52:02.851946928Z",
+  "model": "glm-5.2"
+}

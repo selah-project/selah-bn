@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 121,
+  "translation": "দিনে সূর্য তোমাকে আঘাত করবে না, আর রাতে চাঁদ।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "আঘাত করবে"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "আর চাঁদ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "রাতে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:16.239764441Z",
+  "model": "glm-5.2"
+}

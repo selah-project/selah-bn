@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 14:4",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "কারণ ভূমি ফাটছে, কারণ বৃষ্টি হয়নি দেশে, লজ্জিত হয়েছে কৃষকরা, ঢেকেছে তাদের মাথা।",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ভূমি"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ফাটছে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়েছে"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "বৃষ্টি"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "בשו",
+      "gloss": "লজ্জিত হয়েছে"
+    },
+    {
+      "surface": "אכרים",
+      "gloss": "কৃষকরা"
+    },
+    {
+      "surface": "חפו",
+      "gloss": "ঢেকেছে"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "তাদের মাথা"
+    }
+  ],
+  "timestamp": "2026-08-09T04:48:54.295358016Z",
+  "model": "glm-5.2"
+}

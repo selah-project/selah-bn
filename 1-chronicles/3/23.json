@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এবং নেরযার ⟨পুত্রেরা⟩ এলযোএনি ও খিজকিয ও অজরিকাম — তিনজন।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "এবং ⟨পুত্রেরা⟩"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "নেরযা"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "এলযোএনি"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "ও খিজকিয"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "ও অজরিকাম"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিনজন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:38:58.928983574Z",
+  "model": "glm-5.2"
+}

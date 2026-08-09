@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "সরায়, ঢাজরয়, ইয়িরমিয়।",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "সরায়"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ঢাজরয়"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ইয়িরমিয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:21.224316797Z",
+  "model": "glm-5.2"
+}

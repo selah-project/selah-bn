@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "অলস বলে, “বাইরে ⟨একটি⟩ সিংহ ⟨আছে⟩; ⟨আমি⟩ চত্বরের মধ্যে খুন ⟨হব⟩।”",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "অলস"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "সিংহ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "চত্বরের"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "খুন হব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:09.238969154Z",
+  "model": "glm-5.2"
+}

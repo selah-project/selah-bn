@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "উট চারশো পঁয়ত্রিশ, গাধা ছয় হাজার সাতশো বিশ।",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "উট"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "তিরিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "এবং পাঁচ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "গাধা"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:48.354573976Z",
+  "model": "glm-5.2"
+}

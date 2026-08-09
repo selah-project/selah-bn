@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 21:24",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "অহংকারী, অহংকারী — উপহাসকারী ⟨আর⟩ তার নাম; সে অহংকারের ⟨আর⟩ রোষে কাজ করে।",
+  "tokens": [
+    {
+      "surface": "זד",
+      "gloss": "অহংকারী"
+    },
+    {
+      "surface": "יהיר",
+      "gloss": "দম্ভী"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "উপহাসকারী"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তার নাম"
+    },
+    {
+      "surface": "עושה",
+      "gloss": "সে কাজ করে"
+    },
+    {
+      "surface": "בעברת",
+      "gloss": "রোষে"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "অহংকারের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:03.297546410Z",
+  "model": "glm-5.2"
+}

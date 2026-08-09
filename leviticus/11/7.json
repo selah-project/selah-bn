@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ খাজির — কারণ সে পারসা বিভক্ত করে এবং ফাটা ফাটা পারসা, কিন্তু গেরা ঢাকে না, সে তোমাদের জন্য অপবিত্র।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "খাজির"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "খাজির"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "বিভক্ত করে"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "পারসা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "এবং ফাটা"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ফাটা"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "পারসা"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "এবং সে"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "গেরা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ঢাকে"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "অপবিত্র"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T13:56:54.829814835Z",
+  "model": "glm-5.2"
+}

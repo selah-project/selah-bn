@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "⟨একজন⟩ অবাসিক ও ⟨একজন⟩ মজুর ⟨সেটি⟩ খাবে না।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "অবাসিক"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ও মজুর"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "খাবে"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟸সেটি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:48:17.760906483Z",
+  "model": "glm-5.2"
+}

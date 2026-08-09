@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ঘটল, সমগ্র পৃথিবী ⟨এক⟩ ভাষা ও এক বাক্য ছিল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমগ্র"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ভাষা"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ও বাক্য"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "এক"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:46.429133281Z",
+  "model": "glm-5.2"
+}

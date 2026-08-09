@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "তুমি হত্যা করবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "তুমি হত্যা করবে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:49:53.265099553Z",
+  "model": "glm-5.2"
+}

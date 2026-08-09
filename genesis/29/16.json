@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "আর লাবানের দুই কন্যা ছিল — বড়টির নাম লেয়াহ, আর ছোটটির নাম রাখেল।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "আর লাবানের"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "কন্যা ছিল"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "বড়টির"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়াহ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "আর নাম"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ছোটটির"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "রাখেল"
+    }
+  ],
+  "timestamp": "2026-08-09T02:36:25.770123365Z",
+  "model": "glm-5.2"
+}

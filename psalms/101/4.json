@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 101,
+  "translation": "বাঁকা হৃদয় আমার থেকে দূরে সরে যাবে; মন্দ আমি জানব না।",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "বাঁকা"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "সরে যাবে"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "আমার থেকে"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "আমি জানব"
+    }
+  ],
+  "timestamp": "2026-08-09T08:40:16.922274978Z",
+  "model": "glm-5.2"
+}

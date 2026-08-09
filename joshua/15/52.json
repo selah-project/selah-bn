@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "joshua 15:52",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "আরব, এবং রুমা, এবং এশআন;",
+  "tokens": [
+    {
+      "surface": "ארב",
+      "gloss": "আরব"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "এবং রুমা"
+    },
+    {
+      "surface": "ואשען",
+      "gloss": "এবং এশআন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:12.874098759Z",
+  "model": "glm-5.2"
+}

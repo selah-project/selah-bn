@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "নিজেকে বড় করো না রাজার সামনে, এবং মহানদের স্থানে দাঁড়িও না;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "নিজেকে বড় করো"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "এবং স্থানে"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "মহানদের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "দাঁড়িও"
+    }
+  ],
+  "timestamp": "2026-08-09T08:44:44.154797905Z",
+  "model": "glm-5.2"
+}

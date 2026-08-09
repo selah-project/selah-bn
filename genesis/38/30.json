@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 38:30",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 38,
+  "translation": "এবং পরে ⟨তাঁর⟩ ভাই বেরিয়ে এল যার হাতে ⟨ছিল⟩ সুতো, আর ⟨তাঁর⟩ নাম ডাকা হলো জেরাখ।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "এবং পরে"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "বেরিয়ে এল"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "তাঁর ভাই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তাঁর হাত"
+    },
+    {
+      "surface": "השני",
+      "gloss": "সুতো"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "আর ডাকা হলো"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাঁর নাম"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "জেরাখ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:35.554791482Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর গোমেরের ⟨পুত্ররা⟩: আশকেনাজ, রিফত ও তোগর্মহ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্ররা"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমেরের"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "আশকেনাজ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "রিফত"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "তোগর্মহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:08.027091190Z",
+  "model": "glm-5.2"
+}

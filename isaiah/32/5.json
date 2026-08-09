@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "নাবল আর ⟨দাকে⟩ উদার বলে ডাকা হবে না, আর কৃপণের জন্য ধনী বলা হবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ডাকা হবে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "নাবল ⟨দাকে⟩"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "উদার"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "আর কৃপণের জন্য"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "বলা হবে"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ধনী"
+    }
+  ],
+  "timestamp": "2026-08-09T04:35:16.527063859Z",
+  "model": "glm-5.2"
+}

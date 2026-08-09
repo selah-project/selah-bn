@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ইয়ারমূত, ও আদুল্লাম, সোখো, ও আজেকা —",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "ইয়ারমূত"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "ও আদুল্লাম"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "সোখো"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "ও আজেকা"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:25.814952739Z",
+  "model": "glm-5.2"
+}

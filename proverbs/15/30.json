@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "চোখের আলো ⟨হলদের⟩ হৃদয়কে আনন্দিত করে, একটি ভালো খবর ⟨হলদের⟩ হাড়কে মজবুত করে।",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "আলো"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চোখের"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "আনন্দিত করে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়কে"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "খবর"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "মজবুত করে"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "হাড়কে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:32.282488331Z",
+  "model": "glm-5.2"
+}

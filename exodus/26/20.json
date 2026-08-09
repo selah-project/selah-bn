@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর মিশকানের দ্বিতীয় পাশের জন্য, উত্তর দিকে, বিশ তক্তা।",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "আর পাশের জন্য"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "মিশকানের"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তর"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "তক্তা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:06.132677947Z",
+  "model": "glm-5.2"
+}

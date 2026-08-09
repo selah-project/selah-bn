@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "কারণ মদ্যপ ও পেটুক ⟨কে⟩ দরিদ্র হবে, আর তন্দ্রা ছেঁড়া কাপড় পরাবে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "মদ্যপ"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "ও পেটুক"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "দরিদ্র হবে"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "ছেঁড়া কাপড়"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "পরাবে"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "তন্দ্রা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:23.066824096Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "“আর এখন তোমার হাতের নিচে কী ⟨আছে⟩? পাঁচটি রুটি আমার হাতে দাও, অথবা যা পাওয়া যায়।”",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আর এখন"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יש",
+      "gloss": "আছে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "তোমার হাতের"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "পাঁচটি"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "দাও"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "আমার হাতে"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "যা পাওয়া যায়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:57:04.479011239Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 56,
+  "translation": "যেদিন আমি ভয় পাই, আমি তোমাতে ভরসা করি।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "যেদিন"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "আমি ভয় পাই"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "তোমাতে"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ভরসা করি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:39:25.063353308Z",
+  "model": "glm-5.2"
+}

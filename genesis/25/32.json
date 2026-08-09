@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং এসাও বলল, “দেখো, আমি মরতে যাচ্ছি, তবে আমার ⟨কাছে⟩ এই জ্যেষ্ঠত্বর কী ⟨লাভ⟩?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাও"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "যাচ্ছি"
+    },
+    {
+      "surface": "למות",
+      "gloss": "মরতে"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "তবে কেন"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "জ্যেষ্ঠত্ব"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:12.641089571Z",
+  "model": "glm-5.2"
+}

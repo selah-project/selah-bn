@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ও ⟨শেলেম্যাহ⟩, ও নাতান, ও ⟨আদাযাহ⟩।",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ও শেলেম্যাহ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ও নাতান"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "ও আদাযাহ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:22.773656704Z",
+  "model": "glm-5.2"
+}

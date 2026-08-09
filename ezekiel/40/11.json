@@ -1,0 +1,62 @@
+{
+ "tier": "glm-5.2",
+ "verse": 11,
+ "ref": "ezekiel 40:11",
+ "book": "ezekiel",
+ "lang": "bn",
+ "chapter": 40,
+ "translation": "আর ⟨তিনি⟩ ⟨את⟩ ফটকের প্রবেশপথের প্রস্থ মাপলেন, দশ হাত; এবং ফটকের দৈর্ঘ্য ⟨ছিল⟩ তেরো হাত।",
+ "tokens": [
+  {
+   "surface": "וימד",
+   "gloss": "আর মাপলেন"
+  },
+  {
+   "surface": "את",
+   "gloss": "⟨את⟩",
+   "marks": "প্রস্থ"
+  },
+  {
+   "surface": "רחב",
+   "gloss": "প্রস্থ"
+  },
+  {
+   "surface": "פתח",
+   "gloss": "প্রবেশপথের"
+  },
+  {
+   "surface": "השער",
+   "gloss": "ফটকের"
+  },
+  {
+   "surface": "עשר",
+   "gloss": "দশ"
+  },
+  {
+   "surface": "אמות",
+   "gloss": "হাত"
+  },
+  {
+   "surface": "ארך",
+   "gloss": "দৈর্ঘ্য"
+  },
+  {
+   "surface": "השער",
+   "gloss": "ফটকের"
+  },
+  {
+   "surface": "שלוש",
+   "gloss": "তেরো"
+  },
+  {
+   "surface": "עשרה",
+   "gloss": "তেরো"
+  },
+  {
+   "surface": "אמות",
+   "gloss": "হাত"
+  }
+ ],
+ "timestamp": "2026-08-09T17:59:26.470582662Z",
+ "model": "glm-5.2"
+}

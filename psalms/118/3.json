@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 118,
+  "translation": "বলুক না আহারোনের গৃহ, যে অনন্তকাল পর্যন্ত ⟨তাঁর⟩ হেসেদ।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "বলুক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "না"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোনের"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাল পর্যন্ত"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "হেসেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:19:38.948954294Z",
+  "model": "glm-5.2"
+}

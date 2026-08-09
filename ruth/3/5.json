@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তাঁকে ⟨সে⟩ বলল, “তুমি যা বলবে সব আমি করব।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "তাঁকে ⟨সে⟩ বলল"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "তাঁকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "তুমি বলবে"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "আমি করব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:17:45.128194538Z",
+  "model": "glm-5.2"
+}

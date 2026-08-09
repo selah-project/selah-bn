@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে বললেন, বলে যে—",
+  "tokens": [
+    {
+      "surface": "וַיְדַבֵּר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "מֹשֶׁה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לֵּאמֹר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:00:17.127378922Z",
+  "model": "glm-5.2"
+}

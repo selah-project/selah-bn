@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 92,
+  "translation": "দশ-তারের বাদ্যযন্ত্রে, এবং নেবেলে; কিন্নোরে হিগ্গায়নের উপর।",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "…-এ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "দশ-তারের"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "এবং …-এ"
+    },
+    {
+      "surface": "נבল",
+      "gloss": "নেবেলে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "…-এ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "হিগ্গায়নের উপর"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "কিন্নোরে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:38.084118300Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং যাবাদ ⟨את⟩ এফ্ললের জনক হলেন, এবং এফ্লল ⟨את⟩ ওবেদের জনক হলেন।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "এবং যাবাদ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এফ্লল"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "এফ্লল"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "এবং এফ্লল"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জনক হলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ওবেদ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ওবেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:56.445879706Z",
+  "model": "glm-5.2"
+}

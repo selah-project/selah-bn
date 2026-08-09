@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "তোহুর নগর ভেঙে পড়েছে; ⟨প্রতিটি⟩ গৃহ বন্ধ ⟨আছে⟩ ⟨–⟩ প্রবেশ থেকে।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ভেঙে পড়েছে"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "তোহুর"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "বন্ধ ⟨আছে⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨প্রতিটি⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "প্রবেশ থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:14:46.683185394Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "গাআশের উপত্যকার হূরাই, অরবতীয় অবীএল।",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "হূরাই"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "উপত্যকার"
+    },
+    {
+      "surface": "געש",
+      "gloss": "গাআশ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "অবীএল"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "অরবতীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:19.220787170Z",
+  "model": "glm-5.2"
+}

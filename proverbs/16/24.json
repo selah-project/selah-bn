@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "মধুর চাকা, কল্যাণের কথা — ⟨তা⟩ প্রাণের কাছে মিষ্টি এবং হাড়ের কাছে আরোগ্য।",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "চাকা"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মধুর"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "কল্যাণের"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "মিষ্টি"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "প্রাণের কাছে"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "এবং আরোগ্য"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "হাড়ের কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:49.619191615Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "জল ⟨সে⟩ চাইল, দুধ সে দিল; ⟨এক⟩ আদির বাটিতে সে ঘি পরিবেশন করল।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "চাইল"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "দুধ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "সে দিল"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "বাটিতে"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "আদির"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "সে পরিবেশন করল"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ঘি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:00:15.902365502Z",
+  "model": "glm-5.2"
+}

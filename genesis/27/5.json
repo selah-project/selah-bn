@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 27:5",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর রিবকা শুনছিল ইৎসখক তার ছেলে এসভকে বলতে, আর এসভ মাঠে গেল শিকার ধরতে, ⟨কিছু⟩ আনতে।",
+  "tokens": [
+    {
+      "surface": "ורבקה",
+      "gloss": "আর রিবকা"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "শুনছিল"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "বলতে"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎসখক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…-কে"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসভ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তার ছেলে"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "আর … গেল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসভ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "মাঠে"
+    },
+    {
+      "surface": "לצוד",
+      "gloss": "শিকার ধরতে"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "শিকার"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "আনতে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:45.153720715Z",
+  "model": "glm-5.2"
+}

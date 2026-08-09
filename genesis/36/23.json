@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এরাই ⟨থেকে আসা⟩ শোবলের পুত্র: আলওয়ান, ও মনাহাত, ও এবল, শফো ও ওনাম।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এরাই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "শোবলের"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "আলওয়ান"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "ও মনাহাত"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "ও এবল"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "শফো"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "ও ওনাম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:06.866293299Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨সে⟩ যে তার বোনের সঙ্গে শয়ন করে — তার পিতার কন্যা অথবা তার মাতার কন্যা; এবং সমস্ত ⟨হ⟩জাতি বলবে, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "শয়ন করে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "তার বোনের"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তার পিতার"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "তার মাতার"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨হ⟩জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:53.375512109Z",
+  "model": "glm-5.2"
+}

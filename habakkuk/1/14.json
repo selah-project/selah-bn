@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং ⟨তুমি⟩ মানুষকে করেছ সমুদ্রের মাছের মতো, শাসকহীন সরীসৃপের মতো।",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "এবং করেছ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষকে"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "মাছের মতো"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সমুদ্রের"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "সরীসৃপের মতো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "משל",
+      "gloss": "শাসক"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:25:34.134025694Z",
+  "model": "glm-5.2"
+}

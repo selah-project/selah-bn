@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "ফড়িংদের কোনো রাজা নেই, অথচ তারা সবাই দলবদ্ধ হয়ে বেরিয়ে যায়।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "ফড়িংদের"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "অথচ তারা বেরিয়ে যায়"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "দলবদ্ধ হয়ে"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "সবাই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:10.923062756Z",
+  "model": "glm-5.2"
+}

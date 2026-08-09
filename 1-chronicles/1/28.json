@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আভ্রাহামের পুত্রগণ: য়িৎখাক ও য়িশমায়েল।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "য়িৎখাক"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "এবং য়িশমায়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:06.692777737Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ছাগলের বকরা একটি, পাপ-উপহারের জন্য।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "বকরা"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ছাগলের"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "পাপ-উপহারের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:29.271097232Z",
+  "model": "glm-5.2"
+}

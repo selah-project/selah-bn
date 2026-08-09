@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর ইয়াহওয়েহের বাক্য আমার কাছে এল, বলতে যেহেতু:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨এল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "...-এর বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে যেহেতু"
+    }
+  ],
+  "timestamp": "2026-08-09T08:23:39.718147181Z",
+  "model": "glm-5.2"
+}

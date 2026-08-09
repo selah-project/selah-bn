@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আনন্দপ্রেমী ⟨একজন⟩ ঘাটতিতে থাকবে; দ্রাক্ষারস ও তৈলপ্রেমী ধনী হবে না।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "একজন লোক"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ঘাটতিতে"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "প্রেমী"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "প্রেমী"
+    },
+    {
+      "surface": "יין",
+      "gloss": "দ্রাক্ষারস"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ও তৈল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ধনী হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:01.201409826Z",
+  "model": "glm-5.2"
+}

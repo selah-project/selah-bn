@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং মোশে এই গীত সেই দিনে লিখলেন, এবং তিনি ⟨তাকে⟩ য়িসরায়েলের বংশধরদের শিখালেন।",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "এবং লিখলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "গীত"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "গীত"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "এবং তিনি শিখালেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বংশধরদের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধরদের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িসরায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:57:48.097595752Z",
+  "model": "glm-5.2"
+}

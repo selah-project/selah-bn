@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এই সব ⟨কিছুর⟩ মধ্যে কে ⟨না⟩ জানে যে ইয়াহওয়েহের হাত ⟨এটা⟩ করেছে?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "এই সব ⟨কিছুর⟩ মধ্যে"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই সব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "করেছে"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨এটা⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:46:15.673139998Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং আমি ⟨את⟩ দাসীর পুত্রকেও এক জাতি করব, কারণ সে তোমার বীজ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "এবং আমি...ও"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দাসীর পুত্র"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "দাসীর"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "এক জাতি"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "করব"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "তোমার বীজ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:50:59.690857993Z",
+  "model": "glm-5.2"
+}

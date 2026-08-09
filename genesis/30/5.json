@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর বিলহা গর্ভধারণ করল এবং য়াকভের জন্য এক পুত্র প্রসব করল।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "আর গর্ভধারণ করল"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "বিলহা"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "এবং প্রসব করল"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "য়াকভের জন্য"
+    },
+    {
+      "surface": "בן",
+      "gloss": "এক পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:35.825253067Z",
+  "model": "glm-5.2"
+}

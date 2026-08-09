@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর যোসেফের দশ ভাই মিৎসরায়িম থেকে শস্য কিনতে নেমে গেল।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "আর নেমে গেল"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ভাই"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফের"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "কিনতে"
+    },
+    {
+      "surface": "בר",
+      "gloss": "শস্য"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "মিৎসরায়িম থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:26.283619994Z",
+  "model": "glm-5.2"
+}

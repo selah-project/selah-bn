@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আনন্দিত হৃদয় মহৌষধ দেয়, আর আহত আত্মা অস্থি শুকিয়ে দেয়।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "আনন্দিত"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "মহৌষধ দেয়"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "মহৌষধ"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "আর আত্মা"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "আহত"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "শুকিয়ে দেয়"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "অস্থি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:59.546948271Z",
+  "model": "glm-5.2"
+}

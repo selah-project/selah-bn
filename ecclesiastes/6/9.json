@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "চোখের দেখার চেয়ে ⟨এটি⟩ ভাল ⟨নয়⟩ — ⟨এটি⟩ নফশের ঘুরে বেড়ানোর চেয়ে; এটিও হেবেল এবং রুয়াখের রোগ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "দেখা"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "চোখের"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ঘুরে বেড়ানোর চেয়ে"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "নফশের"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এটিও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হেবেল"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "এবং রোগ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "রুয়াখের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:12.132717639Z",
+  "model": "glm-5.2"
+}

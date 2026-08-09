@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং ⟨את⟩ বালাত ও ⟨את⟩ তামার, মরুভূমিতে, দেশে,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "বালাত"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "বালাত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "তামার"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "তামার"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মরুভূমিতে"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:11:42.131999469Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এই ⟨হল⟩ দিশনের পুত্ররা: হেমদান ও এশবান ও যিতরান ও খেরান।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "দিশনের"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "হেমদান"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "ও এশবান"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ও যিতরান"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "ও খেরান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:30.115738720Z",
+  "model": "glm-5.2"
+}

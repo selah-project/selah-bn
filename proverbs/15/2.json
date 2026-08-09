@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "জ্ঞানীদের জিভ জ্ঞানকে উৎকৃষ্ট করে, আর বোকাদের মুখ বোকামি উগরে দেয়।",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "জিভ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "উৎকৃষ্ট করে"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "জ্ঞানকে"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "আর মুখ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "বোকাদের"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "উগরে দেয়"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "বোকামি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:44.064519324Z",
+  "model": "glm-5.2"
+}

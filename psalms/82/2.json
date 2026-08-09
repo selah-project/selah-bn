@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 82,
+  "translation": "“কতদিন তবমাত্র অবিচার করবে, এবং দুষ্টদের মুখ তুলবে?” সেলা।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "কতদিন"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "তবমাত্র"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "অবিচার করবে"
+    },
+    {
+      "surface": "עול",
+      "gloss": "অন্যায়ভাবে"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "এবং মুখ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "দুষ্টদের"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "তুলবে"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "সেলা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:55.631231649Z",
+  "model": "glm-5.2"
+}

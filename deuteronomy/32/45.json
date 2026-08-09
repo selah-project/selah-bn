@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "আর মোশে সমস্ত য়িস্রায়েলের কাছে ⟨את⟩ এই সমস্ত কথাগুলো বলা শেষ করলেন।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "শেষ করলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "বলা"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাগুলো"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "য়িস্রায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T07:57:56.701351696Z",
+  "model": "glm-5.2"
+}

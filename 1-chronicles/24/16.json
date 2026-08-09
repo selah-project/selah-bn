@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "উনিশ পতাহিয়ার জন্য, বিশ য়িহেজকেলের জন্য।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "পতাহিয়ার জন্য"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "য়িহেজকেলের জন্য"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "বিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:52.744946183Z",
+  "model": "glm-5.2"
+}

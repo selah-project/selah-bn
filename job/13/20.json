@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "কেবল দুই ⟨জিনিস⟩ আমার সঙ্গে করো না; তাহলে তোমার সামনে আমি লুকাব না।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "করো"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "আমার সঙ্গে"
+    },
+    {
+      "surface": "אז",
+      "gloss": "তাহলে"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "তোমার সামনে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "আমি লুকাব"
+    }
+  ],
+  "timestamp": "2026-08-09T06:08:32.275878375Z",
+  "model": "glm-5.2"
+}

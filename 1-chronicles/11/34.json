@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "হাশেম হাগিজোনীর পুত্ররা, শাগে হাহারারীর পুত্র যোনাতন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "השם",
+      "gloss": "হাশেম"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "হাগিজোনী"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "যোনাতন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "শাগে"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "হাহারারী"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:33.471056900Z",
+  "model": "glm-5.2"
+}

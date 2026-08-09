@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "এবং যিহল্লেলেলের পুত্রেরা ⟨ছিল⟩ জিফ ও জিফা, তিরিয় ও আশরায়েল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং …-এর পুত্রেরা"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "যিহল্লেলেল"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "জিফ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "এবং জিফা"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "তিরিয়"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "এবং আশরায়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:21.218506814Z",
+  "model": "glm-5.2"
+}

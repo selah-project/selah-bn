@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 8:4",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আর আবিশূয়া, নামান আর আহোহ।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "আর আবিশূয়া"
+    },
+    {
+      "surface": "ונעמן",
+      "gloss": "নামান"
+    },
+    {
+      "surface": "ואחוח",
+      "gloss": "আর আহোহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:19.733872963Z",
+  "model": "glm-5.2"
+}

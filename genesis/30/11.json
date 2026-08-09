@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "আর লেয়া বললেন, “গদ!” আর তিনি তাঁর নাম ⟨את⟩ গদ ডাকলেন।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "আর বললেন"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লেয়া"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "“গদ!”"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "আর ডাকলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নাম"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাঁর নাম"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:10.242633476Z",
+  "model": "glm-5.2"
+}

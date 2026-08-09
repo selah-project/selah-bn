@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "লবনা, ও এতের, ও আশন —",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "লবনা"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ও এতের"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ও আশন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:12.996500130Z",
+  "model": "glm-5.2"
+}

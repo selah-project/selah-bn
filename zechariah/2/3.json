@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ইয়াহওয়েহ ⟨আমাকে⟩ চার ⟨জন⟩ কারিগর দেখালেন।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "দেখালেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চার"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "কারিগর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:04.824134932Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 29,
+  "translation": "এবং চতুর্থ দিনে: দশটি ষাঁড়, দুটি ভেড়া, চোদ্দটি এক বছরের মেষশাবক, নির্দোষ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "এবং দিনে"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "চতুর্থ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ষাঁড়"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশটি"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুটি"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "মেষশাবক"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বংশধর"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "এক বছরের"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "চার"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "নির্দোষ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:09.280786610Z",
+  "model": "glm-5.2"
+}

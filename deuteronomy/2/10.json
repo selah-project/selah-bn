@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "(⟨ה⟩এমীয়রা পূর্বে সেখানে বাস করত—এক বৃহৎ ও বহুসংখ্যক ও উঁচু জাতি, এনাকীয়দের মতো।",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "এমীয়রা"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "পূর্বে"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "বাস করত"
+    },
+    {
+      "surface": "בה",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "জাতি"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "বৃহৎ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ও বহুসংখ্যক"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "ও উঁচু"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "এনাকীয়দের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:43.317130555Z",
+  "model": "glm-5.2"
+}

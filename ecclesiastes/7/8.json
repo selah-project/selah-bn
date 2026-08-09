@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ভালো ⟨একটি⟩ বিষয়ের অন্ত ⟨তার⟩ আরম্ভের চেয়ে; ভালো দীর্ঘ-রুচি উচ্চ-রুচির চেয়ে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "অন্ত"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়ের"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "⟨তার⟩ আরম্ভের চেয়ে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "দীর্ঘ-রুচি"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "রুচি"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "উচ্চ-রুচির চেয়ে"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "রুচি"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:52.609685041Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 92,
+  "translation": "স্তুতিগীত, গান — শব্বতের দিনের জন্য।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "স্তুতিগীত"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "গান"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "দিনের জন্য"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "⟨the⟩ শব্বতের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:46:38.083569317Z",
+  "model": "glm-5.2"
+}

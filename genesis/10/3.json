@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর গোমের-এর পুত্রেরা: আশকেনায, রিফাত ও তোগর্মা।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্রেরা"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "গোমের-এর"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "আশকেনায"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "রিফাত"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ও তোগর্মা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:32.912419571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "নরম উত্তর রাগ ফিরিয়ে দেয়, আর যন্ত্রণাদায়ক বাক্য ⟨অ্যাপি⟩ তুলে।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "উত্তর"
+    },
+    {
+      "surface": "רך",
+      "gloss": "নরম"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ফিরিয়ে দেয়"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "রাগ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "আর বাক্য"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "যন্ত্রণাদায়ক"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "তুলে"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨অ্যাপি⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:44.064291829Z",
+  "model": "glm-5.2"
+}

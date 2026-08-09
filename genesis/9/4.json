@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "কেবল মাংস, যার প্রাণশক্তিতে তার রক্ত ⟨আছে⟩, তা তোমরা খাবে না।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "কেবল"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "মাংস"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "যার প্রাণশক্তিতে"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "তার রক্ত"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:29:21.835849670Z",
+  "model": "glm-5.2"
+}

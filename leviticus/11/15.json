@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "⟨את⟩ প্রতিটি কাক — তার প্রকার অনুসারে।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "প্রতিটি কাক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "কাক"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "তার প্রকার অনুসারে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:00:56.514051420Z",
+  "model": "glm-5.2"
+}

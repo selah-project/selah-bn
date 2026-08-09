@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "প্রত্যেক চতুর ⟨মানুষ⟩ জ্ঞানে কাজ করে, আর মূর্খ ⟨মানুষ⟩ বোকামি বিস্তার করে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্রত্যেক"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "চতুর"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "কাজ করে"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "জ্ঞানে"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "আর মূর্খ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "বিস্তার করে"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "বোকামি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:21:23.713281135Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "বুক্কি তাঁর পুত্র, উজ্জি তাঁর পুত্র, জেরহিয় তাঁর পুত্র।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জি"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "জেরহিয়"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:58.081483056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "⟨ה⟩এল যিনি আমাকে বল দিয়ে বেঁধেন এবং আমার পথ ⟨সে⟩নিখুঁত করেন।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "⟨⟩এল"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "যিনি আমাকে বেঁধেন"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "বল"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "এবং করেন"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "নিখুঁত"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "আমার পথ"
+    }
+  ],
+  "timestamp": "2026-08-09T14:21:02.582450459Z",
+  "model": "glm-5.2"
+}

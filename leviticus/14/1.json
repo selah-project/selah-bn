@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে সম্বোধন করলেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং সম্বোধন করলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে:"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:22.109101622Z",
+  "model": "glm-5.2"
+}

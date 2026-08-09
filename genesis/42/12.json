@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর তিনি তাদের বললেন, “না, বরং দেশের নগ্নতা দেখতেই তোমরা এসেছ।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর তিনি বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כי",
+      "gloss": "বরং"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "নগ্নতা"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশের"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "তোমরা এসেছ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "দেখতে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:24.378644501Z",
+  "model": "glm-5.2"
+}

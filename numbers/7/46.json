@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "ছাগলের একটি বকর — হাতাহ-নৈবেদ্যের জন্য।",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "লোমশ বকর"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "ছাগলের"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "হাতাহ-নৈবেদ্যের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:41.178756685Z",
+  "model": "glm-5.2"
+}

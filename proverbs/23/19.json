@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "শোন, তুই আমার পুত্র, এবং জ্ঞানী হও, এবং পথে তোর হৃদয় ⟨সংরক্ষিত রাখ⟩।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "শোন"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "আমার পুত্র"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "এবং জ্ঞানী হও"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "এবং ⟨সংরক্ষিত রাখ⟩"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "পথে"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "তোর হৃদয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:31.497302767Z",
+  "model": "glm-5.2"
+}

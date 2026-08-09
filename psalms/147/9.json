@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 147,
+  "translation": "⟨সেই⟩ জন্তুকে দেয় তার খাদ্য, কাকের ছানাদেরকে যারা ডাকে।",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "দেয়"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "জন্তুকে"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "তার খাদ্য"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ছানাদেরকে"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "কাকের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যারা"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ডাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:01.495605738Z",
+  "model": "glm-5.2"
+}

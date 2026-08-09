@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এলকানা তাঁর পুত্র, এবং এব্যাসাফ তাঁর পুত্র, এবং আস্সির তাঁর পুত্র।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "এলকানা"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "এবং এব্যাসাফ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "এবং আস্সির"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:27.826494802Z",
+  "model": "glm-5.2"
+}

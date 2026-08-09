@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "আর ইৎস্‌হাকের দিনসমূহ হলো ⟨এক⟩শ বছর ও আশিটি বছর।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "আর … হলো"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "…-এর দিনসমূহ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইৎস্‌হাক"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ও আশিটি"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:37.304204618Z",
+  "model": "glm-5.2"
+}

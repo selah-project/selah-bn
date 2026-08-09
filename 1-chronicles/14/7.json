@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং এলিশামা, এবং বেলিয়াদা, এবং এলিফেলেত।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "এবং এলিশামা"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "এবং বেলিয়াদা"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "এবং এলিফেলেত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:09.051355124Z",
+  "model": "glm-5.2"
+}

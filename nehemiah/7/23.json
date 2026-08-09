@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বেৎসাই-এর বংশধররা, তিনশ চব্বিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধররা"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "বেৎসাই-এর"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ও চার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:26.157858324Z",
+  "model": "glm-5.2"
+}

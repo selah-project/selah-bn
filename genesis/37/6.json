@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 37,
+  "translation": "আর ⟨সে⟩ তাদের বলল, “শোনো এই স্বপ্নটি, যা আমি স্বপ্ন দেখেছি।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "আর ⟨সে⟩ বলল"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "נא",
+      "gloss": "আমি প্রার্থনা করি"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "এই স্বপ্নটি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "আমি স্বপ্ন দেখেছি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:30.584234324Z",
+  "model": "glm-5.2"
+}

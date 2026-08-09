@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "কারণ দেখ — বৃষ্টির ঋতু ⟨এটি⟩ কেটে গেছে, বৃষ্টি ⟨সেটি⟩ চলে গেছে, ⟨সেটি⟩ বিদায় নিয়েছে।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "বৃষ্টির ঋতু"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "কেটে গেছে"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "বৃষ্টি"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "চলে গেছে"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "বিদায় নিয়েছে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨নিজের⟩ জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:15.816301172Z",
+  "model": "glm-5.2"
+}

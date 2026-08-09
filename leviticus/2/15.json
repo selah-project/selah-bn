@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর তুমি তার উপর তেল দেবে এবং তুমি তার উপর লোবান রাখবে — মন্ত ⟨সে⟩।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "আর তুমি দেবে"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তার উপর"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "এবং তুমি রাখবে"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তার উপর"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "লোবান"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "মন্ত"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T09:01:37.926221194Z",
+  "model": "glm-5.2"
+}

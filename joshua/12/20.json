@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "শিমরোন-মেরোনের রাজা, একজন; অক্শফের রাজা, একজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "শিমরোন"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "মেরোন"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "অক্শফ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:46.886330885Z",
+  "model": "glm-5.2"
+}

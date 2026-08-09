@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "⟨সে⟩ তার গাল প্রহারকারীকে দিক, ⟨সে⟩ নিন্দায় পরিতৃপ্ত হক।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "দিক"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "তার প্রহারকারীকে"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "গাল"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "পরিতৃপ্ত হক"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "নিন্দায়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:03.191318796Z",
+  "model": "glm-5.2"
+}

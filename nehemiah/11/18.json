@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "পবিত্র নগরে ⟨সমস্ত⟩ লেবীয় — দুইশত আশি ও চার।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "লেবীয়"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "নগরে"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "পবিত্র"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশত"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "আশি"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ও চার"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:39.019019055Z",
+  "model": "glm-5.2"
+}

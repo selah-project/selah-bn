@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং প্রতিটি উন্মুক্ত পাত্র, যার ⟨উপর⟩ কোনো বাঁধা সুতোর ঢাকনা নেই, সে ⟨অপবিত্র⟩।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "এবং প্রতিটি"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "পাত্র"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "উন্মুক্ত"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "বাঁধা ঢাকনা"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "সুতো"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨উপর⟩"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "⟨অপবিত্র⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:37:09.586131160Z",
+  "model": "glm-5.2"
+}

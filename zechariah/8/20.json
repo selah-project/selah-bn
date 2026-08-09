@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এইরূপ বলেছেন ইয়াহওয়েহ সেবাওত: এখনও ⟨এমন হবে⟩ যে জাতিসমূহ আসবে এবং বহু নগরীর বাসিন্দারা।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এইরূপ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "সেবাওত"
+    },
+    {
+      "surface": "עד",
+      "gloss": "এখনও"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "আসবে"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "জাতিসমূহ"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "এবং বাসিন্দারা"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগরীর"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "বহু"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:20.237015988Z",
+  "model": "glm-5.2"
+}

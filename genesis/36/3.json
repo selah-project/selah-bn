@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর ⟨את⟩ বসেমতকে — যিশমায়েলের কন্যা, নবায়োতের বোন।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "আর ⟨את⟩",
+      "marks": "বসেমতকে"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "বসেমত"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "যিশমায়েল"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "বোন"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "নবায়োত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:41.634367957Z",
+  "model": "glm-5.2"
+}

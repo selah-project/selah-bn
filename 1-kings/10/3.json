@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর শলোমোহ ⟨তাকে⟩ বলল ⟨את⟩ সব তার কথা; রাজার কাছে ⟨কোনো⟩ বিষয় গোপন ছিল না যা ⟨তিনি⟩ তাকে বলেননি।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "আর বলল"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨তাকে⟩"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "তার কথা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বিষয়"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "গোপন"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "বলেননি"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাকে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:12:20.354844031Z",
+  "model": "glm-5.2"
+}

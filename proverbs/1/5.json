@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "জ্ঞানী ⟨শুনুক⟩ ও ⟨বুদ্ধিমান⟩ পরামর্শ অর্জন করুক, এবং বিবেচক কৌশল ক্রয় করুক।",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "⟨শুনুক⟩"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "জ্ঞানী"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ও"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "বুদ্ধিমান"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "পরামর্শ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "অর্জন করুক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:38.140544769Z",
+  "model": "glm-5.2"
+}

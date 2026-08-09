@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "পুত্র মিখায়েল, পুত্র বাআসেয়াহ, পুত্র মলখিয়াহ।",
+  "tokens": [
+    {
+      "surface": "בֶּן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "মিখায়েল"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "বাআসেয়াহ"
+    },
+    {
+      "surface": "בֶּן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "মলখিয়াহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:44.444017598Z",
+  "model": "glm-5.2"
+}

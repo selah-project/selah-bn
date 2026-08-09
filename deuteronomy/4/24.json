@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "“কারণ ইয়াহওয়েহ তোমার এলোহিম ⟨הוא⟩ ভক্ষণকারী আগুন, এক ঈর্ষু এল।”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "তোমার এলোহי׮"
+    },
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ভক্ষণকারী"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "তিনি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ঈর্ষু"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:32.038846136Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "শল্লুম, আমারযাহ, যোসেফ।",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "শল্লুম"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "আমারযাহ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:27.552022132Z",
+  "model": "glm-5.2"
+}

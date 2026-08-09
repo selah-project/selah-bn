@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "ঘোড়ার জন্য চাবুক, গাধার জন্য লগাম, আর বোকাদের পিঠের জন্য লাঠি।",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "চাবুক"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ঘোড়ার জন্য"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "লগাম"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "গাধার জন্য"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "আর লাঠি"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "পিঠের জন্য"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "বোকাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:15.853932787Z",
+  "model": "glm-5.2"
+}

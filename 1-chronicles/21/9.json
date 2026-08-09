@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং ইয়াহওয়েহ গাদকে, দাভিদের দৃষ্টাকে কথা বললেন, বলতে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...কে"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদকে"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "দৃষ্টাকে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:27:03.005749703Z",
+  "model": "glm-5.2"
+}

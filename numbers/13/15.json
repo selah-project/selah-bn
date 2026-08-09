@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "গাদ গোত্রের জন্য — গেউয়েল, মাখির পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "গেউয়েল"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "মাখি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:52.125091938Z",
+  "model": "glm-5.2"
+}

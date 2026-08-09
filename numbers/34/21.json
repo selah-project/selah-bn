@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "বিন্যামিনের গোত্রের ⟨জন্য⟩ — এলিদদ কিসলোনের পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "বিন্যামিনের"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "এলিদদ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "কিসলোনের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:21:09.418728180Z",
+  "model": "glm-5.2"
+}

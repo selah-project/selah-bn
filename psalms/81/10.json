@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 81,
+  "translation": "তোমার মধ্যে পরদেবতা থাকবে না, আর তুমি অন্য দেবতাকে প্রণাম করবে না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমার মধ্যে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "দেবতা"
+    },
+    {
+      "surface": "זר",
+      "gloss": "পর"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "তুমি প্রণাম করবে"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "দেবতাকে"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "অন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:52.029129579Z",
+  "model": "glm-5.2"
+}

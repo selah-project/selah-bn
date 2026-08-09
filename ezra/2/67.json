@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তাঁদের উট চারশো পঁয়ত্রিশ; তাঁদের গাধা ছয় হাজার সাতশো বিশ।",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "তাঁদের উট"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্রিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "এবং পাঁচ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "তাঁদের গাধা"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:51:01.424197175Z",
+  "model": "glm-5.2"
+}

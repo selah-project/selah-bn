@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর ⟨ছিল⟩ সন্ধ্যা, আর ⟨ছিল⟩ ভোর — পঞ্চম দিন।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ছিল"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "সন্ধ্যা"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "আর ছিল"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ভোর"
+    },
+    {
+      "surface": "יום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "পঞ্চম"
+    }
+  ],
+  "timestamp": "2026-08-09T08:57:58.079792160Z",
+  "model": "glm-5.2"
+}

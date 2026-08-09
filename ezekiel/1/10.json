@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 1:10",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "至于它们脸的形像——⟨是⟩人的脸，狮子的脸在右边，属于它们四个；牛的脸在左边，属于它们四个；鹰的脸属于它们四个。",
+  "tokens": [
+    {
+      "surface": "ודמות",
+      "gloss": "至于…的形像"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "它们的脸"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…的脸"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "人"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "和…的脸"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "狮子"
+    },
+    {
+      "surface": "אל",
+      "gloss": "朝着"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "右边"
+    },
+    {
+      "surface": "לארבעתם",
+      "gloss": "属于它们四个"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "和…的脸"
+    },
+    {
+      "surface": "שור",
+      "gloss": "牛"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "从左边"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "属于它们四个"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "和…的脸"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "鹰"
+    },
+    {
+      "surface": "לארבעתן",
+      "gloss": "属于它们四个"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:54.103134177Z",
+  "model": "glm-5.2"
+}

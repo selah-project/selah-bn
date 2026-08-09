@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এলায়িজর ⟨את⟩ পিনহসকে জন্ম দিলেন, পিনহস ⟨את⟩ অবিশুয়কে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "এলায়িজর"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পিনহসকে"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "পিনহস"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "পিনহস"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "অবিশুয়কে"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "অবিশুয়"
+    }
+  ],
+  "timestamp": "2026-08-09T06:38:55.991261520Z",
+  "model": "glm-5.2"
+}

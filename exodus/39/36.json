@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 39,
+  "translation": "⟨את⟩ টেবিল, ⟨את⟩ তার সমস্ত উপকরণ, ও ⟨את⟩ সামনের রুটি।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "টেবিল"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "টেবিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার সমস্ত উপকরণ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "তার উপকরণ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "সামনের রুটি"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "সামনের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:58:13.805570847Z",
+  "model": "glm-5.2"
+}

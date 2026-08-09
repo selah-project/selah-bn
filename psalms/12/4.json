@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "কেটে ফেলুক ইয়াহওয়েহ সমস্ত মসৃণ ওষ্ঠ, ⟨এমন⟩ জিহ্বা যা বড় কথা বলে,",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "কেটে ফেলুক"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ওষ্ঠ"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "মসৃণ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিহ্বা"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "যা বলে"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "বড় কথা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:35:56.571094254Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "যতক্ষণ রাজা ⟨তাঁর⟩ আসনে বিরাজমান, আমার নর্দ সুগন্ধ বিসর্জন ⟨করছে⟩।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "যতক্ষণ"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "⟨তাঁর⟩ আসনে বিরাজমান"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "আমার নর্দ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "বিসর্জন করছে"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "সুগন্ধ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:11.525286042Z",
+  "model": "glm-5.2"
+}

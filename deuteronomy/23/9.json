@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "পুত্ররা যাঁরা তাদের কাছে জন্মাবে — তৃতীয় পুরুষ — তারা ইয়াহওয়েহর সমূহে প্রবেশ করবে।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাঁরা"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "জন্মাবে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের কাছে"
+    },
+    {
+      "surface": "דור",
+      "gloss": "পুরুষ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "প্রবেশ করবে"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তারা"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "সমূহে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:13.571096031Z",
+  "model": "glm-5.2"
+}

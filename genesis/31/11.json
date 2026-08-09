@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "এবং এলোহিমের দূত স্বপ্নে আমাকে বললেন, হে য়াকভ — আর আমি বললাম, আমি ⟨এখানে⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "দূত"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিমের"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "স্বপ্নে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকভ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "আর বললাম"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:36:56.757603989Z",
+  "model": "glm-5.2"
+}

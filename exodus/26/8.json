@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এক পর্দার দৈর্ঘ্য ত্রিশ হাত, এবং এক পর্দার প্রস্থ চার হাত; এক মাপ এগারো পর্দার জন্য।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "দৈর্ঘ্য"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ত্রিশ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "এবং প্রস্থ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "এগারো"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "পর্দার"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:12.840974594Z",
+  "model": "glm-5.2"
+}

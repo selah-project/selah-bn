@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 1:11",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "至于它们的脸和它们的翅膀——从上面分开，各有两个连接着，两个遮盖 ⟨את⟩ 它们的身体。",
+  "tokens": [
+    {
+      "surface": "ופניהם",
+      "gloss": "至于它们的脸"
+    },
+    {
+      "surface": "וכנפיהם",
+      "gloss": "和它们的翅膀"
+    },
+    {
+      "surface": "פרדות",
+      "gloss": "分开"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "从上面"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "各有"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "两个"
+    },
+    {
+      "surface": "חברות",
+      "gloss": "连接着"
+    },
+    {
+      "surface": "איש",
+      "gloss": "每个"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "和两个"
+    },
+    {
+      "surface": "מכסות",
+      "gloss": "遮盖"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "它们的身体"
+    },
+    {
+      "surface": "גויתיהנה",
+      "gloss": "它们的身体"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:54.103275714Z",
+  "model": "glm-5.2"
+}

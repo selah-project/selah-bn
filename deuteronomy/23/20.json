@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "তুমি তোমার ভাইকে নেশক দেবে না — রূপার নেশক, খাদ্যের নেশক, সবকিছুর নেশক যা ধার দেওয়া হয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "তুমি ধার দেবে সুদে"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "তোমার ভাইকে"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "নেশক (সুদ)"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "রূপার"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "নেশক"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খাদ্যের"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "নেশক"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সবকিছুর"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বস্তুর"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ধার দেওয়া হয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:31.698266343Z",
+  "model": "glm-5.2"
+}

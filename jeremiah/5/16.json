@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তাদের তূণীর ⟨হয়⟩ খোলা কবরের মতো; তারা সকলেই পরাক্রমশালী।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "তাদের তূণীর"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "কবরের মতো"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "খোলা"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "তারা সকলেই"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "পরাক্রমশালী"
+    }
+  ],
+  "timestamp": "2026-08-09T14:14:23.829487854Z",
+  "model": "glm-5.2"
+}

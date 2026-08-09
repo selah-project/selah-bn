@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "দাসেরা আমাদের উপর শাসন করল, ⟨কেউ⟩ তাদের হাত থেকে ⟨আমাদের⟩ উদ্ধার করছে না।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "দাসেরা"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "শাসন করল"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "আমাদের উপর"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "উদ্ধার করছে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "না"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "তাদের হাত থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:36.743752749Z",
+  "model": "glm-5.2"
+}

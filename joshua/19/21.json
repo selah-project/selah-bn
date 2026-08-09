@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং রেমেৎ, এবং এন-গান্নিম, এবং এন-চদ্দা, এবং বেইৎ-পাষেষ।",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "এবং রেমেৎ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "এবং এন"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-গান্নিম"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "এবং এন"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "-চদ্দা"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "এবং বেইৎ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "-পাষেষ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:06.827665782Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "আমরিয়, মল্লূখ, হত্তূশ।",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "আমরিয়"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "মল্লূখ"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "হত্তূশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:36:20.118716324Z",
+  "model": "glm-5.2"
+}

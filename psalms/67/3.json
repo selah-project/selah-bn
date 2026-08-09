@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 67:3",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 67,
+  "translation": "পৃথিবীতে ⟨তোমার⟩ পথ জানার জন্য, সমস্ত জাতিসমূহে ⟨তোমার⟩ মুক্তি।",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "জানার জন্য"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "পৃথিবীতে"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতিসমূহে"
+    },
+    {
+      "surface": "ישועתך",
+      "gloss": "মুক্তি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:41:00.155611266Z",
+  "model": "glm-5.2"
+}

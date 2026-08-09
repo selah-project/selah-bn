@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আকাশের পাখি ও সমুদ্রের মাছ, সমুদ্রের পথ দিয়ে যাতায়াতকারী ⟨সব কিছু⟩।",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "আকাশের"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ও মাছ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সমুদ্রের"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "যাতায়াতকারী"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "সমুদ্রের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:31:50.453119110Z",
+  "model": "glm-5.2"
+}

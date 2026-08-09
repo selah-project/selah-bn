@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর আমি ফিরলাম ও আমার চোখ তুললাম এবং দেখলাম, আর দেখ, ⟨এক⟩ উড়ন্ত মহাগ্রন্থ।",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "আর আমি ফিরলাম"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "ও তুললাম"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "আমার চোখ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "এবং দেখলাম"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "মহাগ্রন্থ"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "উড়ন্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:08.422319232Z",
+  "model": "glm-5.2"
+}

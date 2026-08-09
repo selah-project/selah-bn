@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "খামের ⟨পুত্ররা⟩: কূশ, মিৎসরায়িম, পুত ও কনান।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "חם",
+      "gloss": "খামের"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কূশ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "মিৎসরায়িম"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "পুত"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "কনান"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:08.027331921Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আর মিৎসরায়িমের উপর এক নতুন রাজা উঠলেন, যিনি ইয়োসেফকে চিনতেন না।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "আর উঠলেন"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "নতুন"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎসরায়িমের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিনি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "চিনতেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়োসেফকে"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ইয়োসেফ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:44:18.469788867Z",
+  "model": "glm-5.2"
+}

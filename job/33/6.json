@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "দেখ, আমি এল-এর কাছে তোমার মতো; আমিও মাটি থেকে গড়া।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "তোমার মতো"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "এল-এর কাছে"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "মাটি থেকে"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "গড়া"
+    },
+    {
+      "surface": "גם",
+      "gloss": "আমিও"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨আমি⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T06:12:51.463371107Z",
+  "model": "glm-5.2"
+}

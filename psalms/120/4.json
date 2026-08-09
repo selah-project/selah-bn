@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 120,
+  "translation": "বীরের ধারালো তীর, রিতম-গাছের অঙ্গারের সঙ্গে।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "তীর"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "বীরের"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ধারালো"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "অঙ্গার"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "রিতম-গাছের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:52:55.203911632Z",
+  "model": "glm-5.2"
+}

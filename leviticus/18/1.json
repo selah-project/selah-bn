@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "ইয়াহওয়েহ মোশের সঙ্গে কথা বললেন, বলে যে—",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে—"
+    }
+  ],
+  "timestamp": "2026-08-09T03:04:06.136266428Z",
+  "model": "glm-5.2"
+}

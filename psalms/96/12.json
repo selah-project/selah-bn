@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 96,
+  "translation": "উল্লসিত হোক সদাই ও সব ⟨যা⟩ তাতে ⟨আছে⟩, তখন স্তব করবে বনের সব গাছ।",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "উল্লসিত হোক"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "সদাই"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ও সব"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨যা⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "স্তব করবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "গাছ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "বনের"
+    }
+  ],
+  "timestamp": "2026-08-09T17:11:20.055502713Z",
+  "model": "glm-5.2"
+}

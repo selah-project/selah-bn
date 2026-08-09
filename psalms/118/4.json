@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 118:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 118,
+  "translation": "বলুক না ইয়াহওয়েহ-ভীরা, যে অনন্তকাল পর্যন্ত ⟨তাঁর⟩ হেসেদ।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "বলুক"
+    },
+    {
+      "surface": "נא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יראי",
+      "gloss": "ভীরা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাল পর্যন্ত"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "হেসেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:19:38.949189315Z",
+  "model": "glm-5.2"
+}

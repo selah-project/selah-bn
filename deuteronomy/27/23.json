@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "অভিশপ্ত ⟨সে⟩ যে তার শ্বশুর-মাতার সঙ্গে শয়ন করে; এবং সমস্ত ⟨হ⟩জাতি বলবে, আমেন।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "অভিশপ্ত"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "শয়ন করে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "তার শ্বশুর-মাতার"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বলবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨হ⟩জাতি"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "আমেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:53.375641663Z",
+  "model": "glm-5.2"
+}

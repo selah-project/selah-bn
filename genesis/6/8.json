@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর নোয়খ ইয়াহওয়েহর চোখে অনুগ্রহ পেলেন।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "আর নোয়খ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "পেলেন"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্রহ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চোখে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:00.214079660Z",
+  "model": "glm-5.2"
+}

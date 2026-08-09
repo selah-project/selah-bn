@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং এসাভ দেখল, যে কনানের মেয়েরা তার পিতা আইসহাকের চোখে খারাপ ⟨ছিল⟩।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "এবং দেখল"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাভ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "খারাপ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "মেয়েরা"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনানের"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "চোখে"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "আইসহাকের"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তার পিতা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:34.987251952Z",
+  "model": "glm-5.2"
+}

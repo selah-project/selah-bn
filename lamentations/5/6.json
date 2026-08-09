@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "মিৎসরায়িমকে হাত ⟨দিয়েছি⟩, আশশূরকে — রুটি পেট ভরে খাওয়ার জন্য।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎসরায়িমকে"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "হাত ⟨দিয়েছি⟩"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "আশশূরকে"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "পেট ভরে খাওয়ার জন্য"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটি"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:39.188417929Z",
+  "model": "glm-5.2"
+}

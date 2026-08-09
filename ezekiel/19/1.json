@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর তুমি ⟨একটি⟩ কিনা তুলে নাও, যিস্রায়েলের নেতাদের জন্য।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "আর তুমি"
+    },
+    {
+      "surface": "שא",
+      "gloss": "তুলে নাও"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "কিনা"
+    },
+    {
+      "surface": "אל",
+      "gloss": "জন্য"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "নেতাদের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "যিস্রায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:07:58.209613396Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ও জানোয়াখ, ও এন-গানিম, তাপ্পুয়াখ, ও হা-এনাম —",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "ও জানোয়াখ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ও এন"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "-গানিম"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "তাপ্পুয়াখ"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "ও হা-এনাম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:25.814786874Z",
+  "model": "glm-5.2"
+}

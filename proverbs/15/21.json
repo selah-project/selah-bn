@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "বোকামি ⟨হল⟩ হৃদয়হীনের আনন্দ, আর বোঝার লোক ⟨নিজের⟩ পথ সোজা করে।",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "বোকামি"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "আনন্দ"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "হীনের"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "আর লোক"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "বোঝার"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "সোজা করে"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "পথ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:00:32.470209683Z",
+  "model": "glm-5.2"
+}

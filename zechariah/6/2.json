@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "প্রথম রথে ⟨ה⟩⟩⟩ লাল ঘোড়া ছিল, আর দ্বিতীয় রথে কালো ঘোড়া।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "রথে"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "প্রথম"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোড়া"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "লাল"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "আর রথে"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ঘোড়া"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "কালো"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:53.038062651Z",
+  "model": "glm-5.2"
+}

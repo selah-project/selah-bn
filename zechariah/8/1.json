@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "এবং ইয়াহওয়েহ সেনাবাহিনীর বাক্য ⟨মানুষের কাছে⟩ এল, ⟨যিনি⟩ বললেন:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং এল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "সেনাবাহিনীর"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:42.922842087Z",
+  "model": "glm-5.2"
+}

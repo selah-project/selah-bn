@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "তাই য়েরেদের সমস্ত দিনসমূহ হলো দুই ও ষাট বছর ও নয়শ বছর, ও তিনি মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "তাই হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "য়েরেদের"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ও ষাট"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ও নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ও মারা গেলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T13:50:51.649108852Z",
+  "model": "glm-5.2"
+}

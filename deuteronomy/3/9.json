@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "দ্বীপবাসীরা হারমোনকে ডাকে সিরইয়োন, আর আমোরীয়রা তাকে ডাকে শনির।",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "দ্বীপবাসীরা"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ডাকে"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "হারমোনকে"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "সিরইয়োন"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "আর আমোরীয়রা"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ডাকে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "শনির"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:19.423220804Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "ইস্রায়েলের গৃহের যে কোনো মানুষ যে শিবিরে গরু বা ভেড়া বা ছাগল জবাই করে, অথবা যে শিবিরের বাইরে জবাই করে —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "যে কোনো"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "গৃহের"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "জবাই করে"
+    },
+    {
+      "surface": "שור",
+      "gloss": "গরু"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ভেড়া"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ছাগল"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "শিবিরে"
+    },
+    {
+      "surface": "או",
+      "gloss": "অথবা"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "জবাই করে"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "বাইরে"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "শিবিরের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:04:34.851725265Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বেৎসাই-এর পুত্ররা — তিনশত বিশ তিনজন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "বেৎসাই"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "এবং তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:49.293916355Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং তুমি ⟨সেগুলো⟩ লিখবে তোমার বাড়ির দরজার চৌকাঠে ও তোমার ফটকে।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "এবং তুমি লিখবে"
+    },
+    {
+      "surface": "על",
+      "gloss": "—এর উপর"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "দরজার চৌকাঠ"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "তোমার বাড়ির"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ও তোমার ফটকে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:25.745156326Z",
+  "model": "glm-5.2"
+}

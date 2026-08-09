@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তোমার দুই স্তন দুই হরিণশাবকের মতো, এক মৃগীর যমজ।",
+  "tokens": [
+    {
+      "surface": "שְׁנֵ֥י",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "שָׁדַ֛יִךְ",
+      "gloss": "তোমার স্তন"
+    },
+    {
+      "surface": "כִּשְׁנֵ֥י",
+      "gloss": "দুই-এর মতো"
+    },
+    {
+      "surface": "עֳפָרִ֖ים",
+      "gloss": "হরিণশাবক"
+    },
+    {
+      "surface": "תָּאֳמֵ֥י",
+      "gloss": "যমজ"
+    },
+    {
+      "surface": "צְבִיָּֽה",
+      "gloss": "মৃগী"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:24.626742516Z",
+  "model": "glm-5.2"
+}

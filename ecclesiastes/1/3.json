@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "মানুষের কী লাভ তার সমস্ত শ্রমে, যা সে ⟨সূর্যের⟩ নিচে করে?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "עמলו",
+      "gloss": "শ্রমে"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "যা সে করে"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্যের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:46.822679487Z",
+  "model": "glm-5.2"
+}

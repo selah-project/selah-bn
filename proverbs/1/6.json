@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 1:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "নীতিবাক্য ও রূপক ⟨বুঝতে⟩, জ্ঞানীদের বাক্য ও তাদের ধাঁধা।",
+  "tokens": [
+    {
+      "surface": "להבין",
+      "gloss": "⟨বুঝতে⟩"
+    },
+    {
+      "surface": "משל",
+      "gloss": "নীতিবাক্য"
+    },
+    {
+      "surface": "ומליצה",
+      "gloss": "ও"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "রূপক"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "জ্ঞানীদের"
+    },
+    {
+      "surface": "וחידתם",
+      "gloss": "বাক্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:56:38.140721675Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 15:44",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ও কেইলা, ও আখতসিব, ও মারেশা — নগর নয়, ও ⟨তাদের⟩ গ্রামসমূহ।",
+  "tokens": [
+    {
+      "surface": "וקעילה",
+      "gloss": "ও কেইলা"
+    },
+    {
+      "surface": "ואכזיב",
+      "gloss": "ও আখতসিব"
+    },
+    {
+      "surface": "ומראשה",
+      "gloss": "ও মারেশা"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ও গ্রামসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:12.996770669Z",
+  "model": "glm-5.2"
+}

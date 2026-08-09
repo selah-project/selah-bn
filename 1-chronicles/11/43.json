@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "হানান মাআখার পুত্র এবং যোশাফত হামিতনী।",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "হানান"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "মাআখার"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "এবং যোশাফত"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "হামিতনী"
+    }
+  ],
+  "timestamp": "2026-08-09T14:32:38.065219202Z",
+  "model": "glm-5.2"
+}

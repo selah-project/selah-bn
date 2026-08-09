@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "এবং ইয়াহওয়েহ মোশেকে বললেন, বলছি:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলছি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:06:16.626834466Z",
+  "model": "glm-5.2"
+}

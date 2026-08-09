@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "য়েতুর, নাফিশ, ও ক়েদেমা। এইিশক্ত য়িশমায়েলের পুত্ররা।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "য়েতুর"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "নাফিশ"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ও ক়েদেমা"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨তারা⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "য়িশমায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:38.425033126Z",
+  "model": "glm-5.2"
+}

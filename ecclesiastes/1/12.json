@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আমি কোহেলেত য়েরুশালায়িমে ইয়িসরায়েলের উপর রাজা ছিলাম।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "কোহেলেত"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ছিলাম"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইয়িসরায়েল"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "য়েরুশালায়িমে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:24:02.682601605Z",
+  "model": "glm-5.2"
+}

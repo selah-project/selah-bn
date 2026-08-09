@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "ਕੀ ਲਾਭ ⟨ਉਸਨੂੰ⟩ ⟨ਹੈ⟩ ⟨ਜੋ⟩ ਕੰਮ ਕਰਦਾ ⟨ਹੈ⟩ ਉਸ ਵਿੱਚ ਜਿਸ ਵਿੱਚ ⟨ਉਹ⟩ ਕੰਮ ਕਰਦਾ ⟨ਹੈ⟩?",
+  "tokens": [
+    {
+      "surface": "מַה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יִּתְרוֹן֙",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "הָֽעֹשֶׂ֔ה",
+      "gloss": "কাজ করাটা"
+    },
+    {
+      "surface": "בַּאֲשֶׁ֖ר",
+      "gloss": "যাতে"
+    },
+    {
+      "surface": "ה֥וּא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "עָמֵֽל",
+      "gloss": "কষ্ট করে"
+    }
+  ],
+  "timestamp": "2026-08-09T18:00:04.988692874Z",
+  "model": "glm-5.2"
+}

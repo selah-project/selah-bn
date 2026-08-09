@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং আবিমেলখ ইস্রায়েলের উপর অধিকারী হলেন তিন বছর।",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "এবং অধিকারী হলেন"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "আবিমেলখ"
+    },
+    {
+      "surface": "על",
+      "gloss": "এর উপর"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "বছর"
+    }
+  ],
+  "timestamp": "2026-08-09T08:00:29.390882016Z",
+  "model": "glm-5.2"
+}

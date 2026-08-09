@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "কেউ কি ভাঙতে পারে লোহা — উত্তরের লোহা ও তামা?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ভাঙতে পারে কেউ কি"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "লোহা"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "লোহা"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "উত্তরের"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ও তামা"
+    }
+  ],
+  "timestamp": "2026-08-09T04:49:03.219150429Z",
+  "model": "glm-5.2"
+}

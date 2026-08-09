@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এমনকি এও আমি দেখেছি — সূর্যের নিচে জ্ঞান, এবং ⟨এটা⟩ আমার কাছে বড়:",
+  "tokens": [
+    {
+      "surface": "גַּם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "זֹ֛ה",
+      "gloss": "এও"
+    },
+    {
+      "surface": "רָאִ֥יתִי",
+      "gloss": "আমি দেখেছি"
+    },
+    {
+      "surface": "חָכְמָ֖ה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "הַשָּׁ֑מֶשׁ",
+      "gloss": "সূর্যের"
+    },
+    {
+      "surface": "וּגְדוֹלָ֥ה",
+      "gloss": "এবং বড়"
+    },
+    {
+      "surface": "הִ֖יא",
+      "gloss": "⟨এটা⟩"
+    },
+    {
+      "surface": "אֵלָֽי",
+      "gloss": "আমার কাছে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:35.918997947Z",
+  "model": "glm-5.2"
+}

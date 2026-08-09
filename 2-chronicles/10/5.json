@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "তিনি তাদের বললেন, “আরও তিন দিন, তারপর আমার কাছে ফিরে এসো।” আর লোকসমূহ চলে গেল।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তিনি বললেন"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আরও"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "ফিরে এসো"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "আর ⟨সে⟩ গেল"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকসমূহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:50:06.171512165Z",
+  "model": "glm-5.2"
+}

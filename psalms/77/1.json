@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 77,
+  "translation": "সঙ্গীতনির্দেশকের জন্য, য়েদুথুনের উপর, আসফের এক মযূর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতনির্দেশকের জন্য"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "য়েদুথুন"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "আসফের"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "মযূর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:43:09.245296110Z",
+  "model": "glm-5.2"
+}

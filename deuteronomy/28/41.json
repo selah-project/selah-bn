@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "পুত্র ও কন্যা তুমি জন্ম দেবে, কিন্তু তারা তোমার ⟨হবে⟩ না, কারণ তারা বন্দিত্বে যাবে।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ও কন্যা"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "তুমি জন্ম দেবে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "কিন্তু না"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "তারা হবে"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "তারা যাবে"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "বন্দিত্বে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:31:00.447913443Z",
+  "model": "glm-5.2"
+}

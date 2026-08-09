@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং রেউ বাঁচলেন বত্রিশ বছর, এবং ⟨את⟩-সেরুগ-কে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "এবং বাঁচলেন"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "রেউ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "এবং ত্রিশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "এবং জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সেরুগ-কে"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "সেরুগ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:18.882943482Z",
+  "model": "glm-5.2"
+}

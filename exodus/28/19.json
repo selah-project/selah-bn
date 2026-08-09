@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং তৃতীয় সারিতে — লেশেম, শেভো ও আখলামা।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "এবং সারি"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "লেশেম"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "শেভো"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ও আখলামা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:30.846617624Z",
+  "model": "glm-5.2"
+}

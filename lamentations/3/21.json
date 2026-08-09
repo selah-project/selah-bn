@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এই ⟨জিনিসটি⟩ আমি আমার হৃদয়ে ফিরিয়ে আনি, সেইজন্য ⟨আমি⟩ আশা করি।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "আমি ফিরিয়ে আনি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-el"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "আমার হৃদয়ে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "সেইজন্য"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "আমি আশা করি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:56.112308061Z",
+  "model": "glm-5.2"
+}

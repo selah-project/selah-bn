@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "তবে কি সে শাদ্দায়-তে ⟨সুখ⟩ নেবে? সব সময় এলোয়াহ-কে ডাকবে?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "তবে কি"
+    },
+    {
+      "surface": "על",
+      "gloss": "তে"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "শাদ্দায়"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "সুখ নেবে"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ডাকবে"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "এলোয়াহ-কে"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    }
+  ],
+  "timestamp": "2026-08-09T14:26:35.474159832Z",
+  "model": "glm-5.2"
+}

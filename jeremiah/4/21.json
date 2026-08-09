@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "কতক্ষণ আমি ⟨את⟩ পতাকা দেখব, ⟨את⟩ শিঙার শব্দ শুনব?",
+  "tokens": [
+    {
+      "surface": "עַד",
+      "gloss": "কতক্ষণ"
+    },
+    {
+      "surface": "מָתַ֖י",
+      "gloss": "কখন"
+    },
+    {
+      "surface": "אֶרְאֶה",
+      "gloss": "আমি দেখব"
+    },
+    {
+      "surface": "נֵּ֑ס",
+      "gloss": "পতাকা"
+    },
+    {
+      "surface": "אֶשְׁמְעָ֖ה",
+      "gloss": "আমি শুনব"
+    },
+    {
+      "surface": "ק֥וֹל",
+      "gloss": "শব্দ"
+    },
+    {
+      "surface": "שׁוֹפָֽר",
+      "gloss": "শিঙা"
+    }
+  ],
+  "timestamp": "2026-08-09T04:45:09.305570443Z",
+  "model": "glm-5.2"
+}

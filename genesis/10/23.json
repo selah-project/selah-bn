@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর আরামের পুত্ররা: উৎ, হূল, গেতর ও মশ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "আর পুত্ররা"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "আরামের"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "উৎ"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "হূল"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "গেতর"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "মশ"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:17.270541977Z",
+  "model": "glm-5.2"
+}

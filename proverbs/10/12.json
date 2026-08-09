@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ঘৃণা বিবাদ জাগায়, আর সমস্ত অপরাধের উপর প্রেম ⟨এটাকে⟩ ঢেকে রাখে।",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "ঘৃণা"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "জাগায়"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "বিবাদ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আর … উপর"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "অপরাধ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ঢেকে রাখে"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "প্রেম"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:46.853142488Z",
+  "model": "glm-5.2"
+}

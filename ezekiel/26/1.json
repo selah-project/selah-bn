@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এবং ঘটল — একাদশ বর্ষে, মাসের প্রথম দিনে, ইয়াহওয়েহের ⟨বাক্য⟩ আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "...দশে"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "একে"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাসের"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ছিল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে এল"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:28:57.132721841Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "এবং গেদোর, এবং আহিয়ো, এবং জেখারিয়া, এবং মিকলোত।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "এবং গেদোর"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "এবং আহিয়ো"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "এবং জেখারিয়া"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "এবং মিকলোত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:16.935737181Z",
+  "model": "glm-5.2"
+}

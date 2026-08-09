@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং দ্বিতীয় সারিতে — নোফেখ, সাপ্পির ও য়াহালোম।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "এবং সারি"
+    },
+    {
+      "surface": "השני",
+      "gloss": "দ্বিতীয়"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "নোফেখ"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "সাপ্পির"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ও য়াহালোম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:30.846510144Z",
+  "model": "glm-5.2"
+}

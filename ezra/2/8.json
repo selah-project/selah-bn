@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "জাত্তু-এর ⟨সন্তানেরা⟩, নয়শ পঁয়তাল্লিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "⟨সন্তানেরা⟩"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "জাত্তু"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "וארবעים",
+      "gloss": "এবং চল্লিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "এবং পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:10.352280272Z",
+  "model": "glm-5.2"
+}

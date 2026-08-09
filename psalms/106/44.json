@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 106:44",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 106,
+  "translation": "তবু তিনি তাদের সঙ্কট দেখলেন, তাদের রুদন শোনার সময় ⟨את⟩;",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "তিনি দেখলেন"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "সঙ্কট"
+    },
+    {
+      "surface": "להם",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "בשמעו",
+      "gloss": "শোনার সময়"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "রুদন"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "তাদের রুদন"
+    }
+  ],
+  "timestamp": "2026-08-09T05:49:06.828255261Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "এবং এই কথাটি পাপে পরিণত হলো; এবং জনগণ সেই একটির সামনে দান পর্যন্ত গেল।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং হলো"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "এই কথাটি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "পাপে"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "এবং গেল"
+    },
+    {
+      "surface": "העם",
+      "gloss": "জনগণ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "সেই একটির"
+    },
+    {
+      "surface": "עד",
+      "gloss": "পর্যন্ত"
+    },
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    }
+  ],
+  "timestamp": "2026-08-09T04:14:09.541371613Z",
+  "model": "glm-5.2"
+}

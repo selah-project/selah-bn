@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "মোশের পুত্রেরা — গেরশোম ও ⟨এলিয়েজার⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশের"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "গেরশোম"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "ও এলিয়েজার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:48.549668732Z",
+  "model": "glm-5.2"
+}

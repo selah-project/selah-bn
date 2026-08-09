@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর শৌল দূতদের পাঠাল ⟨কে⟩ দাভিদকে ধরে আনতে, এবং ⟨সে⟩ বলল, “⟨সে⟩ অসুস্থ।”",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "আর পাঠাল"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শৌল"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "দূতদের"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "ধরে আনতে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "দাভিদকে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "অসুস্থ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T03:55:12.616807422Z",
+  "model": "glm-5.2"
+}

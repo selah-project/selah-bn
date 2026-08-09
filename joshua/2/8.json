@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং তারা এখনও শুয়ে পড়েনি এবং সে তাদের কাছে উঠে গেল, ছাদের উপর।",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "এবং তারা"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "এখনও না"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "শুয়ে পড়েছে"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "এবং সে"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "উঠে গেল"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "তাদের কাছে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "⟨সেই⟩ ছাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:54.397929249Z",
+  "model": "glm-5.2"
+}

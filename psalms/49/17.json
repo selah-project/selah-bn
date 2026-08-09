@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "ভয় করো না যখন ধনবান হয় ⟨একজন⟩ মানুষ, যখন বৃদ্ধি পায় ⟨তার⟩ গৃহের গৌরব;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ভয় করো"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ধনবান হয়"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "বৃদ্ধি পায়"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "গৌরব"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "তার গৃহের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:51.389195492Z",
+  "model": "glm-5.2"
+}

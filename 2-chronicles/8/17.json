@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "তখন শলোমোহ গেলেন এৎসিয়ন-গেবের ও এইলোতে, সমুদ্রের তীরে, এদোম দেশে।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "গেলেন"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "এৎসিয়ন(-"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-গেবের)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "এইলোতে"
+    },
+    {
+      "surface": "על",
+      "gloss": "-এ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "তীরে"
+    },
+    {
+      "surface": "הים",
+      "gloss": "সমুদ্রের"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-08-09T14:34:45.842669497Z",
+  "model": "glm-5.2"
+}

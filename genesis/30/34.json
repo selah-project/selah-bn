@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "তখন লাবান বলল, “দেখো, হকা তোমার কথামতো হয়।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তখন বলল"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লাবান"
+    },
+    {
+      "surface": "הן",
+      "gloss": "দেখো"
+    },
+    {
+      "surface": "לו",
+      "gloss": "হকা"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "হয়"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "তোমার কথামতো"
+    }
+  ],
+  "timestamp": "2026-08-09T09:46:05.667321794Z",
+  "model": "glm-5.2"
+}

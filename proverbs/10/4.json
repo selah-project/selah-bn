@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "অলস হাত দারিদ্র্য সৃষ্টি করে, আর পরিশ্রমীদের হাত ধনী করে।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "দারিদ্র্য সৃষ্টি করে"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কাজ করে"
+    },
+    {
+      "surface": "ছף",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "অলস"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "আর হাত"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "পরিশ্রমীদের"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ধনী করে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:43:22.129002184Z",
+  "model": "glm-5.2"
+}

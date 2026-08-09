@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর নখশোন ⟨את⟩ সালমাকে জন্ম দিলেন; এবং সালমা ⟨את⟩ বোয়াজকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "আর নখশোন"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সালমাকে"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "সালমা"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "এবং সালমা"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বোয়াজকে"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "বোয়াজ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:48.639060063Z",
+  "model": "glm-5.2"
+}

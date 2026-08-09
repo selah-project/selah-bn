@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "সামান্যের জন্য আমি ছিলাম সর্ব অশুভের মাঝে, সমাজ ও মণ্ডলীর মধ্যে।",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "সামান্যের জন্য"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "আমি ছিলাম"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "সর্ব"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অশুভের মাঝে"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "মধ্যে"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "সমাজ"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ও মণ্ডলীর"
+    }
+  ],
+  "timestamp": "2026-08-09T09:20:15.851993309Z",
+  "model": "glm-5.2"
+}

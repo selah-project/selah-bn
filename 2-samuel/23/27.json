@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আবিয়েজের অনতোথীয়, মেবুন্নাই হুশতীয়।",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "আবিয়েজের"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "অনতোথীয়"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "মেবুন্নাই"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "হুশতীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T04:07:22.065107575Z",
+  "model": "glm-5.2"
+}

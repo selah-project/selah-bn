@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর আহারোন ⟨ছিলেন⟩ একশো তেইশ বছর বয়স্ক, তাঁর মৃত্যুর সময়ে, হোর পর্বতে।",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "আর আহারোন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "বয়স্ক"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "এবং বিশ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "এবং একশো"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "তাঁর মৃত্যুর সময়ে"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পর্বতে"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "হোর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:57.999285357Z",
+  "model": "glm-5.2"
+}

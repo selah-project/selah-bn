@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 80,
+  "translation": "কেন তুমি ⟨তার⟩ বেড়া ভেঙেছ, এবং পথের সব যাত্রী ⟨তাকে⟩ খুবলে নেয়?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "তুমি ভেঙেছ"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "তার বেড়া"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "এবং খুবলে নেয়"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "যাত্রী"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:44:29.272135748Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তখন আমি বললাম, “আহা! আদোনাই ইয়াহওয়েহ, দেখুন, আমি জানি নে কথা বলতে, কারণ আমি ⟨একজন⟩ বালক।”",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "এবং আমি বললাম"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "আহা!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আদোনাই"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "দেখুন"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "আমি জানি"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা বলতে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T04:43:47.508681272Z",
+  "model": "glm-5.2"
+}

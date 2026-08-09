@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "কাঁটা ⟨যে⟩ মাতালের হাতে উঠে, এবং উপমা বোকাদের মুখে।",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "কাঁটা"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "উঠে"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "মাতালের"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "এবং উপমা"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "মুখে"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "বোকাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:41.550026649Z",
+  "model": "glm-5.2"
+}

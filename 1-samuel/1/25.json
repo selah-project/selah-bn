@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "তাঁরা ⟨את⟩ ষাঁড় জবাই করল এবং ⟨את⟩ বালককে এলির কাছে নিয়ে এল।",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "তাঁরা জবাই করল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ষাঁড়"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ষাঁড়"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "এবং তাঁরা নিয়ে এল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বালককে"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "এলি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:49:45.619463056Z",
+  "model": "glm-5.2"
+}

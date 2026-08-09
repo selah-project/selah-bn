@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একটি স্বর্ণের তালি দশ ⟨শেকেল⟩ ওজনে, ধূপে পূর্ণ।",
+  "tokens": [
+    {
+      "surface": "כַּ֥ף",
+      "gloss": "তালি"
+    },
+    {
+      "surface": "אַחַ֛ת",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "עֲשָׂרָ֥ה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זָהָ֖ב",
+      "gloss": "স্বর্ণের"
+    },
+    {
+      "surface": "מְלֵאָ֥ה",
+      "gloss": "পূর্ণ"
+    },
+    {
+      "surface": "קְטֹֽרֶת",
+      "gloss": "ধূপে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:31.879824431Z",
+  "model": "glm-5.2"
+}

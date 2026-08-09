@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 132,
+  "translation": "যদি আমি আমার চোখে ঘুম দিই, আমার চোখের পাতায় তন্দ্রা —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "যদি"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "আমি দিই"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ঘুম"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "আমার চোখে"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "আমার চোখের পাতায়"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "তন্দ্রা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:44.499120407Z",
+  "model": "glm-5.2"
+}

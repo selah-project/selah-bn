@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর অবিশুয় ⟨את⟩ বুক্কিকে জন্ম দিলেন, আর বুক্কি ⟨את⟩ উজ্জিকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "আর অবিশুয়"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "বুক্কিকে"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "বুক্কি"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "আর বুক্কি"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "উজ্জিকে"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "উজ্জি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:38:55.991458104Z",
+  "model": "glm-5.2"
+}

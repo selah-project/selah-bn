@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আর যদি তুমি নয়র করতে বিরত থাও, ⟨তোমার⟩ মধ্যে পাপ থাকবে না।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "তুমি বিরত থাও"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "নয়র করতে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "בך",
+      "gloss": "তোমার মধ্যে"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "পাপ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:06:46.402628800Z",
+  "model": "glm-5.2"
+}

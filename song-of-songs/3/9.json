@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "एक पालकी রাজা শলোমো ⟨নিজের জন্য⟩ বানালেন, লেবাননের কাঠ থেকে।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "এক পালকী"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "বানালেন"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨নিজের জন্য⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমো"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "কাঠ থেকে"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "লেবাননের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:15:42.716245563Z",
+  "model": "glm-5.2"
+}

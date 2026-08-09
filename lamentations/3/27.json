@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "উত্তম পুরুষের জন্য ⟨কে⟩ ⟨সে⟩ যুবকে করে জুয়াল বহন করে।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "পুরুষের জন্য"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "বহন করে"
+    },
+    {
+      "surface": "על",
+      "gloss": "জুয়াল"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "যুবকে করে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:18:49.963501825Z",
+  "model": "glm-5.2"
+}

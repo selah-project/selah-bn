@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "আরখ-এর সন্তানেরা — ছয়শো বাহান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "সন্তানেরা"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "আরখ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:21.215285964Z",
+  "model": "glm-5.2"
+}

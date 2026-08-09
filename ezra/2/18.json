@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "যোরাহ-র পুত্ররা — একশত বারো জন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "যোরাহ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "একশত"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:49.294177296Z",
+  "model": "glm-5.2"
+}

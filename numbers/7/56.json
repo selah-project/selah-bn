@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "একটি সোনার দশ-শেকেলের হাতা ধূপে ভর্তি।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "হাতা"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "সোনার"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভর্তি"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ধূপে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:11:23.929655349Z",
+  "model": "glm-5.2"
+}

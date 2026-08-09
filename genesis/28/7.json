@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "এবং ⟨যে⟩ যাকোব তার পিতার ও তার মায়ের কথা শুনেছে এবং পদ্দন-অরামে চলে গেছে —",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "এবং শুনেছে"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "যাকোব"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "তার পিতার"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "তার মায়ের"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "এবং চলে গেছে"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "পদ্দন-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "অরামে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:34.987140903Z",
+  "model": "glm-5.2"
+}

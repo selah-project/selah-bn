@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "বন্যামিনের সন্তানরা — ঢাল ও বর্শাধারী ছয় হাজার আটশ, সেনাবাহিনীর জন্য সজ্জিত।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…-এর সন্তানরা"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "বন্যামিন"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ধারী"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ঢাল"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ও বর্শা"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ও আট"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "সজ্জিত"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "সেনাবাহিনীর জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T06:42:22.569131761Z",
+  "model": "glm-5.2"
+}

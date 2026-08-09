@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এক পর্দার দৈর্ঘ্য আটাশ হাত হবে, এবং এক পর্দার প্রস্থ চার হাত — সব ⟨পর্দার⟩ জন্য একই মাপ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "দৈর্ঘ্য"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ও বিশ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "এবং প্রস্থ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "পর্দার"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "এক"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সব ⟨জন্য⟩"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "⟨পর্দার⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T02:53:10.308165211Z",
+  "model": "glm-5.2"
+}

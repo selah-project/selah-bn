@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আজগাদের পুত্রেরা — এক হাজার দুইশ বাইশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "আজগাদের"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "দুইশ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.680937620Z",
+  "model": "glm-5.2"
+}

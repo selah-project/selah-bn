@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তখন ইয়্যোব উত্তর দিল ও বলল:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন উত্তর দিল"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ইয়্যোব"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বলল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:07:19.584559650Z",
+  "model": "glm-5.2"
+}

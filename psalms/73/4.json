@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 73,
+  "translation": "কারণ ⟨তাদের⟩ মৃত্যুতে ব্যথা নেই, আর তাদের দেহ বলিষ্ঠ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "ব্যথা"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "মৃত্যুতে"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "আর বলিষ্ঠ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "দেহ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:42:16.672053395Z",
+  "model": "glm-5.2"
+}

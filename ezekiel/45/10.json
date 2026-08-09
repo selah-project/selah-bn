@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 45,
+  "translation": "ন্যায্য দাঁড়িপাল্লা ও ন্যায্য এইফা ও ন্যায্য বাথ তোমাদের হও।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "দাঁড়িপাল্লা"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ও এইফা"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ও বাথ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ন্যায্য"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "হও"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "তোমাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:15:26.422852347Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "উরিয়া হখিত্তী — সব মিলিয়ে তেত্রিশ ও সাত।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "উরিয়া"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "হখিত্তী"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব মিলিয়ে"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "তেত্রিশ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ও সাত"
+    }
+  ],
+  "timestamp": "2026-08-09T08:06:16.886533121Z",
+  "model": "glm-5.2"
+}

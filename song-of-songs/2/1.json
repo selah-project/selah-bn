@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমি ⟨হবাত্সেলেত⟩ হাশারোণের, আমি উপত্যকার শোশনত।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "⟨হবাত্সেলেত⟩"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "হাশারোণের"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "শোশনত"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "উপত্যকার"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:06.183586320Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "উত্তম চোখের অধিকারী ⟨সে⟩ ধন্য হবে, কারণ ⟨সে⟩ দরিদ্রকে নিজের রুটি থেকে দেয়।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "উত্তম"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ধন্য হবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "দেয়"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "নিজের রুটি থেকে"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "দরিদ্রকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:03.573592238Z",
+  "model": "glm-5.2"
+}

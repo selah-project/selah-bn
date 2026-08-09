@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "ঠাণ্ডা জল ⟨ক⟩ ক্লান্ত প্রাণের উপর, এবং দূর দেশ থেকে ⟨আসা⟩ সুসংবাদ ⟨সেই⟩।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ঠাণ্ডা"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্রাণের"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ক্লান্ত"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "এবং সংবাদ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "সু"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "দেশ থেকে"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "দূর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:45.612549844Z",
+  "model": "glm-5.2"
+}

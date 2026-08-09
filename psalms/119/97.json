@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 119,
+  "translation": "কত ভালোবাসি আমি তোমার তোরাহ! সারা দিন এটাই আমার ধ্যান।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কত"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ভালোবাসি আমি"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "তোমার তোরাহ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সারা"
+    },
+    {
+      "surface": "היום",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "היא",
+      "gloss": "এটাই"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "আমার ধ্যান"
+    }
+  ],
+  "timestamp": "2026-08-09T05:53:00.051972702Z",
+  "model": "glm-5.2"
+}

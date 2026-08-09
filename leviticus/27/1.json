@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "আর ইয়াহওয়েহ মোশেকে উদ্দেশ করে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "আর কথা বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "উদ্দেশ করে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:08:35.683603328Z",
+  "model": "glm-5.2"
+}

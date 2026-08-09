@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "বীর ও যুদ্ধের লোক, বিচারক ও নবী, জ্যোতিষী ও বৃদ্ধ —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "বীর"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ও লোক"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "যুদ্ধের"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "বিচারক"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ও নবী"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ও জ্যোতিষী"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ও বৃদ্ধ"
+    }
+  ],
+  "timestamp": "2026-08-09T04:28:07.101274498Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "এবং এটিও ⟨একটি⟩ দুর্বল বিপদ — সে যেমন ⟨এসেছিল⟩, ঠিক তেমনই চলে যাবে, আর ⟨এর⟩ কী লাভ তার যে সে বায়ুর জন্য ⟨কাজ⟩ করে?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "এবং এটিও"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এটি"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "বিপদ"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "দুর্বল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ঠিক তেমনই"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "যেমন"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "এসেছিল"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তেমনই"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "চলে যাবে"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "আর কী"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "লাভ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "সে ⟨কাজ⟩ করে"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "বায়ুর জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T14:28:22.344567377Z",
+  "model": "glm-5.2"
+}

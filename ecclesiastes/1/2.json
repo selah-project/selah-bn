@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "“হাভেল হাভেলিম,” বলে কোহেলেত, “হাভেল হাভেলিম — ⟨এর⟩ সবই হাভেল।”",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "হাভেল"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "হাভেলিম"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলে"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "কোহেলেত"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হাভেল"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "হাভেলিম"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "সবই"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "হাভেল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:46.822530946Z",
+  "model": "glm-5.2"
+}

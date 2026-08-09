@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "যিহূদা ও বিন্যামিন, এবং শমায়া ও যিরমিয়।",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদা"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ও বিন্যামিন"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "এবং শমায়া"
+    },
+    {
+      "surface": "וגרמיה",
+      "gloss": "ও যিরমিয"
+    }
+  ],
+  "timestamp": "2026-08-09T06:35:53.403549181Z",
+  "model": "glm-5.2"
+}

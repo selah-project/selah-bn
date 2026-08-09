@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "ইম্মেরের পুত্রেরা: এক হাজার বাহান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ইম্মের"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "এক হাজার"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:36.084324056Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 2:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং তাঁর সৈন্যদল ও ⟨তাঁর⟩ গণনাকৃত লোক ⟨হল⟩ সাত ও পঞ্চাশ হাজার ও চার শত।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "এবং তাঁর সৈন্যদল"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "ও গণনাকৃত লোক"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "সাত"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ও পঞ্চাশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ও চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    }
+  ],
+  "timestamp": "2026-08-09T03:09:31.121203909Z",
+  "model": "glm-5.2"
+}

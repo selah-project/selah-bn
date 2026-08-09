@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "খাও, হে আমার পুত্র, মধু, কারণ তা ভালো, এবং চোঁয়া মধু ⟨হল⟩ তোমার তালুতে মিষ্টি।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "খাও"
+    },
+    {
+      "surface": "בני",
+      "gloss": "হে আমার পুত্র"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "মধু"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "এবং চোঁয়া মধু"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "মিষ্টি"
+    },
+    {
+      "surface": "על",
+      "gloss": "তে"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "তোমার তালু"
+    }
+  ],
+  "timestamp": "2026-08-09T14:26:57.792429953Z",
+  "model": "glm-5.2"
+}

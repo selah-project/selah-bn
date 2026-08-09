@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "যার ⟨নেই⟩ তার কোনো সেনাপতি, কর্মকর্তা এবং শাসক।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তার"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "সেনাপতি"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "কর্মকর্তা"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "এবং শাসক"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:09.407701973Z",
+  "model": "glm-5.2"
+}

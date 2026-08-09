@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 55,
+  "translation": "দেখ, আমি দূরে পলায়ন করব, আমি নির্জনে বাস করব। সেলা।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "দেখ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "আমি দূরে"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "পলায়ন করব"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "আমি বাস করব"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "নির্জনে"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "সেলা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:38:31.972175703Z",
+  "model": "glm-5.2"
+}

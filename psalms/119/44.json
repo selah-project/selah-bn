@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 119,
+  "translation": "“আমি তোমার তোরাহ সদা রক্ষা করব — অনন্তকাল ও চিরকাল।”",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "রক্ষা করব"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "তোমার তোরাহ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "সদা"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "অনন্তকাল"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "চিরকাল"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:26.489984391Z",
+  "model": "glm-5.2"
+}

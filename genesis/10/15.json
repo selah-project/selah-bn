@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "এবং কনান জন্ম দিল ⟨את⟩ তার প্রথমজাত সীদোন ও ⟨את⟩ হেতকে।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "এবং কনান"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সীদোন"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "সীদোন"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "তার প্রথমজাত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "হেত"
+    },
+    {
+      "surface": "חת",
+      "gloss": "হেত"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:18.865134961Z",
+  "model": "glm-5.2"
+}

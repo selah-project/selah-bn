@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 51:13",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 51,
+  "translation": "হে বহু জলের উপর বাসী, হে ভাণ্ডারে প্রচুর, ⟨তোমার⟩ অন্ত ⟨এসেছে⟩, ⟨তোমার⟩ লোভের ⟨মাপ⟩।",
+  "tokens": [
+    {
+      "surface": "שכנתי",
+      "gloss": "হে বাসী"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জলের"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "বহু"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "প্রচুর"
+    },
+    {
+      "surface": "אוצרת",
+      "gloss": "ভাণ্ডারে"
+    },
+    {
+      "surface": "בא",
+      "gloss": "এসেছে"
+    },
+    {
+      "surface": "קצך",
+      "gloss": "তোমার অন্ত"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "মাপ"
+    },
+    {
+      "surface": "בצעך",
+      "gloss": "তোমার লোভের"
+    }
+  ],
+  "timestamp": "2026-08-09T05:01:42.779323468Z",
+  "model": "glm-5.2"
+}

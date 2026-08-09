@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "য়েরিখোর বংশধরেরা, তিন শ পঁয়তাল্লিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধরেরা"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "য়েরিখোর"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ארবעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:23.553937123Z",
+  "model": "glm-5.2"
+}

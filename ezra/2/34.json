@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "য়েরিখো-র পুত্রেরা, তিনশত পঁয়তাল্লিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "য়েরিখো"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ও পাঁচ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:30:20.738364284Z",
+  "model": "glm-5.2"
+}

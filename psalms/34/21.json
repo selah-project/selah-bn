@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "তিনি রক্ষা করেন তাঁর সমস্ত অস্থি; তাদের মধ্যে একটিও ভাঙা হয় না।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "রক্ষা করেন"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "তাঁর অস্থি"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "তাদের মধ্যে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "ভাঙা হয়"
+    }
+  ],
+  "timestamp": "2026-08-09T05:35:15.226977654Z",
+  "model": "glm-5.2"
+}

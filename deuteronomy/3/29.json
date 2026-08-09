@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আর আমরা ⟨בגיא⟩ উপত্যকায়, ⟨בית פעור⟩-এর মুখে অবস্থান করলাম।",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "আর আমরা অবস্থান করলাম"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "উপত্যকায়"
+    },
+    {
+      "surface": "מול",
+      "gloss": "মুখে"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বাইত"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "পেওর"
+    }
+  ],
+  "timestamp": "2026-08-09T03:23:29.306184495Z",
+  "model": "glm-5.2"
+}

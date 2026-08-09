@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "কারণ এলোহিম প্রতিটি কাজকে ⟨את⟩ বিচারে আনবেন, ⟨এমন⟩ সব গোপন বিষয়ের উপর, তা ভালো হোক বা মন্দ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "প্রতিটি কাজকে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাজকে"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "আনবেন"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "বিচারে"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "গোপন বিষয়ের"
+    },
+    {
+      "surface": "אם",
+      "gloss": "তা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "হোক বা"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:23:06.435897820Z",
+  "model": "glm-5.2"
+}

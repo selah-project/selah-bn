@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "আর যিহূদার রাজার গৃহকে — শোনো ইয়াহওয়েহের বাক্য।",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "আর ... গৃহকে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদার"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    }
+  ],
+  "timestamp": "2026-08-09T04:50:04.808040116Z",
+  "model": "glm-5.2"
+}

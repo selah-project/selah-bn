@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "“রাজা আকাজের মৃত্যুর বছরে এই ভারবাহক-ওলোক হয়েছিল।”",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "বছরে"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুর"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আকাজের"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়েছিল"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ভারবাহক-ওলোক"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T04:31:07.349127723Z",
+  "model": "glm-5.2"
+}

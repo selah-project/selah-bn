@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "একজন দরিদ্র ও জ্ঞানী বালক ⟨এর চেয়ে⟩ ভালো, একজন বৃদ্ধ ও মূর্খ রাজার চেয়ে — যিনি আর সতর্ক হতে জানেন না।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "বালক"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "দরিদ্র"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "এবং জ্ঞানী"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "একজন রাজার চেয়ে"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "বৃদ্ধ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "এবং মূর্খ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যিনি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "জানেন"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "সতর্ক হতে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:19.590848617Z",
+  "model": "glm-5.2"
+}

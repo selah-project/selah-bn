@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 47,
+  "translation": "সঙ্গীতপতিকে, কোরহ-এর ছেলেদের ⟨জন্য⟩, এক মিজমোর।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "সঙ্গীতপতিকে"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ছেলেদের"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ-এর"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "এক মিজমোর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:53.304638012Z",
+  "model": "glm-5.2"
+}

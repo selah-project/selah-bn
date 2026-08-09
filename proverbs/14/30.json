@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "মাংসপেশির জীবন—শান্ত হৃদয়; আর হাড়ের পচন—ঈর্ষা।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "জীবন"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "মাংসপেশির"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "শান্ত"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "আর পচন"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "হাড়ের"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ঈর্ষা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:41.977453687Z",
+  "model": "glm-5.2"
+}

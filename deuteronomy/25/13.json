@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "তোমার থলিতে এক পাথর ও ⟨এক⟩ পাথর থাকবে না — বড় ও ছোট।",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יִהְיֶ֥ה",
+      "gloss": "থাকবে"
+    },
+    {
+      "surface": "לְךָ֛",
+      "gloss": "তোমার কাছে"
+    },
+    {
+      "surface": "בְּכִֽיסְךָ֖",
+      "gloss": "তোমার থলিতে"
+    },
+    {
+      "surface": "אֶ֣בֶן",
+      "gloss": "পাথর"
+    },
+    {
+      "surface": "וָאָ֑בֶן",
+      "gloss": "ও পাথর"
+    },
+    {
+      "surface": "גְּדוֹלָ֖ה",
+      "gloss": "বড়"
+    },
+    {
+      "surface": "וּקְטַנָּֽה",
+      "gloss": "ও ছোট"
+    }
+  ],
+  "timestamp": "2026-08-09T03:29:45.540311104Z",
+  "model": "glm-5.2"
+}

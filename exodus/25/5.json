@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং লাল রঙ করা ভেড়ার চামড়া, এবং তখষ চামড়া, এবং শিট্টিম কাঠ —",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "এবং চামড়া"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ভেড়ার"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "লাল রঙ করা"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "এবং চামড়া"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "তখষ"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "এবং কাঠ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "শিট্টিম"
+    }
+  ],
+  "timestamp": "2026-08-09T02:52:45.954242075Z",
+  "model": "glm-5.2"
+}

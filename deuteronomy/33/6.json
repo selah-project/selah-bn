@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "“রূবেন বাঁচুক, আর মরবে না; এবং তাঁর লোক সংখ্যায় থাকুক।”",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "বাঁচুক"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "রূবেন"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর ... না"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "মরবে"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "এবং থাকুক"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "তাঁর লোক"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যায়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:33:19.328358419Z",
+  "model": "glm-5.2"
+}

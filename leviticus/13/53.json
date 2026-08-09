@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "আর যদি কোহেন ⟨নিজে⟩ দেখেন ও দেখ, নেগা ⟨টি⟩ বস্ত্রে বা তাঁতের সূত্রে বা ওষণায় বা চামড়ার যেকোনো বাসনে ছড়ায়নি —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "দেখেন"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "কোহেন"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ও দেখ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ছড়ায়নি"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "নেগা"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "বস্ত্রে"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "তাঁতের সূত্রে"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ওষণায়"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "যেকোনো"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "বাসনে"
+    },
+    {
+      "surface": "עור",
+      "gloss": "চামড়ার"
+    }
+  ],
+  "timestamp": "2026-08-09T03:02:35.182670943Z",
+  "model": "glm-5.2"
+}

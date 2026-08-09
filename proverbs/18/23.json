@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "গরিব অনুনয়-বিনয় ⟨করে⟩ কথা বলে, আর ধনী ⟨কঠিনভাবে⟩ উত্তর দেয়।",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "অনুনয়-বিনয়"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "কথা বলে"
+    },
+    {
+      "surface": "רש",
+      "gloss": "গরিব"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "আর ধনী"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "উত্তর দেয়"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "কঠিনভাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:01:36.170763885Z",
+  "model": "glm-5.2"
+}

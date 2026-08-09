@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 92,
+  "translation": "এই কারণে যে ইয়াহওয়েহ সোজা, আমার শিলা, এবং ⟨তাঁহতে⟩ কুটিলতা নেই।",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "এই কারণে যে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "সোজা"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "আমার শিলা"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "কুটিলতা"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨তাঁহতে⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:41:11.741231637Z",
+  "model": "glm-5.2"
+}

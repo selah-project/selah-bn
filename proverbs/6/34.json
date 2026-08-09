@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "কারণ এক পুরুষের ঈর্ষা ⟨হল⟩ ক্রোধ, এবং সে প্রতিশোধের দিনে ছাড় দেবে না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ঈর্ষা"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "⟸হল⟹ ক্রোধ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "এক পুরুষের"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "⟸সে⟹ ছাড় দেবে"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "প্রতিশোধের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:40:51.700858415Z",
+  "model": "glm-5.2"
+}

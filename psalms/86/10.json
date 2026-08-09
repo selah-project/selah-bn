@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 86,
+  "translation": "কারণ তুমি মহান এবং অদ্ভুত কর্ম করো; তুমি একাই এলোহিম।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "এবং করো"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "অদ্ভুত কর্ম"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "אלהিঝ",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "একাই"
+    }
+  ],
+  "timestamp": "2026-08-09T09:20:02.582859431Z",
+  "model": "glm-5.2"
+}

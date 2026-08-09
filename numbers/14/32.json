@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "আর তোমাদের লাশ, তোমরাই, এই মরুভূমিতে পড়বে।”",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "এবং তোমাদের লাশ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমরাই"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "পড়বে"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "মরুভূমিতে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T03:13:24.896629666Z",
+  "model": "glm-5.2"
+}

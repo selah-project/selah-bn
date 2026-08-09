@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "বানির পুত্রেরা — ছশ বিয়াল্লিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বানির"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.680652722Z",
+  "model": "glm-5.2"
+}

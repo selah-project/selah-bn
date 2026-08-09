@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কিন্তু ⟨এই⟩ বিষয়ে তোমরা ইয়াহওয়েহ তোমাদের এলোহিমে ⟨বিশ্বাস করো না⟩।",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "এবং বিষয়ে"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "তোমরা না"
+    },
+    {
+      "surface": "מאמינם",
+      "gloss": "বিশ্বাস করছ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ইয়াহওয়েহে"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "তোমাদের এলোহিম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:23.674235030Z",
+  "model": "glm-5.2"
+}

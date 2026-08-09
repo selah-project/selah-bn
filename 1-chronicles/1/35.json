@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এসভের পুত্রগণ: এলিফাজ, রেউয়েল ও য়েউশ ও য়ালাম ও কোরহ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসভের"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "এলিফাজ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "রেউয়েল"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ও য়েউশ"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ও য়ালাম"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ও কোরহ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:28.771113742Z",
+  "model": "glm-5.2"
+}

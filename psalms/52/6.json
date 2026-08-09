@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 52,
+  "translation": "তুমি ভালোবাসো প্রতিটি গিলে-ফেলা কথা — হে প্রতারণার জিভ!",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "তুমি ভালোবাসো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "গিলে-ফেলা"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "হে জিভ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "প্রতারণার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:39:09.931287748Z",
+  "model": "glm-5.2"
+}

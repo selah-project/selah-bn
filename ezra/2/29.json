@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "নেবোর পুত্ররা, বায়ান্ন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "নেবোর"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "পঞ্চাশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ও দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:29:46.959441496Z",
+  "model": "glm-5.2"
+}

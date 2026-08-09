@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "না এমন ⟨দাঁড়ায়⟩ দুষ্টেরা, বরং তারা ⟨আছে⟩ খোলের মতো, যাকে বাতাস উড়িয়ে নেয়।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כן",
+      "gloss": "এমন"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "দুষ্টেরা"
+    },
+    {
+      "surface": "כי",
+      "gloss": "বরং"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨আছে⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "খোলের মতো"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যাকে"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "উড়িয়ে নেয়"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "বাতাস"
+    }
+  ],
+  "timestamp": "2026-08-09T17:32:16.196892811Z",
+  "model": "glm-5.2"
+}

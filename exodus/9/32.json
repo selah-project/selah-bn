@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "আর গম ও ছোলাবিট আঘাতপ্রাপ্ত হয়নি, কারণ সেগুলি অপরিণত।",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "আর গম"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "ও ছোলাবিট"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "আঘাতপ্রাপ্ত হয়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "অপরিণত"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "সেগুলি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:47:08.720009571Z",
+  "model": "glm-5.2"
+}

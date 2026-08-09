@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 34:8",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "যে অনাচারীদের দলে মিশে যায়, এবং দুষ্ট লোকদের সঙ্গে চলে?",
+  "tokens": [
+    {
+      "surface": "וארח",
+      "gloss": "যে মিশে যায়"
+    },
+    {
+      "surface": "לחברה",
+      "gloss": "দলে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "কর্মীদের"
+    },
+    {
+      "surface": "און",
+      "gloss": "অনাচারের"
+    },
+    {
+      "surface": "וללכת",
+      "gloss": "এবং চলে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "লোকদের"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "দুষ্ট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:13:39.204637479Z",
+  "model": "glm-5.2"
+}

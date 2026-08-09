@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "নূন ⟨তাঁর⟩ পুত্র, যিহোশূয় ⟨তাঁর⟩ পুত্র।",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "নূন"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "যিহোশূয়"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "তাঁর পুত্র"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:08.838154600Z",
+  "model": "glm-5.2"
+}

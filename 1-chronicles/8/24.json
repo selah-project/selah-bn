@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "ওয়াখানানয়াহ, ওয়েইলাম, ওয়ানাতোতিয়াহ —",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ওয়াখানানয়াহ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ওয়েইলাম"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "ওয়ানাতোতিয়াহ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:41.445609118Z",
+  "model": "glm-5.2"
+}

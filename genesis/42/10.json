@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর তারা তাকে বলল, “না, আমার প্রভু; বরং আপনার দাসরা খাদ্য কিনতে এসেছে।”",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "আর তারা বলল"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "আমার প্রভু"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "বরং আপনার দাসরা"
+    },
+    {
+      "surface": "באו",
+      "gloss": "এসেছে"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "কিনতে"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "খাদ্য"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:24.378395482Z",
+  "model": "glm-5.2"
+}

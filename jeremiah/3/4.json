@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "এখন থেকেই কি তুমি আমাকে ডাকোনি — ‘আমার পিতা, তুমিই আমার যৌবনের অভিন্নহার’?”",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "কি না"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "এখন থেকেই"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "ডাকোনি"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "আমার পিতা"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "অভিন্নহার"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "আমার যৌবনের"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমিই"
+    }
+  ],
+  "timestamp": "2026-08-09T04:44:39.040127754Z",
+  "model": "glm-5.2"
+}

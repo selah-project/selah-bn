@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "পশ্চিম দিকে ⟨তিনি⟩ ঘুরে গেলেন; ⟨তিনি⟩ মাপলেন — পাঁচশ নল, মাপের নলে।",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "ঘুরে গেলেন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "দিক"
+    },
+    {
+      "surface": "הים",
+      "gloss": "পশ্চিম"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "মাপলেন"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "পাঁচ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "নল"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "নলে"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "মাপের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:31:05.077499520Z",
+  "model": "glm-5.2"
+}

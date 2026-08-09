@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 25:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "বিংশ ⟨ল⟩ এলিয়াতা, তাঁর পুত্র ও তাঁর ভাই ⟨ছিল⟩ বারো।",
+  "tokens": [
+    {
+      "surface": "לעשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "לאליתה",
+      "gloss": "⟨ল⟩ এলিয়াতা"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "তাঁর পুত্র"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ও তাঁর ভাই"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:32.120062046Z",
+  "model": "glm-5.2"
+}

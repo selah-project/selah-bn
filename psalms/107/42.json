@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 107:42",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 107,
+  "translation": "সরলরা ⟨এটি⟩ দেখবে ও আনন্দ করবে, এবং সব অধর্ম তার মুখ বন্ধ করবে।",
+  "tokens": [
+    {
+      "surface": "יראו",
+      "gloss": "দেখবে"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "সরলরা"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "ও আনন্দ করবে"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "এবং সব"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "অধর্ম"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "বন্ধ করবে"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "তার মুখ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:50:19.841587315Z",
+  "model": "glm-5.2"
+}

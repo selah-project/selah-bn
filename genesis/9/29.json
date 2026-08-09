@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 9,
+  "translation": "তাই নোয়াহ-এর সমস্ত দিনসমূহ ⟨ছিল⟩ নয়শ বছর এবং পঞ্চাশ বছর, আর তিনি মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "তাই হলো"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনসমূহ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "নোয়াহ-এর"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "এবং পঞ্চাশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "আর তিনি মারা গেলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T17:29:51.676555642Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "উত্তরাধিকারের সঙ্গে প্রজ্ঞা ⟨অত্যন্ত⟩ ভালো, এবং সূর্য দেখে এমনদের জন্য এটি লাভজনক।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "প্রজ্ঞা"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "উত্তরাধিকার"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "এবং লাভজনক"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "দেখে এমনদের জন্য"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "সূর্য"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:57.758428571Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর ⟨তিনি⟩ আমাদের এই স্থানে এনে পৌঁছালেন, এবং আমাদের দিলেন ⟨את⟩ এই দেশ, এমন দেশ যা দুধ ও মধুতে প্রবাহিত।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "এনে পৌঁছালেন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এতে"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "স্থান"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "এবং দিলেন"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "আমাদের"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই দেশ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "এই"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "প্রবাহিত"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "দুধ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "এবং মধু"
+    }
+  ],
+  "timestamp": "2026-08-09T03:30:39.165686868Z",
+  "model": "glm-5.2"
+}

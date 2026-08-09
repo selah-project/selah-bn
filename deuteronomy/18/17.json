@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "তখন ইয়াহওয়েহ আমাকে বললেন, “যা তারা বলেছে তা তারা উত্তম বলেছে।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "তখন বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমাকে"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "উত্তম বলেছে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "তারা বলেছে"
+    }
+  ],
+  "timestamp": "2026-08-09T07:55:43.230864757Z",
+  "model": "glm-5.2"
+}

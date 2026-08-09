@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "আর এসাভ বাস করলেন সেয়ির পর্বতে; এসাভ অর্থাৎ এদোম।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "আর এসাভ বাস করলেন"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাভ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "পর্বতে"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "সেয়ির"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসাভ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "অর্থাৎ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "এদোম"
+    }
+  ],
+  "timestamp": "2026-08-09T07:45:11.721202673Z",
+  "model": "glm-5.2"
+}

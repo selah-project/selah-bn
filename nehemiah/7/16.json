@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বেবাই-র পুত্রগণ: ছয়শ আটাব্বিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্রগণ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "বেবাই"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "এবং আট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:23.645106608Z",
+  "model": "glm-5.2"
+}

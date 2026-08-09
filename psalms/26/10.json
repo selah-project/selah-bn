@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "যাদের হাতে ⟨আছে⟩ দুষ্কর্ম, এবং তাদের ডান হাত ভরা ⟨আছে⟩ ঘুষে।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যাদের"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "দুষ্কর্ম"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "এবং তাদের ডান হাত"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ভরা"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ঘুষে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:33:50.059570487Z",
+  "model": "glm-5.2"
+}

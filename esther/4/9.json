@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর হাতাক এল, এবং এসতারকে মর্দোকয়ের ⟨את⟩ কথাসমূহ জানাল।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "আর … এল"
+    },
+    {
+      "surface": "התך",
+      "gloss": "হাতাক"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "এবং … জানাল"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "এসতারকে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "কথাসমূহ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "কথাসমূহ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "মর্দোকয়ের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:23:59.487699923Z",
+  "model": "glm-5.2"
+}

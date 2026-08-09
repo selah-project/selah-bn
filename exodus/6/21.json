@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং যিৎহারের পুত্রেরা ⟨ছিল⟩ কোরহ, নেফেগ ও জিখরি।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং …-এর পুত্রেরা"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "যিৎহার"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "কোরহ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ও নেফেগ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ও জিখরি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:18.378037451Z",
+  "model": "glm-5.2"
+}

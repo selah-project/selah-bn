@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "খোরমাহর রাজা — একজন; আরাদের রাজা — একজন।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "খোরমাহ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    },
+    {
+      "surface": "মלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "আরাদ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:36:47.231263256Z",
+  "model": "glm-5.2"
+}

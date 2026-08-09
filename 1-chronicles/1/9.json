@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং কূশের পুত্র ⟨הם⟩ সেবা, হবীলা, সবতা, রামা ও সবতখা; এবং রামার পুত্র ⟨הם⟩ শবা ও দদন।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং … পুত্র"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "কূশ"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "সেবা"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "ও হবীলা"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "ও সবতা"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "ও রামা"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "ও সবতখা"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "এবং … পুত্র"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "রামা"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "শবা"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "ও দদন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:53:15.502290806Z",
+  "model": "glm-5.2"
+}

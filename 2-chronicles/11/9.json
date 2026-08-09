@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "এবং ⟨את⟩ আদোরায়িম, এবং ⟨את⟩ লাখিশ, এবং ⟨את⟩ আজেকা।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আদোরায়িম"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "আদোরায়িম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "লাখিশ"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "লাখিশ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "আজেকা"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "আজেকা"
+    }
+  ],
+  "timestamp": "2026-08-09T06:49:27.852891838Z",
+  "model": "glm-5.2"
+}

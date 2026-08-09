@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 6:7",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং এই ⟨הে⟩ শস্য উপহার-এর বিধান: আহারোনের পুত্ররা ⟨তা⟩ ইয়াহওয়েহের সামনে উপবেশের মুখের কাছে আনবে।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "এবং এই"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "বিধান"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "শস্য উপহার"
+    },
+    {
+      "surface": "הקרב",
+      "gloss": "আনবে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "তা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখের"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "উপবেশ"
+    }
+  ],
+  "timestamp": "2026-08-09T17:05:51.402408104Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আর এখন, হে পুত্রেরা, আমার কথা শোনো; আর আমার মুখের বাক্য থেকে বিচ্যুত হয়ো না।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "আর এখন"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "হে পুত্রেরা"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার কথা"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "বিচ্যুত হয়ো"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "থেকে বাক্য"
+    },
+    {
+      "surface": "פי",
+      "gloss": "আমার মুখের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:47.604945489Z",
+  "model": "glm-5.2"
+}

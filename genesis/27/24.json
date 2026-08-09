@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং বললেন, তুমি তুমি আমার পুত্র এসভ? এবং সে বলল, আমি।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "זה",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "בני",
+      "gloss": "আমার পুত্র"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "এসভ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "এবং সে বলল"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    }
+  ],
+  "timestamp": "2026-08-09T02:35:17.143508849Z",
+  "model": "glm-5.2"
+}

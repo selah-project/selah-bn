@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "আমি ⟨বলি⟩ — রাজার মুখ ⟨কথায়⟩ সতর্ক থাকো, আর ⟨সেই⟩ এলোহিমের শপথের কারণে ⟨তাঁর প্রতি বিশ্বস্ত থাকো⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "সতর্ক থাকো"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "আর ⟨উপর⟩"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "শপথের"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিমের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:24.439886672Z",
+  "model": "glm-5.2"
+}

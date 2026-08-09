@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আমি অসার ব্যক্তিদের সঙ্গে বসিনি, এবং গোপনশীলদের সঙ্গে আমি যাব না।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "আমি বসিনি"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ব্যক্তিদের"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "অসার"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "এবং সঙ্গে"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "গোপনশীলদের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "আমি যাব"
+    }
+  ],
+  "timestamp": "2026-08-09T05:34:49.588539861Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তাঁর পায়ের নিচে পিষে ফেলা সব বন্দিদের, পৃথিবীর",
+  "tokens": [
+    {
+      "surface": "לְדַכֵּא֙",
+      "gloss": "পিষে ফেলা"
+    },
+    {
+      "surface": "תַּ֣חַת",
+      "gloss": "নিচে"
+    },
+    {
+      "surface": "רַגְלָ֔יו",
+      "gloss": "তাঁর পায়ের"
+    },
+    {
+      "surface": "כֹּ֖ל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אֲסִירֵ֥י",
+      "gloss": "বন্দিদের"
+    },
+    {
+      "surface": "אָֽרֶץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:19:12.344896116Z",
+  "model": "glm-5.2"
+}

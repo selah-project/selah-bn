@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর ইয়াহওয়েহের বাক্য শমায়াহু ⟨নামটি⟩ ঈলোহিমের মানুষের কাছে এল, যে বলছে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর কাছে"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "শমায়াহু"
+    },
+    {
+      "surface": "איש",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ঈলোহিমের"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "যে বলছে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:50:30.147377798Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং ⟨את⟩ ওফির, এবং ⟨את⟩ হাভিলা, এবং ⟨את⟩ যোবব; এই সবাই যক্তনের পুত্র।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "ওফির"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ওফির"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "হাভিলা"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "হাভিলা"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "যোবব"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "যোবব"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "যক্তনের"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:48.706207977Z",
+  "model": "glm-5.2"
+}

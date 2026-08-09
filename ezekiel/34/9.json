@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 34,
+  "translation": "“সেই কারণে, হে রাখালেরা, ইয়াহওয়েহর বাক্য শোন:",
+  "tokens": [
+    {
+      "surface": "לָכֵן",
+      "gloss": "সেই কারণে"
+    },
+    {
+      "surface": "הָרֹעִים",
+      "gloss": "হে রাখালেরা"
+    },
+    {
+      "surface": "שִׁמְעוּ",
+      "gloss": "শোন"
+    },
+    {
+      "surface": "דְּבַר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "ইয়াহওয়েহর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:12:55.731274020Z",
+  "model": "glm-5.2"
+}

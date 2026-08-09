@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 42,
+  "translation": "আর ⟨তিনি⟩ ⟨את⟩ তাদের কারাগারে একত্র করলেন তিন দিনের জন্য।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "আর একত্র করলেন"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "তাদের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর মধ্যে"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "কারাগারে"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:41:30.440493569Z",
+  "model": "glm-5.2"
+}

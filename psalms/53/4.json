@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 53,
+  "translation": "সবাই পিছিয়ে গেছে, একত্রে মলিন হয়েছে; ভালো কর্তা নেই, এমনকি একজনও নয়।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "সবাই"
+    },
+    {
+      "surface": "סג",
+      "gloss": "পিছিয়ে গেছে"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "একত্রে"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "মলিন হয়েছে"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "কর্তা"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "একজনও"
+    }
+  ],
+  "timestamp": "2026-08-09T05:39:12.327014402Z",
+  "model": "glm-5.2"
+}

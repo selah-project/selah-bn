@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "শোনো, পুত্রেরা, পিতার ⟨ছি⟩ শিক্ষা, আর মন দাও ⟨এই⟩ বোঝাপড়া জানতে।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "শিক্ষা"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতার"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "আর মন দাও"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "জানতে"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোঝাপড়া"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:39.417959605Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "দান, ও নাফতালি, গাদ, ও আশের।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "দান"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ও নাফতালি"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গাদ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ও আশের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:11.621710248Z",
+  "model": "glm-5.2"
+}

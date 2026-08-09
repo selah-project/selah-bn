@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "তুমিও মাতাল হবে, গোপন হবে; তুমিও ⟨শত্রুর⟩ কারণে আশ্রয় খুঁজবে।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "তুমিও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "মাতাল হবে"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "গোপন"
+    },
+    {
+      "surface": "גם",
+      "gloss": "তুমিও"
+    },
+    {
+      "surface": "את",
+      "gloss": "তুমি"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "খুঁজবে"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "আশ্রয়"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "⟨শত্রুর⟩"
+    }
+  ],
+  "timestamp": "2026-08-09T08:34:13.599936750Z",
+  "model": "glm-5.2"
+}

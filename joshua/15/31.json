@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "তিকলগ, মদমন্না, এবং সনসন্না।",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "তিকলগ"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "এবং মদমন্না"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "এবং সনসন্না"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:13.264599270Z",
+  "model": "glm-5.2"
+}

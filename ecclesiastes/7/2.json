@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "શોકગૃહમાં જવું મિજબાનીના ઘરમાં જવા કરતાં ઉત્તમ ⟨છે⟩, કેમ કે તે દરેક મનુષ્યનો અંત ⟨છે⟩, અને જીવંત ⟨માણસ⟩ ⟨તેને⟩ ⟨પોતાના⟩ હૃદય પર વિચારશે।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ઉત્તમ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "જવું"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "શોક"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "જવા કરતાં"
+    },
+    {
+      "surface": "אל",
+      "gloss": "માં"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ઘર"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "મિજબાની"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "કેમ કે"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "તે"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "અંત"
+    },
+    {
+      "surface": "כל",
+      "gloss": "દરેક"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "મનુષ્યનો"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "અને જીવંત"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "વિચારશે"
+    },
+    {
+      "surface": "אל",
+      "gloss": "પર"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "તેના હૃદય"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:33.524843928Z",
+  "model": "glm-5.2"
+}

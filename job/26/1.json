@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "তখন আইয়োব উত্তর দিলেন ও বললেন:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "তখন উত্তর দিলেন"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "আইয়োব"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ও বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T09:22:32.144899759Z",
+  "model": "glm-5.2"
+}

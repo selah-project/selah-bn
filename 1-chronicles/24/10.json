@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "সাত নম্বর হাক্কোৎস, আট নম্বর আবিয়াহ।",
+  "tokens": [
+    {
+      "surface": "לְהַקּוֹץ֙",
+      "gloss": "হাক্কোৎস"
+    },
+    {
+      "surface": "הַשְּׁבִעִ֔י",
+      "gloss": "সাত নম্বর"
+    },
+    {
+      "surface": "לַאֲבִיָּ֖ה",
+      "gloss": "আবিয়াহ"
+    },
+    {
+      "surface": "הַשְּׁמִינִֽי",
+      "gloss": "আট নম্বর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:44:34.597862726Z",
+  "model": "glm-5.2"
+}

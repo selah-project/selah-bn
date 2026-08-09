@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "বীরপুরুষদের পিতৃগোষ্ঠী-প্রধানদের সম্পূর্ণ সংখ্যা — দুই হাজার ও ছশো।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সম্পূর্ণ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "সংখ্যা"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "প্রধানদের"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "পিতৃগোষ্ঠী"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "বীরপুরুষদের"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "শক্তির"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ও ছয়"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শত"
+    }
+  ],
+  "timestamp": "2026-08-09T06:54:21.922084211Z",
+  "model": "glm-5.2"
+}

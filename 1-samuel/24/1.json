@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "আর দাভিদ সেখান থেকে উঠে গেলেন এবং এন গেদির দুর্গে বাস করলেন।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "আর উঠে গেলেন"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "সেখান থেকে"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "এবং বাস করলেন"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "দুর্গে"
+    },
+    {
+      "surface": "עין",
+      "gloss": "এন"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "গেদি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:03:46.308155319Z",
+  "model": "glm-5.2"
+}

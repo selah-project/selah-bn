@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "ধার্মিকের মুখ জ্ঞান ⟨ফলায়⟩, কিন্তু বক্রতার জিহ্বা ⟨কর্তিত হবে⟩।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ধার্মিকের"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ফলায়"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "জ্ঞান"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "কিন্তু জিহ্বা"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "বক্রতার"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "কর্তিত হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:42:51.980728694Z",
+  "model": "glm-5.2"
+}

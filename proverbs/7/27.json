@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "শেওলের পথ ⟨সেটির⟩ ঘর, মৃত্যুর কক্ষগুলিতে অবতরণশীল।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শেওলের"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "তার ঘর"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "অবতরণশীল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "কক্ষগুলিতে"
+    },
+    {
+      "surface": "מות",
+      "gloss": "মৃত্যুর"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:25.847287547Z",
+  "model": "glm-5.2"
+}

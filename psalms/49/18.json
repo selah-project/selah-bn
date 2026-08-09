@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "কারণ ⟨তার⟩ মৃত্যুতে ⟨সে⟩ ⟨את⟩ সব কিছু নেবে না, ⟨তার⟩ গৌরব ⟨তার⟩ পিছু নামবে না।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "তার মৃত্যুতে"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "নেবে"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨את⟩",
+      "marks": "সব কিছু"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "নামবে"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "তার পিছু"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "তার গৌরব"
+    }
+  ],
+  "timestamp": "2026-08-09T05:37:51.389404650Z",
+  "model": "glm-5.2"
+}

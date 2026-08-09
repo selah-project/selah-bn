@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "বিশ্বস্ত ⟨হল⟩ প্রিয়জনের আঘাত, আর শত্রুর চুম্বন ⟨হল⟩ প্রচুর।",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "বিশ্বস্ত"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "আঘাত"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "প্রিয়জনের"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "আর প্রচুর"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "চুম্বন"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "শত্রুর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:33.763410457Z",
+  "model": "glm-5.2"
+}

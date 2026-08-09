@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 25:2",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "আসাফ-এর পুত্রদের জন্য: জাক্কুর, যোসেফ, নতন্যা ও আশরেলা — আসাফ-এর পুত্ররা, আসাফ-এর হাতে ⟨আসাফ-এর হাতে⟩, ⟨যিনি⟩ রাজার হাতে ভাববাণী করতেন।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "পুত্রদের জন্য"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসাফ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "জাক্কুর"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ও যোসেফ"
+    },
+    {
+      "surface": "ונתניה",
+      "gloss": "ও নতন্যা"
+    },
+    {
+      "surface": "ואשראלה",
+      "gloss": "ও আশরেলা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসাফ"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "יד",
+      "gloss": "হাত"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "আসাফ"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "⟨who prophesied⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপরে"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:45:54.809188208Z",
+  "model": "glm-5.2"
+}

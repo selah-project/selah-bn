@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "যে চোখ টিপে দুঃখ জোগায়, আর বোকা ঠাট্টাবাজ পতিত হবে।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "টিপে"
+    },
+    {
+      "surface": "עין",
+      "gloss": "চোখ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "জোগায়"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "দুঃখ"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "আর বোকা"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ঠাট্টাবাজ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "পতিত হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:46.852830628Z",
+  "model": "glm-5.2"
+}

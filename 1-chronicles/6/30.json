@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "হশব্যার পুত্র, অমাত্স্যার পুত্র, হিলকিয়র পুত্র।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "হশব্যার"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "অমাত্স্যার"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "হিলকিয়র"
+    }
+  ],
+  "timestamp": "2026-08-09T09:25:47.796302363Z",
+  "model": "glm-5.2"
+}

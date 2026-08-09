@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর মশলেমিয়াহুর ⟨থাকলেন⟩ পুত্র ও ভ্রাতা — বীরপুত্র — আঠারো।",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "আর মশলেমিয়াহুর"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "ও ভ্রাতা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "বীর"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "আট"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:27:23.238340970Z",
+  "model": "glm-5.2"
+}

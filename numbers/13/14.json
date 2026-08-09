@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 13,
+  "translation": "নাফতালি গোত্রের জন্য — নখবি, ভফসির পুত্র।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "গোত্রের জন্য"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "নাফতালি"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "নখবি"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ভফসি"
+    }
+  ],
+  "timestamp": "2026-08-09T03:12:52.124894491Z",
+  "model": "glm-5.2"
+}

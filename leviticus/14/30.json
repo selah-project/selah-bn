@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এবং ⟨তিনি⟩ ⟨ה⟩কবুতরের বা পায়রার ছানাদের মধ্য থেকে ⟨একটি⟩ নিবেদন করবেন — যা তার হাত পৌঁছায়।",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "এবং করবেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "একটি"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "একটি"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "কবুতরের"
+    },
+    {
+      "surface": "או",
+      "gloss": "বা"
+    },
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ছানাদের"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "পায়রার"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "পৌঁছায়"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "তার হাত"
+    }
+  ],
+  "timestamp": "2026-08-09T13:56:24.728407439Z",
+  "model": "glm-5.2"
+}

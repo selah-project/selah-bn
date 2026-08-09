@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "কারণ আমি ইয়াহওয়েহ, আমি বদলাইনি, আর তোমরা য়াকভের পুত্ররা, তোমরা নিঃশেষ হওনি।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "বদলাইনি"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "আর তোমরা"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকভের"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "নিঃশেষ হওনি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:31:36.637578629Z",
+  "model": "glm-5.2"
+}

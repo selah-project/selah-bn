@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "এবং ইয়াহওয়েহ য়েহোশুয়কে উক্তি বললেন:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "য়েহোশুয়কে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "উক্তি বললেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:39:42.762850219Z",
+  "model": "glm-5.2"
+}

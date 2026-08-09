@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "আর প্রজ্ঞা কোথা থেকে আসে? আর বোঝার স্থান এই কোথায়?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "আর প্রজ্ঞা"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "কোথা থেকে"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "আসে"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "আর কোথায়"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "স্থান"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "বোঝার"
+    }
+  ],
+  "timestamp": "2026-08-09T06:11:31.948403308Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "তখন ফরৌয়ের কন্যা তাকে বলল, 'যাও।' আর ⟨সেই⟩ বালিকা গেল এবং ⟨আত⟩ বালকের মাকে ডাকল।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "তখন বলল"
+    },
+    {
+      "surface": "לה",
+      "gloss": "তাকে"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ফরৌয়ের"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "যাও"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "আর গেল"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "বালিকা"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "এবং ডাকল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মাকে"
+    },
+    {
+      "surface": "אם",
+      "gloss": "মা"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "বালকের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:33:11.821501331Z",
+  "model": "glm-5.2"
+}

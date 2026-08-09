@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 39:16",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 39,
+  "translation": "আর সে তার পোশাক তার পাশে রেখে দিল, যতক্ষণ না তার প্রভু তার গৃহে আসলেন।",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "আর সে রেখে দিল"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "তার পোশাক"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "তার পাশে"
+    },
+    {
+      "surface": "עד",
+      "gloss": "যতক্ষণ না"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "আসা"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "তার প্রভু"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "তার গৃহে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:40:10.775651770Z",
+  "model": "glm-5.2"
+}

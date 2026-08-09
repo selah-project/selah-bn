@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "সাতজনকে এক ভাগ দাও, এমনকি আটজনকেও, কারণ তুমি জান না পৃথিবীর উপর কী বিপদ ⟨হবে⟩।",
+  "tokens": [
+    {
+      "surface": "תֶּן",
+      "gloss": "দাও"
+    },
+    {
+      "surface": "חֵ֥לֶק",
+      "gloss": "ভাগ"
+    },
+    {
+      "surface": "לְשִׁבְעָ֖ה",
+      "gloss": "সাতজনকে"
+    },
+    {
+      "surface": "וְגַ֣ם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "לִשְׁמוֹנָ֑ה",
+      "gloss": "আটজনকেও"
+    },
+    {
+      "surface": "כִּ֚י",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לֹ֣א",
+      "gloss": "না"
+    },
+    {
+      "surface": "תֵדַ֔ע",
+      "gloss": "তুমি জান"
+    },
+    {
+      "surface": "מַה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "יִּהְיֶ֥ה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "רָעָ֖ה",
+      "gloss": "বিপদ"
+    },
+    {
+      "surface": "עַל",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "הָאָֽרֶץ",
+      "gloss": "পৃথিবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T06:22:48.791388143Z",
+  "model": "glm-5.2"
+}

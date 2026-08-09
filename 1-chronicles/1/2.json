@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "কেনন, মহললেল, যরেদ।",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "কেনন"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "মহললেল"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "যরেদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:37:04.264618036Z",
+  "model": "glm-5.2"
+}

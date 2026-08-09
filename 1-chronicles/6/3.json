@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং কেহাতের পুত্রেরা: আম্রাম, যিতসহার, হেব্রোন ও উজিয়েল।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্রেরা"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাতের"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "আম্রাম"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "যিতসহার"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "হেব্রোন"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ও উজিয়েল"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:27.762309331Z",
+  "model": "glm-5.2"
+}

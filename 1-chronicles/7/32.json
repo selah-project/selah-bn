@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "এবং খেবের জন্ম দিল ⟨את⟩ য়াফলেত ও ⟨את⟩ শোমের ও ⟨את⟩ খোতাম, এবং ⟨את⟩ শূয়া, তাদের বোন।",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "এবং খেবের"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "জন্ম দিল"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "য়াফলেত"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "য়াফলেত"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "শোমের"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "শোমের"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "খোতাম"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "খোতাম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "এবং ⟨את⟩",
+      "marks": "শূয়া"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "শূয়া"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "তাদের বোন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:40:25.047360758Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "এবং এই লোকের কাছে তুমি বলবে: এই বলেন ইয়াহওয়েহ — দেখ, আমি তোমাদের সামনে রাখছি ⟨את⟩ জীবনের পথ ও ⟨את⟩ মৃত্যুর পথ।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "এবং কাছে"
+    },
+    {
+      "surface": "העם",
+      "gloss": "লোকের"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "תאমר",
+      "gloss": "তুমি বলবে"
+    },
+    {
+      "surface": "כה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "দেখ আমি"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "রাখছি"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "তোমাদের সামনে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "পথ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "জীবনের"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "পথ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "মৃত্যুর"
+    }
+  ],
+  "timestamp": "2026-08-09T04:51:12.229221067Z",
+  "model": "glm-5.2"
+}

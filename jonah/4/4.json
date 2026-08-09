@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর ইয়াহওয়েহ বললেন, ‘তোমার জন্য রাগ করা কি ভাল?’",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ভাল কি"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "রাগ করা"
+    },
+    {
+      "surface": "לך",
+      "gloss": "তোমার জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T05:23:26.177052349Z",
+  "model": "glm-5.2"
+}

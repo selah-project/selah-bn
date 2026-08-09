@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 21,
+  "translation": "“আর ইয়াহওয়েহ মোশেকে সম্বোধন করলেন, বলে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "“আর সম্বোধন করলেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "মোশেকে"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(—)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:05:34.737057202Z",
+  "model": "glm-5.2"
+}

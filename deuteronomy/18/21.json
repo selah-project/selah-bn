@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "আর যদি তুমি তোমার হৃদয়ে বলো, “আমরা কীভাবে জানব ⟨את⟩ সেই বাক্যটি, যা ইয়াহওয়েহ কথ্যন না?”",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "তুমি বলো"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "তোমার হৃদয়ে"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "কীভাবে"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "আমরা জানব"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সেই বাক্যটি"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "সেই বাক্যটি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "কথ্যনন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T09:06:24.299117601Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "শুদ্ধ হৃদয়ের প্রেমী — তার ঠোঁটের অনুগ্রহ ⟨থাকে⟩ — রাজা ⟨তার⟩ বন্ধু।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "প্রেমী"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "শুদ্ধ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়ের"
+    },
+    {
+      "surface": "חן",
+      "gloss": "অনুগ্রহ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "তার ঠোঁটের"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "বন্ধু"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:45:03.573901253Z",
+  "model": "glm-5.2"
+}

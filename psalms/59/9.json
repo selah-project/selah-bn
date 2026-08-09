@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 59,
+  "translation": "আর তুমি, ইয়াহওয়েহ, তাদের হাসবে; সমস্ত জাতির তুমি উপহাস করবে।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "আর তুমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "হাসবে"
+    },
+    {
+      "surface": "למו",
+      "gloss": "তাদের"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "উপহাস করবে"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "জাতির"
+    }
+  ],
+  "timestamp": "2026-08-09T05:40:20.597382781Z",
+  "model": "glm-5.2"
+}

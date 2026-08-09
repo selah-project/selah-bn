@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 115,
+  "translation": "মৃতেরা ইয়াহ-কে স্তুতি করে না, আর না ⟨করে⟩ নীরবতায় নামে যাওয়া সকলে,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "মৃতেরা"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "স্তুতি করে"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ইয়াহ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সকলে"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "নামে যাওয়া"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "নীরবতায়"
+    }
+  ],
+  "timestamp": "2026-08-09T14:24:33.578077155Z",
+  "model": "glm-5.2"
+}

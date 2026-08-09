@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 32:1",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 32,
+  "translation": "এবং ঘটল, দ্বাদশ বছরে, দ্বাদশ মাসে, মাসের এক তারিখে, ইয়াহওয়েহের বাক্য আমার কাছে হল, বলতে যে—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "এবং ঘটল"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "...য়ে"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "বছর"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "...য়ে"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "দশ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "মাস"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "এক তারিখে"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "মাসের"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T09:17:16.047825307Z",
+  "model": "glm-5.2"
+}

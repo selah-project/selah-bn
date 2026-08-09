@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 28,
+  "translation": "মুখমণ্ডল চেনা ⟨হয়⟩ ভাল নয়, এবং ⟨এক⟩ টুকরো রুটির জন্য মানুষ ⟨সীমালঙ্ঘন⟩ করে।",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "চেনা"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "মুখমণ্ডল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভাল"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "এবং জন্য"
+    },
+    {
+      "surface": "פת",
+      "gloss": "টুকরো"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "রুটির"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "সীমালঙ্ঘন করে"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "মানুষ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:52.274411711Z",
+  "model": "glm-5.2"
+}

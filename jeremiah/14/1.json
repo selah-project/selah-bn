@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "যা ইয়াহওয়েহের বাক্য হয়েছিল যিরমিয়াহুর প্রতি, খরার বিষয়ে।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "היה",
+      "gloss": "হয়েছিল"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "যিরমিয়াহুর"
+    },
+    {
+      "surface": "על",
+      "gloss": "বিষয়ে"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "বিষয়"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "খরার"
+    }
+  ],
+  "timestamp": "2026-08-09T04:48:54.294667394Z",
+  "model": "glm-5.2"
+}

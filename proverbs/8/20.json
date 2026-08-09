@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "ধার্মিকতার পথে আমি বিচরণ করি, বিচারের পথগুলির মাঝে।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "...এর পথে"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ধার্মিকতা"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "আমি বিচরণ করি"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "...এর মাঝে"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "পথগুলির"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "বিচার"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:43.933854579Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "কাঁদার সময়, আর হাসার সময়; শোক পালনের সময়, আর নাচের সময়।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "কাঁদার"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "হাসার"
+    },
+    {
+      "surface": "עת",
+      "gloss": "সময়"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "শোক পালনের"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "আর সময়"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "নাচের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:04.380862231Z",
+  "model": "glm-5.2"
+}

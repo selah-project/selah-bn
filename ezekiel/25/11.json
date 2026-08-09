@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "এবং মোয়াবে ⟨আমি⟩ বিচার করব, এবং তারা জানবে যে আমি ইয়াহওয়েহ।",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "এবং মোয়াবে"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "আমি করব"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "বিচার"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "এবং তারা জানবে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T05:09:43.464761104Z",
+  "model": "glm-5.2"
+}

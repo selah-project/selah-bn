@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "কারণ তোমাদের চোখ ⟨আত⟩ সমস্ত ⟨কাজ⟩ দেখেছে, ইয়াহওয়েহর ⟨মহান⟩ কার্য, যা ⟨তিনি⟩ করেছেন —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "তোমাদের চোখ"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "দেখেছে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "সমস্ত"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাজ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহর"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করেছেন"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:30.454198351Z",
+  "model": "glm-5.2"
+}

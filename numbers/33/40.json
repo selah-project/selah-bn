@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 33:40",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 33,
+  "translation": "আর কনানী রাজা ঢার শুনল, সে ⟨যিনি⟩ কনান দেশে নেগেবে বাস করত, বনি ইসরায়েলের আগমনের ⟨কথা⟩।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "আর শুনল"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "কনানী"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ঢার"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "বাস করত"
+    },
+    {
+      "surface": "בנגב",
+      "gloss": "নেগেবে"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "কনান"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "আগমনের"
+    },
+    {
+      "surface": "בני",
+      "gloss": "বনি"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইসরায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:20:57.999415442Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "আমরা এতীম হয়েছি, পিতা নেই; আমাদের মায়েরা ⟨⟨নিজেদের⟩⟩ বিধবাদের মতো।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "এতীম"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "হয়েছি"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নেই"
+    },
+    {
+      "surface": "אב",
+      "gloss": "পিতা"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "আমাদের মায়েরা"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "বিধবাদের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T06:20:42.468723089Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "এবং আহারোনের পুত্ররা ⟨হ⟩ যাজক ⟨হ⟩ বেদিতে আগুন দেবে, এবং ⟨হ⟩ আগুনের উপর কাঠকাঠ সাজাবে।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "এবং দেবে"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোনের"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজক"
+    },
+    {
+      "surface": "אש",
+      "gloss": "আগুন"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "বেদিতে"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "এবং সাজাবে"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "কাঠকাঠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "האש",
+      "gloss": "আগুনের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:58:43.091371154Z",
+  "model": "glm-5.2"
+}

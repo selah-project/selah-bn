@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "তীর ও ধনুকে ⟨মানুষ⟩ সেখানে আসবে; কারণ শমীর ও শায়িত ⟨হবে⟩ সমস্ত পৃথিবী।",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "তীরে"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "ও ধনুকে"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "আসবে"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "শমীর"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "ও শায়িত"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "পৃথিবী"
+    }
+  ],
+  "timestamp": "2026-08-09T08:12:57.755634788Z",
+  "model": "glm-5.2"
+}

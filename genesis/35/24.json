@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 35,
+  "translation": "রাহেলের পুত্ররা — যোসেফ ও বিন্যামীন।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "রাহেলের"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "যোসেফ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ও বিন্যামীন"
+    }
+  ],
+  "timestamp": "2026-08-09T02:39:01.319708791Z",
+  "model": "glm-5.2"
+}

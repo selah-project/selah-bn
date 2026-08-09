@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এটাই মিৎসরায়িমের পাপ এবং সমস্ত জাতির পাপ যারা ⟨את⟩ ⟨আত⟩ উৎসব কুটীর উৎসব পালন করতে না ওঠে।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "এটাই"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "পাপ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "মিৎসরায়িমের"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "এবং পাপ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "জাতির"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যারা"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "ওঠে"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "পালন করতে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨আত⟩",
+      "marks": "উৎসব"
+    },
+    {
+      "surface": "חג",
+      "gloss": "উৎসব"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "কুটীর উৎসব"
+    }
+  ],
+  "timestamp": "2026-08-09T05:29:08.734648293Z",
+  "model": "glm-5.2"
+}

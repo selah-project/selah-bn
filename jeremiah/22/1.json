@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "এই কথা বললেন ইয়াহওয়েহ: যিহূদার রাজার ভবনে নেমে যাও এবং সেখানে ⟨את⟩ এই বাক্যটি কহো,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "এই কথা"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "নেমে যাও"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ভবনে"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "রাজার"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "যিহূদার"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "এবং কহো"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এই বাক্যটি"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্যটি"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T04:50:47.481361931Z",
+  "model": "glm-5.2"
+}

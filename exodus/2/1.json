@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর একজন লবীয় বংশের মানুষ গেল, আর ⟨একজনকে⟩ ⟨নিয়ে এলেন⟩ — লবীর কন্যাকে।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "আর গেল"
+    },
+    {
+      "surface": "איש",
+      "gloss": "একজন মানুষ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "বংশের থেকে"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লবী"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "আর নিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "লবীর কন্যা"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লবীর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:45:01.350298827Z",
+  "model": "glm-5.2"
+}

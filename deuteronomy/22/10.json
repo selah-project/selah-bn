@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "গরু ও গাধাকে একত্রে ⟨আঁড়াই⟩ করবে না।",
+  "tokens": [
+    {
+      "surface": "לֹֽא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תַחֲרֹ֥שׁ",
+      "gloss": "লাঙ্গল চাষ করবে"
+    },
+    {
+      "surface": "בְּשׁוֹר",
+      "gloss": "গরুতে"
+    },
+    {
+      "surface": "וּבַחֲמֹ֖ר",
+      "gloss": "এবং গাধায়"
+    },
+    {
+      "surface": "יַחְדָּֽו",
+      "gloss": "একত্রে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:28:29.616245386Z",
+  "model": "glm-5.2"
+}

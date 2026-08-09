@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "কী গালাগাল দিই? — এল গালাগাল দেয়নি! এবং কী রুষ্ট হই? — ইয়াহওয়েহ রুষ্ট হননি!”",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কী"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "গালাগাল দিই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "গালাগাল দেয়নি"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "এবং কী"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "রুষ্ট হই"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "রুষ্ট হননি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    }
+  ],
+  "timestamp": "2026-08-09T07:54:08.152264636Z",
+  "model": "glm-5.2"
+}

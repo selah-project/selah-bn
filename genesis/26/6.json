@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এবং ইয়িৎসহাক গরারে বাস করল।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "এবং বাস করল"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ইয়িৎসহাক"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "গরারে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:34:42.033432720Z",
+  "model": "glm-5.2"
+}

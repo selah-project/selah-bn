@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 8,
+  "translation": "তত্ত্ব শোনো এবং জ্ঞানী হও, আর এটাকে প্রত্যাখ্যান কোরো না।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "শোনো"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "তত্ত্ব"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "এবং জ্ঞানী হও"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "আর না"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "প্রত্যাখ্যান কোরো"
+    }
+  ],
+  "timestamp": "2026-08-09T05:58:40.550356811Z",
+  "model": "glm-5.2"
+}

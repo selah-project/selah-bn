@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর আর্পকশদ ⟨את⟩ শেলখকে জন্ম দিলেন, আর শেলখ ⟨את⟩ এবরকে জন্ম দিলেন।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "আর আর্পকশদ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "শেলখকে"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "শেলখ"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "আর শেলখ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "জন্ম দিলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "এবরকে"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "এবর"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:17.270708633Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং এলতেকে ও গিবতোন ও বাআলত।",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "এবং এলতেকে"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ও গিবতোন"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "ও বাআলত"
+    }
+  ],
+  "timestamp": "2026-08-09T07:59:31.624248047Z",
+  "model": "glm-5.2"
+}

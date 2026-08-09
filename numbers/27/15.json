@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 27,
+  "translation": "এবং মোশে ইয়াহওয়েহ-কে সম্বোধন করিলেন, বলিতে:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "এবং তিনি কথা বলিলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "প্রতি"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলিতে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:16.591121607Z",
+  "model": "glm-5.2"
+}

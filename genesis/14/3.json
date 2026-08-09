@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "এই সবাই একত্রিত হলো শিদ্দিম উপত্যকায় — সে ⟨আছে⟩ লবণের সমুদ্র।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "সবাই"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "একত্রিত হলো"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨এ⟩"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "উপত্যকা"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "শিদ্দিঝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে ⟨আছে⟩"
+    },
+    {
+      "surface": "ים",
+      "gloss": "সমুদ্র"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "লবণের"
+    }
+  ],
+  "timestamp": "2026-08-09T02:30:47.406665183Z",
+  "model": "glm-5.2"
+}

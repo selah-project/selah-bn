@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 20,
+  "translation": "এভাবে তুমি করবে সমস্ত নগরের জন্য যেগুলো ⟨তোমার থেকে⟩ অনেক দূরে, যেগুলো এই গোয়ীমদের নগর নয় — এগুলো।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "এভাবে"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "তুমি করবে"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "সমস্ত … জন্য"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "যেগুলো দূরে"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "⟨তোমার থেকে⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অনেক"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যেগুলো"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "… নগর"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "গোয়ীমদের"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "এগুলো"
+    }
+  ],
+  "timestamp": "2026-08-09T17:07:45.875542036Z",
+  "model": "glm-5.2"
+}

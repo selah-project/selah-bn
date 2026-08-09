@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 12:13",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "লেবির গোত্র একা, এবং তাদের স্ত্রীরা একা; শিমির গোত্র একা, এবং তাদের স্ত্রীরা একা।",
+  "tokens": [
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "בית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেবির"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "এবং তাদের স্ত্রীরা"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "השמעי",
+      "gloss": "শিমির"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "এবং তাদের স্ত্রীরা"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "একা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:36.929071517Z",
+  "model": "glm-5.2"
+}

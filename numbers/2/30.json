@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 2:30",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "এবং তার সৈন্যদল, এবং তাদের গণিত ⟨হেন⟩ তিপ্পান্ন সহস্র চারশো।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "এবং তার সৈন্যদল"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "এবং তাদের গণিত"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "এবং পঞ্চাশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "সহস্র"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "এবং চার"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শো"
+    }
+  ],
+  "timestamp": "2026-08-09T09:36:48.148643199Z",
+  "model": "glm-5.2"
+}

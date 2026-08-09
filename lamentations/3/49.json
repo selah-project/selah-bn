@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "আমার চোখ উপচে বইছে এবং থামে না — ⟨কোনো⟩ বিরতি ছাড়া।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "আমার চোখ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "উপচে বইছে"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "থামে"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "⟨কোনো⟩ ছাড়া"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "বিরতি"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:00.258696932Z",
+  "model": "glm-5.2"
+}

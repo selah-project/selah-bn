@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 5,
+  "translation": "লেবির পুত্ররা: গেরশোন, কেহাত এবং মরারি।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেবির"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "গেরশোন"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "কেহাত"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "এবং মরারি"
+    }
+  ],
+  "timestamp": "2026-08-09T06:39:52.701685036Z",
+  "model": "glm-5.2"
+}

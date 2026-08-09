@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 6:29",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "এবং মরারির পুত্ররা — তাঁদের ভাই ⟨הׁে⟩ বাঁ দিকে: কীশির পুত্র এইতন, অবদির পুত্র, মল্লূখের পুত্র।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "এবং পুত্ররা"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "মরারির"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "তাঁদের ভাই"
+    },
+    {
+      "surface": "על",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "বাঁ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "এইতন"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "קישי",
+      "gloss": "কীশির"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "অবদির"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "মল্লূখের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:25:47.796070958Z",
+  "model": "glm-5.2"
+}

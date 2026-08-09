@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমি ⟨আমার⟩ চোখ ⟨দুটি⟩ তুললাম ও দেখলাম, আর দেখো, চারটি শিঙা।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "তুললাম"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "চোখ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "আমার চোখ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ও দেখলাম"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখো"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "চার"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "শিঙা"
+    }
+  ],
+  "timestamp": "2026-08-09T05:28:04.823710506Z",
+  "model": "glm-5.2"
+}

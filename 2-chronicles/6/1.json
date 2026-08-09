@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "তখন শলোমোহ বললেন, ইয়াহওয়েহ বলেছেন ⟨কি⟩ ঘোর অন্ধকারে বাস করতে।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "তখন"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "শলোমোহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "বলেছেন"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "বাস করতে"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "ঘোর অন্ধকারে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:48:31.518433225Z",
+  "model": "glm-5.2"
+}

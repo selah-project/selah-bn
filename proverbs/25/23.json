@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "উত্তরের বাতাস বৃষ্টি উত্পন্ন করে, এবং ক্রোধের মুখ গোপন জিভ ⟨কে⟩ ⟨প্রকাশ করে⟩।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "বাতাস"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "উত্তরের"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "উত্পন্ন করে"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "বৃষ্টি"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "এবং মুখ"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "ক্রোধের"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "জিভ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "গোপন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:56.679509291Z",
+  "model": "glm-5.2"
+}

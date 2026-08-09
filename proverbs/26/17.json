@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "কুকুরের কান ধরে ধরা, এমন ⟨একজন⟩ পথচারী যে ⟨নিজের জন্য⟩ নয় এমন এক ⟨বিবাদে⟩ রেগে যায়।",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "ধরে ধরা"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "কান"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "কুকুরের"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "পথচারী"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "রেগে যায়"
+    },
+    {
+      "surface": "על",
+      "gloss": "এক"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "বিবাদে"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:11.262531816Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "আর য়াকভ দেখলেন ⟨את⟩ লাবানের মুখ, আর দেখ, সে ⟨ে⟩ আগের দিন তিনদিন আগের মতো ছিল না।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "আর দেখলেন"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "য়াকভ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "মুখ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "লাবানের"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "আর দেখ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ছিল না"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "⟨ে⟩"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "আগের দিন"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "তিনদিন আগের মতো"
+    }
+  ],
+  "timestamp": "2026-08-09T02:37:21.583458869Z",
+  "model": "glm-5.2"
+}

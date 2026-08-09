@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আর আমি য়েরুশালায়িমে এলাম, আর আমি সেখানে তিন দিন ⟨ছিলাম⟩।",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "আর আমি এলাম"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨এলাম⟩"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "য়েরুশালায়িমে"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "আর আমি ছিলাম"
+    },
+    {
+      "surface": "שם",
+      "gloss": "সেখানে"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "দিন"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "তিন"
+    }
+  ],
+  "timestamp": "2026-08-09T08:52:00.502561262Z",
+  "model": "glm-5.2"
+}

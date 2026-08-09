@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর যদি এর পরেও তোমরা আমার কথা না শোনো, এবং তোমরা আমার সঙ্গে ⟨বিদ্রোহে⟩ চলো,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "এর পরেও"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "তোমরা শোনো"
+    },
+    {
+      "surface": "לי",
+      "gloss": "আমার কথা"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "এবং তোমরা চলো"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "আমার সঙ্গে"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "বিদ্রোহে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:09:12.990216353Z",
+  "model": "glm-5.2"
+}

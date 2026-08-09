@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "এবং হাতসার-শূয়াল এবং বালা এবং এতসেম।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "এবং হাতসার"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "শূয়াল"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "এবং বালা"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "এবং এতসেম"
+    }
+  ],
+  "timestamp": "2026-08-09T03:39:07.109959290Z",
+  "model": "glm-5.2"
+}

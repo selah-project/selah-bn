@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "আভ্রাম সুমুখে পড়ে গেল এবং এলোহিম তাঁর সঙ্গে কথা বললেন, বলে:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "এবং পড়ে গেল"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "আভ্রাম"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "তাঁর সুমুখে"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "এবং কথা বললেন"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "তাঁর সঙ্গে"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "এলোহিম"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:31:52.286240400Z",
+  "model": "glm-5.2"
+}

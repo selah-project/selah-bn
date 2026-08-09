@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 19,
+  "translation": "আর যদি তৃতীয় দিনে এমনই খাওয়া ⟨হয়⟩, সেটি পিগ্গুল; গ্রহণযোগ্য হবে না।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "খাওয়া"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "এমনই খাওয়া ⟨হয়⟩"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "দিনে"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "তৃতীয়"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "পিগ্গুল"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সেটি"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "গ্রহণযোগ্য হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:04:27.400104288Z",
+  "model": "glm-5.2"
+}

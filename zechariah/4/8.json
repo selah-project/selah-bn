@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর ইয়াহওয়েহের বাক্য আমার ⟨কাছে⟩ এল, বলে যে —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "আর ⟨হল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহের"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার ⟨কাছে⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলে যে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:27:54.414746457Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 25,
+  "translation": "দাভিদের ⟨বালকেরা⟩ এল এবং নাবলের কাছে দাভিদের নামে এই সব কথা বলল, আর ⟨তারা⟩ নীরব হল।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "এল"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "বালকেরা"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "এবং বলল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "নাবলের"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "সব"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথা"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "নামে"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "দাভিদের"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "আর নীরব হল"
+    }
+  ],
+  "timestamp": "2026-08-09T03:57:32.869643515Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 12:25",
+  "book": "1-samuel",
+  "lang": "bn",
+  "chapter": 12,
+  "translation": "আর যদি মন্দ কর, তবে তোমরাও ⟨এমনকি⟩ তোমাদের রাজাও নিঃশেষিত হবে।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "আর যদি"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "তোমরা কর"
+    },
+    {
+      "surface": "גם",
+      "gloss": "তবেও"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "তোমরা"
+    },
+    {
+      "surface": "גם",
+      "gloss": "এমনকি"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "তোমাদের রাজা"
+    },
+    {
+      "surface": "תספו",
+      "gloss": "নিঃশেষিত হবে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:01:47.639107226Z",
+  "model": "glm-5.2"
+}

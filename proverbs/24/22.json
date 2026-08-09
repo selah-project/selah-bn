@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 24,
+  "translation": "কারণ হঠাৎ তাদের বিপর্যয় উঠবে, এবং উভয়ের পতন — কে ⟨এটি⟩ জানে?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "হঠাৎ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "উঠবে"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "তাদের বিপর্যয়"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "এবং পতন"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "উভয়ের"
+    },
+    {
+      "surface": "מי",
+      "gloss": "কে"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:03:15.917298955Z",
+  "model": "glm-5.2"
+}

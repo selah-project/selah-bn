@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 49,
+  "translation": "যেন সে চিরকাল আরও বাঁচে, যেন ⟨সে⟩ ⟨את⟩ গর্তটি না দেখে।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "যেন সে বাঁচে"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "আরও"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "চিরকাল"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "সে দেখে"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨את⟩ গর্তটি",
+      "marks": "গর্তটি"
+    }
+  ],
+  "timestamp": "2026-08-09T05:38:33.374505577Z",
+  "model": "glm-5.2"
+}

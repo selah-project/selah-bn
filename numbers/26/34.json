@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 26:34",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "এগুলি মনশের গোত্রসমূহ; আর তাদের গণিত ⟨হল⟩ বাহান্ন হাজার ও সাতশ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এগুলি"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্রসমূহ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "মনশের"
+    },
+    {
+      "surface": "ופקדיהם",
+      "gloss": "আর তাদের গণিত"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ও পঞ্চাশ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "হাজার"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ও সাত"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:15.376248018Z",
+  "model": "glm-5.2"
+}

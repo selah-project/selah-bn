@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "শ্লোকশ্রেষ্ঠ, যা ⟨থেকে⟩ শলোমোহের।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "শ্লোক"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "শ্রেষ্ঠ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨থেকে⟩"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "শলোমোহের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:16:15.737500483Z",
+  "model": "glm-5.2"
+}

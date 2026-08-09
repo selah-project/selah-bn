@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 69,
+  "translation": "আমাকে উদ্ধার কর, হে এলোহিম, কারণ জল ⟨আমার⟩ প্রাণ ⟨র কাছে⟩ পৌঁছেছে।",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "আমাকে উদ্ধার কর"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "হে এলোহিম"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "পৌঁছেছে"
+    },
+    {
+      "surface": "מים",
+      "gloss": "জল"
+    },
+    {
+      "surface": "עד",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "প্রাণ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:38:45.613896606Z",
+  "model": "glm-5.2"
+}

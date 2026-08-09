@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর রহবিয়াম শখেমে গেলেন, কারণ শখেমেই সমস্ত ইস্রায়েল ⟨את⟩ তাঁকে রাজা করতে এসেছিল।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "আর গেলেন"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "রহবিয়াম"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "শখেমে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "শখেমে"
+    },
+    {
+      "surface": "באו",
+      "gloss": "এসেছিল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েল"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "রাজা করতে"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ তাঁকে",
+      "marks": "তাঁকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:54:49.861259310Z",
+  "model": "glm-5.2"
+}

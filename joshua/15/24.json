@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "জিফ, তেলেম, বেআলোত —",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "জিফ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "এবং তেলেম"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "এবং বেআলোত"
+    }
+  ],
+  "timestamp": "2026-08-09T07:58:47.653105073Z",
+  "model": "glm-5.2"
+}

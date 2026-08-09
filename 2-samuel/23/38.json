@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "ইরা হয়িথ্রী, গারেব হয়িথ্রী।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ইরা"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "হয়িথ্রী"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "গারেব"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "হয়িথ্রী"
+    }
+  ],
+  "timestamp": "2026-08-09T08:06:16.886409659Z",
+  "model": "glm-5.2"
+}

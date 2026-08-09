@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "ইয়াহওয়েহ মোশে ও ⟨אל⟩-এর পুত্র এলয়াজর ⟨בן⟩ আহারোন হাকোহেনকে বললেন, এই বলে:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এর প্রতি"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ও এর প্রতি"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "এলয়াজর"
+    },
+    {
+      "surface": "בן",
+      "gloss": "পুত্র"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "আহারোন"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "হাকোহেন"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "এই বলে"
+    }
+  ],
+  "timestamp": "2026-08-09T13:58:17.190107556Z",
+  "model": "glm-5.2"
+}

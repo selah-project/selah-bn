@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "মদ দেখিও না, যখন সে ⟨লালচে⟩ হয়, যখন সে পাত্রে ⟨নিজের⟩ রঙ দেয়, যখন সে সরলভাবে নামে।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "দেখিও"
+    },
+    {
+      "surface": "יין",
+      "gloss": "মদ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "⟨লালচে⟩ হয়"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যখন"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "দেয়"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "পাত্রে"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "⟨নিজের⟩ রঙ"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "নামে"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "সরলভাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T06:02:39.244466582Z",
+  "model": "glm-5.2"
+}

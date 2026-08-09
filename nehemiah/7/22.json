@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "খশুম-এর বংশধররা, তিনশ চব্বিশ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "বংশধররা"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "খশুম-এর"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "তিন"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "শ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "বিশ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ও আট"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:26.157739241Z",
+  "model": "glm-5.2"
+}

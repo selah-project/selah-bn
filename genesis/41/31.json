@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 41,
+  "translation": "“আর প্রচুরতা দেশে জানা যাবে না সেই দুর্ভিক্ষের কারণে যা তার পরে আসবে, কারণ সে ⟨হবে⟩ অত্যন্ত ভারী।”",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "আর … না"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানা যাবে"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "প্রচুরতা"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "দেশে"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "দুর্ভিক্ষের"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "পরে"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তার"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ভারী"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "অত্যন্ত"
+    }
+  ],
+  "timestamp": "2026-08-09T17:30:04.922709442Z",
+  "model": "glm-5.2"
+}

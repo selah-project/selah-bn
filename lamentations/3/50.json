@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "যতক্ষণ না ইয়াহওয়েহ আকাশ থেকে নীচে তাকিয়ে দেখেন।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "যতক্ষণ না"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "নীচে তাকান"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "এবং দেখেন"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "আকাশ থেকে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:48:00.258938715Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "এবং পরে তিনি এক কন্যা প্রসব করলেন, এবং তিনি ⟨את⟩ তার নাম দিনা ডাকলেন।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "এবং পরে"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "প্রসব করলেন"
+    },
+    {
+      "surface": "בת",
+      "gloss": "কন্যা"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "এবং ডাকলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তার নাম"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "তার নাম"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "দিনা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:58:25.544255811Z",
+  "model": "glm-5.2"
+}

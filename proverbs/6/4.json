@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "তোমার চোখকে ঘুম দিও না, এবং তোমার পলককে তন্দ্রা দিও না।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "তুমি দিও"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ঘুম"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "তোমার চোখকে"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "এবং তন্দ্রা"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "তোমার পলককে"
+    }
+  ],
+  "timestamp": "2026-08-09T05:57:43.006281378Z",
+  "model": "glm-5.2"
+}

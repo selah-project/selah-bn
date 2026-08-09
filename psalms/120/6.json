@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "bn",
+  "chapter": 120,
+  "translation": "“বহুকাল ধরে বাস করেছে আমার প্রাণ, শান্তির বিদ্বেষীর সঙ্গে।”",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "“বহুকাল"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "বাস করেছে"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨তার⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "আমার প্রাণ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "সঙ্গে"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "বিদ্বেষীর"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "শান্তির"
+    }
+  ],
+  "timestamp": "2026-08-09T05:52:41.893510166Z",
+  "model": "glm-5.2"
+}

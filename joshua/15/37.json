@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "bn",
+  "chapter": 15,
+  "translation": "ত্সেনন, এবং হাদাশা, এবং মিগদল-গদ,",
+  "tokens": [
+    {
+      "surface": "צְנָ֥ן",
+      "gloss": "ত্সেনন"
+    },
+    {
+      "surface": "וַחֲדָשָׁ֖ה",
+      "gloss": "এবং হাদাশা"
+    },
+    {
+      "surface": "וּמִגְדַּל",
+      "gloss": "এবং মিগদল"
+    },
+    {
+      "surface": "גָּֽד",
+      "gloss": "গদ"
+    }
+  ],
+  "timestamp": "2026-08-09T03:38:12.971954596Z",
+  "model": "glm-5.2"
+}

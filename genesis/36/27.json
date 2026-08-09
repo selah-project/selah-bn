@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 36,
+  "translation": "এই ⟨হল⟩ এৎসেরের পুত্ররা: বিলহান ও যাভান ও আকান।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্ররা"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "এৎসেরের"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "বিলহান"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ও যাভান"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ও আকান"
+    }
+  ],
+  "timestamp": "2026-08-09T02:38:30.115868596Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "তার জীবনের সমস্ত দিনগুলিতে সে তার প্রতি মঙ্গল করে এবং অমঙ্গল নয়।",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "সে তার প্রতি করে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "মঙ্গল"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং নয়"
+    },
+    {
+      "surface": "רע",
+      "gloss": "অমঙ্গল"
+    },
+    {
+      "surface": "כל",
+      "gloss": "সমস্ত"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "দিনগুলিতে"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "তার জীবনের"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:49.079584109Z",
+  "model": "glm-5.2"
+}

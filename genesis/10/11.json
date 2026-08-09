@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "সেই দেশ থেকে আশ্শূর বের হলো, এবং ⟨את⟩ নিনవেহ ও ⟨את⟩ রেহোবোত-ঈর ও ⟨את⟩ কলহ নির্মাণ করলো।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "থেকে"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "সেই"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "বের হলো"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "আশ্শূর"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "এবং নির্মাণ করলো"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "নিনవেহ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "নিনవেহ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "রেহোবোত-ঈর"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "রেহোবোত-ঈর"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "নগর"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "কলহ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "কলহ"
+    }
+  ],
+  "timestamp": "2026-08-09T13:51:26.533887597Z",
+  "model": "glm-5.2"
+}

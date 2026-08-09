@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "কেন অভিযোগ করবে জীবন্ত মানুষ, ⟨একজন⟩ বীর ⟨নিজ⟩ পাপের শাস্তির কারণে?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "অভিযোগ করবে"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "মানুষ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "জীবন্ত"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "বীর"
+    },
+    {
+      "surface": "על",
+      "gloss": "কারণে"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "পাপের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:41:29.464312807Z",
+  "model": "glm-5.2"
+}

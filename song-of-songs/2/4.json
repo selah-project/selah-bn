@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "আমাকে মদের ঘরে নিয়ে গেলেন, আর তাঁর পতাকা আমার উপর ⟨ছিল⟩ — প্রেম।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "আমাকে নিয়ে গেলেন"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨এ⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ঘরে"
+    },
+    {
+      "surface": "היין",
+      "gloss": "মদের"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "আর তাঁর পতাকা"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "আমার উপর"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "প্রেম"
+    }
+  ],
+  "timestamp": "2026-08-09T09:23:09.931457576Z",
+  "model": "glm-5.2"
+}

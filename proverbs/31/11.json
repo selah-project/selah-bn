@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "bn",
+  "chapter": 31,
+  "translation": "তার স্বামীর হৃদয় তাতে ভরসা করে, এবং লাভের অভাব ⟨তিনি⟩ দেখেন না।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ভরসা করে"
+    },
+    {
+      "surface": "בה",
+      "gloss": "তাতে"
+    },
+    {
+      "surface": "לב",
+      "gloss": "হৃদয়"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "তার স্বামীর"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "এবং লাভ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "অভাব দেখেন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:04:49.079475335Z",
+  "model": "glm-5.2"
+}

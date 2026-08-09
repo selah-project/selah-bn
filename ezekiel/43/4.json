@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "bn",
+  "chapter": 43,
+  "translation": "এবং ইয়াহওয়েহ-এর গৌরব ⟨বাড়িতে⟩ এল, ⟨এল⟩ ফটকের পথ দিয়ে যার মুখ পূর্বের দিকে।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "এবং গৌরব"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "בא",
+      "gloss": "এল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨এল⟩"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨বাড়িতে⟩"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "পথ দিয়ে"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ফটকের"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যার"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "মুখ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "দিকে"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "পূর্বের"
+    }
+  ],
+  "timestamp": "2026-08-09T08:31:15.448034259Z",
+  "model": "glm-5.2"
+}

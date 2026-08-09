@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "bn",
+  "chapter": 2,
+  "translation": "টুকরো টুকরো করে ⟨את⟩ তাকে ভাঙবে, আর তার উপর তেল ঢালবে — মিনখা সে ⟨হয়⟩।",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "ভাঙবে"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "তাকে"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "টুকরো টুকরো"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "আর ঢালবে"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "তার উপর"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "তেল"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "মিনখা"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    }
+  ],
+  "timestamp": "2026-08-09T02:58:31.721619575Z",
+  "model": "glm-5.2"
+}

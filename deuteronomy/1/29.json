@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 1,
+  "translation": "আমি তোমাদের বললাম: ভীত হয়ো না এবং তাদের ভয় পেয়ো না।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "এবং বললাম"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "তোমাদের নিকট"
+    },
+    {
+      "surface": "לא",
+      "gloss": "না"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "তোমরা ভীত হয়ো"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "এবং না"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "তোমরা ভয় পেয়ো"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "তাদের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:22:23.673473449Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "bn",
+  "chapter": 16,
+  "translation": "ঊরিয় যাজক ঠিক সেইভাবে করলেন, যা রাজা আহাজ আদেশ করেছিলেন।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "করলেন"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ঊরিয়"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "যাজক"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ঠিক সেইভাবে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "আদেশ করেছিলেন"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "রাজা"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "আহাজ"
+    }
+  ],
+  "timestamp": "2026-08-09T08:12:14.641800823Z",
+  "model": "glm-5.2"
+}

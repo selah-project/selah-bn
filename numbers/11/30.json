@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 11,
+  "translation": "আর মোশে ⟨সে⟩ এবং ইস্রায়েলের প্রাচীনেরা শিবিরে ফিরে গেলেন।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "আর ফিরে গেলেন"
+    },
+    {
+      "surface": "משה",
+      "gloss": "মোশে"
+    },
+    {
+      "surface": "אל",
+      "gloss": "এল"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "শিবিরে"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨সে⟩"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "এবং প্রাচীনেরা"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ইস্রায়েলের"
+    }
+  ],
+  "timestamp": "2026-08-09T03:13:47.061844829Z",
+  "model": "glm-5.2"
+}

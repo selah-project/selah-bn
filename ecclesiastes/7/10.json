@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বলো না, “পূর্বের দিনগুলো এগুলোর চেয়ে কেন ভালো ছিল?” কারণ এ বিষয়ে জিজ্ঞাসা করা প্রজ্ঞা থেকে নয়।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "না"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "বলো"
+    },
+    {
+      "surface": "מה",
+      "gloss": "কেন"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "যে দিনগুলো"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "পূর্বের"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨তারা⟩ ছিল"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "এগুলোর চেয়ে"
+    },
+    {
+      "surface": "כי",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "নয়"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "প্রজ্ঞা থেকে"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "জিজ্ঞাসা করা"
+    },
+    {
+      "surface": "על",
+      "gloss": "এ বিষয়ে"
+    },
+    {
+      "surface": "זה",
+      "gloss": "এই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:21:57.758301933Z",
+  "model": "glm-5.2"
+}

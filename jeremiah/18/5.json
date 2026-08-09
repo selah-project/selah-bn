@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 18,
+  "translation": "তখন ইয়াহওয়েহ-এর বাক্য আমার কাছে এল, বলতে:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "তখন ⟨হল⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ-এর"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "আমার কাছে এল"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-09T08:23:31.781754021Z",
+  "model": "glm-5.2"
+}

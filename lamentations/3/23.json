@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "bn",
+  "chapter": 3,
+  "translation": "প্রতি প্রভাতে নূতন ⟨সেগুলি⟩; মহান ⟨হল⟩ তোমার বিশ্বস্ততা।",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "নূতন"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "প্রতি প্রভাতে"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "মহান"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "তোমার বিশ্বস্ততা"
+    }
+  ],
+  "timestamp": "2026-08-09T08:47:56.112648087Z",
+  "model": "glm-5.2"
+}

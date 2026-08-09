@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 17,
+  "translation": "এই সমস্ত কথাসমূহ ও এই সমস্ত দর্শন অনুসারে নাতান দাভিদের কাছে ⟨এইভাবেই⟩ কথা বললেন।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "অনুসারে"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "কথাসমূহ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "ও অনুসারে"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "দর্শন"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "এই"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨এইভাবেই⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "কথা বললেন"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "নাতান"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨দাভিদের⟩ কাছে"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "দাভিদ"
+    }
+  ],
+  "timestamp": "2026-08-09T06:43:44.385273253Z",
+  "model": "glm-5.2"
+}

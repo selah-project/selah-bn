@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 23,
+  "translation": "আভ্রাহাম দেশের লোকসমূহের সামনে ⟨নতজানু হলেন⟩।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "এবং ⟨নতজানু হলেন⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "আভ্রাহাম"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "...এর সামনে"
+    },
+    {
+      "surface": "עם",
+      "gloss": "লোকসমূহ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "দেশের"
+    }
+  ],
+  "timestamp": "2026-08-09T09:45:17.939489321Z",
+  "model": "glm-5.2"
+}

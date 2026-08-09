@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 10,
+  "translation": "আর ⟨নিজের⟩ অস্ত্রবাহক ⟨দেখলেন⟩ যে শৌল মৃত, আর ⟨তিনিও⟩ তলোয়ারের উপর পড়লেন এবং মারা গেলেন।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "⟨দেখলেন⟩"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "বাহক"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "তাঁর অস্ত্র"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যে"
+    },
+    {
+      "surface": "מת",
+      "gloss": "মৃত"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "শৌল"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "এবং পড়লেন"
+    },
+    {
+      "surface": "גם",
+      "gloss": "আর"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨তিনিও⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "তলোয়ারের"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "এবং মারা গেলেন"
+    }
+  ],
+  "timestamp": "2026-08-09T06:41:44.221594741Z",
+  "model": "glm-5.2"
+}

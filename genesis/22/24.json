@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 22:24",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 22,
+  "translation": "এবং তার উপপত্নী — আর তার নাম রেউমা — সেও জন্ম দিল ⟨את⟩ তেবহ ও ⟨את⟩ গহম ও ⟨את⟩ তহশ ও ⟨את⟩ মাআকা।",
+  "tokens": [
+    {
+      "surface": "ופילגשו",
+      "gloss": "এবং তার উপপত্নী"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "এবং তার নাম"
+    },
+    {
+      "surface": "ראומה",
+      "gloss": "রেউমা"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "সেও জন্ম দিল"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ও"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তেবহ"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "তেবহ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "গহম"
+    },
+    {
+      "surface": "גחם",
+      "gloss": "গহম"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "তহশ"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "তহশ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ও ⟨את⟩",
+      "marks": "মাআকা"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "মাআকা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:33:31.969508211Z",
+  "model": "glm-5.2"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 48,
+  "translation": "“তোমরা কীভাবে বলছ ‘আমরা বীর, এবং যুদ্ধের জন্য সাহসী বীর’?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "কীভাবে"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "তোমরা বলছ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "বীর"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "আমরা"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "এবং লোক"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "সাহসী বীর"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "যুদ্ধের জন্য"
+    }
+  ],
+  "timestamp": "2026-08-09T04:58:36.668169702Z",
+  "model": "glm-5.2"
+}

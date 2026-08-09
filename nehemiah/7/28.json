@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "bn",
+  "chapter": 7,
+  "translation": "বেত-আজমাভেতের লোক বিয়াল্লিশ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "লোক"
+    },
+    {
+      "surface": "בית",
+      "gloss": "বেত-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "আজমাভেতের"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "চল্লিশ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "এবং দুই"
+    }
+  ],
+  "timestamp": "2026-08-09T06:34:44.126742501Z",
+  "model": "glm-5.2"
+}

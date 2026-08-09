@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "⟨পুত্র⟩ য়াখাত, ⟨পুত্র⟩ গেরেশোম, ⟨পুত্র⟩ লেবী।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "য়াখাত"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "গেরেশোম"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨পুত্র⟩"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "লেবী"
+    }
+  ],
+  "timestamp": "2026-08-09T14:30:54.467826258Z",
+  "model": "glm-5.2"
+}

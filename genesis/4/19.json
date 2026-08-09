@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "bn",
+  "chapter": 4,
+  "translation": "আর লামেখ নিজের জন্য দুই স্ত্রী গ্রহণ করল; একজনের নাম আদা এবং দ্বিতীয়জনের নাম সিলা।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "আর গ্রহণ করল"
+    },
+    {
+      "surface": "לו",
+      "gloss": "নিজের জন্য"
+    },
+    {
+      "surface": "למך",
+      "gloss": "লামেখ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "দুই"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "স্ত্রী"
+    },
+    {
+      "surface": "שם",
+      "gloss": "নাম"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "একজনের"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "আদা"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "এবং নাম"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "দ্বিতীয়জনের"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "সিলা"
+    }
+  ],
+  "timestamp": "2026-08-09T02:28:50.786908162Z",
+  "model": "glm-5.2"
+}

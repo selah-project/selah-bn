@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "bn",
+  "chapter": 26,
+  "translation": "আর এগুলি শূতেলখের পুত্রেরা: এরনের — এরনীয় গোত্র।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "আর এগুলি"
+    },
+    {
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "শূতেলখের"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "এরনের —"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "গোত্র"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "এরনীয়"
+    }
+  ],
+  "timestamp": "2026-08-09T03:18:15.376544118Z",
+  "model": "glm-5.2"
+}

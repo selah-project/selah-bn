@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "bn",
+  "chapter": 6,
+  "translation": "আর চল্লিশ হাত ⟨ছিল⟩ ⟨এর⟩ গৃহ — সে, ⟨অর্থাৎ⟩ ⟨সেই⟩ হেখল, এর সামনে।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "আর চল্লিশ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "হাতে"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ছিল"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "গৃহ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "সে"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "হেখল"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "সামনে"
+    }
+  ],
+  "timestamp": "2026-08-09T04:10:25.023394338Z",
+  "model": "glm-5.2"
+}

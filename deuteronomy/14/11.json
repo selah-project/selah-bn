@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "bn",
+  "chapter": 14,
+  "translation": "প্রতিটি শুচি পাখি তোমরা খাবে।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "প্রতিটি"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "পাখি"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "শুচি"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "তোমরা খাবে"
+    }
+  ],
+  "timestamp": "2026-08-09T03:26:33.324538922Z",
+  "model": "glm-5.2"
+}
