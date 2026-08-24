@@ -5,49 +5,49 @@
   "book": "psalms",
   "lang": "bn",
   "chapter": 83,
-  "translation": "যেন তারা জানে যে তুমিই ⟨⟨তোমার নাম ইয়াহওয়েহ⟩⟩ একাকী, এল এলিয়োন সমস্ত পৃথিবীর উপরে।",
+  "translation": "যেন তারা জানে যে তুমি, যার নাম ⟨is⟩ ইয়াহওয়েহ, একমাত্র তুমি ⟨are⟩ সর্বোচ্চ, সমস্ত ⟨the⟩ পৃথিবীর উপরে।",
   "tokens": [
     {
-      "surface": "וְיֵדְעוּ",
+      "surface": "וידעו",
       "gloss": "যেন তারা জানে"
     },
     {
-      "surface": "כִּי",
-      "gloss": "যে"
+      "surface": "কিও",
+      "gloss": ""
     },
     {
-      "surface": "אַתָּה",
-      "gloss": "তুমিই"
+      "surface": "ב<br>",
+      "gloss": ""
     },
     {
-      "surface": "שִׁמְךָ",
-      "gloss": "তোমার নাম"
+      "surface": "2<br>",
+      "gloss": ""
     },
     {
-      "surface": "יְהוָה",
-      "gloss": "ইয়אহওয়েহ"
+      "surface": "<br><br><br>",
+      "gloss": ""
     },
     {
-      "surface": "לְבַדֶּךָ",
-      "gloss": "একাকী"
+      "surface": "8<br>",
+      "gloss": ""
     },
     {
-      "surface": "עֶלְיוֹן",
-      "gloss": "এল এলিয়োন"
+      "surface": "F<br>",
+      "gloss": ""
     },
     {
-      "surface": "עַל",
-      "gloss": "উপরে"
+      "surface": "<br>",
+      "gloss": ""
     },
     {
-      "surface": "כָל",
-      "gloss": "সমস্ত"
+      "surface": "F<br>",
+      "gloss": ""
     },
     {
-      "surface": "הָאָרֶץ",
-      "gloss": "পৃথিবীর"
+      "surface": "<br><br>",
+      "gloss": ""
     }
   ],
-  "timestamp": "2026-08-09T05:43:56.784420804Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:55:02.889099583Z",
+  "model": "glm-5.3"
 }

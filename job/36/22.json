@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "bn",
   "chapter": 36,
-  "translation": "দেখো, এল ⟨⟨নিজের⟩⟩ ক্ষমতায় সুউচ্চ; তাঁর মতো শিক্ষক কে?",
+  "translation": "দেখ, এল ⟨is⟩ তাঁর শক্তিতে সমুচ্চ ⟨-এ⟩; কে তাঁর মতো ⟨শিক্ষক⟩?",
   "tokens": [
     {
-      "surface": "הֶן",
-      "gloss": "দেখো"
+      "surface": "הן",
+      "gloss": "দেখ"
     },
     {
-      "surface": "אֵ֭ל",
+      "surface": "אל",
       "gloss": "এল"
     },
     {
-      "surface": "יַשְׂגִּ֣יב",
-      "gloss": "সুউচ্চ"
+      "surface": "ישגיב",
+      "gloss": "সমুচ্চ করেন"
     },
     {
-      "surface": "בְּכֹח֑וֹ",
-      "gloss": "ক্ষমতায়"
+      "surface": "בכחו",
+      "gloss": "তাঁর শক্তিতে"
     },
     {
-      "surface": "מִ֖י",
+      "surface": "מי",
       "gloss": "কে"
     },
     {
-      "surface": "כָמֹ֣הוּ",
+      "surface": "כמהו",
       "gloss": "তাঁর মতো"
     },
     {
-      "surface": "מוֹרֶֽה",
+      "surface": "מורה",
       "gloss": "শিক্ষক"
     }
   ],
-  "timestamp": "2026-08-09T06:13:51.370574385Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:58:41.210887563Z",
+  "model": "glm-5.3"
 }

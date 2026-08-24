@@ -5,41 +5,41 @@
   "book": "psalms",
   "lang": "bn",
   "chapter": 34,
-  "translation": "কে ⟨ה⟩⟨সেই⟩ মানুষ যে জীবন কামনা করে, দিন ভালোবাসে — ⟨কে চায়⟩ ভালো দেখতে?",
+  "translation": "কে ⟨is⟩ সেই মানুষ, যে জীবন কামনা করে, দীর্ঘ দিন ভালোবাসে, ⟨to⟩ ভালো দেখবে ⟨it may⟩?",
   "tokens": [
     {
-      "surface": "מִֽי",
+      "surface": "מי",
       "gloss": "কে"
     },
     {
-      "surface": "הָ֭אִישׁ",
-      "gloss": "⟨সেই⟩ মানুষ"
+      "surface": "האיש",
+      "gloss": "সেই মানুষ"
     },
     {
-      "surface": "הֶחָפֵ֣ץ",
-      "gloss": "যে কামনা করে"
+      "surface": "החפץ",
+      "gloss": "কামনা করে"
     },
     {
-      "surface": "חַיִּ֑ים",
+      "surface": "חיים",
       "gloss": "জীবন"
     },
     {
-      "surface": "אֹהֵ֥ב",
+      "surface": "אהב",
       "gloss": "ভালোবাসে"
     },
     {
-      "surface": "יָ֝מִ֗ים",
-      "gloss": "দিন"
+      "surface": "ימים",
+      "gloss": "দীর্ঘ দিন"
     },
     {
-      "surface": "לִרְא֥וֹת",
-      "gloss": "দেখতে"
+      "surface": "לראות",
+      "gloss": "দেখবে"
     },
     {
-      "surface": "טֽוֹב",
+      "surface": "טוב",
       "gloss": "ভালো"
     }
   ],
-  "timestamp": "2026-08-09T14:21:59.230478749Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:54:02.233333348Z",
+  "model": "glm-5.3"
 }

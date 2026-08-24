@@ -1,121 +1,121 @@
 {
- "tier": "glm-5.2",
- "verse": 1,
- "ref": "jeremiah 40:1",
- "book": "jeremiah",
- "lang": "bn",
- "chapter": 40,
- "translation": "যে বাক্য য়িরমিয়াহুর কাছে ইয়াহওয়েহর কাছ ⟨את⟩ থেকে এল — রক্ষক-প্রধান নবুজারাদান ⟨את⟩ তাঁকে রামা থেকে পাঠাবার পরে, যখন সে তাঁকে নিয়েছিল, আর তিনি শিকলে বাঁধা ছিলেন য়েরুশালাইম ও যিহূদার সেই সমস্ত বন্দিদের মধ্যে, যারা বাবেলে নির্বাসিত হচ্ছিল।",
- "tokens": [
-  {
-   "surface": "הדבר",
-   "gloss": ""
-  },
-  {
-   "surface": "אשר",
-   "gloss": ""
-  },
-  {
-   "surface": "היה",
-   "gloss": ""
-  },
-  {
-   "surface": "אל",
-   "gloss": ""
-  },
-  {
-   "surface": "ירמיהו",
-   "gloss": ""
-  },
-  {
-   "surface": "מאת",
-   "gloss": ""
-  },
-  {
-   "surface": "יהוה",
-   "gloss": ""
-  },
-  {
-   "surface": "אחר",
-   "gloss": ""
-  },
-  {
-   "surface": "שלח",
-   "gloss": ""
-  },
-  {
-   "surface": "אתו",
-   "gloss": ""
-  },
-  {
-   "surface": "נבוזראדן",
-   "gloss": ""
-  },
-  {
-   "surface": "רב",
-   "gloss": ""
-  },
-  {
-   "surface": "טבחים",
-   "gloss": ""
-  },
-  {
-   "surface": "מן",
-   "gloss": ""
-  },
-  {
-   "surface": "הרמה",
-   "gloss": ""
-  },
-  {
-   "surface": "בקחתו",
-   "gloss": ""
-  },
-  {
-   "surface": "אתו",
-   "gloss": ""
-  },
-  {
-   "surface": "והוא",
-   "gloss": ""
-  },
-  {
-   "surface": "אסור",
-   "gloss": ""
-  },
-  {
-   "surface": "באזקים",
-   "gloss": ""
-  },
-  {
-   "surface": "בתוך",
-   "gloss": ""
-  },
-  {
-   "surface": "כל",
-   "gloss": ""
-  },
-  {
-   "surface": "גלות",
-   "gloss": ""
-  },
-  {
-   "surface": "ירושלם",
-   "gloss": ""
-  },
-  {
-   "surface": "ויהודה",
-   "gloss": ""
-  },
-  {
-   "surface": "המגלים",
-   "gloss": ""
-  },
-  {
-   "surface": "בבלה",
-   "gloss": ""
-  }
- ],
- "timestamp": "2026-08-09T18:19:41.677499737Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 40:1",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 40,
+  "translation": "যে বাক্য য়িরমিয়াহুর কাছে ইয়াহওয়েহর কাছ ⟨את⟩ থেকে এল — রক্ষক-প্রধান নবুজারাদান ⟨את⟩ তাঁকে রামা থেকে পাঠাবার পরে, যখন সে তাঁকে নিয়েছিল, আর তিনি শিকলে বাঁধা ছিলেন য়েরুশালাইম ও যিহূদার সেই সমস্ত বন্দিদের মধ্যে, যারা বাবেলে নির্বাসিত হচ্ছিল।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "היה",
+      "gloss": ""
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": ""
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "אחר",
+      "gloss": ""
+    },
+    {
+      "surface": "שלח",
+      "gloss": ""
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "נבוזראדן",
+      "gloss": ""
+    },
+    {
+      "surface": "רב",
+      "gloss": ""
+    },
+    {
+      "surface": "טבחים",
+      "gloss": ""
+    },
+    {
+      "surface": "מן",
+      "gloss": ""
+    },
+    {
+      "surface": "הרמה",
+      "gloss": ""
+    },
+    {
+      "surface": "בקחתו",
+      "gloss": ""
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "והוא",
+      "gloss": ""
+    },
+    {
+      "surface": "אסור",
+      "gloss": ""
+    },
+    {
+      "surface": "באזקים",
+      "gloss": ""
+    },
+    {
+      "surface": "בתוך",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "גלות",
+      "gloss": ""
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": ""
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": ""
+    },
+    {
+      "surface": "המגלים",
+      "gloss": ""
+    },
+    {
+      "surface": "בבלה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-24T15:16:22.275224910Z",
+  "model": "glm-5.2"
 }

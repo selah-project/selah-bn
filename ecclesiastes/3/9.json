@@ -5,33 +5,33 @@
   "book": "ecclesiastes",
   "lang": "bn",
   "chapter": 3,
-  "translation": "ਕੀ ਲਾਭ ⟨ਉਸਨੂੰ⟩ ⟨ਹੈ⟩ ⟨ਜੋ⟩ ਕੰਮ ਕਰਦਾ ⟨ਹੈ⟩ ਉਸ ਵਿੱਚ ਜਿਸ ਵਿੱਚ ⟨ਉਹ⟩ ਕੰਮ ਕਰਦਾ ⟨ਹੈ⟩?",
+  "translation": "যে কেশ্টা কাজ করে, তার সেই পরিশ্রমে কী লাভ?",
   "tokens": [
     {
-      "surface": "מַה",
+      "surface": "מה",
       "gloss": "কী"
     },
     {
-      "surface": "יִּתְרוֹן֙",
+      "surface": "יתרון",
       "gloss": "লাভ"
     },
     {
-      "surface": "הָֽעֹשֶׂ֔ה",
-      "gloss": "কাজ করাটা"
+      "surface": "העושה",
+      "gloss": "যে করে"
     },
     {
-      "surface": "בַּאֲשֶׁ֖ר",
-      "gloss": "যাতে"
+      "surface": "באשר",
+      "gloss": "যেখানে"
     },
     {
-      "surface": "ה֥וּא",
+      "surface": "הוא",
       "gloss": "সে"
     },
     {
-      "surface": "עָמֵֽל",
-      "gloss": "কষ্ট করে"
+      "surface": "עמל",
+      "gloss": "পরিশ্রম করে"
     }
   ],
-  "timestamp": "2026-08-09T18:00:04.988692874Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:59:22.795554954Z",
+  "model": "glm-5.3"
 }

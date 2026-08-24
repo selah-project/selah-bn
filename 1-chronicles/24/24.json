@@ -5,33 +5,33 @@
   "book": "1-chronicles",
   "lang": "bn",
   "chapter": 24,
-  "translation": "ऊज़জিয়েলের पुत্ররা: মীখা; লমীখার পুত্রদের জন্য — শামুর।",
+  "translation": "উজিয়েলের পুত্রেরা: মিখা; মিখার পুত্রেরা: শমুর।",
   "tokens": [
     {
-      "surface": "ब্ন্য",
-      "gloss": "পুত্ররা"
+      "surface": "בני",
+      "gloss": "পুত্রেরা"
     },
     {
-      "surface": "उজ্জিয়েল",
-      "gloss": "ऊজ़জিয়েলের"
+      "surface": "עזיאל",
+      "gloss": "উজিয়েলের"
     },
     {
-      "surface": "মিখা",
-      "gloss": "মীখা"
+      "surface": "מיכה",
+      "gloss": "মিখা"
     },
     {
-      "surface": "লব্ন্য",
-      "gloss": "পুত্রদের জন্য"
+      "surface": "לבני",
+      "gloss": "পুত্রেরা"
     },
     {
-      "surface": "मিখা",
-      "gloss": "মীখার"
+      "surface": "מיכה",
+      "gloss": "মিখার"
     },
     {
       "surface": "שמור",
-      "gloss": "শামুর"
+      "gloss": "শমুর"
     }
   ],
-  "timestamp": "2026-08-09T14:32:35.223157181Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T15:02:09.858344479Z",
+  "model": "glm-5.3"
 }

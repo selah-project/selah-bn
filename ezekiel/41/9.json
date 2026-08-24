@@ -5,7 +5,7 @@
   "book": "ezekiel",
   "lang": "bn",
   "chapter": 41,
-  "translation": "⟨ה⟩ প্রাচীরের প্রস্থ, যা ⟨ה⟩ কক্ষের জন্য ⟨বাইরে⟩ ⟨এর⟩ দিকে, পাঁচ হাত; এবং যা রাখা ⟨হয়েছে⟩, তা ⟨ה⟩ বাড়ির পার্শ্ব-কক্ষসমূহের ⟨স্থান⟩ যা ⟨হল⟩ ⟨সেই⟩ বাড়ির ⟨জন্য⟩।",
+  "translation": "⟨the⟩ wall, which is for the side-chamber towards the outside, ⟨its⟩ breadth ⟨was⟩ five cubits; and that which remained, ⟨was⟩ the house of the side-chambers which belonged to ⟨the⟩ house.",
   "tokens": [
     {
       "surface": "רחב",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "הקיר",
-      "gloss": "⟨ה⟩ প্রাচীরের"
+      "gloss": "⟨the⟩ দেয়ালের"
     },
     {
       "surface": "אשר",
@@ -21,15 +21,15 @@
     },
     {
       "surface": "לצלע",
-      "gloss": "⟨হ⟩ কক্ষের জন্য"
+      "gloss": "পার্শ্ব-কক্ষের জন্য"
     },
     {
       "surface": "אל",
-      "gloss": "⟬এর দিকে⟭"
+      "gloss": "দিকে"
     },
     {
       "surface": "החוץ",
-      "gloss": "⟨বাইরে⟩"
+      "gloss": "বাইরের"
     },
     {
       "surface": "חמש",
@@ -45,11 +45,11 @@
     },
     {
       "surface": "מנח",
-      "gloss": "রাখা ⟨হয়েছে⟩"
+      "gloss": "অবশিষ্ট ছিল"
     },
     {
       "surface": "בית",
-      "gloss": "⟨হ⟩ বাড়ির"
+      "gloss": "ঘর"
     },
     {
       "surface": "צלעות",
@@ -57,13 +57,13 @@
     },
     {
       "surface": "אשר",
-      "gloss": "যা ⟨হল⟩"
+      "gloss": "যা"
     },
     {
       "surface": "לבית",
-      "gloss": "⟸সেই⟹ বাড়ির ⟨জন্য⟩"
+      "gloss": "⟨the⟩ ঘরের অন্তর্গত"
     }
   ],
-  "timestamp": "2026-08-09T05:14:42.861993155Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:50:56.834105180Z",
+  "model": "glm-5.3"
 }

@@ -5,62 +5,62 @@
   "book": "genesis",
   "lang": "bn",
   "chapter": 41,
-  "translation": "আর পাতলা ⟨ה⟩ শিষগুলো ⟨את⟩ উত্তম ⟨হ⟩ সাতটি শিষ গিলে খালাস; আর আমি জ্যোতিষীদের বললাম, কিন্তু আমাকে বলে দেওয়ার ব্যক্তি নেই।",
+  "translation": "আর ⟨the⟩ রোগা ⟨the⟩ শীষ ⟨the⟩ সাত ⟨the⟩ ভালো শীষ ⟨the⟩ গিলে নিল; আর আমি জ্যোতিষীদের বললাম, কিন্তু আমাকে বলে দেবার ⟨was⟩ কেউ নেই।",
   "tokens": [
     {
       "surface": "ותבלען",
-      "gloss": "আর ⟨তারা⟩ গিলে খাইল"
+      "gloss": "গিলে নিল"
     },
     {
-      "surface": "השבלים",
-      "gloss": "⟨আর⟩ শিষগুলো"
+      "surface": "হsevenBLIG",
+      "gloss": "শীষ"
     },
     {
-      "surface": "הדקת",
-      "gloss": "পাতলা"
+      "surface": "হদাকাত",
+      "gloss": "রোগা"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "সাতটি শিষ"
+      "marks": "সাত ভালো শীষ"
     },
     {
       "surface": "שבע",
       "gloss": "সাত"
     },
     {
-      "surface": "השבלים",
-      "gloss": "শিষ"
+      "surface": "হsevenBLIG",
+      "gloss": "শীষ"
     },
     {
-      "surface": "הטבות",
-      "gloss": "উত্তম"
+      "surface": "হtobet",
+      "gloss": "ভালো"
     },
     {
       "surface": "ואמר",
-      "gloss": "আর আমি বললাম"
+      "gloss": "বললাম"
     },
     {
       "surface": "אל",
-      "gloss": "প্রতি"
+      "gloss": "এর কাছে"
     },
     {
-      "surface": "החרטמים",
+      "surface": "हchachartumim",
       "gloss": "জ্যোতিষীদের"
     },
     {
       "surface": "ואין",
-      "gloss": "কিন্তু নেই"
+      "gloss": "কেউ নেই"
     },
     {
       "surface": "מגיד",
-      "gloss": "বলে দেওয়ার ব্যক্তি"
+      "gloss": "বলে দেবার"
     },
     {
       "surface": "לי",
       "gloss": "আমাকে"
     }
   ],
-  "timestamp": "2026-08-09T02:40:43.224776691Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:27:14.642794863Z",
+  "model": "glm-5.3"
 }

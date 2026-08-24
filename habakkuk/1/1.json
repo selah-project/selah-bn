@@ -5,15 +5,15 @@
   "book": "habakkuk",
   "lang": "bn",
   "chapter": 1,
-  "translation": "⟨এটি⟩ ⟨הוא⟩ বোঝা যা হাবাক্কুক ⟨ה⟩ নবী দেখলেন।",
+  "translation": "যে ভার হাবাক্কুক নবী দেখলেন।",
   "tokens": [
     {
       "surface": "המשא",
-      "gloss": "বোঝা"
+      "gloss": "ভার"
     },
     {
       "surface": "אשר",
-      "gloss": "যা"
+      "gloss": "যে"
     },
     {
       "surface": "חזה",
@@ -25,9 +25,9 @@
     },
     {
       "surface": "הנביא",
-      "gloss": "⟨ה⟩ নবী"
+      "gloss": "নবী"
     }
   ],
-  "timestamp": "2026-08-09T14:20:38.423125483Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:52:30.416976292Z",
+  "model": "glm-5.3"
 }

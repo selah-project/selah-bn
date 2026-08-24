@@ -5,41 +5,37 @@
   "book": "proverbs",
   "lang": "bn",
   "chapter": 10,
-  "translation": "ধার্মিক ⟨ব্যক্তি⟩ চিরকাল টলবে না, কিন্তু দুষ্টরা ⟨⟨নিবাস গ্রহণ করবে না⟩⟩ পৃথিবীতে।",
+  "translation": " righteous one is never moved; but the wicked shall not dwell in the land.",
   "tokens": [
     {
-      "surface": "צדיק",
-      "gloss": "ধার্মিক"
+      "surface": " righteous",
+      "gloss": "righteous"
     },
     {
-      "surface": "לעולם",
-      "gloss": "চিরকাল"
+      "surface": "never",
+      "gloss": "never"
     },
     {
-      "surface": "בל",
-      "gloss": "না"
+      "surface": "shall be moved",
+      "gloss": "shall be moved"
     },
     {
-      "surface": "ימוט",
-      "gloss": "টলবে"
+      "surface": "and the wicked",
+      "gloss": "and the wicked"
     },
     {
-      "surface": "ורשעים",
-      "gloss": "কিন্তু দুষ্টরা"
+      "surface": "not",
+      "gloss": "not"
     },
     {
-      "surface": "לא",
-      "gloss": "না"
+      "surface": "shall dwell",
+      "gloss": "shall dwell"
     },
     {
-      "surface": "ישכנו",
-      "gloss": "বাস করবে"
-    },
-    {
-      "surface": "ארץ",
-      "gloss": "পৃথিবীতে"
+      "surface": "in the land",
+      "gloss": "the land"
     }
   ],
-  "timestamp": "2026-08-09T08:42:51.980574492Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:56:47.050112395Z",
+  "model": "glm-5.3"
 }

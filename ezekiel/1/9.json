@@ -5,61 +5,61 @@
   "book": "ezekiel",
   "lang": "bn",
   "chapter": 1,
-  "translation": "彼此连接着，一个贴近另一个——它们的翅膀；它们行走时不转身，各人向着自己脸的方向行走。",
+  "translation": "তাদের ডানাগুলো একে অপরের সঙ্গে যুক্ত ছিল; তারা চলার সময় ঘুরে যেত না, প্রত্যেকে নিজের মুখের দিকে সোজা চলত।",
   "tokens": [
     {
       "surface": "חברת",
-      "gloss": "连接着"
+      "gloss": "যুক্ত ছিল"
     },
     {
       "surface": "אשה",
-      "gloss": "一个"
+      "gloss": "একে"
     },
     {
       "surface": "אל",
-      "gloss": "贴近"
+      "gloss": "…র সঙ্গে"
     },
     {
       "surface": "אחותה",
-      "gloss": "另一个"
+      "gloss": "অপরের"
     },
     {
       "surface": "כנפיהם",
-      "gloss": "它们的翅膀"
+      "gloss": "তাদের ডানাগুলো"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "না"
     },
     {
       "surface": "יסבו",
-      "gloss": "转身"
+      "gloss": "ঘুরে যেত"
     },
     {
       "surface": "בלכתן",
-      "gloss": "它们行走时"
+      "gloss": "চলার সময়"
     },
     {
       "surface": "איש",
-      "gloss": "各人"
+      "gloss": "প্রত্যেকে"
     },
     {
       "surface": "אל",
-      "gloss": "向着"
+      "gloss": "…র দিকে"
     },
     {
       "surface": "עבר",
-      "gloss": "方向"
+      "gloss": "দিকে"
     },
     {
       "surface": "פניו",
-      "gloss": "他的脸"
+      "gloss": "নিজের মুখের"
     },
     {
       "surface": "ילכו",
-      "gloss": "行走"
+      "gloss": "চলত"
     }
   ],
-  "timestamp": "2026-08-09T05:01:54.102626994Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:49:56.794475202Z",
+  "model": "glm-5.3"
 }

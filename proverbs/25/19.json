@@ -5,41 +5,41 @@
   "book": "proverbs",
   "lang": "bn",
   "chapter": 25,
-  "translation": "ভগ্ন দাঁত ও আলগা পা — বিপদের দিনে বিশ্বাসঘাতকে ⟨⟨এর⟩ উপর⟩ ভরসা ⟨হল⟩ তা।",
+  "translation": "ভাঙা দাঁঁত ও বিকল পা — দুর্দিনে বিশ্বাসঘাতকে ⟨is⟩ ভরসা ⟨is⟩ তেমন।",
   "tokens": [
     {
-      "surface": "שֵׁ֣ן",
+      "surface": "שן",
       "gloss": "দাঁত"
     },
     {
-      "surface": "רֹ֭עָה",
-      "gloss": "ভগ্ন"
+      "surface": "רעה",
+      "gloss": "ভাঙা"
     },
     {
-      "surface": "וְרֶ֣גֶל",
-      "gloss": "ও পা"
+      "surface": "ורגל",
+      "gloss": "এবং পা"
     },
     {
-      "surface": "מוּעָ֑דֶת",
-      "gloss": "আলগা"
+      "surface": "מועדת",
+      "gloss": "বিকল"
     },
     {
-      "surface": "מִבְטָ֥ח",
+      "surface": "מבטח",
       "gloss": "ভরসা"
     },
     {
-      "surface": "בּ֝וֹגֵ֗ד",
+      "surface": "בוגד",
       "gloss": "বিশ্বাসঘাতকে"
     },
     {
-      "surface": "בְּי֣וֹם",
+      "surface": "ביום",
       "gloss": "দিনে"
     },
     {
-      "surface": "צָרָֽה",
-      "gloss": "বিপদের"
+      "surface": "צרה",
+      "gloss": "দুর্দিনে"
     }
   ],
-  "timestamp": "2026-08-09T08:44:35.949451412Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:57:49.583918716Z",
+  "model": "glm-5.3"
 }

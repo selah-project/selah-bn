@@ -1,46 +1,46 @@
 {
- "tier": "glm-5.2",
- "verse": 1,
- "ref": "jeremiah 30:1",
- "book": "jeremiah",
- "lang": "bn",
- "chapter": 30,
- "translation": "যে বাক্য যা ইয়ারমিয়াহুর কাছে এসেছিল ইয়াহওয়েহের কাছ ⟨את⟩ থেকে, বলতে:",
- "tokens": [
-  {
-   "surface": "הַדָּבָר",
-   "gloss": "যে বাক্য"
-  },
-  {
-   "surface": "אֲשֶׁר",
-   "gloss": "যা"
-  },
-  {
-   "surface": "הָיָה",
-   "gloss": "এসেছিল"
-  },
-  {
-   "surface": "אֶל",
-   "gloss": "কাছে"
-  },
-  {
-   "surface": "יִרְמְיָהוּ",
-   "gloss": "ইয়ারমিয়াহুর"
-  },
-  {
-   "surface": "מֵאֵת",
-   "gloss": "⟨את⟩ থেকে",
-   "marks": "ইয়াহওয়েহ"
-  },
-  {
-   "surface": "יְהוָה",
-   "gloss": "ইয়אহওয়েহ"
-  },
-  {
-   "surface": "לֵאמֹר",
-   "gloss": "বলতে"
-  }
- ],
- "timestamp": "2026-08-09T18:19:24.304751978Z",
- "model": "glm-5.2"
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "bn",
+  "chapter": 30,
+  "translation": "⟨এই⟩ ⟨হল⟩ সেই বাক্য যা ইয়াহওয়েহ-র কাছ থেকে য়িরমিয়াহু-র কাছে এল, ⟨এই⟩ বলতে —",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "বাক্য"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যা"
+    },
+    {
+      "surface": "היה",
+      "gloss": "এল"
+    },
+    {
+      "surface": "אל",
+      "gloss": "কাছে"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "য়িরমিয়াহু"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ইয়াহওয়েহ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "বলতে"
+    }
+  ],
+  "timestamp": "2026-08-24T14:47:13.450081252Z",
+  "model": "glm-5.3"
 }

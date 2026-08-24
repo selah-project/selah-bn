@@ -5,45 +5,45 @@
   "book": "job",
   "lang": "bn",
   "chapter": 18,
-  "translation": "নিশ্চয়ই এগুলো ⟨הן⟩ অন্যায়কারীর বাসস্থান, আর এই ⟨হল⟩ ⟨সেই⟩ স্থান যে ⟨সে⟩ এল-কে জানে না।",
+  "translation": "নিশ্চয়ই এগুলো ⟨are⟩ দুষ্টের বাসস্থান, আর এটিই ⟨is⟩ সেই স্থান, ⟨of him⟩ ⟨who⟩ এল-কে জানে না।",
   "tokens": [
     {
-      "surface": "אַךְ",
+      "surface": "אך",
       "gloss": "নিশ্চয়ই"
     },
     {
-      "surface": "אֵלֶּה",
+      "surface": "אלה",
       "gloss": "এগুলো"
     },
     {
-      "surface": "מִשְׁכְּנ֣וֹת",
+      "surface": "মשכנות",
       "gloss": "বাসস্থান"
     },
     {
-      "surface": "עַוָּ֑ל",
-      "gloss": "অন্যায়কারীর"
+      "surface": "עול",
+      "gloss": "দুষ্টের"
     },
     {
-      "surface": "וְזֶ֗ה",
-      "gloss": "আর এই"
+      "surface": "וזה",
+      "gloss": "আর এটি"
     },
     {
-      "surface": "מְק֣וֹם",
+      "surface": "מקום",
       "gloss": "স্থান"
     },
     {
-      "surface": "לֹא",
+      "surface": "לא",
       "gloss": "না"
     },
     {
-      "surface": "יָדַֽע",
+      "surface": "ידע",
       "gloss": "জানে"
     },
     {
-      "surface": "אֵֽל",
+      "surface": "אל",
       "gloss": "এল"
     }
   ],
-  "timestamp": "2026-08-09T06:08:33.304197782Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:58:35.494121337Z",
+  "model": "glm-5.3"
 }

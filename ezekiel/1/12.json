@@ -5,69 +5,69 @@
   "book": "ezekiel",
   "lang": "bn",
   "chapter": 1,
-  "translation": "各人向着自己脸的方向行走；⟨往⟩那灵要去的地方——那里，它们行走；它们行走时不转身。",
+  "translation": "প্রত্যেকে নিজের মুখের দিকে চলত; যেখানে রূহ যেতে চাইত, সেখানে তারা যেত — চলার সময় তারা ঘুরে যেত না।",
   "tokens": [
     {
       "surface": "ואיש",
-      "gloss": "各人"
+      "gloss": "প্রত্যেকে"
     },
     {
       "surface": "אל",
-      "gloss": "向着"
+      "gloss": "…র দিকে"
     },
     {
       "surface": "עבר",
-      "gloss": "方向"
+      "gloss": "দিকে"
     },
     {
       "surface": "פניו",
-      "gloss": "他的脸"
+      "gloss": "নিজের মুখের"
     },
     {
       "surface": "ילכו",
-      "gloss": "行走"
+      "gloss": "চলত"
     },
     {
       "surface": "אל",
-      "gloss": "⟨往⟩"
+      "gloss": "যেখানে"
     },
     {
       "surface": "אשר",
-      "gloss": "那里"
+      "gloss": "যেখানে"
     },
     {
       "surface": "יהיה",
-      "gloss": "要"
+      "gloss": "হতে"
     },
     {
       "surface": "שמה",
-      "gloss": "去"
+      "gloss": "সেখানে"
     },
     {
       "surface": "הרוח",
-      "gloss": "那灵"
+      "gloss": "রূহ"
     },
     {
       "surface": "ללכת",
-      "gloss": "行走"
+      "gloss": "যেতে"
     },
     {
       "surface": "ילכו",
-      "gloss": "⟨那里⟩它们行走"
+      "gloss": "তারা যেত"
     },
     {
       "surface": "לא",
-      "gloss": "不"
+      "gloss": "না"
     },
     {
       "surface": "יסבו",
-      "gloss": "转身"
+      "gloss": "ঘুরে যেত"
     },
     {
       "surface": "בלכתן",
-      "gloss": "它们行走时"
+      "gloss": "চলার সময়"
     }
   ],
-  "timestamp": "2026-08-09T05:01:54.103397292Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:49:56.795108976Z",
+  "model": "glm-5.3"
 }

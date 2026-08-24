@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "bn",
   "chapter": 92,
-  "translation": "স্তুতিগীত, গান — শব্বতের দিনের জন্য।",
+  "translation": "এক মিযমোর, এক শিওর — শব্বত দিনের জন্য।",
   "tokens": [
     {
       "surface": "מזמור",
-      "gloss": "স্তুতিগীত"
+      "gloss": "এক মিযমোর"
     },
     {
       "surface": "שיר",
-      "gloss": "গান"
+      "gloss": "এক শিওর"
     },
     {
       "surface": "ליום",
@@ -21,9 +21,9 @@
     },
     {
       "surface": "השבת",
-      "gloss": "⟨the⟩ শব্বতের"
+      "gloss": "শব্বত"
     }
   ],
-  "timestamp": "2026-08-09T05:46:38.083569317Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:55:04.528431547Z",
+  "model": "glm-5.3"
 }

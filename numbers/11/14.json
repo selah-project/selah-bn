@@ -5,58 +5,58 @@
   "book": "numbers",
   "lang": "bn",
   "chapter": 11,
-  "translation": "আমি একা এই সমগ্ল জাতিকে ⟨আת⟩ বহন করতে পারি না, কারণ এটি আমার কাছে অত্যন্ত ভারী।",
+  "translation": "আমি একা এত ⟨the⟩ সমস্ত ⟨the⟩ এই লোকদের ⟨את⟩ বহন করতে পারব না, কারণ ⟨it⟩ আমার ⟨the⟩ উপর অতি ভারী।",
   "tokens": [
     {
-      "surface": "לֹֽא",
+      "surface": "לא",
       "gloss": "না"
     },
     {
-      "surface": "אוּכַ֤ל",
-      "gloss": "আমি পারি"
+      "surface": "אוכל",
+      "gloss": "পারব"
     },
     {
-      "surface": "אָנֹכִי֙",
+      "surface": "אנכי",
       "gloss": "আমি"
     },
     {
-      "surface": "לְבַדִּ֔י",
+      "surface": "לבדי",
       "gloss": "একা"
     },
     {
-      "surface": "לָשֵׂ֖את",
+      "surface": "לשאת",
       "gloss": "বহন করতে"
     },
     {
-      "surface": "אֶת",
+      "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "সমগ্ল জাতিকে"
+      "marks": "সমস্ত এই লোকদের"
     },
     {
-      "surface": "כָּל",
-      "gloss": "সমগ্ল"
+      "surface": "כל",
+      "gloss": "সমস্ত"
     },
     {
-      "surface": "הָעָ֣ם",
-      "gloss": "জাতিকে"
+      "surface": "העם",
+      "gloss": "লোকদের"
     },
     {
-      "surface": "הַזֶּ֑ה",
+      "surface": "הזה",
       "gloss": "এই"
     },
     {
-      "surface": "כִּ֥י",
+      "surface": "כי",
       "gloss": "কারণ"
     },
     {
-      "surface": "כָבֵ֖ד",
+      "surface": "כבד",
       "gloss": "ভারী"
     },
     {
-      "surface": "מִמֶּֽנִּי",
-      "gloss": "আমার কাছে"
+      "surface": "ממני",
+      "gloss": "আমার উপর (আমার চেয়ে)"
     }
   ],
-  "timestamp": "2026-08-09T03:14:10.071446901Z",
-  "model": "glm-5.2"
+  "timestamp": "2026-08-24T14:32:08.833140810Z",
+  "model": "glm-5.3"
 }
