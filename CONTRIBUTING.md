@@ -59,3 +59,8 @@ python3 -m json.tool genesis/1/1.json >/dev/null
 রীতি, উৎস ও সারিবদ্ধতার সঙ্গে মিলিয়ে দেখে — গ্রহণ করতে, একসঙ্গে
 ঘষামাজা করতে, আরও ভিত্তির অপেক্ষা করতে, বা কারণসহ প্রত্যাখ্যান
 করতে পারে। পাঠের সমালোচনা করুন, মানুষের নয়।
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
