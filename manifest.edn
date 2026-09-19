@@ -1,0 +1,65 @@
+#:rendering{:label "বাংলা",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305419},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared []},
+            :role :pass,
+            :produced {:from "2026-08-09", :to "2026-08-24"},
+            :id "bn.v1",
+            :catalog {:ui "resources/i18n/ui/bn.edn"},
+            :license "CC BY-SA 4.0 (The Selah Bengali Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.2" 21640, "glm-5.3" 1573},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/bn.md",
+             :rails-commit "dfedafaa",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "আদোনাই",
+              "אל" "এল",
+              "אלהים" "এলোহিম",
+              "אלוה" "এলোয়াহ",
+              "יה" "ইয়াহ",
+              "יהוה" "ইয়াহওয়েহ",
+              "שדי" "শাদ্দাই"},
+             :open-questions []},
+            :status :live,
+            :version "v1",
+            :lineage
+            {:git
+             {:repo "selah-project/selah-bn",
+              :ref "v1-final",
+              :commit nil,
+              :tags [],
+              :branches ["main"]},
+             :parents []},
+            :lang :bn}
